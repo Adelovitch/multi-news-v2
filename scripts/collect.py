@@ -4,7 +4,7 @@ import re
 import html
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlparse
@@ -29,7 +29,14 @@ SOURCES = [
     ("de","Tagesschau","https://www.tagesschau.de/xml/rss2/"),
     ("ar","France 24 Arabic","https://www.france24.com/ar/rss"),
     ("ar","DW Arabic","https://rss.dw.com/rdf/rss-ar-all"),
+    ("fr","Futura Sciences","https://www.futura-sciences.com/rss/actualites.xml"),
+    ("en","ScienceDaily","https://www.sciencedaily.com/rss/all.xml"),
+    ("en","Smithsonian Magazine","https://www.smithsonianmag.com/rss/latest_articles/"),
 ]
+MAGAZINES = {"Futura Sciences", "ScienceDaily", "Smithsonian Magazine"}
+MAX_PER_SOURCE = 20
+MAX_AGE_DAYS = 14
+
 def clean(value):
     return html.unescape(re.sub(r"<[^>]*>","",value or "")).strip()
 def iso(value):
@@ -84,10 +91,10 @@ def parse(blob,lang,source):
         u=urlparse(url)
         if not title or u.scheme not in ("http","https") or not u.netloc:continue
         image=extract_image(entry)
-        articles.append(dict(title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image))
+        articles.append(dict(title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image,kind=("magazine" if source in MAGAZINES else "presse")))
     return articles
 def collect():
-    articles=[];seen=set();status=[]
+    articles=[];seen=set();status=[]\n    cutoff=datetime.now(timezone.utc)-timedelta(days=MAX_AGE_DAYS)
     for lang,source,url in SOURCES:
         try:
             req=urllib.request.Request(url,headers={"User-Agent":"MultiNews/2.0 RSS aggregator"})
@@ -96,9 +103,9 @@ def collect():
             for article in found[:20]:
                 key=article["url"].split("#")[0]
                 if key not in seen:seen.add(key);articles.append(article)
-            status.append({"source":source,"ok":bool(found),"count":len(found)})
+            status.append({"source":source,"kind":("magazine" if source in MAGAZINES else "presse"),"ok":bool(valid),"count":len(valid)})
         except Exception as exc:
-            status.append({"source":source,"ok":False,"error":str(exc)[:120]})
+            status.append({"source":source,"kind":("magazine" if source in MAGAZINES else "presse"),"ok":False,"error":str(exc)[:120]})
     articles.sort(key=lambda a:a["date"] or "",reverse=True)
     return {"updated_at":datetime.now(timezone.utc).isoformat(),"articles":articles[:400],"sources":status}
 def main():
