@@ -51,7 +51,7 @@ def extract_image(entry):
         if local not in ("description", "encoded", "summary", "content"):
             continue
         content = html.unescape(node.text or "")
-        for match in re.finditer(r"<img\\b[^>]*?\\b(?:src|data-src)\\s*=\\s*['\\\"]([^'\\\"]+)['\\\"]", content, re.IGNORECASE):
+        for match in re.finditer(r"<img\b[^>]*?\b(?:src|data-src)\s*=\s*['\"]([^'\"]+)['\"]", content, re.IGNORECASE):
             candidates.append(match.group(1))
     for candidate in candidates:
         url = html.unescape(candidate.strip())
