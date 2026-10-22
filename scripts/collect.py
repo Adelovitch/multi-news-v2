@@ -33,8 +33,30 @@ SOURCES = [
     ("fr","Futura Sciences","https://www.futura-sciences.com/rss/actualites.xml"),
     ("en","ScienceDaily","https://www.sciencedaily.com/rss/all.xml"),
     ("en","Smithsonian Magazine","https://www.smithsonianmag.com/rss/latest_articles/"),
+    ("fr","La Recherche","https://www.larecherche.fr/flux-rss.xml"),
+    ("fr","La Chronique Spatiale","https://lachroniquespatiale.com/feed/"),
+    ("fr","Journal du Geek – Espace","https://www.journaldugeek.com/category/espace/feed/"),
+    ("fr","Sciences et Avenir","https://feeds.feedburner.com/sciencesetavenir/trJm3d6pPw4"),
+    ("en","Quanta Magazine","https://api.quantamagazine.org/feed/"),
+    ("en","Science News","https://www.sciencenews.org/feed"),
+    ("en","Popular Science","https://www.popsci.com/feed/"),
+    ("es","Microsiervos","https://www.microsiervos.com/index.xml"),
+    ("es","Xataka","https://www.xataka.com/index.xml"),
+    ("es","Genbeta","https://www.genbeta.com/index.xml"),
+    ("es","Applesfera","https://www.applesfera.com/index.xml"),
+    ("es","Muy Interesante","https://muyinteresante.okdiario.com/feed"),
+    ("de","Spektrum der Wissenschaft","https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406"),
+    ("de","bild der wissenschaft","https://www.wissenschaft.de/feed/"),
+    ("de","Quarks","https://www.quarks.de/feed/"),
+    ("de","GEO Natur","https://www.geo.de/feed/rss/natur/"),
+    ("de","Heise Wissenschaft","https://www.heise.de/rss/heise-atom.xml"),
+    ("ar","عالم التقنية","https://www.tech-wd.com/wd/feed/"),
+    ("ar","البوابة العربية للأخبار التقنية","https://aitnews.com/feed/"),
+    ("ar","عرب هاردوير","https://arabhardware.net/feed"),
+    ("ar","تقنية بلا حدود","https://www.unlimit-tech.com/feed/"),
+    ("ar","تقني بلس","https://tiqnyplus.com/feed/"),
 ]
-MAGAZINES = {"Futura Sciences", "ScienceDaily", "Smithsonian Magazine"}
+MAGAZINES = {"Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
 # Add only verified evening-edition feeds here. Ordinary news sites stay morning-only.
 EVENING_SOURCES = set()
 MAX_PER_SOURCE = 20
@@ -175,7 +197,7 @@ def collect(mode="both"):
     if not unique:
         raise RuntimeError("No articles available; keeping previous published site")
     return {"updated_at":now.isoformat() if mode!="publish" else previous.get("updated_at"),
-            "articles":unique[:400],"sources":list(status_by_source.values()),
+            "articles":unique[:1200],"sources":list(status_by_source.values()),
             "refreshed_sources":len(refreshed)}
 
 def main():
