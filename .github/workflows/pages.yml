@@ -44,6 +44,16 @@ jobs:
         env:
           COLLECT_MODE: ${{ steps.mode.outputs.mode }}
         run: python scripts/collect.py
+      - name: Audit article catalogue
+        run: PYTHONPATH=. python scripts/quality_audit.py
+      - name: Save quality report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: quality-report
+          path: reports/quality-report.json
+          if-no-files-found: ignore
+          retention-days: 14
       - name: Persist catalogue in repository
         if: steps.collect.outputs.changed == 'true' && steps.mode.outputs.mode != 'publish'
         run: |
