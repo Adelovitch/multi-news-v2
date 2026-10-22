@@ -56,14 +56,14 @@ SOURCES = [
     ("ar","عرب هاردوير","https://arabhardware.net/feed"),
     ("ar","تقنية بلا حدود","https://www.unlimit-tech.com/feed/"),
     ("ar","تقني بلس","https://tiqnyplus.com/feed/"),
-    ("it","Il Post","https://www.ilpost.it/feed/"),
-    ("it","Corriere della Sera","https://xml2.corriereobjects.it/rss/homepage.xml"),
-    ("it","Wired Italia","https://www.wired.it/feed/rss"),
+    ("it","Il Fatto Quotidiano","https://www.ilfattoquotidiano.it/feed/"),
+    ("it","Fanpage","https://www.fanpage.it/feed/"),
+    ("it","Geopop","https://www.geopop.it/feed/"),
     ("pt","Observador","https://observador.pt/feed/"),
     ("pt","RTP Notícias","https://www.rtp.pt/noticias/rss/"),
     ("pt","Público","https://feeds.feedburner.com/PublicoRSS"),
 ]
-MAGAZINES = {"Wired Italia", "Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
+MAGAZINES = {"Geopop", "Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
 # Add only verified evening-edition feeds here. Ordinary news sites stay morning-only.
 EVENING_SOURCES = set()
 # Geographic origin of each newsroom, not the language of its feed.
@@ -74,7 +74,7 @@ SOURCE_TIMEZONES = {
     "El País":"Europe/Madrid", "El Mundo":"Europe/Madrid",
     "DW Español":"Europe/Berlin", "Deutsche Welle":"Europe/Berlin",
     "Tagesschau":"Europe/Berlin", "DW Arabic":"Europe/Berlin",
-    "Wired Italia":"Europe/Rome", "Il Post":"Europe/Rome", "Corriere della Sera":"Europe/Rome",
+    "Il Fatto Quotidiano":"Europe/Rome", "Fanpage":"Europe/Rome", "Geopop":"Europe/Rome",
     "Observador":"Europe/Lisbon", "RTP Notícias":"Europe/Lisbon", "Público":"Europe/Lisbon",
 }
 DEFAULT_TIMEZONE = "Europe/Paris"
