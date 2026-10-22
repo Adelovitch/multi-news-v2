@@ -18,6 +18,7 @@ SOURCES = [
     ("en","The Guardian","https://www.theguardian.com/world/rss"),
     ("es","BBC Mundo","https://feeds.bbci.co.uk/mundo/rss.xml"),
     ("de","Deutsche Welle","https://rss.dw.com/rdf/rss-de-all"),
+    ("de","Tagesschau","https://www.tagesschau.de/xml/rss2/"),
     ("ar","France 24 Arabic","https://www.france24.com/ar/rss"),
 ]
 def clean(value):
@@ -35,12 +36,12 @@ def field(entry,*names):
     return ""
 def parse(blob,lang,source):
     root=ET.fromstring(blob)
-    items=root.findall(".//item")
+    items=root.findall(".//item") or root.findall(".//{http://purl.org/rss/1.0/}item")
     if not items:items=root.findall(".//{http://www.w3.org/2005/Atom}entry")
     articles=[]
     for entry in items[:50]:
-        title=field(entry,"title","{http://www.w3.org/2005/Atom}title")
-        url=field(entry,"link")
+        title=field(entry,"title","{http://purl.org/rss/1.0/}title","{http://www.w3.org/2005/Atom}title")
+        url=field(entry,"link","{http://purl.org/rss/1.0/}link")
         if not url:
             for link in entry.findall("{http://www.w3.org/2005/Atom}link"):
                 if link.get("rel","alternate")=="alternate":url=link.get("href","");break
@@ -53,7 +54,7 @@ def parse(blob,lang,source):
             if item.tag=="enclosure" and item.get("type","").startswith("image/"):
                 image=item.get("url","");break
         if image and urlparse(image).scheme not in ("http","https"):image=""
-        articles.append(dict(title=title[:250],url=url,description=field(entry,"description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image))
+        articles.append(dict(title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image))
     return articles
 def collect():
     articles=[];seen=set();status=[]
@@ -65,7 +66,7 @@ def collect():
             for article in found:
                 key=article["url"].split("#")[0]
                 if key not in seen:seen.add(key);articles.append(article)
-            status.append({"source":source,"ok":True,"count":len(found)})
+            status.append({"source":source,"ok":bool(found),"count":len(found)})
         except Exception as exc:
             status.append({"source":source,"ok":False,"error":str(exc)[:120]})
     articles.sort(key=lambda a:a["date"] or "",reverse=True)
