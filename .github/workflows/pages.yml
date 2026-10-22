@@ -20,6 +20,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - name: Run collector tests
+        run: python -m unittest discover -s tests -v
       - name: Collect news
         run: python scripts/collect.py
       - name: Prepare static site
