@@ -35,6 +35,8 @@ SOURCES = [
     ("en","Smithsonian Magazine","https://www.smithsonianmag.com/rss/latest_articles/"),
 ]
 MAGAZINES = {"Futura Sciences", "ScienceDaily", "Smithsonian Magazine"}
+# Add only verified evening-edition feeds here. Ordinary news sites stay morning-only.
+EVENING_SOURCES = set()
 MAX_PER_SOURCE = 20
 MAX_AGE_DAYS = 14
 
@@ -126,7 +128,7 @@ def is_recent(article, now):
         return False
 
 def collect(mode="both"):
-    if mode not in {"press","magazine","both","publish"}:
+    if mode not in {"press","magazine","both","evening","publish"}:
         raise ValueError("Invalid collection mode")
     now=datetime.now(timezone.utc)
     previous=load_previous()
@@ -138,7 +140,9 @@ def collect(mode="both"):
     if mode != "publish":
         for lang, source, url in SOURCES:
             kind="magazine" if source in MAGAZINES else "presse"
-            if mode=="press" and kind!="presse" or mode=="magazine" and kind!="magazine":
+            if (mode=="press" and kind!="presse" or
+                mode=="magazine" and kind!="magazine" or
+                mode=="evening" and source not in EVENING_SOURCES):
                 continue
             try:
                 req=urllib.request.Request(url,headers={"User-Agent":"MultiNews/2.0 RSS aggregator"})
