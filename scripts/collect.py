@@ -6,6 +6,7 @@ import html
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlparse, urlsplit, urlunsplit, parse_qsl, urlencode
@@ -59,6 +60,64 @@ SOURCES = [
 MAGAZINES = {"Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
 # Add only verified evening-edition feeds here. Ordinary news sites stay morning-only.
 EVENING_SOURCES = set()
+# Geographic origin of each newsroom, not the language of its feed.
+SOURCE_TIMEZONES = {
+    "BBC World":"Europe/London", "The Guardian":"Europe/London",
+    "Sky News":"Europe/London", "BBC Mundo":"Europe/London",
+    "Al Jazeera English":"Asia/Qatar",
+    "El País":"Europe/Madrid", "El Mundo":"Europe/Madrid",
+    "DW Español":"Europe/Berlin", "Deutsche Welle":"Europe/Berlin",
+    "Tagesschau":"Europe/Berlin", "DW Arabic":"Europe/Berlin",
+}
+DEFAULT_TIMEZONE = "Europe/Paris"
+MORNING_HOURS = {6,7,8}
+EVENING_HOUR = 20
+
+def magazine_interval(source, cached):
+    """Estimate polling interval from distinct publication dates; fallback weekly."""
+    dates=set()
+    for a in cached:
+        if a.get("source") != source or not a.get("date"):
+            continue
+        try:
+            dates.add(datetime.fromisoformat(a["date"]).date())
+        except (ValueError,TypeError):
+            pass
+    ordered=sorted(dates)
+    if len(ordered)<3:
+        return 7
+    gaps=sorted((b-a).days for a,b in zip(ordered,ordered[1:]) if (b-a).days>0)
+    if not gaps:
+        return 7
+    typical=gaps[len(gaps)//2]
+    return 1 if typical<=2 else 3 if typical<=7 else 7 if typical<=28 else 14
+
+def schedule_slot(source, kind, now, previous_status, cached):
+    """Return a due local-time slot; only one collection per slot on success."""
+    tz=ZoneInfo(SOURCE_TIMEZONES.get(source,DEFAULT_TIMEZONE))
+    local=now.astimezone(tz)
+    if kind=="presse":
+        hour=local.hour
+        if hour not in MORNING_HOURS and not (hour==EVENING_HOUR and source in EVENING_SOURCES):
+            return None
+        slot=f"{local.date()}:{hour}"
+    else:
+        if local.hour!=9:
+            return None
+        interval=magazine_interval(source,cached)
+        prior=previous_status.get("success_at")
+        if prior:
+            try:
+                earlier=datetime.fromisoformat(prior).astimezone(tz).date()
+                if (local.date()-earlier).days < interval:
+                    return None
+            except (ValueError,TypeError):
+                pass
+        slot=f"{local.date()}:magazine"
+    if previous_status.get("last_slot")==slot:
+        return None
+    return slot
+
 MAX_PER_SOURCE = 20
 MAX_AGE_DAYS = 14
 
@@ -150,7 +209,7 @@ def is_recent(article, now):
         return False
 
 def collect(mode="both"):
-    if mode not in {"press","magazine","both","evening","publish"}:
+    if mode not in {"press","magazine","both","evening","publish","scheduled"}:
         raise ValueError("Invalid collection mode")
     now=datetime.now(timezone.utc)
     previous=load_previous()
@@ -166,6 +225,10 @@ def collect(mode="both"):
                 mode=="magazine" and kind!="magazine" or
                 mode=="evening" and source not in EVENING_SOURCES):
                 continue
+            prior=status_by_source.get(source,{})
+            slot=schedule_slot(source,kind,now,prior,cached) if mode=="scheduled" else None
+            if mode=="scheduled" and slot is None:
+                continue
             try:
                 req=urllib.request.Request(url,headers={"User-Agent":"MultiNews/2.0 RSS aggregator"})
                 with urllib.request.urlopen(req,timeout=15) as response:
@@ -179,11 +242,15 @@ def collect(mode="both"):
                 cached.extend(valid[:MAX_PER_SOURCE])
                 refreshed.add(source)
                 status_by_source[source]={"source":source,"kind":kind,"ok":True,
-                                          "count":len(valid),"updated_at":now.isoformat()}
+                                          "count":len(valid),"updated_at":now.isoformat(),
+                                          "success_at":now.isoformat(),
+                                          "last_slot":slot if slot else prior.get("last_slot") }
             except Exception as exc:
                 status_by_source[source]={"source":source,"kind":kind,"ok":False,
                                           "error":str(exc)[:120],
-                                          "updated_at":now.isoformat()}
+                                          "updated_at":now.isoformat(),
+                                          "success_at":prior.get("success_at"),
+                                          "last_slot":prior.get("last_slot") }
     seen=set()
     unique=[]
     for article in sorted(cached,key=lambda a:a.get("date") or "",reverse=True):
