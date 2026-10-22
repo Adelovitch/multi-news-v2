@@ -33,6 +33,14 @@ class CollectorTests(unittest.TestCase):
         self.assertIn("Geopop",MAGAZINES)
         self.assertIn(("pt","RTP Notícias","https://www.rtp.pt/noticias/rss/"),SOURCES)
 
+    def test_added_french_sources(self):
+        expected={"Libération","20 Minutes","Ouest-France","Courrier international",
+                  "TV5MONDE","Euronews","Numerama","Clubic","01net",
+                  "France Culture","Radio France","Reporterre"}
+        names={name for lang,name,url in SOURCES if lang=="fr"}
+        self.assertTrue(expected.issubset(names))
+        self.assertEqual(len(names),len([1 for lang,_,_ in SOURCES if lang=="fr"]))
+
     def test_local_morning_slots(self):
         from scripts.collect import schedule_slot
         now=datetime(2026,10,22,6,15,tzinfo=timezone.utc)
