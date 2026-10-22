@@ -27,5 +27,25 @@ class CollectorTests(unittest.TestCase):
     def test_languages(self):
         self.assertEqual({s[0] for s in SOURCES},{"fr","en","es","de","ar"})
 
+    def test_local_morning_slots(self):
+        from scripts.collect import schedule_slot
+        now=datetime(2026,10,22,6,15,tzinfo=timezone.utc)
+        self.assertEqual(schedule_slot("BBC World","presse",now,{},[]),"2026-10-22:7")
+        self.assertEqual(schedule_slot("France 24","presse",now,{},[]),"2026-10-22:8")
+        self.assertIsNone(schedule_slot("Al Jazeera English","presse",now,{},[]))
+    def test_no_duplicate_slot(self):
+        from scripts.collect import schedule_slot
+        now=datetime(2026,10,22,6,15,tzinfo=timezone.utc)
+        self.assertIsNone(schedule_slot("BBC World","presse",now,{"last_slot":"2026-10-22:7"},[]))
+    def test_magazine_frequency(self):
+        from scripts.collect import magazine_interval
+        self.assertEqual(magazine_interval("Sample",[]),7)
+        data=[{"source":"Sample","date":f"2026-10-{d:02d}T12:00:00+00:00"} for d in (1,3,5,7)]
+        self.assertEqual(magazine_interval("Sample",data),1)
+    def test_magazine_slot(self):
+        from scripts.collect import schedule_slot
+        now=datetime(2026,10,22,7,15,tzinfo=timezone.utc)
+        self.assertEqual(schedule_slot("ScienceDaily","magazine",now,{},[]),"2026-10-22:magazine")
+
 if __name__ == "__main__":
     unittest.main()
