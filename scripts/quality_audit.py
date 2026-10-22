@@ -8,7 +8,7 @@ from scripts.collect import canonical_url, SOURCES, MAGAZINES, is_recent
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/"data"/"articles.json"
-REPORT=ROOT/"data"/"quality-report.json"
+REPORT=ROOT/"reports"/"quality-report.json"
 
 def audit(data, now=None):
     now=now or datetime.now(timezone.utc)
