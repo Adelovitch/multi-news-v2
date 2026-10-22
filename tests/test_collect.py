@@ -25,7 +25,12 @@ class CollectorTests(unittest.TestCase):
         rss=b'<rss><channel><item><title>T</title><link>javascript:alert(1)</link></item></channel></rss>'
         self.assertEqual(parse(rss,"en","S"),[])
     def test_languages(self):
-        self.assertEqual({s[0] for s in SOURCES},{"fr","en","es","de","ar"})
+        self.assertEqual({s[0] for s in SOURCES},{"fr","en","es","de","ar","it","pt"})
+
+    def test_new_languages_source_configuration(self):
+        self.assertIn(("it","Wired Italia","https://www.wired.it/feed/rss"),SOURCES)
+        self.assertIn(("pt","Observador","https://observador.pt/feed/"),SOURCES)
+        self.assertIn("Wired Italia",MAGAZINES)
 
     def test_local_morning_slots(self):
         from scripts.collect import schedule_slot
