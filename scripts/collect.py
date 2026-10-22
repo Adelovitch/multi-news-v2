@@ -1,5 +1,6 @@
 """Collect public RSS headlines into a static JSON catalogue (standard library only)."""
 import json
+import os
 import re
 import html
 import urllib.request
@@ -102,41 +103,84 @@ def canonical_url(url):
     return urlunsplit((parts.scheme.lower(), parts.netloc.lower(),
                        parts.path.rstrip("/") or "/", urlencode(query), ""))
 
-def collect():
-    articles=[];seen=set();status=[]
-    cutoff=datetime.now(timezone.utc)-timedelta(days=MAX_AGE_DAYS)
-    for lang,source,url in SOURCES:
-        try:
-            req=urllib.request.Request(url,headers={"User-Agent":"MultiNews/2.0 RSS aggregator"})
-            with urllib.request.urlopen(req,timeout=15) as response:blob=response.read(2_000_000)
-            found=parse(blob,lang,source)
-            valid=[]
-            for article in found:
-                if article["date"]:
-                    try:
-                        published=datetime.fromisoformat(article["date"])
-                        if published < cutoff:
-                            continue
-                    except (TypeError,ValueError):
-                        continue
-                valid.append(article)
-            valid.sort(key=lambda a:a["date"] or "", reverse=True)
-            added=0
-            for article in valid[:MAX_PER_SOURCE]:
-                key=canonical_url(article["url"])
-                if key not in seen:
-                    seen.add(key)
-                    articles.append(article)
-                    added+=1
-            status.append({"source":source,"kind":("magazine" if source in MAGAZINES else "presse"),"ok":bool(valid),"count":len(valid),"added":added})
-        except Exception as exc:
-            status.append({"source":source,"kind":("magazine" if source in MAGAZINES else "presse"),"ok":False,"error":str(exc)[:120]})
-    articles.sort(key=lambda a:a["date"] or "",reverse=True)
-    return {"updated_at":datetime.now(timezone.utc).isoformat(),"articles":articles[:400],"sources":status}
+def load_previous():
+    if not OUT.exists():
+        return {"articles": [], "sources": [], "updated_at": None}
+    try:
+        data=json.loads(OUT.read_text(encoding="utf-8"))
+        return data if isinstance(data.get("articles"),list) else {"articles":[],"sources":[]}
+    except (ValueError,OSError,AttributeError):
+        return {"articles":[],"sources":[]}
+
+def is_recent(article, now):
+    date=article.get("date")
+    if not date:
+        return True
+    try:
+        age=90 if article.get("kind","presse")=="magazine" else MAX_AGE_DAYS
+        published=datetime.fromisoformat(date)
+        if published.tzinfo is None:
+            published=published.replace(tzinfo=timezone.utc)
+        return now-timedelta(days=age) <= published <= now+timedelta(days=1)
+    except (TypeError,ValueError):
+        return False
+
+def collect(mode="both"):
+    if mode not in {"press","magazine","both","publish"}:
+        raise ValueError("Invalid collection mode")
+    now=datetime.now(timezone.utc)
+    previous=load_previous()
+    cached=[a for a in previous.get("articles",[]) if isinstance(a,dict) and
+            a.get("kind","presse") in {"presse","magazine"} and is_recent(a,now)]
+    status_by_source={s.get("source"):s for s in previous.get("sources",[])
+                      if isinstance(s,dict) and s.get("source")}
+    refreshed=set()
+    if mode != "publish":
+        for lang, source, url in SOURCES:
+            kind="magazine" if source in MAGAZINES else "presse"
+            if mode=="press" and kind!="presse" or mode=="magazine" and kind!="magazine":
+                continue
+            try:
+                req=urllib.request.Request(url,headers={"User-Agent":"MultiNews/2.0 RSS aggregator"})
+                with urllib.request.urlopen(req,timeout=15) as response:
+                    blob=response.read(2_000_000)
+                found=parse(blob,lang,source)
+                valid=sorted([a for a in found if is_recent(a,now)],
+                             key=lambda a:a.get("date") or "",reverse=True)
+                if not valid:
+                    raise ValueError("Feed yielded no recent articles")
+                cached=[a for a in cached if a.get("source")!=source]
+                cached.extend(valid[:MAX_PER_SOURCE])
+                refreshed.add(source)
+                status_by_source[source]={"source":source,"kind":kind,"ok":True,
+                                          "count":len(valid),"updated_at":now.isoformat()}
+            except Exception as exc:
+                status_by_source[source]={"source":source,"kind":kind,"ok":False,
+                                          "error":str(exc)[:120],
+                                          "updated_at":now.isoformat()}
+    seen=set()
+    unique=[]
+    for article in sorted(cached,key=lambda a:a.get("date") or "",reverse=True):
+        url=article.get("url","")
+        if urlparse(url).scheme not in ("http","https"):
+            continue
+        key=canonical_url(url)
+        if key not in seen:
+            seen.add(key)
+            unique.append(article)
+    if not unique:
+        raise RuntimeError("No articles available; keeping previous published site")
+    return {"updated_at":now.isoformat() if mode!="publish" else previous.get("updated_at"),
+            "articles":unique[:400],"sources":list(status_by_source.values()),
+            "refreshed_sources":len(refreshed)}
+
 def main():
-    result=collect()
-    if not result["articles"]:raise SystemExit("No live RSS items collected; refusing to publish an empty feed.")
+    mode=os.getenv("COLLECT_MODE","both")
+    result=collect(mode)
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding="utf-8")
-    print("Articles:",len(result["articles"]),"Live sources:",sum(s["ok"] for s in result["sources"]))
-if __name__=="__main__":main()
+    print(f"Mode: {mode}; Articles: {len(result['articles'])}; "
+          f"Refreshed sources: {result['refreshed_sources']}")
+
+if __name__=="__main__":
+    main()
