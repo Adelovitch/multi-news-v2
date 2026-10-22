@@ -26,10 +26,6 @@ jobs:
         run: |
           python -c "from pathlib import Path; s=Path('site/index.html').read_text(); Path('/tmp/multi-news.js').write_text(s.split('<script>')[1].split('</script>')[0])"
           node --check /tmp/multi-news.js
-      - name: Probe potential magazines (diagnostic only)
-        if: github.event_name == 'push'
-        continue-on-error: true
-        run: PYTHONPATH=. python scripts/probe_magazines.py
       - name: Select collection schedule
         id: mode
         shell: bash
