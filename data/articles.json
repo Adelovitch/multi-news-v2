@@ -1,14 +1,34 @@
 {
-  "updated_at": "2026-10-22T20:22:23.780581+00:00",
+  "updated_at": "2026-10-22T20:23:59.062739+00:00",
   "articles": [
+    {
+      "title": "Governo antecipou pagamento de um milhão de euros a corporações de bombeiros",
+      "url": "https://www.rtp.pt/noticias/economia/governo-antecipou-pagamento-de-um-milhao-de-euros-a-corporacoes-de-bombeiros_n1773591",
+      "description": "O Governo antecipou este ano o pagamento de mais de um milhão de euros às corporações de bombeiros das regiões mais afetadas pelos incêndios rurais para ajudar nas despesas extraordinárias, disse hoje o ministro da Administração Interna.",
+      "date": "2026-10-22T21:21:57+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/9d/9d3c59a37697216b2d3956d12a4905f2?w=350&q=50&rect=0,207,2048,1123&auto=format",
+      "kind": "presse"
+    },
     {
       "title": "Presidente do IHRU duvida se jovens estão dispostos ao sacrifício das gerações anteriores",
       "url": "https://www.rtp.pt/noticias/pais/presidente-do-ihru-duvida-se-jovens-estao-dispostos-ao-sacrificio-das-geracoes-anteriores_e1773417",
       "description": "O presidente do Instituto da Habitação e da Reabilitação Urbana (IHRU) questionou esta quinta-feira se a sociedade atual está disponível para o nível de sacrifício feito pelas gerações anteriores para conseguir casa. Benjamim Pereira lembrou que os seus avós emigraram para o Brasil e a Argentina e o pai esteve emigrado",
-      "date": "2026-10-22T21:15:51+00:00",
+      "date": "2026-10-22T21:20:36+00:00",
       "source": "RTP Notícias",
       "language": "pt",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/d9/d95db7fda1861af770fef2c7acc0bfa9?w=350&q=50&rect=0,11,1500,822&auto=format",
+      "kind": "presse"
+    },
+    {
+      "title": "Partidos do governo e da oposição reivindicam Ceuta e Melilla no Parlamento marroquino",
+      "url": "https://www.rtp.pt/noticias/mundo/partidos-do-governo-e-da-oposicao-reivindicam-ceuta-e-melilla-no-parlamento-marroquino_n1773608",
+      "description": "Os partidos marroquinos da coligação governamental e da oposição reclamaram hoje a soberania do seu país sobre as cidades espanholas de Ceuta e Melilla, localizadas no norte de África.",
+      "date": "2026-10-22T21:18:23+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8d/8d2f9a799e633755a63212d97f4f7085?w=350&q=50&rect=0,0,1499,822&auto=format",
       "kind": "presse"
     },
     {
@@ -99,6 +119,16 @@
       "source": "RTP Notícias",
       "language": "pt",
       "image": "https://cdn-images.rtp.pt/icm/images/c0/c0ff144187a3de1c23caf3e676e2583e_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "title": "Le Pentagone prévoit d'acheter au moins 850 avions de combat F-35 sur dix ans",
+      "url": "https://www.lefigaro.fr/flash-actu/le-pentagone-prevoit-d-acheter-au-moins-850-avions-de-combat-f-35-sur-dix-ans-20261022",
+      "description": "Le projet de l’accord-cadre entre le Pentagone et Lockheed Martin reste soumis à l’approbation du Congrès américain et des crédits budgétaires associés.",
+      "date": "2026-10-22T20:21:05+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/1885x1256_crop/2026/10/22/235526dd03c808e352c20d3bc36828d2d448a49281927351ecd8839276d26bd3.jpg",
       "kind": "presse"
     },
     {
@@ -329,6 +359,16 @@
       "source": "France 24 English",
       "language": "en",
       "image": "https://s.france24.com/media/display/835ccab0-ce51-11f1-a439-23d55109f116/w:1024/p:16x9/capture-a8c86a3d.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Guerra in Ucraina, Putin apre ai negoziati: “Accordo possibile”. Ma intanto i raid continuano",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/guerra-ucraina-putin-negoziati-notizie/8547074/",
+      "description": "Raggiungere un accordo sulla situazione in Ucraina è possibile. Almeno a sentire le ultime dichiarazioni del presidente russo Vladimir Putin: “Siamo concordi su questo”, ha detto il leader russo riferendosi alla fattibilità di un’intesa di lungo termine che chiuda l’invasione iniziata il 24 febbraio 2022. Al centro del",
+      "date": "2026-10-22T19:57:07+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -692,16 +732,6 @@
       "kind": "presse"
     },
     {
-      "title": "Le Pentagone prévoit d'acheter au moins 850 avions de combat F-35 sur dix ans",
-      "url": "https://www.lefigaro.fr/flash-actu/le-pentagone-prevoit-d-acheter-au-moins-850-avions-de-combat-f-35-sur-dix-ans-20261022",
-      "description": "Le projet de l’accord-cadre entre le Pentagone et Lockheed Martin reste soumis à l’approbation du Congrès américain et des crédits budgétaires associés.",
-      "date": "2026-10-22T19:11:58+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/1885x1256_crop/2026/10/22/235526dd03c808e352c20d3bc36828d2d448a49281927351ecd8839276d26bd3.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "Los Reyes y sus hijas se empapan de Mendelssohn y Gutenberg en el concierto previo a los Princesa de Asturias",
       "url": "https://www.elmundo.es/cultura/2026/10/22/6ada42ef21efa04c4c8b4596.html",
       "description": "Don Felipe, Doña Letizia, Leonor y Sofía comienzan los actos que rodean a los Premios Leer",
@@ -912,6 +942,26 @@
       "kind": "magazine"
     },
     {
+      "title": "Gratteri: “Infiltrazioni camorra della protesta dei Tir? Se Nordio ha notizie le denunci alla polizia giudiziaria oltre che ai giornali”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/protesta-tir-gratteri-nordio-camorra-notizie/8547011/",
+      "description": "“Evidentemente ha notizie di prima mano, conviene che ne parli con il suo omologo il ministro degli Interni e che avverta la polizia giudiziaria per fare le indagini”. Nicola Gratteri così sulle affermazioni del ministro della Giustizia Carlo Nordio che ha ipotizzato infiltrazioni criminali all’interno dei blocchi stra",
+      "date": "2026-10-22T18:52:30+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "title": "Virus Shamonda, morto un paziente in Francia: è il primo caso di infezione umana documentato. L’Ue: “Monitoriamo la situazione”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/virus-shamonda-primo-caso-umano-notizie/8547010/",
+      "description": "Un paziente infettato da Shamonda è deceduto in ospedale a Lione. È il primo caso documentato documentato: fino a ora, questo virus era considerato non trasmissibile all’uomo. A darne notizia sono le autorità francesi. Il ministero della Salute ha reso noto che il paziente presentava una “grave immunodepressione” ed è ",
+      "date": "2026-10-22T18:51:18+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
       "title": "المقاربة الأمنية للحراك الطلابي: هل هي الحل؟",
       "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261022-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D8%B1%D8%A7%D9%83-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8%D9%8A-%D9%87%D9%84-%D9%87%D9%8A-%D8%A7%D9%84%D8%AD%D9%84",
       "description": "في حدث اليوم اليوم سنحاول ان نفهم هل المقاربة الأمنية هي الحل الأمثل للتعامل مع الحراك الطلابي في فرنسا. \n \nضيف حدث اليوم: حسني عبيدي،  حسني عبيدي، أستاذ العلاقات الدولية في جامعة جنيف.",
@@ -919,16 +969,6 @@
       "source": "France 24 Arabic",
       "language": "ar",
       "image": "https://s.france24.com/media/display/1e91223e-ce47-11f1-9722-3f59e19fd7f8/w:1024/p:16x9/Arabe-2026-10-22T18-25-39-027Z.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "Financiamento às corporações de bombeiros vai aumentar mais de 5%",
-      "url": "https://www.rtp.pt/noticias/economia/financiamento-as-corporacoes-de-bombeiros-vai-aumentar-mais-de-5_n1773576",
-      "description": "O financiamento às corporações dos bombeiros no âmbito do Orçamento do Estado vai ter um aumento superior a 5% no próximo ano, anunciou hoje o ministro da Administração Interna, Luís Neves.",
-      "date": "2026-10-22T18:49:48+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/69/69c7a35ff64f993b23ab9781b290e647?w=350&q=50&rect=0,267,1500,822&auto=format",
       "kind": "presse"
     },
     {
@@ -1022,16 +1062,6 @@
       "kind": "presse"
     },
     {
-      "title": "Presidente do Sporting de Braga, António Salvador, suspenso por 23 dias",
-      "url": "https://www.rtp.pt/noticias/1a-liga/presidente-do-sporting-de-braga-antonio-salvador-suspenso-por-23-dias_d1773579",
-      "description": "O presidente do Sporting de Braga, António Salvador, foi hoje suspenso por 23 dias pelo Conselho de Disciplina (CD) da Federação Portuguesa de Futebol (FPF), ao criticar o árbitro Gustavo Correia após o jogo com o Gil Vicente.",
-      "date": "2026-10-22T18:43:06+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/8c/8c3e21dd746ab8849365c1a7770ecf63?w=350&q=50&rect=0,36,1234,677&auto=format",
-      "kind": "presse"
-    },
-    {
       "title": "Christa Pike’s IV team warned vein might be ‘blowing’ before failed execution",
       "url": "https://www.theguardian.com/us-news/2026/oct/22/christa-pike-failed-execution-lawyer-witness",
       "description": "New account from Pike’s lawyer suggests team was racked by doubts even before pentobarbital began to flowThe Tennessee execution team tasked with setting an intravenous line in the arms of the death row prisoner Christa Pike through which she could be injected with a lethal dose of pentobarbital repeatedly warned that ",
@@ -1039,6 +1069,16 @@
       "source": "The Guardian",
       "language": "en",
       "image": "https://i.guim.co.uk/img/media/027762e10a255e4badc86d398cfcd3c0b35fe3cd/100_0_2039_1632/master/2039.jpg?width=140&quality=85&auto=format&fit=max&s=9256d660c66d68072ae7eb7206fb3085",
+      "kind": "presse"
+    },
+    {
+      "title": "Conte: “Parole Nordio sui minori non da politico, vada a casa”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/conte-parole-nordio-minori-non-da-politico-vada-a-casa/8546988/",
+      "description": "“Se vogliamo consentire all’Italia di rialzarsi, dopo quattro anni in cui ci siamo inginocchiati, nonostante poderose risorse che l’Europa ci ha messo a disposizione, adesso i nodi stanno venendo al pettine”. Così Giuseppe Conte, intervenendo nell’aula dei gruppi parlamentari a Montecitorio a conclusione all’evento ‘Ec",
+      "date": "2026-10-22T18:42:06+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -1232,6 +1272,16 @@
       "kind": "presse"
     },
     {
+      "title": "Cisgiordania, quattro italiane tra gli attivisti fermati. Farnesina chiede chiarimenti urgenti. Israele annuncia l’espulsione: “Promozione del terrorismo”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/cisgiordania-fermate-quattro-attiviste-italiane-la-farnesina-interviene-e-chiede-chiarimenti-urgenti-a-israele/8547000/",
+      "description": "Gli attivisti internazionali fermati in Cisgiordania, tra cui quattro italiane, stanno per essere espulsi da Israele. Lo annuncia la polizia israeliana, secondo cui alcuni dei fermati sarebbero coinvolti nella “promozione del terrorismo” e nell'”esaltazione di attentatori”. L’annuncio arriva dopo che la Farnesina ha ch",
+      "date": "2026-10-22T18:22:09+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
       "title": "Portugal mira 50 milhões de turistas em 2035",
       "url": "https://observador.pt/2026/10/22/portugal-preve-50-milhoes-de-turistas-e-53-mil-milhoes-de-receitas-em-2035-estrategia-ja-aprovada/",
       "description": "Estratégia Turismo 2035 pretende também \"corrigir as assimetrias regionais\" e gerar \"maior desenvolvimento, maior crescimento, maior riqueza e a distribuição dessa riqueza\" no território português.",
@@ -1239,6 +1289,16 @@
       "source": "Observador",
       "language": "pt",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22181609/47179476.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "A Ferrara nasce il “Nucleo anti maranza”: la proposta del sindaco leghista per rispondere ai disordini delle proteste",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/nucleo-anti-maranza-ferrara-task-force-notizie/8546936/",
+      "description": "Il sindaco leghista di Ferrara, Alan Fabbri, questa volta non si è limitato al solito messaggio di condanna sui disordini che hanno colpito Milano e Bologna durante le manifestazioni, ma è andato oltre. A Ferrara nasce “il Nam, il Nucleo Anti Maranza, una task force voluta dal Comune della città emiliana per contrastar",
+      "date": "2026-10-22T18:20:29+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -1329,6 +1389,16 @@
       "source": "Tagesschau",
       "language": "de",
       "image": "https://images.tagesschau.de/image/0b75625c-415e-4ac5-a7c4-eb9d5aa64435/AAABoWSWIs8/AAABnSSvrFg/16x9-big/ministerpraesidentenkonferenz-120.jpg?width=1920",
+      "kind": "presse"
+    },
+    {
+      "title": "Scontro tra Sommi e Friedman su La7. “Attento a dare del filoputiniano, poi le querele si pagano”. “Mi minacci, signor avvocatino cafone?”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/sommi-friedman-milano-proteste-giovani-putin/8546922/",
+      "description": "Scintille in diretta a Omnibus, su La7, tra Luca Sommi, giornalista del Fatto Quotidiano e conduttore di Accordi & Disaccordi, e il giornalista economico Alan Friedman. Casus belli: le proteste giovanili di Milano e il ruolo delle presunte interferenze russe nell’alimentare le tensioni sociali in Europa. Tutto comincia",
+      "date": "2026-10-22T18:11:20+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -1712,6 +1782,16 @@
       "kind": "presse"
     },
     {
+      "title": "Falle del codice PHP, “offline oltre 30 servizi governativi del Regno Unito”. Cloudflare: “Milioni di attacchi hacker”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/hacker-php-cloudflare-regno-unito-offline/8546835/",
+      "description": "Mentre Cloudflare lancia l’allarma su “milioni” di attacchi hacker sulla sua rete, decine di siti del governo inglese sono offline. Ma l’allarma dilaga in tutta Europa, dopo la scoperta delle gravi falle di sicurezza nel linguaggio di programmazione Php. Ministeri e istituzioni “spente” anche in Olanda, Germania, Franc",
+      "date": "2026-10-22T17:27:17+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
       "title": "Scientists turned art detectives date van Gogh's 'Starry Night' to actual night sky in 1889",
       "url": "https://www.france24.com/en/culture/20261022-scientists-turn-art-detectives-trace-van-gogh-starry-night-actual-night-sky-1889",
       "description": "A team of South Korean researchers has put forward a new date for the night sky depicted in Dutch painter Vincent van Gogh's famed masterpiece \"The Starry Night\". Art historians have long assumed the stars were a product of the artist's fantasy or dated the scene to June 1889 based on the artist's known location and ot",
@@ -1749,6 +1829,16 @@
       "source": "BBC World",
       "language": "en",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1f/live/0ab25ae0-ce37-11f1-a86f-f78305ec9987.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Mark Zuckerberg si prepara a pagare la tassa californiana sui miliardari. Meta gli dà nuove azioni per blindarlo per otto anni",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/tassa-miliardari-california-zuckerberg-meta-notizie/8546809/",
+      "description": "Il numero uno di Meta Mark Zuckerberg si prepara a pagare la tassa sui miliardari, se la California approverà la misura. E il gruppo a cui fanno capo Facebook, Instagram e Whatsapp corre ai ripari per consentirgli di farlo senza mettere a rischio il controllo della società. Meta infatti, come emerge da un documento dep",
+      "date": "2026-10-22T17:19:32+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -1852,6 +1942,16 @@
       "kind": "presse"
     },
     {
+      "title": "Nordio: “Massicci arresti di minori, valutiamo di allargare le carceri giovanili”. Conte: “Parole non da politico, vada a casa”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/nordio-carceri-minori-violenti-notizie/8546886/",
+      "description": "“Una serie di arresti massicci nei confronti di minori non era mai avvenuta”, per questo si sta pensando “di ampliare gli istituti penitenziari destinati ai più giovani” e si sta valutando se alcuni “settori delle carceri destinate ai maggiorenni possano essere dedicati ai minori”. A meno di una settimana dagli scontri",
+      "date": "2026-10-22T17:03:26+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
       "title": "La construction du SR-1 Freedom, premier vaisseau interplanétaire à fission nucléaire de la NASA, vient de franchir une étape clé avant son départ vers Mars",
       "url": "https://www.journaldugeek.com/2026/10/22/construction-sr-1-freedom-premier-vaisseau-interplanetaire-fission-nucleaire-nasa-franchir-etape-cle-depart-vers-mars/",
       "description": "Le SR-1 Freedom se rapproche de son lancement : la NASA, à l'origine de sa conception, vient de signer un contrat avec une entreprise partenaire afin qu'elle conçoive l'un de ses composants les plus importants.",
@@ -1932,6 +2032,26 @@
       "kind": "magazine"
     },
     {
+      "title": "Federica Brignone, il documentario e l’annuncio: “Non sono più disposta a sciare con il dolore”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/federica-brignone-ritiro-dolore-notizie/8546894/",
+      "description": "“Non sono più disposta e a sciare con il dolore“. In poche parole Federica Brignone chiarisce la sua posizione, aprendo anche all’ipotesi del ritiro. La campionessa di sci, vincitrice di due medaglie d’oro alle ultime Olimpiadi di Milano-Cortina, non sarà al via della stagione di Coppa del Mondo a Soelden. È ancora all",
+      "date": "2026-10-22T16:56:48+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "title": "Trump attacca LeBron James: “Non vale nulla, è una vergogna totale. Dovrebbe chiedere scusa”. Che cosa è successo",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/trump-attacca-lebron-james-inno-nazionale-notizie/8546906/",
+      "description": "Donald Trump torna ad attaccare LeBron James. Il rapporto tra il presidente Usa e la star della Nba è sempre stato a dir poco teso. Questa volta Trump ha criticato James sul suo social Truth: “È una vergogna. Dovrebbe chiedere scusa”. Il motivo? Il comportamento del cestista durante l’inno nazionale americano suonato p",
+      "date": "2026-10-22T16:54:50+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/10/22/Lebron-James-inno-Usa.jpg",
+      "kind": "presse"
+    },
+    {
       "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
       "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
       "description": "At 3pm BST / 4pm CEST Friday 23 Oct, Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com, or join the discussion on FridayAfter weeks of protests and a weeke",
@@ -1969,6 +2089,16 @@
       "source": "France 24",
       "language": "fr",
       "image": "https://s.france24.com/media/display/88c1ae12-ce38-11f1-b8af-7967b15eed96/w:1024/p:16x9/Miniature-Melina.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "“Ennesimo traffico di armi nel porto di Livorno”: bloccata una nave diretta alla base militare di Sigonella",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/livorno-attivisti-nave-sigonella-video/8546891/",
+      "description": "Attivisti della Global sumud flotilla Italia, insieme a lavoratori del sindacato Usb e del Gap, hanno bloccato l’accesso a porto di Livorno alla nave Sunaid X, che garantisce i rifornimenti alla base americana di Sigonella. Diverse barche della Flotilla Italia hanno fatto delle operazioni di disturbo in mare, mentre at",
+      "date": "2026-10-22T16:51:04+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -2039,6 +2169,16 @@
       "source": "El Mundo",
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/28/16799993979915.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Google abbatte 250mila alberi in Finlandia per costruire un data center da 13 miliardi",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/google-finlandia-data-center-alberi-notizie/8546781/",
+      "description": "Duecentocinquantamila alberi in meno e un data center in più, dal valore di 13 miliardi di euro. Google ha fatto abbattere in Finlandia una foresta di 330 ettari e, al suo posto, verrà costruito un centro di elaborazione dati per il rapido sviluppo dell’intelligenza artificiale. L’Autorità finlandese per le licenze e l",
+      "date": "2026-10-22T16:40:58+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -2130,6 +2270,16 @@
       "language": "en",
       "image": "",
       "kind": "presse"
+    },
+    {
+      "title": "L’origine delle proteste degli autotrasportatori: perché il caro gasolio blocca merci e svuota supermercati",
+      "url": "https://www.geopop.it/cause-proteste-italia-autotrasportatori-agricoltori-supermercati-spiegazione/",
+      "description": "In Italia, specie al Sud, le proteste degli autotrasportatori contro il caro gasolio (dovuto alla crisi energetica) stanno bloccando le merci. Le conseguenze includono scaffali vuoti e stop alla produzione alimentare. Il trasporto su gomma è vitale per la filiera nazionale.Continua a leggere",
+      "date": "2026-10-22T16:30:44+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/trasporti-e-proteste-300x225.jpg",
+      "kind": "magazine"
     },
     {
       "title": "Hacienda obliga a tributar por las propinas que reciben los trabajadores, pero cotizarán si lo recoge el convenio o las gestiona la empresa",
@@ -2269,6 +2419,16 @@
       "source": "RFI",
       "language": "fr",
       "image": "https://s.rfi.fr/media/display/16cdd47a-ce29-11f1-ab3c-97baf3e9dd31/w:1024/p:16x9/GettyImages-89876098.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Prelievo di solidarietà temporaneo sugli extraprofitti del settore energetico: per l’Avvocatura Ue è legittimo",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/extraprofitti-energia-corte-ue-legittimo-notizie/8546808/",
+      "description": "Secondo Athanasios Rantos, avvocato generale della Corte di Giustizia Ue, il prelievo di solidarietà temporaneo sugli extra-profitti del settore energetico è legittimo. Era stato introdotto nel 2022 in risposta alla crisi energetica provocata dalla guerra in Ucraina. Secondo l’Avvocatura della Corte di Giustizia Ue, il",
+      "date": "2026-10-22T16:19:15+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -2492,6 +2652,16 @@
       "kind": "presse"
     },
     {
+      "title": "Marta Bassino, un anno dopo l’infortunio e 10 anni dopo il primo podio: dall’amicizia con Pirovano al ritorno in pista. “Non so bene cosa aspettarmi”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/marta-bassino-ritorno-soelden-infortunio-amicizia-pirovano/8546795/",
+      "description": "Il 22 ottobre è una data speciale per Marta Bassino. Esattamente un anno fa, la caduta e l’infortunio al ginocchio sinistro che ha compromesso l’intera stagione, comprese le Olimpiadi di Milano-Cortina. Esattamente 10 anni fa, però, nello stesso giorno otteneva il suo primo podio in Coppa del Mondo, a Soelden. Il desti",
+      "date": "2026-10-22T15:54:35+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
       "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
       "url": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
       "description": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
@@ -2682,6 +2852,16 @@
       "kind": "magazine"
     },
     {
+      "title": "Consigli da marziano sui ‘maranza’: la ricetta fasulla della repressione si smonta in poco",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/violenze-milano-maranza-periferie-notizie/8545394/",
+      "description": "Da ‘maranza’ a marziano il passo è breve: tanto ci sono estranei i ragazzi delle periferie urbane e delle cosiddette ‘seconde generazioni’ di nuovi italiani, quanto se arrivasse da Marte uno studioso culturalmente preparato e freddamente razionalista, che cosa direbbe di questo grande disordine sotto il cielo? Esaminan",
+      "date": "2026-10-22T15:37:50+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
       "title": "French students demonstrate again, despite school holidays",
       "url": "https://www.france24.com/en/french-students-demonstrate-again-despite-school-holidays",
       "description": "The French \"interfac\" student movement organised new protests on Thursday, even though it is currently the school holidays in France. Student representatives are set to meet soon with Education Minister Edouard Geffray. Details by FRANCE 24's Ellen Gainsford.",
@@ -2689,6 +2869,16 @@
       "source": "France 24 English",
       "language": "en",
       "image": "https://s.france24.com/media/display/24fb9b58-ce2a-11f1-98a6-23d55109f116/w:1024/p:16x9/EN-20261022-150642-150910-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "La scala dell’indignazione vede in cima le vetrine rotte, poi Garlasco. Silenzio sulle armi nucleari",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/disordini-milano-media-indignazione-democrazia/8546285/",
+      "description": "“Ci sono immagini che speravamo di non vedere mai nelle nostre comunità” è l’espressione di biasimo che in questi giorni più accomuna i politici di centro destra e di centro sinistra nel commentare i disordini sociali di Milano finiti sui media e sulle prime pagine dei giornali. I fotogrammi in discussione ritraggono s",
+      "date": "2026-10-22T15:37:30+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -2752,6 +2942,16 @@
       "kind": "magazine"
     },
     {
+      "title": "Perché ai Campi Flegrei c’è odore di zolfo e non si può escludere un terremoto di Mw 5.1? Le risposte INGV",
+      "url": "https://www.geopop.it/perche-ai-campi-flegrei-ce-odore-di-zolfo-e-non-si-puo-escludere-un-terremoto-di-mw-5-1-le-risposte-ingv/",
+      "description": "Dopo il terremoto Md 4.7 ai Campi Flegrei, l’INGV ha lanciato l'iniziativa “Comprendere i Campi Flegrei: le risposte dell'INGV” per spiegare in modo semplice la situazione flegrea: un sisma Mw 5.1 non si può escludere, ma non è certo che avverrà; meno terremoti non significano fine della crisi bradisismica e un odore d",
+      "date": "2026-10-22T15:30:02+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/immagine-campi-flegrei-300x225.jpg",
+      "kind": "magazine"
+    },
+    {
       "title": "Bye, bye Photoshop, Word und Co?: KI stellt die Softwarewelt auf den Kopf",
       "url": "https://www.spektrum.de/news/ki-kopiert-kommerzielle-software-wie-spiele-photoshop-oder-word/2350978",
       "description": "Mit Sprachmodellen lassen sich teure Programme nachbauen. Die Macht der Tech-Konzernen könnte damit wackeln, während die digitale Welt in fehlerhaften KI-Kopien versinkt.",
@@ -2802,6 +3002,16 @@
       "kind": "presse"
     },
     {
+      "title": "“La legge del governo contro le azioni temerarie non protegge quasi nessuno, va cambiata”: il flash-mob di Case Italia con gli ombrelli bucati",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/cause-bavaglio-decreto-slapp-italia-flash-mob-case-notizie/8546787/",
+      "description": "Un decreto recepito in ritardo, in modo a dir poco restrittivo e ignorando le raccomandazioni Ue. Nei fatti, “un’occasione sprecata, che lascerà senza tutele 9 vittime di querele temerarie su 10″. Con un flash mob a Piazza Capranica a Roma, la rete CASE Italia – il gruppo di lavoro italiano della Coalition Against SLAP",
+      "date": "2026-10-22T15:23:53+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
       "title": "Neues Plattenlabel von Igor Levit: \"Mein Leben ist No Silence\"",
       "url": "https://www.tagesschau.de/kultur/musik-igor-levit-neues-plattenlabel-100.html",
       "description": "Igor Levit ist als Pianist international erfolgreich - und mischt sich immer wieder politisch ein. Mit seinem eigenen Label will er jetzt auch anderen Künstlern eine Plattform geben. Der Name hat eine persönliche Geschichte. Von Max Kell.",
@@ -2809,6 +3019,16 @@
       "source": "Tagesschau",
       "language": "de",
       "image": "https://images.tagesschau.de/image/d31b5b42-7900-4080-8a23-5435a186e545/AAABoWP7AQc/AAABnSSvrFg/16x9-big/levit-118.jpg?width=1920",
+      "kind": "presse"
+    },
+    {
+      "title": "“Interrompa subito la diretta”: in Ue scoppia il caso della consigliera dei Patrioti che trasmetteva all’esterno informazioni riservate sul bilancio",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/22/interrompa-subito-la-diretta-in-ue-scoppia-il-caso-della-consigliera-dei-patrioti-che-trasmetteva-allesterno-informazioni-riservate-sul-bilancio/8546518/",
+      "description": "Mentre la Plenaria di Strasburgo iniziava a svuotarsi, con europarlamentari, staff e assistenti che prendono la strada di Bruxelles o dei rispettivi Paesi d’origine, nelle stanze dell’Eurocamera, giovedì mattina, si continua a lavorare. Uno degli incontri in corso, però, si interrompe bruscamente: “Fermi immediatamente",
+      "date": "2026-10-22T15:22:57+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
       "kind": "presse"
     },
     {
@@ -3162,6 +3382,16 @@
       "kind": "magazine"
     },
     {
+      "title": "La Luna si sta restringendo a causa dei terremoti lunari: 45 m di raggio persi e rilevate 10mila faglie",
+      "url": "https://www.geopop.it/la-luna-si-sta-restringendo-a-causa-terremoti-lunari-45-m-di-raggio-persi-e-rilevate-10mila-faglie/",
+      "description": "La Luna si sta lentamente contraendo mentre il suo nucleo si raffredda: analizzando migliaia di faglie individuate dalle immagini della sonda Lunar Reconnaissance Orbiter della NASA i ricercatori hanno stimato una riduzione del raggio di circa 44 metri in 400-800 milioni di anni, con implicazioni per i futuri insediame",
+      "date": "2026-10-22T14:30:01+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/moon-base-esa-300x225.jpg",
+      "kind": "magazine"
+    },
+    {
       "title": "La Junta Electoral Central avisa a Sánchez de que sus palabras en el último Consejo Europeo están \"al límite\" de lo aceptable",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ada1d9dfc6c83566c8b4584.html",
       "description": "El presidente ya fue sancionado con una multa de 2.200 euros antes de las generales del 23-J por publicitar sus propios logros y arremeter contra la oposición desde una tribuna institucional Leer",
@@ -3402,6 +3632,16 @@
       "kind": "magazine"
     },
     {
+      "title": "Tifone Champi verso Taiwan, dove si dirige: venti a 240 km/h, onde di 13m e voli cancellati",
+      "url": "https://www.geopop.it/tifone-champi-verso-taiwan-dove-si-dirige-venti-a-240-km-h-onde-di-13m-e-voli-cancellati/",
+      "description": "Il tifone Champi punta Taiwan, con venti oltre 240 km/h e onde di 13 metri. Secondo le previsioni, non toccherà direttamente terra, ma resta allerta massima per mareggiate, forti piogge e frane. Oltre 100 voli cancellati: la sua rotta proseguirà verso Cina e Giappone.Continua a leggere",
+      "date": "2026-10-22T13:47:00+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/tifone-champi-satellite-221026-300x225.jpg",
+      "kind": "magazine"
+    },
+    {
       "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
       "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
       "description": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
@@ -3532,16 +3772,6 @@
       "kind": "presse"
     },
     {
-      "title": "Microsoft Frontier Tour: KI ist wie der Kölner Dom – eine Vision",
-      "url": "https://www.heise.de/news/Microsoft-Frontier-Tour-KI-ist-wie-der-Koelner-Dom-eine-Vision-11496656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "description": "Microsoft präsentierte auf der Frontier Tour in Köln eine große KI-Produktschau. Fokus: Kontrolle über KI-Anwendungen und Cloud-Souveränität.",
-      "date": "2026-10-22T13:21:00+00:00",
-      "source": "Heise Wissenschaft",
-      "language": "de",
-      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/7/1/5/4/Frontier-Tour-Cologne_2026-10-22_lp2124-b0c4f2365b374c88.jpeg",
-      "kind": "magazine"
-    },
-    {
       "title": "Vom Amiga-Studio zum Rockstar-Imperium: Der lange Weg zu „GTA 3“",
       "url": "https://www.heise.de/hintergrund/25-Jahre-GTA-3-Willkommen-in-Liberty-City-11496918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "description": "Vor 25 Jahren veröffentlicht Rockstar Games „Grand Theft Auto III“. Es wird der Durchbruch für eine Serie, die sich seitdem fast 500 Millionen Mal verkauft hat.",
@@ -3549,6 +3779,16 @@
       "source": "Heise Wissenschaft",
       "language": "de",
       "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/7/2/8/3/gta-polizei-1efaa6e044daa9c6.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "title": "Microsoft Frontier Tour: KI ist wie der Kölner Dom – eine Vision",
+      "url": "https://www.heise.de/news/Microsoft-Frontier-Tour-KI-ist-wie-der-Koelner-Dom-eine-Vision-11496656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "description": "Microsoft präsentierte auf der Frontier Tour in Köln eine große KI-Produktschau. Fokus: Kontrolle über KI-Anwendungen und Cloud-Souveränität.",
+      "date": "2026-10-22T13:21:00+00:00",
+      "source": "Heise Wissenschaft",
+      "language": "de",
+      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/7/1/5/4/Frontier-Tour-Cologne_2026-10-22_lp2124-b0c4f2365b374c88.jpeg",
       "kind": "magazine"
     },
     {
@@ -3799,6 +4039,16 @@
       "source": "تقنية بلا حدود",
       "language": "ar",
       "image": "https://www.unlimit-tech.com/wp-content/uploads/IMG_5828-1-1024x512.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "title": "Perché il programma ECO consuma meno se dura più a lungo: cos’è e come funziona",
+      "url": "https://www.geopop.it/programma-eco-cose-come-funziona-perche-dura-di-piu/",
+      "description": "Più tempo, meno consumi: il programma Eco della lavatrice ottimizza l’uso di acqua ed energia grazie a temperature più basse e cicli prolungati. Il risultato è un risparmio elettrico che, in determinate condizioni, può superare il 50%Continua a leggere",
+      "date": "2026-10-22T12:00:49+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/programma-eco-lavatrice-300x225.jpg",
       "kind": "magazine"
     },
     {
@@ -4140,6 +4390,16 @@
       "language": "de",
       "image": "https://images.tagesschau.de/image/6447e8f0-a14c-4c48-82f8-94e8b1770785/AAABoWMlvho/AAABnSSvrFg/16x9-big/pflege-seniorenheim-102.jpg?width=1920",
       "kind": "presse"
+    },
+    {
+      "title": "Riparare uno smartphone può costare oltre 1.000 euro: quali sono i componenti più cari",
+      "url": "https://www.geopop.it/riparare-uno-smartphone-puo-costare-oltre-1-000-euro-quali-sono-i-componenti-piu-cari/",
+      "description": "Dagli schermi dei modelli pieghevoli alle fotocamere e alle batterie degli smartphone tradizionali, i costi di riparazione possono variare di centinaia di euro. Il confronto tra i listini di Apple e Samsung spiega da cosa dipendono queste differenze e quando può convenire un'assicurazione.Continua a leggere",
+      "date": "2026-10-22T10:30:44+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/smartphone-costo-riparazione-300x225.jpg",
+      "kind": "magazine"
     },
     {
       "title": "En oferta la powerbank con disipador térmico, pantalla y diseño a medida para iPhone con carga MagSafe y por cable",
@@ -4562,6 +4822,16 @@
       "kind": "presse"
     },
     {
+      "title": "Proteste autotrasportatori, ancora blocco dei tir in Campania: la mappa delle 288 manifestazioni",
+      "url": "https://www.geopop.it/proteste-autotrasportatori-ancora-blocco-dei-tir-in-campania-la-mappa-delle-288-manifestazioni/",
+      "description": "Proseguono le proteste degli autotrasportatori al Sud contro il caro carburante. Nel frattempo, è stata creata una mappa interattiva che raccoglie le mobilitazioni pacifiche in programma in Italia nelle prossime settimane: l'obiettivo è informare la popolazione e incentivare la partecipazione alle mobilitazioni pacific",
+      "date": "2026-10-22T09:05:58+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/mappa-proteste-italia-300x225.jpeg",
+      "kind": "magazine"
+    },
+    {
       "title": "Weiter weltweit Internet-Probleme wegen PHP-Sicherheitslücke",
       "url": "https://www.dw.com/de/weiter-weltweit-internet-probleme-wegen-php-sicherheitslücke/a-79728533?maca=de-rss-de-all-1119-rdf",
       "description": "Bei den Betreibern von Internetseiten herrscht weiterhin Furcht, dass Kriminelle die neu entdeckte Sicherheitslücke in der wichtigen Programmiersprache PHP nutzen. Offenbar gab es bereits Millionen Hackerangriffe.",
@@ -4659,6 +4929,16 @@
       "source": "تقنية بلا حدود",
       "language": "ar",
       "image": "https://www.unlimit-tech.com/wp-content/uploads/IMG_5821-1-1024x503.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "title": "Scoperto in Cina il fungo gigante D-rex, è alto 50cm e pesa 2,2kg: gli altri miceti più grandi",
+      "url": "https://www.geopop.it/scoperto-in-cina-il-fungo-gigante-d-rex-e-alto-50cm-e-pesa-22kg-gli-altri-miceti-piu-grandi/",
+      "description": "Alto fino a mezzo metro e pesante oltre 2 kg, il D-rex è una scoperta importante: una nuova famiglia tassonomica risalente a 65 milioni di anni fa trovata nelle foreste dello Yunnan.Continua a leggere",
+      "date": "2026-10-22T08:00:03+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/funghi-piu-grandi-al-mondo-300x225.jpg",
       "kind": "magazine"
     },
     {
@@ -4792,6 +5072,16 @@
       "kind": "presse"
     },
     {
+      "title": "Il satellite russo Kosmos 2612 si è avvicinato a quello USA che supporta Kiev, cos’è successo e perché",
+      "url": "https://www.geopop.it/perche-satellite-russo-kosmos-2612-si-avvicina-satellite-usa-iceye-x36-ucraina/",
+      "description": "Il satellite militare russo Kosmos 2612 si è avvicinato intenzionalmente al satellite commerciale ICEYE-X36, registrato negli USA e usato per immagini radar fornite all'Ucraina. L'obiettivo potrebbe essere stato quello di disturbare il satellite americano, costringendolo a riadattare le proprie orbite e consumando quin",
+      "date": "2026-10-22T06:33:35+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/satellite-iceye-spazio-300x225.jpg",
+      "kind": "magazine"
+    },
+    {
       "title": "Violet Jessop und Ibn Battuta",
       "url": "https://www.spektrum.de/podcast/geschichten-aus-der-geschichte-violet-jessop-und-ibn-battuta/2350707",
       "description": "In dieser Folge des Podcasts gibt es zwei Hörbuchgeschichten – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters. 🎙️",
@@ -4869,6 +5159,16 @@
       "source": "bild der wissenschaft",
       "language": "de",
       "image": "",
+      "kind": "magazine"
+    },
+    {
+      "title": "Cosa accade nel mantello sotto il Mediterraneo centrale: gli studi dell’INGV sulla sismicità",
+      "url": "https://www.geopop.it/cosa-accade-nel-mantello-sotto-il-mediterraneo-centrale-gli-studi-dellingv-sulla-sismicita/",
+      "description": "Due nuovi studi dell'INGV hanno ricostruito nel dettaglio la struttura di crosta e mantello nel Mediterraneo centrale e le dinamiche con cui la placca ionica sprofonda sotto l'arco calabro. Questo sprofondamento è alla base dei terremoti dell'area e conoscerne i meccanismi permette di comprendere meglio la distribuzion",
+      "date": "2026-10-22T05:00:41+00:00",
+      "source": "Geopop",
+      "language": "it",
+      "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/10/tettonica-mediterraneo-300x225.jpg",
       "kind": "magazine"
     },
     {
@@ -7588,8 +7888,8 @@
       "kind": "presse",
       "ok": true,
       "count": 24,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7597,8 +7897,8 @@
       "kind": "presse",
       "ok": true,
       "count": 23,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7606,8 +7906,8 @@
       "kind": "presse",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7615,8 +7915,8 @@
       "kind": "presse",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7624,8 +7924,8 @@
       "kind": "presse",
       "ok": true,
       "count": 39,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7633,8 +7933,8 @@
       "kind": "presse",
       "ok": true,
       "count": 45,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7642,8 +7942,8 @@
       "kind": "presse",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7651,8 +7951,8 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7660,8 +7960,8 @@
       "kind": "presse",
       "ok": true,
       "count": 24,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7669,8 +7969,8 @@
       "kind": "presse",
       "ok": true,
       "count": 34,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7678,8 +7978,8 @@
       "kind": "presse",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7687,8 +7987,8 @@
       "kind": "presse",
       "ok": true,
       "count": 24,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7696,8 +7996,8 @@
       "kind": "presse",
       "ok": true,
       "count": 26,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7705,8 +8005,8 @@
       "kind": "presse",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7714,8 +8014,8 @@
       "kind": "presse",
       "ok": true,
       "count": 40,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7723,8 +8023,8 @@
       "kind": "presse",
       "ok": true,
       "count": 24,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7732,8 +8032,8 @@
       "kind": "presse",
       "ok": true,
       "count": 37,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7741,8 +8041,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7750,8 +8050,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7759,8 +8059,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7768,8 +8068,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 6,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7777,8 +8077,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7786,8 +8086,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 30,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7795,8 +8095,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 13,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7804,8 +8104,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 5,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7813,8 +8113,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7822,8 +8122,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7831,8 +8131,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 15,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7840,8 +8140,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 26,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7849,8 +8149,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 16,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7858,8 +8158,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7867,8 +8167,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7876,8 +8176,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7885,8 +8185,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7894,8 +8194,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7903,8 +8203,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 30,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7912,8 +8212,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7921,8 +8221,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 15,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7930,8 +8230,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7939,8 +8239,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7948,8 +8248,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 18,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7957,8 +8257,8 @@
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -7975,8 +8275,8 @@
       "kind": "presse",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -8002,8 +8302,8 @@
       "kind": "presse",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     },
     {
@@ -8011,10 +8311,37 @@
       "kind": "presse",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T20:22:23.780581+00:00",
-      "success_at": "2026-10-22T20:22:23.780581+00:00",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
+      "last_slot": null
+    },
+    {
+      "source": "Il Fatto Quotidiano",
+      "kind": "presse",
+      "ok": true,
+      "count": 25,
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
+      "last_slot": null
+    },
+    {
+      "source": "Fanpage",
+      "kind": "presse",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": null,
+      "last_slot": null
+    },
+    {
+      "source": "Geopop",
+      "kind": "magazine",
+      "ok": true,
+      "count": 10,
+      "updated_at": "2026-10-22T20:23:59.062739+00:00",
+      "success_at": "2026-10-22T20:23:59.062739+00:00",
       "last_slot": null
     }
   ],
-  "refreshed_sources": 45
+  "refreshed_sources": 47
 }
