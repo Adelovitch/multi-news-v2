@@ -101,10 +101,24 @@ def collect():
             req=urllib.request.Request(url,headers={"User-Agent":"MultiNews/2.0 RSS aggregator"})
             with urllib.request.urlopen(req,timeout=15) as response:blob=response.read(2_000_000)
             found=parse(blob,lang,source)
-            for article in found[:20]:
+            valid=[]
+            for article in found:
+                if article["date"]:
+                    try:
+                        published=datetime.fromisoformat(article["date"])
+                        if published < cutoff:
+                            continue
+                    except (TypeError,ValueError):
+                        continue
+                valid.append(article)
+            added=0
+            for article in valid[:MAX_PER_SOURCE]:
                 key=article["url"].split("#")[0]
-                if key not in seen:seen.add(key);articles.append(article)
-            status.append({"source":source,"kind":("magazine" if source in MAGAZINES else "presse"),"ok":bool(valid),"count":len(valid)})
+                if key not in seen:
+                    seen.add(key)
+                    articles.append(article)
+                    added+=1
+            status.append({"source":source,"kind":("magazine" if source in MAGAZINES else "presse"),"ok":bool(valid),"count":len(valid),"added":added})
         except Exception as exc:
             status.append({"source":source,"kind":("magazine" if source in MAGAZINES else "presse"),"ok":False,"error":str(exc)[:120]})
     articles.sort(key=lambda a:a["date"] or "",reverse=True)
