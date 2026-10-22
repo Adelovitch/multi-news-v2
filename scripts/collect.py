@@ -270,6 +270,13 @@ def collect(mode="both"):
 def main():
     mode=os.getenv("COLLECT_MODE","both")
     result=collect(mode)
+    changed=(mode!="scheduled" or result["refreshed_sources"]>0)
+    if os.getenv("GITHUB_OUTPUT"):
+        with open(os.environ["GITHUB_OUTPUT"],"a",encoding="utf-8") as output:
+            output.write(f"changed={str(changed).lower()}\\n")
+    if not changed:
+        print("No sources due; skip update and deployment")
+        return
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding="utf-8")
     print(f"Mode: {mode}; Articles: {len(result['articles'])}; "
