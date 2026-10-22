@@ -31,6 +31,7 @@ class CollectorTests(unittest.TestCase):
         self.assertIn(("it","Il Fatto Quotidiano","https://www.ilfattoquotidiano.it/feed/"),SOURCES)
         self.assertIn(("pt","Observador","https://observador.pt/feed/"),SOURCES)
         self.assertIn("Geopop",MAGAZINES)
+        self.assertIn(("pt","RTP Notícias","https://www.rtp.pt/noticias/rss/"),SOURCES)
 
     def test_local_morning_slots(self):
         from scripts.collect import schedule_slot
