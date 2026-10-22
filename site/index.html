@@ -39,7 +39,7 @@ function renderMediaNav(){
  addButton("Tous","",visible.length);
  for(const name of [...counts.keys()].sort((a,b)=>a.localeCompare(b,lang)))addButton(name,name,counts.get(name));
 }
-function normalizedHeadline(title){return (title||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase().replace(/[^\\p{L}\\p{N}]+/gu," ").trim()}
+function normalizedHeadline(title){return (title||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase().replace(/[^\p{L}\p{N}]+/gu," ").trim()}
 function groupIdenticalHeadlines(items){
  const groups=[],index=new Map();
  for(const item of items){
