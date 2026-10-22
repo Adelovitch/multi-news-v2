@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adelovitch.github.io/multi-news-v2/sitemap.xml
