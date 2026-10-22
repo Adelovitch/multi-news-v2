@@ -34,6 +34,33 @@ def field(entry,*names):
         node=entry.find(name)
         if node is not None and node.text:return clean(node.text)
     return ""
+def extract_image(entry):
+    """Find images in RSS media fields, enclosures, or embedded article HTML."""
+    candidates = []
+    for node in entry.iter():
+        local = node.tag.rsplit("}", 1)[-1].lower()
+        namespace = node.tag.split("}")[0][1:] if "}" in node.tag else ""
+        if local in ("thumbnail", "content") and namespace == "http://search.yahoo.com/mrss/":
+            candidates.append(node.get("url", ""))
+        elif local == "enclosure" and node.get("type", "").lower().startswith("image/"):
+            candidates.append(node.get("url", ""))
+        elif local == "image" and node.get("href"):
+            candidates.append(node.get("href", ""))
+    for node in entry.iter():
+        local = node.tag.rsplit("}", 1)[-1].lower()
+        if local not in ("description", "encoded", "summary", "content"):
+            continue
+        content = html.unescape(node.text or "")
+        for match in re.finditer(r"<img\\b[^>]*?\\b(?:src|data-src)\\s*=\\s*['\\\"]([^'\\\"]+)['\\\"]", content, re.IGNORECASE):
+            candidates.append(match.group(1))
+    for candidate in candidates:
+        url = html.unescape(candidate.strip())
+        parsed = urlparse(url)
+        if parsed.scheme in ("http", "https") and parsed.netloc:
+            return url
+    return ""
+
+
 def parse(blob,lang,source):
     root=ET.fromstring(blob)
     items=root.findall(".//item") or root.findall(".//{http://purl.org/rss/1.0/}item")
@@ -47,13 +74,7 @@ def parse(blob,lang,source):
                 if link.get("rel","alternate")=="alternate":url=link.get("href","");break
         u=urlparse(url)
         if not title or u.scheme not in ("http","https") or not u.netloc:continue
-        image=""
-        for item in entry.iter():
-            if item.tag in ("{http://search.yahoo.com/mrss/}thumbnail","{http://search.yahoo.com/mrss/}content") and item.get("url"):
-                image=item.get("url");break
-            if item.tag=="enclosure" and item.get("type","").startswith("image/"):
-                image=item.get("url","");break
-        if image and urlparse(image).scheme not in ("http","https"):image=""
+        image=extract_image(entry)
         articles.append(dict(title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image))
     return articles
 def collect():
