@@ -56,8 +56,10 @@ SOURCES = [
     ("ar","عرب هاردوير","https://arabhardware.net/feed"),
     ("ar","تقنية بلا حدود","https://www.unlimit-tech.com/feed/"),
     ("ar","تقني بلس","https://tiqnyplus.com/feed/"),
+    ("it","Wired Italia","https://www.wired.it/feed/rss"),
+    ("pt","Observador","https://observador.pt/feed/"),
 ]
-MAGAZINES = {"Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
+MAGAZINES = {"Wired Italia", "Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
 # Add only verified evening-edition feeds here. Ordinary news sites stay morning-only.
 EVENING_SOURCES = set()
 # Geographic origin of each newsroom, not the language of its feed.
@@ -68,6 +70,7 @@ SOURCE_TIMEZONES = {
     "El País":"Europe/Madrid", "El Mundo":"Europe/Madrid",
     "DW Español":"Europe/Berlin", "Deutsche Welle":"Europe/Berlin",
     "Tagesschau":"Europe/Berlin", "DW Arabic":"Europe/Berlin",
+    "Wired Italia":"Europe/Rome", "Observador":"Europe/Lisbon",
 }
 DEFAULT_TIMEZONE = "Europe/Paris"
 MORNING_HOURS = {6,7,8}
