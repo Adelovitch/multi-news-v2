@@ -273,7 +273,7 @@ def main():
     changed=(mode!="scheduled" or result["refreshed_sources"]>0)
     if os.getenv("GITHUB_OUTPUT"):
         with open(os.environ["GITHUB_OUTPUT"],"a",encoding="utf-8") as output:
-            output.write(f"changed={str(changed).lower()}\\n")
+            output.write(f"changed={str(changed).lower()}\n")
     if not changed:
         print("No sources due; skip update and deployment")
         return
