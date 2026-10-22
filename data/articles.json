@@ -1,6 +1,816 @@
 {
-  "updated_at": "2026-10-22T18:38:51.624624+00:00",
+  "updated_at": "2026-10-22T20:19:05.301432+00:00",
   "articles": [
+    {
+      "title": "Scam alert: The government is not deleting your phone number",
+      "url": "https://www.popsci.com/technology/ftc-phone-number-scam/",
+      "description": "The FTC warned that con artists are pretending to be the FTC.\nThe post Scam alert: The government is not deleting your phone number appeared first on Popular Science.",
+      "date": "2026-10-22T20:15:00+00:00",
+      "source": "Popular Science",
+      "language": "en",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/10/Phone-Scam-Credit-Card.jpg?quality=85",
+      "kind": "magazine"
+    },
+    {
+      "title": "Professora baleada no Oregon: \"Fingi que estava morta\"",
+      "url": "https://observador.pt/2026/10/22/fingi-que-estava-morta-professora-alvejada-em-escola-desmente-relatos-sobre-ataque-no-oregon/",
+      "description": "Becky Drury perdeu quase a mão esquerda no ataque à escola Silver Rail, há uma semana. Diz que foi atingida antes de poder proteger as crianças na sua sala de aula, ao contrário do que foi noticiado.",
+      "date": "2026-10-22T20:13:16+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16085510/47951610.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Blip avança com despedimento coletivo em Portugal",
+      "url": "https://observador.pt/2026/10/22/blip-anuncia-despedimento-coletivo-e-da-72-horas-aos-trabalhadores-para-negociarem-condicoes-de-saida/",
+      "description": "Empresa de software para apostas desportivas e casinos online anunciou os despedimentos por email. Qualidade e Produto são as secções mais afetadas. Há cortes também em Malta, Roménia e Reino Unido.",
+      "date": "2026-10-22T20:12:19+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1683:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/11/22162911/blip-18may-039.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Crash d’un avion de chasse près de Nancy : un deuxième mort confirmé par le parquet",
+      "url": "https://www.lefigaro.fr/actualite-france/crash-d-un-avion-de-chasse-pres-de-nancy-un-deuxieme-mort-confirme-par-le-parquet-20261022",
+      "description": "L’accident s’est produit mardi soir vers 23h. «Je suis en mesure de vous indiquer ce jour que les éléments découverts sur la zone de l’accident permettent de confirmer deux décès», a indiqué le parquet de Metz ce mercredi.",
+      "date": "2026-10-22T20:11:59+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/ca3ae1b4d59b28c1482fe08c46c6cdf95bcba69be20b87683ae15271eab9869f.JPG",
+      "kind": "presse"
+    },
+    {
+      "title": "Emmy-winning US actor Tom Skerritt, known for ‘Top Gun’ and ‘Picket Fences’, dies at 93",
+      "url": "https://www.france24.com/en/culture/20261022-emmy-winning-us-actor-tom-skerritt-top-gun-and-picket-fences-dies-93",
+      "description": "US actor Tom Skerritt, known for his roles as the doomed caption in 1979's \"Alien\", a tough flight instructor in the 1986 megahit “Top Gun” and who won an Emmy award winner for his work in the television series “Picket Fences”, has died at 93, his family said in a statement.",
+      "date": "2026-10-22T20:11:54+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/491a12d0-ce52-11f1-8d29-8d87bc3aeb3a/w:1024/p:16x9/AP100517146914.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "مصر: إحالة الصحافية لينا عطالله مديرة منصة \"مدى مصر\" المستقلة إلى المحاكمة",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261022-%D9%85%D8%B5%D8%B1-%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%81%D9%8A%D8%A9-%D9%84%D9%8A%D9%86%D8%A7-%D8%B9%D8%B7%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%AF%D9%8A%D8%B1%D8%A9-%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%AF%D9%89-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D9%84%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9",
+      "description": "أحالت السلطات المصرية، الخميس، الصحافية لينا عطالله، رئيسة تحرير موقع \"مدى مصر\" المستقل، إلى المحاكمة بتهمة إدارة منصة إلكترونية دون ترخيص، وفق ما أعلنه الموقع نفسه، في خطوة تأتي بعد أسابيع من توقيف فريق تحرير منصة \"متصدقش\" المتخصصة في تقصي الحقائق. وتعتبر منظمات حقوقية أن هذه الملاحقة القضائية تمثل تصعيدا غير مسبوق ضد",
+      "date": "2026-10-22T20:11:44+00:00",
+      "source": "France 24 Arabic",
+      "language": "ar",
+      "image": "https://s.france24.com/media/display/cae757c0-2997-11f0-adf6-005056bf30b7/w:1024/p:16x9/capture-36714491868188c44261a57.15478933.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+      "description": "Republican Mike DeWine said ad featuring estranged mother of Democrat Amy Acton was ‘wrong’, drawing ire of presidentDonald Trump issued a swift rebuke against Mike DeWine, Ohio’s Republican governor, who on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to release an ad critical of his Democratic ri",
+      "date": "2026-10-22T20:09:55+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/79881986e9e55010583d139b6af9df6b4f1197b5/327_0_3271_2617/master/3271.jpg?width=140&quality=85&auto=format&fit=max&s=dcfd71962b55cf96d34269917879157a",
+      "kind": "presse"
+    },
+    {
+      "title": "El Real Madrid pide pista: cose a triples al Maccabi para su séptima victoria seguida",
+      "url": "https://www.elmundo.es/deportes/baloncesto/euroliga/2026/10/22/6ada4cb2e4d4d8a5518b458f.html",
+      "description": "Los blancos se reponen a un mal inicio con una explosión ofensiva liderada por Campazzo (21 puntos) y Andrés Feliz (18) Leer",
+      "date": "2026-10-22T20:09:34+00:00",
+      "source": "El Mundo",
+      "language": "es",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926945373535.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "La Finlande autorise l’ouverture du premier site de stockage définitif de déchets nucléaires au monde",
+      "url": "https://www.lefigaro.fr/flash-actu/la-finlande-accorde-l-ouverture-du-premier-site-de-stockage-definitif-de-dechets-nucleaires-au-monde-20261022",
+      "description": "Creusé dans un socle rocheux stable vieux de 1,9 milliard d’années à Eurajoki, dans le sud-ouest du pays, ce site accueillera des déchets nucléaires où ils resteront radioactifs et dangereux pendant des dizaines de milliers d’années.",
+      "date": "2026-10-22T20:07:21+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/ff492e0b9ceca2199b48704ab06156c7e8bc0ee788bf661391dc8a195f19bf09.JPG",
+      "kind": "presse"
+    },
+    {
+      "title": "Afrique : Interpol mène une vaste opération contre la cybercriminalité, 1 462 suspects arrêtés dans 21 pays",
+      "url": "https://www.lefigaro.fr/international/afrique-interpol-mene-une-vaste-operation-contre-la-cybercriminalite-1-462-suspects-arretes-dans-21-pays-20261022",
+      "description": "Baptisée «Serengeti III», l’opération a également permis le démantèlement de 10.909 réseaux malveillants. 105 millions de dollars américains de fonds illicites ont par ailleurs été récupérés.",
+      "date": "2026-10-22T20:07:05+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/3522038a06dd6399e201884badaf34edd9197db9ff69a1d6e7c0b90f79309a44.JPG",
+      "kind": "presse"
+    },
+    {
+      "title": "Émeutes : comment l’Iran, la Russie et des médias algériens ont tenté d’instrumentaliser la colère en France",
+      "url": "https://www.lefigaro.fr/actualite-france/emeutes-comment-l-iran-la-russie-et-des-medias-algeriens-ont-tente-d-instrumentaliser-la-colere-en-france-20261022",
+      "description": "DÉCRYPTAGE - Selon nos informations et un rapport fleuve, le Kremlin, Téhéran et des médias algériens ont tout fait pour ternir la réputation de l’Hexagone et diviser encore un peu plus la société française.",
+      "date": "2026-10-22T20:06:58+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/4d67e9a1554b4d0843e4a3212c44113b346a933f4dbe6425a2fba5e5d35efb5f.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Episódio 1. Um corpo na berma da estrada",
+      "url": "https://observador.pt/programas/as-sombras-de-duarte-lima/episodio-1-um-corpo-na-berma-da-estrada/",
+      "description": "Rosalina Ribeiro sai ao encontro do advogado Duarte Lima e desaparece. No dia seguinte uma mulher que corresponde à descrição dela é encontrada morta a tiro. Antestreia de “As Sombras de Duarte Lima”.",
+      "date": "2026-10-22T20:05:15+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16191428/as-sombras-de-duarte-lima-1920x1080-1.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "21h. Vários manifestantes estão em Lisboa e no Porto",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1794/",
+      "description": "O movimento da Acampada de Lisboa anunciou uma nova manifestação este fim-de-semana contra a especulação e pelo direito à habitação, que vai acontecer no sábado às 3 da tarde.",
+      "date": "2026-10-22T20:03:56+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "kind": "presse"
+    },
+    {
+      "title": "Tom Skerritt, estrella de ‘Alien’, ‘Top Gun’ y ‘MASH*’, muere a los 93 años",
+      "url": "https://elpais.com/cultura/2026-10-22/tom-skerritt-estrella-de-alien-top-gun-y-mash-muere-a-los-93-anos.html",
+      "description": "El actor estadounidense, con una carrera de más de seis décadas en cine y televisión, ganó un Emmy por su papel protagonista en la serie ‘Picket Fences’",
+      "date": "2026-10-22T20:01:27+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://imagenes.elpais.com/resizer/v2/CVHKVKNSZFMGZBHP4HMA3G24YQ.jpg?auth=88b5d44e645d18fc99dd89466faa8ca889fa15076d24d4e94edbfefc38beef73",
+      "kind": "presse"
+    },
+    {
+      "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
+      "url": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
+      "description": "Regulators say removing ‘unnecessary burdens’ will save businesses about £2bn over 10 yearsThe UK is watering down rules introduced in the aftermath of the financial crisis that were designed to hold City bosses accountable for wrongdoing.The plans, put forward by the financial industry’s two top regulators, the Bank o",
+      "date": "2026-10-22T20:00:49+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/41e48586563d0b032c69c6d544b0a454a0bef097/335_0_3585_2869/master/3585.jpg?width=140&quality=85&auto=format&fit=max&s=7563e4975e8d7ed45465ea2a2cb341f0",
+      "kind": "presse"
+    },
+    {
+      "title": "AIMA pode gastar até 31,35 milhões em documentos oficiais",
+      "url": "https://observador.pt/2026/10/22/aima-autorizada-a-gastar-ate-3135-milhoes-de-euros-em-documentos-oficiais/",
+      "description": "Verba cobre produção, emissão e expedição de documentos para os cerca de 1,6 milhões de estrangeiros residentes em Portugal até ao primeiro semestre de 2027.",
+      "date": "2026-10-22T20:00:25+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:180/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/21131212/473619931-122176764938097229-9212562912656034980-n.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "لينوفو تطرح حاسوبها المحمول الاقتصادي IdeaPad Slim 3x 14Q7X11 في أسواق جديدة ببطارية تعمل حتى 33 ساعة",
+      "url": "https://www.unlimit-tech.com/2026/10/%d9%84%d9%8a%d9%86%d9%88%d9%81%d9%88-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%ad%d8%a7%d8%b3%d9%88%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%84-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af/",
+      "description": "هذا الموضوع لينوفو تطرح حاسوبها المحمول الاقتصادي IdeaPad Slim 3x 14Q7X11 في أسواق جديدة ببطارية تعمل حتى 33 ساعة ظهر على التقنية بلا حدود.\nوسعت لينوفو نطاق إطلاق حاسوبها المحمول الاقتصادي IdeaPad Slim 3x 14Q7X11 بحجم 14 بوصة ليشمل دولاً جديدة في منطقة اليورو والمملكة المتحدة وسنغافورة، مع خطط لتوفيره لاحقاً في الشرق ا",
+      "date": "2026-10-22T20:00:02+00:00",
+      "source": "تقنية بلا حدود",
+      "language": "ar",
+      "image": "https://www.notebookcheck.net/fileadmin/_processed_/1/2/csm_ideapad-slim-3x-14q7x11-euro-release-mid_d6ac10b30c.jpg",
+      "kind": "magazine"
+    },
+    {
+      "title": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "description": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidateSign up for the Breaking News US emailTrump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ adReporting from Anchorage, AlaskaMary Peltola’s campaign to ",
+      "date": "2026-10-22T19:59:48+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/24dabd0008159ee269025ab2ed202adaec9a715b/363_0_4822_3859/master/4822.jpg?width=140&quality=85&auto=format&fit=max&s=fe6614dc9eebf3096899c88f6541ebdf",
+      "kind": "presse"
+    },
+    {
+      "title": "‘The best on Earth’: Can weak economic growth undermine Europe’s ‘very sophisticated social system’?",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261022-the-best-on-earth-can-weak-economic-growth-undermine-europe-s-very-sophisticated-social-system",
+      "description": "Can Europe continue to sustain one of the world's most ambitious social models while falling increasingly behind its major economic competitors? For Pascal Lamy, former European Commissioner for Trade and former Director-General of the World Trade Organization, this question lies at the heart of the continent's mountin",
+      "date": "2026-10-22T19:59:12+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/835ccab0-ce51-11f1-a439-23d55109f116/w:1024/p:16x9/capture-a8c86a3d.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Aipac halts candidate endorsements amid US backlash against Israel",
+      "url": "https://www.theguardian.com/world/2026/oct/22/aipac-politics-endorsements-israel",
+      "description": "‘Political candidates’ once reflexive support for Israel has increasingly become a liability’When the American Israel Public Affairs Committee, the most prominent pro-Israel lobby group in the US, announced on Wednesday that it would stop endorsing candidates or make direct contributions to them, its many critics were ",
+      "date": "2026-10-22T19:54:40+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/74e600c87f927688aab02c3e95f7feea1d9a6ab0/963_0_4848_3881/master/4848.jpg?width=140&quality=85&auto=format&fit=max&s=b1b3f411bc1126d45baaebded75337b6",
+      "kind": "presse"
+    },
+    {
+      "title": "Woman arrested over shooting of police officer in Nottingham",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
+      "description": "Aisha Zaman, 27, charged with two firearms offences after incident in city centre on SundayA 27-year-old woman has been charged over the shooting of a police officer in Nottingham.Aisha Zaman, from the Hyson Green area of the city, has been charged with possession of a prohibited firearm and possession of that firearm ",
+      "date": "2026-10-22T19:52:05+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/30f3a6f79d4621ea8655d276a216ed7e11da9439/470_0_4696_3757/master/4696.jpg?width=140&quality=85&auto=format&fit=max&s=aef28c31001398b1d915d9fab9dc3f61",
+      "kind": "presse"
+    },
+    {
+      "title": "Défense : les Forges de Tarbes demandent leur placement en redressement judiciaire",
+      "url": "https://www.lefigaro.fr/societes/defense-les-forges-de-tarbes-demandent-leur-placement-en-redressement-judiciaire-20261022",
+      "description": "Seule usine française encore capable de produire des fûts d’obus de 155 mm, utilisés notamment pour les canons Caesar, l’entreprise a déposé sa requête jeudi devant le tribunal de commerce.",
+      "date": "2026-10-22T19:49:02+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/a15438877acd7976003a3ffabc382693682b992c5a283a947e90b1da60f1efc3.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Curfew imposed in certain areas of Paris every night until Monday morning",
+      "url": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
+      "description": "The curfew has been extended in certain areas of Paris, every night from 11:00 p.m. to 6:00 a.m. until Monday morning. The measure has been in force since the violence and looting of the weekend, according to an order from the Paris police prefecture published Thursday. A Paris protest Thursday organised by students --",
+      "date": "2026-10-22T19:48:45+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/bc610e72-ce4f-11f1-8150-23d55109f116/w:1024/p:16x9/EN-20261022-210133-211454-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
+      "description": "Unter US-Wählern gewinnt vor den Zwischenwahlen ein Thema an Bedeutung - und das ist besonders heikel für Präsident Trump. Immer mehr Bürger registrieren, wie sehr das Vermögen Trumps und seines Umfelds gewachsen ist. Von Ralf Borchard.",
+      "date": "2026-10-22T19:48:35+00:00",
+      "source": "Tagesschau",
+      "language": "de",
+      "image": "https://images.tagesschau.de/image/3324ffb7-1e0c-4df0-9df5-7303d9f6014d/AAABoWUVkW8/AAABnSSvrFg/16x9-big/trump-katar-airforceone-100.jpg?width=1920",
+      "kind": "presse"
+    },
+    {
+      "title": "Trump llamó a Musk para pedirle que levantara las restricciones de Starlink en Ucrania",
+      "url": "https://www.elmundo.es/internacional/2026/10/22/6ada623ce85ece2c2f8b4574.html",
+      "description": "El sistema de uso militar parecía funcionar con mayor normalidad el jueves, poco después de la llamada Leer",
+      "date": "2026-10-22T19:42:26+00:00",
+      "source": "El Mundo",
+      "language": "es",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926978319459.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Las acciones de Moderna y Merck se desploman tras la filtración de datos sobre la vacuna contra el melanoma",
+      "url": "https://elpais.com/economia/2026-10-22/las-acciones-de-moderna-y-merck-se-desploman-tras-la-filtracion-de-datos-sobre-la-vacuna-contra-el-melanoma.html",
+      "description": "El inyectable ayudó a reducir en un 42% el riesgo de recurrencia del cáncer, resultado que parece haber decepcionado a Wall Street",
+      "date": "2026-10-22T19:41:54+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://imagenes.elpais.com/resizer/v2/R5UXXC4HERK3ZP4YHLDINK4HVI.jpg?auth=ed4fe2cf4abd13eec07c3f57477bb915cff5ce7cb99d747934cb59b8c45bdc74",
+      "kind": "presse"
+    },
+    {
+      "title": "Charente-Maritime : un père de famille découvre que ses deux fils mineurs participent à un trafic de drogue et les dénonce à la police",
+      "url": "https://www.lefigaro.fr/faits-divers/charente-maritime-un-pere-de-famille-decouvre-que-ses-deux-fils-mineurs-participent-a-un-trafic-de-drogue-et-les-denonce-a-la-police-20261022",
+      "description": "Les deux jeunes ont été placés sous contrôle judiciaire en attendant leur passage devant le juge des enfants en décembre 2026, indique la police nationale sur Facebook.",
+      "date": "2026-10-22T19:40:35+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/f71115cf9821440c3bc1e1aa3b0914d3db77513a320039743b4588b7309ee537.JPG",
+      "kind": "presse"
+    },
+    {
+      "title": "Israel’s Ben-Gvir shares AI videos mocking Gazans as ‘donkeys’ and sending them to Paris",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261022-israel-s-ben-gvir-shares-ai-videos-mocking-gazans-as-donkeys-and-sending-them-to-paris",
+      "description": "Israel’s far-right minister Itamar Ben-Gvir is using AI-generated videos to mock Palestinians and push political messages ahead of the country’s election, including videos magically transporting Gazans to Paris or calling them \"donkeys\" for choosing to stay. One video has sparked an online spat with France. AI is playi",
+      "date": "2026-10-22T19:38:27+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/e919d896-ce4e-11f1-bdb8-7967b15eed96/w:1024/p:16x9/thumbnail-icon.png",
+      "kind": "presse"
+    },
+    {
+      "title": "Cinco novos casos de sarampo em Lisboa e Vale do Tejo",
+      "url": "https://observador.pt/2026/10/22/cinco-novos-casos-de-sarampo-em-lisboa-e-vale-do-tejo-elevam-para-15-as-infecoes-confirmadas-em-portugal-em-2026/",
+      "description": "DGS identificou cinco novos casos na região de Lisboa desde 6 de outubro. Três são importados, por pessoas que viajaram para países com elevada incidência da doença.",
+      "date": "2026-10-22T19:36:27+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1148:643:nowe:132:2/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/22135056/sarampo.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Moedas reforça aviso: \"Tem de se respeitar a lei\"",
+      "url": "https://observador.pt/2026/10/22/moedas-solidario-com-manifestantes-pela-habitacao-mas-reforca-aviso-tem-de-se-respeitar-a-lei/",
+      "description": "O autarca lisboeta condenou os incidentes nos protestos, como o ocorrido com a estátua no Rossio. Sábado há nova manifestação em Lisboa, Porto e assembleia popular em Braga.",
+      "date": "2026-10-22T19:35:45+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:273/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/03115409/dventura-cerimonia-memorial-vitimas-elevador-gloria-29-scaled.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "La emotiva sorpresa de varios coros a Patti Smith antes de los Premios Princesa de Asturias: “Pensé que iba a llorar de felicidad”",
+      "url": "https://elpais.com/videos/2026-10-22/la-emotiva-sorpresa-de-varios-coros-a-patti-smith-antes-de-los-premios-princesa-de-asturias-pense-que-iba-a-llorar-de-felicidad.html",
+      "description": "Decenas de grupos corales de toda España se han unido a la cantautora estadounidense para interpretar su icónico tema ‘People Have the Power’, un día antes de que Smith recoja el Premio Princesa de Asturias de las Artes",
+      "date": "2026-10-22T19:35:38+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261022/1228717_194127_video_1800.mp4",
+      "kind": "presse"
+    },
+    {
+      "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
+      "description": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+      "date": "2026-10-22T19:35:18+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "title": "Um Ataque com mísseis balísticos atinge Kiev e faz vários...",
+      "url": "https://observador.pt/programas/a-guerra-traduzida/um-ataque-com-misseis-balisticos-atinge-kiev-e-faz-varios-feridos/",
+      "description": "Um ataque russo com mísseis balísticos voltou a atingir a cidade de Kiev durante a noite, provocando ferimentos em pelo menos seis pessoas, quatro das quais crianças.",
+      "date": "2026-10-22T19:34:44+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "João Gil celebra 50 anos de carreira com álbum duplo",
+      "url": "https://observador.pt/2026/10/22/joao-gil-celebra-50-anos-de-carreira-com-album-duplo-inteiro-25-cancoes-entre-ineditos-e-classicos/",
+      "description": "\"Inteiro\" é o próximo álbum do músico que reúne várias facetas da sua carreira musical. A celebração apresenta músicas inéditas, mas reencontra também temas célebres de Trovante e Ala dos Namorados.",
+      "date": "2026-10-22T19:34:40+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22191748/47889155.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "O Kremlin confirma a reunião entre Vladimir Putin e o env...",
+      "url": "https://observador.pt/programas/a-guerra-traduzida/o-kremlin-confirma-a-reuniao-entre-vladimir-putin-e-o-enviado-norte-americano-steve-witkoff/",
+      "description": "A reunião focou-se nas perspetivas para o relançamento de conversações de paz sobre a Ucrânia e na eventual realização de encontros diplomáticos trilaterais no futuro.",
+      "date": "2026-10-22T19:34:16+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
+      "url": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
+      "description": "Korallen bieten im Meer einer großen Artenvielfalt ein Zuhause. Doch die Riffe sind durch die Erhitzung der Meere erheblich gefährdet. Eine Studie zeigt nun das ganze Ausmaß.",
+      "date": "2026-10-22T19:34:07+00:00",
+      "source": "Tagesschau",
+      "language": "de",
+      "image": "https://images.tagesschau.de/image/ba61b85e-e8dd-4241-8ac1-525a8de01bc9/AAABoWUF7A0/AAABnSSvrFg/16x9-big/korallen-158.jpg?width=1920",
+      "kind": "presse"
+    },
+    {
+      "title": "Le nouvel ambassadeur de France à Washington a pris ses fonctions",
+      "url": "https://www.lefigaro.fr/flash-actu/le-nouvel-ambassadeur-de-france-a-washington-a-pris-ses-fonctions-20261022",
+      "description": "La procédure d’agrément d’Aurélien Lechevallier avait été retardée par un différend diplomatique né fin juillet, entre Paris et Washington, après un tweet polémique.",
+      "date": "2026-10-22T19:33:01+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/b22b746d17fa954ac2fbd0d2e1dce2f537288de7534dd02509a87f881e4ebe98.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "White evangelical support for Trump slips but still strong as midterms near",
+      "url": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
+      "description": "Poll finds white evangelicals still outpace other demographic groups in supporting Trump, as he rallies right-wing base.",
+      "date": "2026-10-22T19:31:47+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+      "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
+      "description": "Health officials are investigating where Nigeria's first patient, confirmed this week, was infected.",
+      "date": "2026-10-22T19:31:27+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "title": "Los fallos críticos de PHP acaban de hacerse públicos. Lo misterioso es que alguien ya intentaba explotarlos cuatro días antes",
+      "url": "https://www.xataka.com/seguridad/fallos-criticos-php-acaban-hacerse-publicos-misterioso-que-alguien-intentaba-explotarlos-cuatro-dias-antes",
+      "description": "Hay vulnerabilidades que pueden permanecer ocultas durante años y, cuando finalmente alguien las encuentra, todavía no se hacen públicas de inmediato. Comienza entonces una carrera discreta: entender qué permiten hacer, preparar una corrección y coordinar su divulgación antes de que la información llegue a quien pueda ",
+      "date": "2026-10-22T19:30:13+00:00",
+      "source": "Xataka",
+      "language": "es",
+      "image": "https://i.blogs.es/042ae5/ciberseguridad/1024_2000.png",
+      "kind": "magazine"
+    },
+    {
+      "title": "Un comerciante de 1629 ordenó matar a más de 100 náufragos para ahorrar comida: ahora descubren que reunía 10 rasgos psicopáticos",
+      "url": "https://muyinteresante.okdiario.com/historia/primer-psicopata-corporativo-historia-naufragio-1629.html",
+      "description": "Una investigación científica recupera la historia de Jeronimus Cornelisz, un comerciante del siglo XVII que convirtió un naufragio en una masacre y que podría ser uno de los primeros psicópatas corporativos documentados.",
+      "date": "2026-10-22T19:29:36+00:00",
+      "source": "Muy Interesante",
+      "language": "es",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "description": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "date": "2026-10-22T19:27:57+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/d77c3ae0-ce29-11f1-9f18-490cec60aa0f.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "date": "2026-10-22T19:25:26+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d603/live/9c9fdf10-ce4e-11f1-8507-d7f0bcb84e7e.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Bispos do Brasil pedem respeito pelas urnas na eleição",
+      "url": "https://observador.pt/2026/10/22/bispos-do-brasil-pedem-respeito-pelas-urnas-nas-presidenciais-e-que-proximo-presidente-defenda-a-constituicao/",
+      "description": "Os bispos católicos brasileiros reagiram às acusações de Flávio Bolsonaro, que imputou à entidade a difusão de uma fake news sobre Nossa Senhora Aparecida.",
+      "date": "2026-10-22T19:24:08+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22183610/47965989.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Los Mossos detectan un millar de pandilleros en Cataluña",
+      "url": "https://elpais.com/espana/catalunya/2026-10-22/los-mossos-detectan-un-millar-de-pandilleros-en-cataluna.html",
+      "description": "La policía catalana activa un plan específico transversal para evitar la eclosión de las bandas",
+      "date": "2026-10-22T19:23:09+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://imagenes.elpais.com/resizer/v2/GW6L5HVSXRCMNJFOOWMM7QI7AY.jpg?auth=ba98df3030b1d2b1510ca0274cd63412383b65b1ed8977a5fc6c419d6b09ef6a",
+      "kind": "presse"
+    },
+    {
+      "title": "PSP apreende 500 doses de haxixe a agressor em Aveiro",
+      "url": "https://observador.pt/2026/10/22/violencia-domestica-psp-apreendeu-500-doses-de-haxixe-a-suspeito-de-agredir-companheira/",
+      "description": "Apreensão foi feita num cumprimento de um mandado de busca domiciliária no âmbito de um inquérito de violência doméstica. Suspeito foi sujeito à medida de coação de Termo de Identidade e Residência.",
+      "date": "2026-10-22T19:22:57+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/06124500/15394272-770x433-acf-csropped1.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "IHRU acusa Luísa Salgueiro de \"declarações incendiárias\"",
+      "url": "https://observador.pt/2026/10/22/ihru-diz-que-luisa-salgueiro-nao-tem-razao-sobre-as-204-casas-em-matosinhos-e-critica-declaracoes-incendiarias/",
+      "description": "Benjamim Pereira acusa a autarca do PS de \"posicionamento político\" e garante que terrenos não estavam registados. Financiamento passa do PRR para o BEI.",
+      "date": "2026-10-22T19:22:33+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/27202736/237a6043.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "División en Comuns por la exclusión de Aina Vidal de las listas del 29-N del Frente Amplio",
+      "url": "https://www.elmundo.es/cataluna/2026/10/22/6ad9fd71fdddff70698b4596.html",
+      "description": "Ha sido diputada en el Congreso en la última década y portavoz adjunta de Sumar en la última legislatura Leer",
+      "date": "2026-10-22T19:21:05+00:00",
+      "source": "El Mundo",
+      "language": "es",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926710470041.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Violences du 17 octobre : le profil type des personnes incarcérées dévoilé",
+      "url": "https://www.france24.com/fr/france/20261022-violences-17-octobre-profil-type-personnes-%C3%A9crou%C3%A9es-d%C3%A9voil%C3%A9",
+      "description": "La Chancellerie a dévoilé un document qui dresse le profil type des personnes interpellées lors des manifestations marquées par des violences et des pillages ces dernières semaines en France. Le portrait type correspond à un homme âgé entre 18 et 25 ans, de nationalité française, inconnu de la justice, incarcéré pour p",
+      "date": "2026-10-22T19:19:07+00:00",
+      "source": "France 24",
+      "language": "fr",
+      "image": "https://s.france24.com/media/display/822fec10-ca48-11f1-8fa1-d1d2c32ebb87/w:1024/p:16x9/000-D3L84RN.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Les « fantômes de Cassiopée » ne sont plus seuls : une incroyable photographie révèle trois nouvelles apparitions !",
+      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-fantomes-cassiopee-ne-sont-plus-seuls-incroyable-photographie-revele-trois-nouvelles-apparitions-138733/#xtor%3DRSS-8",
+      "description": "Les astronomes amateurs connaissent bien la nébuleuse du Fantôme, une nébuleuse en émission située dans la constellation de Cassiopée et pas très loin du Système solaire dans la Voie lactée. Elle porte le numéro 63 dans le catalogue IC et c’est une proche voisine d'IC 59 sur la sphère céleste,...",
+      "date": "2026-10-22T19:17:11+00:00",
+      "source": "Futura Sciences",
+      "language": "fr",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/wide1920/2/6/6/266a599d2e_50262356_ic-59-ic-63-cassiopee-louis-leroux-gere-thibault-rouillee-vincent-martin-cedric-decker-starfront-observatories.jpg",
+      "kind": "magazine"
+    },
+    {
+      "title": "Sony y Pixmania dinamitan el mercado con una rebaja histórica en la cámara Alpha ZV-E10",
+      "url": "https://muyinteresante.okdiario.com/bazar/sony-y-pixmania-dinamitan-el-mercado-con-una-rebaja-historica-en-la-camara-alpha-zv-e10.html",
+      "description": "Con 24,2 MP con sensor APS-C,  pantalla táctil articulada de 3'', grabación en 4K hasta 30p y Full HD a 120p y micrófono direccional integrado de tres cápsulas por sólo 654€.",
+      "date": "2026-10-22T19:15:00+00:00",
+      "source": "Muy Interesante",
+      "language": "es",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "title": "Le Pentagone prévoit d'acheter au moins 850 avions de combat F-35 sur dix ans",
+      "url": "https://www.lefigaro.fr/flash-actu/le-pentagone-prevoit-d-acheter-au-moins-850-avions-de-combat-f-35-sur-dix-ans-20261022",
+      "description": "Le projet de l’accord-cadre entre le Pentagone et Lockheed Martin reste soumis à l’approbation du Congrès américain et des crédits budgétaires associés.",
+      "date": "2026-10-22T19:11:58+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/1885x1256_crop/2026/10/22/235526dd03c808e352c20d3bc36828d2d448a49281927351ecd8839276d26bd3.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Los Reyes y sus hijas se empapan de Mendelssohn y Gutenberg en el concierto previo a los Princesa de Asturias",
+      "url": "https://www.elmundo.es/cultura/2026/10/22/6ada42ef21efa04c4c8b4596.html",
+      "description": "Don Felipe, Doña Letizia, Leonor y Sofía comienzan los actos que rodean a los Premios Leer",
+      "date": "2026-10-22T19:11:15+00:00",
+      "source": "El Mundo",
+      "language": "es",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926900092383.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "You could live in a converted Cold War missile silo for just $1.6 million",
+      "url": "https://www.popsci.com/technology/converted-cold-war-missile-silo-for-sale-kansas/",
+      "description": "Breakfast nook? More like breakfast nuke.\nThe post You could live in a converted Cold War missile silo for just $1.6 million appeared first on Popular Science.",
+      "date": "2026-10-22T19:10:00+00:00",
+      "source": "Popular Science",
+      "language": "en",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/10/silo-home-listing-lead.png?quality=85",
+      "kind": "magazine"
+    },
+    {
+      "title": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
+      "url": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
+      "description": "La patronal descarta recurrir judicialmente contra el paro antes de su celebración, pese a que había anticipado que lo haría",
+      "date": "2026-10-22T19:07:59+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://imagenes.elpais.com/resizer/v2/FGIHT5W2JJNCRERWB4VZA6Q4FU.jpg?auth=450560bb0fe3063b333fa7ce7668762a5c6277902188ab4f03b1023482b10294",
+      "kind": "presse"
+    },
+    {
+      "title": "Une juge somme Donald Trump de témoigner dans sa procédure en diffamation contre la BBC d'ici le 11 décembre",
+      "url": "https://www.lefigaro.fr/flash-actu/une-juge-somme-donald-trump-de-temoigner-dans-sa-procedure-en-diffamation-contre-la-bbc-d-ici-le-11-decembre-20261022",
+      "description": "Le président américain a porté plainte en décembre contre le groupe audiovisuel britannique pour diffamation et violation d’une loi sur les pratiques commerciales. Il réclame des dommages et intérêts de 5 milliards de dollars pour chacun des deux motifs.",
+      "date": "2026-10-22T19:07:01+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/3000x2124_crop/2026/10/22/2d737daacddcbf1eb8310f66bb025efe5d4c893e9eef5a0f40cb6433e328d23f.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Ligue Europa : troisième défaite pour l’Olympique de Marseille, qui s’incline en Autriche",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-europa/ligue-europe-troisieme-defaite-pour-l-olympique-de-marseille-qui-s-incline-en-autriche-20261022",
+      "description": "Les Phocéens se sont inclinés, ce mercredi, sur la pelouse des Autrichiens de Sturm Graz (1-0), pour le compte de la troisième journée de la C3.",
+      "date": "2026-10-22T19:05:41+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/2968x1670_crop/2026/10/22/e79061fe1c8341f0e0b501dab7654ee9d07e405f1f19a8cdb4921e55f36d86a3.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Vance tells Republicans to 'stop whining' after Ramaswamy attack ad in Ohio governor's race",
+      "url": "https://www.france24.com/en/vance-tells-republicans-to-stop-whining-after-ramaswamy-attack-ad-in-ohio-governor-s-race",
+      "description": "US Vice President JD Vance on Wednesday defended an explosive attack ad by Republican Vivek Ramaswamy’s campaign against his Democratic rival in the Ohio governor’s race, telling fellow Republicans to \"stop whining\" about it and go win the race. The ad features ​Democrat Amy Acton’s ‌estranged mother, Donna Arthur, dis",
+      "date": "2026-10-22T19:05:18+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/4f3c7260-6e36-11f1-8b7f-005056bfb2b6/w:1024/p:16x9/2026-06-22T120629Z-1956265930-RC2ZYLAQ4B63-RTRMADP-3-IRAN-CRISIS-SWISS-MEETING.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Chine : un puissant séisme de magnitude 7 frappe la région du Tibet, des victimes signalées",
+      "url": "https://www.lefigaro.fr/international/chine-un-puissant-seisme-de-magnitude-7-frappe-la-region-du-tibet-20261022",
+      "description": "Malgré le signalement de victimes, aucun chiffre n’a encore été donné par les autorités. Selon l’USGS, l’épicentre se situe à 390 kilomètres au nord-est de Lhassa.",
+      "date": "2026-10-22T19:04:37+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/39480146ec6338b9847fad7af66f383bfe5ab8ec81b871cc7ed8e726326a17c6.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Ligue Europa : sans complexes, le Stade Rennais tient tête à la Juventus Turin sur sa pelouse",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-europa/ligue-europa-le-stade-rennais-tient-tete-a-la-juventus-turin-sur-sa-pelouse-20261022",
+      "description": "Les Bretons ont ramené le point du match nul, ce mercredi, de leur déplacement chez les Turinois (2-2), à l’occasion de la troisième journée de la C3.",
+      "date": "2026-10-22T19:02:36+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/10/22/846dde0052ba9fe05bfc8d04a22ff674a5db5908c338182578a5bc993a80142f.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "¿Era realmente tan horrible vivir en la época victoriana?",
+      "url": "https://muyinteresante.okdiario.com/historia/era-realmente-tan-horrible-vivir-en-la-epoca-victoriana.html",
+      "description": "Si piensas en la época victoriana, seguramente imaginas calles cubiertas de suciedad, fábricas llenas de niños, barrios miserables y una sociedad dominada por la pobreza. Pero ¿y si esa imagen solo contara una parte de la historia?",
+      "date": "2026-10-22T19:00:52+00:00",
+      "source": "Muy Interesante",
+      "language": "es",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "title": "Dell تطلق حاسوبها المحمول الاقتصادي الجديد Dell 14S ببطارية تتجاوز 20 ساعة",
+      "url": "https://www.unlimit-tech.com/2026/10/dell-%d8%aa%d8%b7%d9%84%d9%82-%d8%ad%d8%a7%d8%b3%d9%88%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%84-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%ac%d8%af/",
+      "description": "هذا الموضوع Dell تطلق حاسوبها المحمول الاقتصادي الجديد Dell 14S ببطارية تتجاوز 20 ساعة ظهر على التقنية بلا حدود.\nأطلقت شركة Dell رسمياً الإصدار الجديد من حاسوبها المحمول Dell 14S طراز DS14270 في الأسواق العالمية، والذي يعتمد على معالجات Intel من عائلة Wildcat Lake وتشمل خياري Core 5 320 وCore 7 350. ويأتي الحاسوب بشاشة",
+      "date": "2026-10-22T19:00:36+00:00",
+      "source": "تقنية بلا حدود",
+      "language": "ar",
+      "image": "https://www.notebookcheck.net/fileadmin/_processed_/7/6/csm_Dell-14s-ds14270-release-mid-2_f22ed49aac.jpg",
+      "kind": "magazine"
+    },
+    {
+      "title": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
+      "url": "https://www.xataka.com/medicina-y-salud/simple-foto-rostro-puede-dar-pistas-supervivencia-paciente-cancer-esta-ia-busca-encontrarlas",
+      "description": "Cuando una persona es diagnosticada de cáncer, es importante comenzar el tratamiento lo más pronto posible. Pero el problema al que se enfrentan los oncólogos aquí es el hecho de decidir cuál es el mejor tratamiento que se puede prescribir, puesto que, aunque se piensa que siempre se puede ir a los fármacos más agresiv",
+      "date": "2026-10-22T19:00:11+00:00",
+      "source": "Xataka",
+      "language": "es",
+      "image": "https://i.blogs.es/c62133/analisis-facial/1024_2000.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "title": "Time just changed forever",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss",
+      "description": "For more than 50 years, a group of timekeepers has been quietly sneaking extra seconds onto the world's clocks.",
+      "date": "2026-10-22T19:00:07+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "title": "PHP. Descoberta \"uma das mais graves\" falhas na internet",
+      "url": "https://observador.pt/especiais/php-uma-das-mais-graves-vulnerabilidades-com-potencial-exposicao-relevante-em-portugal-deixou-a-internet-a-merce-de-ataques/",
+      "description": "Foi pela IA que as vulnerabilidades \"críticas\" na linguagem de programação PHP foram descobertas. É um protocolo utilizado em 70% dos sites. Também em Portugal \"a potencial exposição\" é \"relevante\".",
+      "date": "2026-10-22T18:58:30+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4089:2298:nowe:0:400/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22165811/gettyimages-2301428719-scaled.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Manifestations en France : Bitchat, la messagerie sans réseau qui a le vent en poupe",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261022-manifestations-france-bitchat-messagerie-sans-r%C3%A9seau-vent-poupe",
+      "description": "En pleine mobilisation lycéenne et pour le pouvoir d'achat en France, Bitchat mesh se classait n°1, jeudi, des applications sur l'App Store dans la catégorie \"réseaux sociaux\". Lancée en juillet 2025 par le cofondateur de Twitter, cette messagerie décentralisée fonctionne avec le Bluetooth et sans Internet. Pratique qu",
+      "date": "2026-10-22T18:58:11+00:00",
+      "source": "France 24",
+      "language": "fr",
+      "image": "https://s.france24.com/media/display/45638bf4-ce47-11f1-b62c-8d87bc3aeb3a/w:1024/p:16x9/000-D3L43WH.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Targeted by Trump, International Criminal Court wins top EU rights prize",
+      "url": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize",
+      "description": "Facing US sanctions, the International Criminal Court was on Thursday awarded the European Union's top rights prize, in a show of support that risks upsetting President Donald Trump. \"The European Union is built on respect for multilateralism and international institutions, and this prize recognises the important work ",
+      "date": "2026-10-22T18:55:57+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/6a367f22-9b3e-11f1-99ff-005056a97e36/w:1024/p:16x9/000-C4XZ6CV.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Transports en Île-de-France : le trafic de plusieurs lignes de train interrompu ce vendredi en raison de la tempête Austen",
+      "url": "https://www.lefigaro.fr/conjoncture/transports-en-ile-de-france-le-trafic-de-plusieurs-lignes-de-train-interrompu-ce-vendredi-en-raison-de-la-tempete-austen-20261022",
+      "description": "Des perturbations sont à prévoir sur le réseau francilien, alors que de fortes rafales de vent sont attendues ce vendredi 23 octobre sur une partie de l’Île-de-France.",
+      "date": "2026-10-22T18:54:59+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/4694986192bd184a6165a102137b62b1c65d8cd64c201eeeafaa73c9c300672e.JPG",
+      "kind": "presse"
+    },
+    {
+      "title": "Studie: KI-Videos untergraben Vertrauen in Bewegtbild massiv",
+      "url": "https://www.heise.de/news/Studie-KI-Videos-untergraben-Vertrauen-in-Bewegtbild-massiv-11497558.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "description": "Die Mehrheit der Deutschen geht Deepfakes in die Falle und fordert daher strenge Kennzeichnungspflichten. Creators werden häufiger zur Nachrichtenquelle.",
+      "date": "2026-10-22T18:54:00+00:00",
+      "source": "Heise Wissenschaft",
+      "language": "de",
+      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/7/6/1/5/shutterstock_2289524003-b14676681d8614bc.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "title": "المقاربة الأمنية للحراك الطلابي: هل هي الحل؟",
+      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D9%8A%D9%88%D9%85/20261022-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D8%B1%D8%A7%D9%83-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8%D9%8A-%D9%87%D9%84-%D9%87%D9%8A-%D8%A7%D9%84%D8%AD%D9%84",
+      "description": "في حدث اليوم اليوم سنحاول ان نفهم هل المقاربة الأمنية هي الحل الأمثل للتعامل مع الحراك الطلابي في فرنسا. \n \nضيف حدث اليوم: حسني عبيدي،  حسني عبيدي، أستاذ العلاقات الدولية في جامعة جنيف.",
+      "date": "2026-10-22T18:50:50+00:00",
+      "source": "France 24 Arabic",
+      "language": "ar",
+      "image": "https://s.france24.com/media/display/1e91223e-ce47-11f1-9722-3f59e19fd7f8/w:1024/p:16x9/Arabe-2026-10-22T18-25-39-027Z.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "\"La Chute, France 1940\", autopsie d'un effondrement 1940 : que revèle la défaite française ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261022-la-chute-france-1940-autopsie-d-un-effondrement-1940-que-rev%C3%A8le-la-d%C3%A9faite-fran%C3%A7aise",
+      "description": "En mai 1940, la France s’effondre face à l’Allemagne nazie en quelques semaines. Comment expliquer une défaite aussi rapide ? Erreurs militaires, responsabilités politiques et divisions de la société française : dans son nouveau livre, La Chute, France 1940, l’historien britannique Julian Jackson revient sur les causes",
+      "date": "2026-10-22T18:49:32+00:00",
+      "source": "France 24",
+      "language": "fr",
+      "image": "https://s.france24.com/media/display/6ff6fb66-ce3e-11f1-90b9-23d55109f116/w:1024/p:16x9/FR-20261022-181808-182822-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Violences urbaines : le couvre-feu reconduit toutes les nuits dans certains secteurs à Paris jusqu'à lundi matin",
+      "url": "https://www.lefigaro.fr/actualite-france/violences-urbaines-le-couvre-feu-reconduit-toutes-les-nuits-dans-certains-secteurs-a-paris-jusqu-a-lundi-matin-20261022",
+      "description": "Le préfet de police a pris un arrêté «interdisant la présence des majeurs comme des mineurs, dans les périmètres de la Place de la République et du secteur des Halles chaque jour entre 23h et 6h le lendemain».",
+      "date": "2026-10-22T18:48:13+00:00",
+      "source": "Le Figaro",
+      "language": "fr",
+      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/d9e69d7022a031707450577321ab6c76570b5bb18e0de3eb3a38e358cf54d6bb.JPG",
+      "kind": "presse"
+    },
+    {
+      "title": "‘La Mesa de Hora 25’ | Programa del 22 de octubre de 2026",
+      "url": "https://elpais.com/videos/2026-10-22/la-mesa-de-hora-25-programa-del-22-de-octubre-de-2026.html",
+      "description": "José Luis Sastre y el equipo de Hora 25 se desplazan hasta Málaga para una edición especial del programa en la que tratarán la figura de Bernardo de Gálvez, un malagueño que fue una figura clave en la independencia de Estados Unidos, de la que ahora se conmemoran 250 años",
+      "date": "2026-10-22T18:48:10+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://www.youtube.com/watch?v=NE-IyVwQKF4",
+      "kind": "presse"
+    },
+    {
+      "title": "El primer móvil con tres cámaras de 200 megapíxeles es de OPPO",
+      "url": "https://www.elmundo.es/tecnologia/creadores/2026/10/22/6ada591221efa0e17c8b45a3.html",
+      "description": "El Find X10 Pro Max llega a España por 1.799 euros, 500 más que su predecesor, y con algo menos de memoria Leer",
+      "date": "2026-10-22T18:47:08+00:00",
+      "source": "El Mundo",
+      "language": "es",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926945929526.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Los astrónomo han hecho la mejor radiografía hasta el momento de los 5 primeros minutos del Universo",
+      "url": "https://www.xataka.com/espacio/astronomo-han-hecho-mejor-radiografia-momento-5-primeros-minutos-universo",
+      "description": "Aunque parece que el Big Bang como origen del Universo es una de las ideas más aceptadas de la ciencia, ni siquiera los astrónomos se ponen de acuerdo. Aunque muchos expertos consideran que es la teoría que más problemas cosmológicos resuelve de golpe, otros creen que hay demasiadas piezas que no cuadran. Para saber qu",
+      "date": "2026-10-22T18:46:07+00:00",
+      "source": "Xataka",
+      "language": "es",
+      "image": "https://i.blogs.es/33a227/origen-universo/1024_2000.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "title": "Tensión en la Universidad de Zaragoza por la presencia de Vito Quiles",
+      "url": "https://elpais.com/espana/2026-10-22/tension-en-la-universidad-de-zaragoza-por-el-acto-de-vito-quiles.html",
+      "description": "La policía se ha tenido que colocar en medio de un grupo de partidarios del agitador ultra y de otro de protestantes antifascistas, que se han lanzado objetos",
+      "date": "2026-10-22T18:44:27+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261022/1228710_192618_video_1800.mp4",
+      "kind": "presse"
+    },
+    {
+      "title": "\"EUA deixaram de ser um mediador imparcial\"",
+      "url": "https://observador.pt/programas/gabinete-de-guerra/eua-deixaram-de-ser-um-mediador-imparcial/",
+      "description": "João Albuquerque considera que os EUA já não são um parceiro fiável. Sublinha o nervosismo de Trump com as eleições e os riscos de ataques híbridos russos aos europeus, apelando a uma defesa sem EUA.",
+      "date": "2026-10-22T18:43:18+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Christa Pike’s IV team warned vein might be ‘blowing’ before failed execution",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/christa-pike-failed-execution-lawyer-witness",
+      "description": "New account from Pike’s lawyer suggests team was racked by doubts even before pentobarbital began to flowThe Tennessee execution team tasked with setting an intravenous line in the arms of the death row prisoner Christa Pike through which she could be injected with a lethal dose of pentobarbital repeatedly warned that ",
+      "date": "2026-10-22T18:42:14+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/027762e10a255e4badc86d398cfcd3c0b35fe3cd/100_0_2039_1632/master/2039.jpg?width=140&quality=85&auto=format&fit=max&s=9256d660c66d68072ae7eb7206fb3085",
+      "kind": "presse"
+    },
+    {
+      "title": "Messi, a los niños asturianos: “La regla 10 del fútbol: Disfrutad”",
+      "url": "https://elpais.com/deportes/futbol/2026-10-22/messi-a-los-ninos-asturianos-la-regla-10-del-futbol-disfrutad.html",
+      "description": "El astro llegó a Oviedo entre multitudes y habló en el Polideportivo de la ciudad ante más de 5.000 niños antes de recoger el viernes el Premio Princesa de Asturias de los deportes",
+      "date": "2026-10-22T18:40:15+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://imagenes.elpais.com/resizer/v2/QL3LEQBMNJFGBOYWY6LJS5HTBY.jpg?auth=5bdd0ba3fc70ab423bd53a242b313384b285a3afe94e60a348d83cd2223f66c6",
+      "kind": "presse"
+    },
+    {
+      "title": "A goleada que conta a história certa com os números errados",
+      "url": "https://observador.pt/2026/10/22/a-goleada-que-conta-a-historia-certa-com-os-numeros-errados-torreense-volta-a-aguentar-meia-parte-mas-perde-na-hungria/",
+      "description": "Reagiu ao primeiro golo, tentou reagir de novo ao segundo, caiu ao terceiro – e sofreu o quarto. Apesar de conseguir disfarçar realidades incomparáveis, Torreense foi goleado pelo Ferencváros (4-1).",
+      "date": "2026-10-22T18:38:28+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:841:nowe:0:61/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22193637/torreense-1.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Simulações da PwC apontam para reembolsos de IRS em 2027",
+      "url": "https://observador.pt/2026/10/22/simulacoes-da-pwc-apontam-para-reembolsos-de-irs-em-2027-subsidios-de-natal-pagos-em-dezembro-nao-sao-apanhados-pelo-bonus-de-irs-mensal/",
+      "description": "As retenções na fonte de IRS menores em novembro vão resultar em menos reembolsos ou pagamentos em 2027? As simulações da PwC para o Observador apontam para reembolsos, mas cada caso é um caso.",
+      "date": "2026-10-22T18:34:21+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/30130436/44480564.jpg",
+      "kind": "presse"
+    },
     {
       "title": "À Bordeaux, la mobilisation étudiante dans la nasse administrative",
       "url": "https://www.mediapart.fr/journal/france/221026/bordeaux-la-mobilisation-etudiante-dans-la-nasse-administrative",
@@ -8,17 +818,7 @@
       "date": "2026-10-22T18:33:04+00:00",
       "source": "Mediapart",
       "language": "fr",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "title": "Violences urbaines : le couvre-feu reconduit toutes les nuits dans certains secteurs à Paris jusqu'à lundi matin",
-      "url": "https://www.lefigaro.fr/actualite-france/violences-urbaines-le-couvre-feu-reconduit-toutes-les-nuits-dans-certains-secteurs-a-paris-jusqu-a-lundi-matin-20261022",
-      "description": "Le préfet de police a pris un arrêté «interdisant la présence des majeurs comme des mineurs, dans les périmètres de la Place de la République et du secteur des Halles chaque jour entre 23h et 6h le lendemain».",
-      "date": "2026-10-22T18:32:37+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/b69bdc790e3b6b27c05064a91aeb2b0a07fd0a86435376b766b84f1b3755dafc.jpg",
+      "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/22/261022-img-manifestation-bordeaux.jpg",
       "kind": "presse"
     },
     {
@@ -29,6 +829,26 @@
       "source": "BBC Mundo",
       "language": "es",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3b2/live/6b10a760-ce38-11f1-a86f-f78305ec9987.png",
+      "kind": "presse"
+    },
+    {
+      "title": "لولا - بولسونارو: من سيحسم المعركة في البرازيل؟",
+      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%B4/20261022-%D9%84%D9%88%D9%84%D8%A7-%D8%A8%D9%88%D9%84%D8%B3%D9%88%D9%86%D8%A7%D8%B1%D9%88-%D9%85%D9%86-%D8%B3%D9%8A%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84",
+      "description": "في هذا العدد من النقاش نتطرق إلى الانتخابات البرازيلية التي ستشهد معركة حامية الوطيس في جولتها الثانية بين الرئيس اليساري لويس إيناسيو لولا دا سيلفا ومنافسه المحافظ فلافيو بولسونارو، وسط تبادل حاد للاتهامات والإهانات.\n \nضيوف النقاش: محمد منار الإسكندراني، محلل سياسي. بلال رامز بكري، كاتب ومحلل سياسي. فيكتوريوس شمس، صحف",
+      "date": "2026-10-22T18:30:44+00:00",
+      "source": "France 24 Arabic",
+      "language": "ar",
+      "image": "https://s.france24.com/media/display/5eba4ba8-ce45-11f1-9326-23d55109f116/w:1024/p:16x9/Arabe-2026-10-22T17-10-17-751Z.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
+      "description": "California, Oregon, Washington and Hawaii health officials ask CDC ‘prioritizing emerging technologies’ to reconsiderCalifornia and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for measles – but after waiting two months, the CDC denied the request, citing",
+      "date": "2026-10-22T18:30:39+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/e590369876d35871949608535e1d7a034924b67c/0_0_6042_4832/master/6042.jpg?width=140&quality=85&auto=format&fit=max&s=9b2eb73d03f100bbdbe29b6a13025d24",
       "kind": "presse"
     },
     {
@@ -52,6 +872,16 @@
       "kind": "magazine"
     },
     {
+      "title": "Allemagne: un Ukrainien soupçonné d'espionnage pour le compte de la Russie arrêté près de Berlin",
+      "url": "https://www.rfi.fr/fr/europe/20261022-allemagne-un-ukrainien-soup%C3%A7onn%C3%A9-d-espionnage-pour-le-compte-de-la-russie-arr%C3%AAt%C3%A9-pr%C3%A8s-de-berlin",
+      "description": "Un Ukrainien a été arrêté ce jeudi 22 octobre en Allemagne, près de Berlin, dans le Land de Brandebourg. Il est soupçonné d'avoir collecté des informations pour le compte de la Russie. L'homme sera présenté dès vendredi à un juge d'instruction. La justice évoque des renseignements militaires.",
+      "date": "2026-10-22T18:27:33+00:00",
+      "source": "RFI",
+      "language": "fr",
+      "image": "https://s.rfi.fr/media/display/efd607c8-34f1-11ec-b149-005056bfb2b6/w:1024/p:16x9/AP20006370422894.jpg",
+      "kind": "presse"
+    },
+    {
       "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
       "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
       "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
@@ -59,6 +889,46 @@
       "source": "BBC World",
       "language": "en",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "19h. Nova manifestação este fim-de-semana em Lisboa",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2203/",
+      "description": "Em comunicado, o movimento anuncia que a manifestação intitulada \"Não temos casa, montamos tendas\" vai partir da rotunda do Marquês de Pombal e vai terminar na Praça do Rossio.",
+      "date": "2026-10-22T18:25:43+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "kind": "presse"
+    },
+    {
+      "title": "France, Grèce, Italie... Gen Z : un vent de colère en Europe ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261022-france-gr%C3%A8ce-italie-gen-z-un-vent-de-col%C3%A8re-en-europe",
+      "description": "La génération Z se mobilise massivement en France mais aussi en Grèce, en Espagne, au Portugal et en Italie. Hier, c’était à Athènes et à Thessalonique que lycéens et professeurs ont battu le pavé contre le coût de la vie et l’état des écoles en s’inspirant de la France. Dans l'Hexagone, le gouvernement tente de trouve",
+      "date": "2026-10-22T18:25:38+00:00",
+      "source": "France 24",
+      "language": "fr",
+      "image": "https://s.france24.com/media/display/d9bcbde0-cd5a-11f1-89c8-ab78a7fed2ce/w:1024/p:16x9/2026-10-21T123954Z-770228045-RC2K7OA8CUCO-RTRMADP-3-GREECE-PROTEST-STUDENTS.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Venda de combustíveis em postos recua 6% em agosto",
+      "url": "https://observador.pt/2026/10/22/vendas-de-combustiveis-nos-postos-recuam-6-em-agosto/",
+      "description": "Dados da ENSE para o mercado de retalho mostram uma queda acentuada nas vendas de gasóleo face a agosto do ano passado. A gasolina recuou pouco, mas inverte tendência de crescimento.",
+      "date": "2026-10-22T18:23:37+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/07195346/dventura-aumento-preco-combustiveis-2-scaled.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Pérou: la présidente Keiko Fujimori obtient les pleins pouvoirs pour lutter contre le crime organisé",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261022-p%C3%A9rou-la-pr%C3%A9sidente-keiko-fujimori-obtient-les-pleins-pouvoirs-pour-lutter-contre-le-crime-organis%C3%A9",
+      "description": "Au Pérou, le Parlement a approuvé mercredi 21 octobre 2026 un projet de loi octroyant à la présidente de droite autoritaire Keiko Fujimori les pouvoirs législatifs en termes de sécurité et pour lutter contre le phénomène climatique El Niño. Pendant trois mois elle pourra légiférer sans passer par les députés. Elle prom",
+      "date": "2026-10-22T18:23:21+00:00",
+      "source": "RFI",
+      "language": "fr",
+      "image": "https://s.rfi.fr/media/display/30329278-ce3f-11f1-8849-23d55109f116/w:1024/p:16x9/AP26280825710431.jpg",
       "kind": "presse"
     },
     {
@@ -72,13 +942,33 @@
       "kind": "presse"
     },
     {
-      "title": "Video footage of Kohen Wiley shooting released after toddler’s death deemed ‘justified’",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/video-kohen-wiley-shooting",
-      "description": "‘The word ‘justified’ have haunted me since Monday,’’ the child’s maternal grandmother saysSince the Mississippi attorney general, Lynn Fitch, announced on Monday that the police shooting of Kohen Wiley, a one-year-old baby, “was justified”, footage of the shooting has been made public. It was first reported by Darkhor",
-      "date": "2026-10-22T18:21:49+00:00",
-      "source": "The Guardian",
+      "title": "Portugal mira 50 milhões de turistas em 2035",
+      "url": "https://observador.pt/2026/10/22/portugal-preve-50-milhoes-de-turistas-e-53-mil-milhoes-de-receitas-em-2035-estrategia-ja-aprovada/",
+      "description": "Estratégia Turismo 2035 pretende também \"corrigir as assimetrias regionais\" e gerar \"maior desenvolvimento, maior crescimento, maior riqueza e a distribuição dessa riqueza\" no território português.",
+      "date": "2026-10-22T18:21:23+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22181609/47179476.jpg",
+      "kind": "presse"
+    },
+    {
+      "title": "Cómo el PP dispara la guerra de los ‘deepfakes’ en Instagram",
+      "url": "https://elpais.com/videos/2026-10-22/como-el-pp-dispara-la-guerra-de-los-deepfakes-en-instagram.html",
+      "description": "En este vídeo EL PAÍS analiza las imágenes generadas por inteligencia artificial que el Partido Popular ha difundido en sus redes sociales",
+      "date": "2026-10-22T18:20:09+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261022/1228682_180337_video_1800.mp4",
+      "kind": "presse"
+    },
+    {
+      "title": "Back to the Bolsonaros? Brazil presidential run-off goes down to the wire",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261022-back-to-the-bolsonaros-brazil-presidential-run-off-goes-down-to-the-wire",
+      "description": "Brazil's future within the margin of error ahead of Sunday's presidential runoff: most of the latest polls put the far-right's Flavio Bolsonaro ahead of left-wing incumbent Luiz Inacio Lula da Silva... a lead that's narrowed after last weekend's acrimomious debate.",
+      "date": "2026-10-22T18:18:23+00:00",
+      "source": "France 24 English",
       "language": "en",
-      "image": "https://i.guim.co.uk/img/media/fcd3b37d6c0c04f8e5ce968410d0acc0f38bf0cd/357_0_3570_2856/master/3570.jpg?width=140&quality=85&auto=format&fit=max&s=6ac6740e346fcab8b5c3629c39942026",
+      "image": "https://s.france24.com/media/display/3cce45da-ce40-11f1-89c3-97baf3e9dd31/w:1024/p:16x9/2026-10-18T171708Z-1099997324-RC2S5OACZ9AF-RTRMADP-3-BRAZIL-ELECTION-BOLSONARO.jpg",
       "kind": "presse"
     },
     {
@@ -89,26 +979,6 @@
       "source": "Al Jazeera English",
       "language": "en",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "title": "Ce que le patron de Google a répondu à la demande de Donald Trump de rebaptiser l’Atlantique",
-      "url": "https://www.lefigaro.fr/international/ce-que-le-patron-de-google-a-repondu-a-la-demande-de-donald-trump-de-rebaptiser-l-atlantique-20261022",
-      "description": "Lors d’un meeting organisé mercredi en Caroline du Sud, Donald Trump a relaté son échange avec Sundar Pichai, le patron de Google, au sujet de son projet de changer le nom de cet océan.",
-      "date": "2026-10-22T18:17:20+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/8774adac93c217d274636a53e1f2ba47456315fc864fbf61ea0ff81a4daa1e5f.JPG",
-      "kind": "presse"
-    },
-    {
-      "title": "División en Comuns por la exclusión de Aina Vidal de las listas del 29-N del Frente Amplio",
-      "url": "https://www.elmundo.es/cataluna/2026/10/22/6ad9fd71fdddff70698b4596.html",
-      "description": "Ha sido diputada en el Congreso en la última década y portavoz adjunta de Sumar en la última legislatura Leer",
-      "date": "2026-10-22T18:17:15+00:00",
-      "source": "El Mundo",
-      "language": "es",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926710470041.jpg",
       "kind": "presse"
     },
     {
@@ -140,16 +1010,6 @@
       "language": "en",
       "image": "https://th-thumbnailer.cdn-si-edu.com/e5J74draHz1KOiAcXOx8m8Ip7aA=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/a7/e4a79de6-8a13-430d-8e15-29d713a204cb/gettyimages-2156388255.jpg",
       "kind": "magazine"
-    },
-    {
-      "title": "Todd Blanche fails to rule out DoJ weighing in on states’ election results certifying process – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "description": "Attorney general says ‘there’s scenarios we could all come up with’ when asked if DoJ would intercede to stop states from certifying electionSign up for the Breaking News US emailHow will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questionsReporting from Anchorage, AlaskaM",
-      "date": "2026-10-22T18:13:33+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/5a48d133580bc268e178a44d2e97ca04affcaafd/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f87ef4114f2ba73693dc5af1888b71d8",
-      "kind": "presse"
     },
     {
       "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
@@ -194,7 +1054,7 @@
     {
       "title": "EE UU desmantela un negocio millonario de fraude matrimonial: 40.000 dólares por una pareja y la promesa de una ‘green card’",
       "url": "https://elpais.com/us/migracion/2026-10-22/ee-uu-desmantela-un-negocio-millonario-de-fraude-matrimonial-40000-dolares-por-una-pareja-y-la-promesa-de-una-green-card.html",
-      "description": "Segun el Departamento de Justicia, bajo la trama se celebraron entre 18 y 20 matrimonios al año, con lo que el negocio generó unos seis millones de dólares prometiendo alcanzar “el sueño americano”",
+      "description": "Según el Departamento de Justicia, bajo la trama se celebraron entre 18 y 20 matrimonios al año, con lo que el negocio generó unos seis millones de dólares prometiendo alcanzar “el sueño americano”",
       "date": "2026-10-22T18:07:54+00:00",
       "source": "El País",
       "language": "es",
@@ -212,7 +1072,7 @@
       "kind": "presse"
     },
     {
-      "title": "Energy secretary appears to U-turn on opposition to tougher migration rules",
+      "title": "Minister insists she backs migration policy after joking she couldn’t lie about supporting it",
       "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
       "description": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecatingThe energy secretary has been forced to clarify that she backs Shabana Mahmood’s migration policy, after earlier joking that she had not been able to “lie” about supporting a key element of the changes.Miatta Fahnbu",
       "date": "2026-10-22T18:04:58+00:00",
@@ -282,16 +1142,6 @@
       "kind": "magazine"
     },
     {
-      "title": "Diabesidad: diseñan un sistema no farmacológico para tratar la diabetes y la obesidad en ratones",
-      "url": "https://www.elmundo.es/salud/2026/10/22/6ada3f06e9cf4a8a0f8b4581.html",
-      "description": "Un dispositivo electrónico implantable elimina el exceso de glucosa en sangre mediante electrocatálisis. Los resultados preclínicos se publican en 'Science' Leer",
-      "date": "2026-10-22T18:00:00+00:00",
-      "source": "El Mundo",
-      "language": "es",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926904241947.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "Top 10: Der beste höhenverstellbare Schreibtisch – Flexispot E9 ist Testsieger",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hoehenverstellbare-schreibtisch-flexispot-e9-ist-testsieger/187xypf?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "description": "Ein elektrisch höhenverstellbarer Schreibtisch soll Gesundheit und Konzentration fördern. Wir zeigen die zehn besten Modelle aus fast 25 Tests.",
@@ -300,16 +1150,6 @@
       "language": "de",
       "image": "",
       "kind": "magazine"
-    },
-    {
-      "title": "Unsafe water, burning eyes and kerosene slicks: residents demand answers on River Taff leak",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
-      "description": "People near South Wales river told to keep windows and doors shut after 1,000s of litres of kerosene from a GE Aerospace site got into the waterOily slicks of kerosene still appeared to be leaking into the River Taff this week, several days after a breach of thousands of litres was spotted by members of the public.The ",
-      "date": "2026-10-22T17:58:51+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/fd7892a72bfd7a3a3a19639d95952e2467f6cd5b/955_69_4096_3277/master/4096.jpg?width=140&quality=85&auto=format&fit=max&s=20af531a7868f865226295a03eef431d",
-      "kind": "presse"
     },
     {
       "title": "Un terremoto de magnitud 7 sacude el Tíbet",
@@ -362,6 +1202,16 @@
       "kind": "presse"
     },
     {
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "description": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+      "date": "2026-10-22T17:49:13+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af60/live/691b9580-ce35-11f1-a86f-f78305ec9987.jpg",
+      "kind": "presse"
+    },
+    {
       "title": "Lille : une femme retrouvée morte et ligotée, un homme et une femme mis en examen",
       "url": "https://www.lefigaro.fr/flash-actu/lille-une-femme-retrouvee-morte-et-ligotee-un-homme-et-une-femme-mis-en-examen-20261022",
       "description": "La victime, veuve âgée de 72 ans, avait été découverte le 3 septembre à son domicile de Roncq, près de Lille, ligotée à côté de deux petits coffres-forts vides.",
@@ -372,6 +1222,16 @@
       "kind": "presse"
     },
     {
+      "title": "La cuestión de Ceuta y Melilla reemerge en Marruecos durante el debate de investidura de la primera ministra tras un largo silencio oficial",
+      "url": "https://elpais.com/espana/2026-10-22/la-cuestion-de-ceuta-y-melilla-reemerge-en-marruecos-en-el-debate-de-investidura-de-la-primera-ministra-tras-un-largo-silencio-oficial.html",
+      "description": "El vicepresidente de la Cámara baja, destacado miembro del partido de Mansouri, defiende ante los diputados “completar la unidad territorial” marroquí con las ciudades autónomas y fuerzas de la oposición secundan la petición",
+      "date": "2026-10-22T17:47:36+00:00",
+      "source": "El País",
+      "language": "es",
+      "image": "https://imagenes.elpais.com/resizer/v2/Z6AADQGU2VNKDHU34QT5IG6HHA.jpg?auth=8bdd279eae2b375c7bbdae69317c6126bc2b91cca9f3166523768c16cf16503a",
+      "kind": "presse"
+    },
+    {
       "title": "US-sanctioned ICC wins top EU human rights award",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
       "description": "The EU has awarded the International Criminal Court its top human rights award.",
@@ -379,26 +1239,6 @@
       "source": "Al Jazeera English",
       "language": "en",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "title": "Total ban on protests in Marseille and Lyon after riots",
-      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
-      "date": "2026-10-22T17:45:44+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab2/live/fa874350-cdfb-11f1-97f7-a7674fb562de.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "Transports en Île-de-France : le trafic de plusieurs lignes de train interrompu ce vendredi en raison de la tempête Austen",
-      "url": "https://www.lefigaro.fr/conjoncture/transports-en-ile-de-france-le-trafic-de-plusieurs-lignes-de-train-interrompu-ce-vendredi-en-raison-de-la-tempete-austen-20261022",
-      "description": "Des perturbations sont à prévoir sur le réseau francilien, alors que de fortes rafales de vent sont attendues ce vendredi 23 octobre sur une partie de l’Île-de-France.",
-      "date": "2026-10-22T17:42:38+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/1920x1280_crop/2026/10/22/86220f7b66ae35b306cb94f33ace92696478f29c747a2372a87ff15aa9c2f7f2.jpg",
       "kind": "presse"
     },
     {
@@ -502,6 +1342,16 @@
       "kind": "presse"
     },
     {
+      "title": "Arnaques sur Booking.com: le géant de la réservation en ligne visé par une enquête de l'Union européenne",
+      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261022-arnaques-sur-booking-com-le-g%C3%A9ant-de-la-r%C3%A9servation-en-ligne-vis%C3%A9-par-une-enqu%C3%AAte-de-l-union-europ%C3%A9enne",
+      "description": "C'est l'un des sites internet les plus utilisés en Europe pour la réservation d'hôtels par les touristes : le géant américain Booking.com fait l'objet d'une enquête de la Commission européenne. Bruxelles soupçonne la plateforme de ne pas assez protéger ses clients contre les annonces frauduleuses.",
+      "date": "2026-10-22T17:31:19+00:00",
+      "source": "RFI",
+      "language": "fr",
+      "image": "https://s.rfi.fr/media/display/c9376740-ce3b-11f1-a6bb-23d55109f116/w:1024/p:16x9/000-9RF44E.jpg",
+      "kind": "presse"
+    },
+    {
       "title": "Accident du Mirage près de Nancy : la justice confirme le décès des deux occupants",
       "url": "https://www.france24.com/fr/france/20261022-accident-mirage-pr%C3%A8s-nancy-justice-confirme-d%C3%A9c%C3%A8s-deux-occupants",
       "description": "Le parquet de Metz a confirmé jeudi le décès du deuxième occupant du Mirage 2000D. L'appareil, qui effectuait une mission d'entraînement, s'est écrasé mardi soir près de Nancy. Le pilote, âgé de 27 ans, et son navigateur, âgé de 44 ans, n'ont pas eu le temps de s'éjecter avant de toucher le sol.",
@@ -542,16 +1392,6 @@
       "kind": "presse"
     },
     {
-      "title": "Los Reyes y sus hijas se empapan de Mendelssohn y Gutenberg en el concierto previo a los Princesa de Asturias",
-      "url": "https://www.elmundo.es/cultura/2026/10/22/6ada42ef21efa04c4c8b4596.html",
-      "description": "Don Felipe, Doña Letizia, Leonor y Sofía comienzan los actos que rodean a los Premios Leer",
-      "date": "2026-10-22T17:29:01+00:00",
-      "source": "El Mundo",
-      "language": "es",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926900092383.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
       "url": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
       "description": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
@@ -562,19 +1402,9 @@
       "kind": "presse"
     },
     {
-      "title": "Trump says he asked Google CEO to rename Atlantic Ocean on Maps",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
-      "description": "Tech company previously complied with president’s demand to rename Gulf of Mexico as Gulf of AmericaDonald Trump said Google rejected his request to rename the Atlantic Ocean after himself or America.Speaking at a rally in South Carolina on Wednesday, the president said he had called Google’s CEO, Sundar Pichai, to ask",
-      "date": "2026-10-22T17:27:05+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/88630c0591421f590d0e1642fb602bb4977d7eae/846_306_4619_3694/master/4619.jpg?width=140&quality=85&auto=format&fit=max&s=3af773882f99a8e9f5b4deda36fb7d86",
-      "kind": "presse"
-    },
-    {
-      "title": "Scientists turn art detectives to date van Gogh's 'Starry Night' to actual sky from 1889",
+      "title": "Scientists turned art detectives date van Gogh's 'Starry Night' to actual night sky in 1889",
       "url": "https://www.france24.com/en/culture/20261022-scientists-turn-art-detectives-trace-van-gogh-starry-night-actual-night-sky-1889",
-      "description": "A team of South Korean researchers has put forward a new date for the night sky depicted in Dutch painter Vincent van Gogh's famed masterpiece \"The Starry Night\". Art historians have long assumed the stars were a product of the artist's fantasy or dated the scene to June 1889 based on the artist's location and other de",
+      "description": "A team of South Korean researchers has put forward a new date for the night sky depicted in Dutch painter Vincent van Gogh's famed masterpiece \"The Starry Night\". Art historians have long assumed the stars were a product of the artist's fantasy or dated the scene to June 1889 based on the artist's known location and ot",
       "date": "2026-10-22T17:27:02+00:00",
       "source": "France 24 English",
       "language": "en",
@@ -602,26 +1432,6 @@
       "kind": "presse"
     },
     {
-      "title": "Crash d’un avion de chasse près de Nancy : un deuxième mort confirmé par le parquet",
-      "url": "https://www.lefigaro.fr/actualite-france/crash-d-un-avion-de-chasse-pres-de-nancy-un-deuxieme-mort-confirme-par-le-parquet-20261022",
-      "description": "L’accident s’est produit mardi soir vers 23h. «Je suis en mesure de vous indiquer ce jour que les éléments découverts sur la zone de l’accident permettent de confirmer deux décès», a indiqué le parquet de Metz ce mercredi.",
-      "date": "2026-10-22T17:24:44+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/ca3ae1b4d59b28c1482fe08c46c6cdf95bcba69be20b87683ae15271eab9869f.JPG",
-      "kind": "presse"
-    },
-    {
-      "title": "Tommy Robinson tells court he had photos taken of journalists’ homes to pressure them",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/tommy-robinson-tells-court-he-had-photos-taken-of-journalists-homes-to-pressure-them",
-      "description": "Far-right activist says he used private investigators to track down journalists but denies trying to intimidate themThe far-right activist Tommy Robinson has told his harassment trial that he used private investigators to track down journalists who had written about his alleged role in the 2024 riots, and had photograp",
-      "date": "2026-10-22T17:23:55+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/34ce8ff7fd4631958fe1cb65fd7ad0eff1ed03e5/682_27_1710_1368/master/1710.jpg?width=140&quality=85&auto=format&fit=max&s=1a95e342914ecc14a47278e628ecf7d2",
-      "kind": "presse"
-    },
-    {
       "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
       "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
       "description": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
@@ -639,16 +1449,6 @@
       "source": "BBC World",
       "language": "en",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ce2/live/10986490-ce0f-11f1-9f55-cdc56e9c248c.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Your questions answered",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-      "description": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day.From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivotSign up for the Stakes newsletterCheryl Bath, Wisconsin asks in a callout question: During covid I was ",
-      "date": "2026-10-22T17:17:44+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/7e99cbcfbe918e7ce8516ed10f7d434dacbc981d/100_0_1000_800/master/1000.png?width=140&quality=85&auto=format&fit=max&s=87919bfea45f861d6ed3ed19c299fa90",
       "kind": "presse"
     },
     {
@@ -692,7 +1492,7 @@
       "kind": "presse"
     },
     {
-      "title": "Unas curiosas huellas dactilares de 2.200 años revelan quiénes fueron algunos de los inesperados artesanos del Ejército de Terracota",
+      "title": "¿Mujeres y niños también moldearon el Ejército de Terracota? El hallazgo de unas huellas dactilares revela una pista inesperada",
       "url": "https://muyinteresante.okdiario.com/historia/huellas-ejercito-terracota-china-mujeres-ninos.html",
       "description": "Un análisis de 79 huellas dactilares conservadas en los guerreros de terracota de China sugiere que mujeres y niños también participaron en su fabricación hace más de 2.200 años.",
       "date": "2026-10-22T17:12:50+00:00",
@@ -739,26 +1539,6 @@
       "source": "Le Figaro",
       "language": "fr",
       "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/22/fd3769e91458190e4b897776c7a7cd34f1515225f02ce3b4ad0de06e1e9d680f.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "« Acte II » le 24 octobre : pas de transports en commun, couvre-feu élargi et manifestations interdites à Marseille",
-      "url": "https://www.lefigaro.fr/marseille/acte-ii-le-24-octobre-pas-de-transports-en-commun-couvre-feu-elargi-et-manifestation-interdite-a-marseille-20261022",
-      "description": "En prévision de la mobilisation de samedi, le préfet des Bouches-du-Rhône a annoncé de nouvelles mesures après les violents débordements du 17 octobre.",
-      "date": "2026-10-22T17:04:27+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/83bebdb1ae9a18799126d7db2ae77fcb0d3b9eaf2d43cf5396be27f0f6bcf914.JPG",
-      "kind": "presse"
-    },
-    {
-      "title": "Sanidad despeja ‘in extremis’ el temor de los psiquiatras ante la nueva ley de internamientos forzosos para enfermos de salud mental",
-      "url": "https://elpais.com/sociedad/2026-10-22/sanidad-despeja-in-extremis-el-temor-de-los-psiquiatras-ante-la-nueva-ley-de-internamientos-forzosos-para-enfermos-de-salud-mental.html",
-      "description": "El ministerio pretende dar más garantías en el procedimiento y los profesionales confían en mantener los criterios que dan seguridad a los pacientes, a los familiares y a ellos mismos cuando entre en vigor la nueva normativa",
-      "date": "2026-10-22T17:04:22+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://imagenes.elpais.com/resizer/v2/QNFBAH5FPFHGVBROS75FU4ISPA.jpg?auth=76ab97bcba1da641cfc41d2ff151676a70cd4d4c00b4254c14d68f1387ce5437",
       "kind": "presse"
     },
     {
@@ -882,26 +1662,6 @@
       "kind": "presse"
     },
     {
-      "title": "L’acte II des manifestations bouscule le football français, plusieurs rencontres sont déjà menacées",
-      "url": "https://www.lefigaro.fr/sports/football/l-acte-ii-des-manifestations-bouscule-le-football-francais-plusieurs-rencontres-sont-deja-menacees-20261022",
-      "description": "Les manifestations prévues ce samedi 24 octobre chamboulent le calendrier de Ligue 1 et de Ligue 2. Plusieurs rencontres sont reportées, et le choc PSG-Lyon pourrait se jouer lundi, en pleine cérémonie du Ballon d’Or.",
-      "date": "2026-10-22T16:51:03+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/4514112005d860834a67c576c0675785db6b62f7488be0bba211510e205f91ac.JPG",
-      "kind": "presse"
-    },
-    {
-      "title": "Chine : un puissant séisme de magnitude 7 frappe la région du Tibet",
-      "url": "https://www.lefigaro.fr/international/chine-un-puissant-seisme-de-magnitude-7-frappe-la-region-du-tibet-20261022",
-      "description": "Aucune victime n’a été signalée dans un premier bilan après un séisme de magnitude 7 qui a frappé jeudi soir la région du Tibet, en Chine. Selon l’USGS, l’épicentre se situe à 390 kilomètres au nord-est de Lhassa.",
-      "date": "2026-10-22T16:49:53+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/39480146ec6338b9847fad7af66f383bfe5ab8ec81b871cc7ed8e726326a17c6.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "الحرب بين روسيا وأوكرانيا: تبادل ضربات عقب زيارة مبعوث أمريكي إلى الكرملين",
       "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261022-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A8%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%B9%D9%82%D8%A8-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%83%D8%B1%D9%85%D9%84%D9%8A%D9%86",
       "description": "تبادلت كييف وموسكو هجماتٍ بطائرات مسيّرة وصواريخ مما أسفر عن مقتل سبعة أشخاص في الجانب الأوكراني جاءت هذه الضربات بعد ساعات من مباحثات مبعوث الرئيس الأمريكي مع الرئيس الروسي وذكر المبعوث الأمريكي عقب الاجتماع أن موسكو مستعدة لاستئناف مفاوضاتٍ ثلاثية الأطراف تضم كييف وواشنطن.",
@@ -909,16 +1669,6 @@
       "source": "France 24 Arabic",
       "language": "ar",
       "image": "https://s.france24.com/media/display/1cc1a5a0-ce38-11f1-abd0-3f59e19fd7f8/w:1024/p:16x9/miniature-ukraine-adapte.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
-      "description": "California, Oregon, Washington and Hawaii health officials ask CDC, ‘prioritizing emerging technologies’, to reconsiderCalifornia and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for measles – but after waiting two months, the CDC denied the request, citi",
-      "date": "2026-10-22T16:49:21+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/e590369876d35871949608535e1d7a034924b67c/0_0_6042_4832/master/6042.jpg?width=140&quality=85&auto=format&fit=max&s=9b2eb73d03f100bbdbe29b6a13025d24",
       "kind": "presse"
     },
     {
@@ -930,16 +1680,6 @@
       "language": "de",
       "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/6/9/7/1/shutterstock_2424222439-555596f00a20dcd7.jpeg",
       "kind": "magazine"
-    },
-    {
-      "title": "L’enquête sur la mort de Daniel Siad, rabatteur présumé de Jeffrey Epstein, va être clôturée",
-      "url": "https://www.lefigaro.fr/faits-divers/l-enquete-sur-la-mort-de-daniel-siad-rabatteur-presume-de-jeffrey-epstein-va-etre-cloturee-20261022",
-      "description": "L’enquête sur la mort de Daniel Siad, soupçonné d’avoir recruté des femmes pour Jeffrey Epstein, sera clôturée en l’absence d’infractions pénales, a annoncé jeudi le parquet de Nanterre. Visé par plusieurs plaintes, notamment pour viol, il avait été retrouvé mort en juillet à Colombes.",
-      "date": "2026-10-22T16:48:27+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/2dfd3983dc464066428802b86281bca09a5d7198e5ae2e0f42457b1d1dabf578.JPG",
-      "kind": "presse"
     },
     {
       "title": "Castilla y León acaba de ponerle un precio a la energía solar: hasta 2.000 euros por hectárea que ocupe",
@@ -999,16 +1739,6 @@
       "source": "El País",
       "language": "es",
       "image": "https://imagenes.elpais.com/resizer/v2/PUAZKD4QJRIKHOUVYVXIDVA3SE.jpg?auth=1f98812834a95e02eda81957ba1601bbc9c009bc79c1962b42e0819dd80c5e5b",
-      "kind": "presse"
-    },
-    {
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "description": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
-      "date": "2026-10-22T16:40:07+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/d77c3ae0-ce29-11f1-9f18-490cec60aa0f.jpg",
       "kind": "presse"
     },
     {
@@ -1262,16 +1992,6 @@
       "kind": "presse"
     },
     {
-      "title": "Foot : les États-Unis accueilleront la première Coupe du monde des clubs féminine en 2028",
-      "url": "https://www.lefigaro.fr/sports/football/foot-les-etats-unis-accueilleront-la-premiere-coupe-du-monde-des-clubs-feminine-en-2028-20261022",
-      "description": "La Fifa a annoncé ce jeudi que la première édition de la Coupe du monde des clubs féminine se déroulera aux États-Unis, du 5 au 30 janvier 2028.",
-      "date": "2026-10-22T16:14:35+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/3000x1997_crop/2026/10/22/195652d5e7de0ce71af12900a443f4ba5987f411bf90fe4ae89e7ed87cec46c8.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "Mario Vaquerizo: \"Aún cuestionan mi matrimonio diciendo que soy maricón. Alaska debe estar muerta de inanición tras 27 años con un maricón\"",
       "url": "https://www.elmundo.es/cultura/2026/10/21/6ad0c7b4fdddfff2788b45a4.html",
       "description": "Pueden pensar lo que quieran de él, tampoco es que le importe, pero hay algo indiscutible: nunca te aburres con el nuevo maestro de ceremonias de 'Cabaret' Leer",
@@ -1482,16 +2202,6 @@
       "kind": "presse"
     },
     {
-      "title": "Mobilisation du 17 octobre : les proches de l’homme décédé à Paris réclament les résultats de l’autopsie dans les plus brefs délais",
-      "url": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-les-proches-de-l-homme-decede-a-paris-reclament-les-resultats-de-l-autopsie-dans-les-plus-brefs-delais-20261022",
-      "description": "La famille de l’homme de 59 ans décédé samedi à Paris lors des violences réclame la communication rapide des résultats de son autopsie afin de déterminer les causes exactes de sa mort. Par l’intermédiaire de son avocat, elle déplore le manque d’informations et lance un appel à témoins.",
-      "date": "2026-10-22T15:53:10+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/478a69949155982bee8dfbad5081efce630ecd4bb76ccf065b98b14ff20d273d.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "Un deuxième suspect interpellé après l’incendie criminel de la mairie de Limoges",
       "url": "https://www.mediapart.fr/journal/france/221026/un-deuxieme-suspect-interpelle-apres-l-incendie-criminel-de-la-mairie-de-limoges",
       "description": "Après un premier homme, âgé de 34 ans, arrêté mardi en Haute-Vienne, un second suspect a été arrêté jeudi dans la Creuse.",
@@ -1662,16 +2372,6 @@
       "kind": "magazine"
     },
     {
-      "title": "Émeutes : très remontés contre le gouvernement et LFI, les Français soutiennent largement leur police",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/emeutes-tres-remontes-contre-le-gouvernement-et-lfi-les-francais-soutiennent-largement-leur-police-20261022",
-      "description": "SONDAGE - Après les violences urbaines du week-end dernier, et à l’aube d’un «acte II» prévu samedi, notre étude Odoxa-Backbone pour Le Figaro révèle le regard que porte le pays sur la situation.",
-      "date": "2026-10-22T15:39:49+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/22/6304160e5c536ed1bee39f2dbd071bb2e1f7bbf0fb870cf81d4b99658930b046.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "French students demonstrate again, despite school holidays",
       "url": "https://www.france24.com/en/french-students-demonstrate-again-despite-school-holidays",
       "description": "The French \"interfac\" student movement organised new protests on Thursday, even though it is currently the school holidays in France. Student representatives are set to meet soon with Education Minister Edouard Geffray. Details by FRANCE 24's Ellen Gainsford.",
@@ -1719,16 +2419,6 @@
       "source": "Deutsche Welle",
       "language": "de",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "title": "Les radios privées protestent contre les nouvelles règles publicitaires à Radio France",
-      "url": "https://www.lefigaro.fr/medias/les-radios-privees-protestent-contre-les-nouvelles-regles-publicitaires-a-radio-france-20261022",
-      "description": "Le nouveau plafond des recettes publicitaires de Radio France, fixé à 70 millions d’euros par an par le gouvernement, est «une distorsion de concurrence inacceptable pour les radios privées», estime l’Alliance de la radio.",
-      "date": "2026-10-22T15:32:54+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/8fe719405ca76a8ef984234e6461c2a69489b493e6f6ed03a377e4ff69782714.JPG",
       "kind": "presse"
     },
     {
@@ -1892,16 +2582,6 @@
       "kind": "magazine"
     },
     {
-      "title": "Congrès du RN à Orléans : entre 20 000 et 30 000 opposants venus de toute la France attendus samedi",
-      "url": "https://www.lefigaro.fr/actualite-france/congres-du-rn-a-orleans-entre-20-000-et-30-000-opposants-venus-de-toute-la-france-attendus-samedi-20261022",
-      "description": "Près de 3 000 membres des forces de l’ordre seront mobilisés ce week-end à Orléans pour encadrer les manifestations contre le congrès du Rassemblement national. Selon le préfet du Loiret, Hugues Moutouh, entre 2 000 à 3 000 éléments radicaux venus de toute la France sont attendus samedi.",
-      "date": "2026-10-22T15:15:12+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/3ae9e56a5c37fd69320db576e83e52ea547bc870790398f4d7c27ed0a63c995f.JPG",
-      "kind": "presse"
-    },
-    {
       "title": "Investigan un chat de Telegram con cientos de policías de Galicia por haber compartido datos privados de ciudadanos durante seis años",
       "url": "https://www.elmundo.es/galicia/2026/10/22/6ada21a4fdddff99328b45b0.html",
       "description": "La investigación parte de la denuncia de un inspector de Vigo que alertó del intercambio de información policial confidencial al margen de los cauces oficiales Leer",
@@ -1922,16 +2602,6 @@
       "kind": "presse"
     },
     {
-      "title": "From the streets to the ballot box: Serbia’s students hope for election win",
-      "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
-      "description": "Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.",
-      "date": "2026-10-22T15:13:34+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
       "title": "Alerte sur le Web : une IA vient de découvrir deux failles majeures que les pirates exploitent déjà",
       "url": "https://www.futura-sciences.com/tech/actualites/cybersecurite-alerte-web-ia-vient-decouvrir-deux-failles-majeures-pirates-exploitent-deja-138748/#xtor%3DRSS-8",
       "description": "Deux failles critiques dans PHP, le langage qui fait fonctionner une grande partie du Web, ont été découvertes grâce à l’intelligence artificielle. Déjà exploitées par des pirates avant même leur divulgation publique, elles obligent les administrateurs à se précipiter pour mettre leurs systèmes...",
@@ -1949,16 +2619,6 @@
       "source": "BBC World",
       "language": "en",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f3/live/e6483970-ce29-11f1-bc2e-018d645d8d21.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "Midterms 2026 : Donald Trump s’appuie sur les violences en France pour mobiliser son camp",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261022-midterms-2026-donald-trump-s-appuie-sur-les-violences-en-france-pour-mobiliser-son-camp",
-      "description": "Donald Trump a présenté mardi Marine Le Pen comme la \"voix conservatrice\" en France dans le contexte des violences frappant le pays, mais sans aller jusqu'à apporter officiellement son soutien à la candidate d'extrême droite en vue de l'élection présidentielle de 2027. Le président américain s'est saisi plusieurs fois ",
-      "date": "2026-10-22T15:11:29+00:00",
-      "source": "France 24",
-      "language": "fr",
-      "image": "https://s.france24.com/media/display/373d37ea-ce2a-11f1-9ee4-3f59e19fd7f8/w:1024/p:16x9/FR-20261022-160703-161704-CS.jpg",
       "kind": "presse"
     },
     {
@@ -1989,26 +2649,6 @@
       "source": "El País",
       "language": "es",
       "image": "https://imagenes.elpais.com/resizer/v2/BGDFBCDKEZBEBPTKU2LW2WL3UY.jpg?auth=2d1c5fabb28e6c560ea9b25f0af0a8c0bf0235758cce7490a7b11cafad9c01bd",
-      "kind": "presse"
-    },
-    {
-      "title": "Fatal Custody",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss",
-      "description": "Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored.",
-      "date": "2026-10-22T15:08:32+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "title": "Rising costs and tight budgets strain Americans ahead of midterm elections",
-      "url": "https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss",
-      "description": "Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive.",
-      "date": "2026-10-22T15:07:38+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -2062,16 +2702,6 @@
       "kind": "magazine"
     },
     {
-      "title": "Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
-      "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss",
-      "description": "On trade, investment and innovation, leaders will work towards conclusion of a Canada-Turkiye Free Trade Agreement.",
-      "date": "2026-10-22T15:00:37+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
       "title": "🔴 مباشر - فرنسا: وزير العدل يعلن سجن 217 شخصا على خلفية الاحتجاجات وأعمال الشغب",
       "url": "https://www.france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261022-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7%D8%AA-%D9%88%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D9%88%D9%84%D9%88%D9%83%D9%88%D8%B1%D9%86%D9%88-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D9%85%D8%AB%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D8%AD%D8%B2%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9",
       "description": "",
@@ -2090,26 +2720,6 @@
       "language": "en",
       "image": "https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=99d09e5c72dc94b29dac15282c8b6567",
       "kind": "presse"
-    },
-    {
-      "title": "El cielo que atrapó a Van Gogh: la Luna y Venus revelan la fecha en que observó ‘La noche estrellada’",
-      "url": "https://elpais.com/ciencia/2026-10-22/el-cielo-que-atrapo-a-van-gogh-la-luna-y-venus-revelan-la-fecha-en-que-observo-la-noche-estrellada.html",
-      "description": "Un grupo de científicos afirma que la famosa pintura coincide con la posición de los astros en el cielo de las primeras horas del 22 de julio de 1889, más tarde de lo que se creía",
-      "date": "2026-10-22T15:00:17+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://imagenes.elpais.com/resizer/v2/SQLM6WKIHRCS7D352MMJWKRO2A.jpg?auth=0e1b506709084b02b93871caab5ed918f657ba76198b9766db583984eec1db87",
-      "kind": "presse"
-    },
-    {
-      "title": "El Gobierno abre la puerta para que los afectados por la dana Adam se consideren accidente laboral, aunque todavía falta un paso",
-      "url": "https://www.xataka.com/magnet/gobierno-ha-abierto-puerta-para-afectados-dana-adam-pueden-considerarse-accidente-laboral-todavia-falta-paso",
-      "description": "El pasado martes, la ministra Elma Saiz anunció que las secuelas laborales de catástrofes como la dana Adam tendrán más protección. La norma es el Real Decreto-ley 31/2026, publicado hoy en el BOE y en vigor desde ayer, miércoles 21 de octubre. Conviene leer la letra pequeña: el texto no crea una prestación nueva para ",
-      "date": "2026-10-22T15:00:10+00:00",
-      "source": "Xataka",
-      "language": "es",
-      "image": "https://i.blogs.es/3d6f48/dana/1024_2000.jpeg",
-      "kind": "magazine"
     },
     {
       "title": "Ya han doblado el iPhone Duo 32.000 veces. ¿Cómo ha quedado la bisagra?",
@@ -2142,6 +2752,16 @@
       "kind": "magazine"
     },
     {
+      "title": "Afectados por la Dana Adam, el Consejo de Ministros aprueba por decreto ley la incapacidad temporal por catástrofe",
+      "url": "https://www.xataka.com/magnet/gobierno-ha-abierto-puerta-para-afectados-dana-adam-pueden-considerarse-accidente-laboral-todavia-falta-paso",
+      "description": "El pasado martes, la ministra Elma Saiz anunció que las secuelas laborales de catástrofes como la dana Adam tendrán más protección. La norma es el Real Decreto-ley 31/2026, publicado hoy en el BOE y en vigor desde ayer, miércoles 21 de octubre. Conviene leer la letra pequeña: el texto no crea una prestación nueva para ",
+      "date": "2026-10-22T15:00:00+00:00",
+      "source": "Xataka",
+      "language": "es",
+      "image": "https://i.blogs.es/3d6f48/dana/1024_2000.jpeg",
+      "kind": "magazine"
+    },
+    {
       "title": "php2shell: Wer nun was machen muss",
       "url": "https://www.heise.de/news/php2shell-Luecke-Was-jetzt-zu-tun-ist-11497046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "description": "Sämtliche PHP-Versionen der letzten 20 Jahre sind durch zwei Sicherheitslücken gefährdet. Updates einzuspielen ist das einzig wirksame Mittel.",
@@ -2150,16 +2770,6 @@
       "language": "de",
       "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/7/3/5/0/shutterstock_2526471169-2db9aa1c4856ac68.jpeg",
       "kind": "magazine"
-    },
-    {
-      "title": "Mobilisation lycéenne : la marche maintenue après la levée de l’interdiction",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261022-mobilisation-lyc%C3%A9enne-la-marche-maintenue-apr%C3%A8s-la-lev%C3%A9e-de-l-interdiction",
-      "description": "Ce n'est pas l'éducation qui coûte trop cher, c'est l'armée, c'est la guerre\": des centaines de lycéens et étudiants manifestent une nouvelle fois jeudi pour dénoncer notamment la \"répression\" des autorités, qui ont interdit plusieurs cortèges depuis samedi.",
-      "date": "2026-10-22T14:59:12+00:00",
-      "source": "France 24",
-      "language": "fr",
-      "image": "https://s.france24.com/media/display/b7aa71e8-ce27-11f1-9b4b-97baf3e9dd31/w:1024/p:16x9/FR-20261022-160110-160348-CS.jpg",
-      "kind": "presse"
     },
     {
       "title": "مصر تدعو الى حل سياسي بين السعودية والحوثيين وتؤكد تضامنها مع الرياض",
@@ -2172,16 +2782,6 @@
       "kind": "presse"
     },
     {
-      "title": "Messi llega a Oviedo para recibir el Premio Princesa de Asturias de los Deportes 2026",
-      "url": "https://elpais.com/videos/2026-10-22/messi-llega-a-oviedo-para-recibir-el-premio-princesa-de-asturias-de-los-deportes-2026.html",
-      "description": "El futbolista argentino, considerado uno de los mejores de la historia, ha sido recibido en la ciudad entre los gritos y aplausos de sus seguidores",
-      "date": "2026-10-22T14:49:19+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261022/1228523_121828_video_1800.mp4",
-      "kind": "presse"
-    },
-    {
       "title": "MSI tira la casa por la ventana bajando el precio de su consola portátil con procesador Intel Core Ultra",
       "url": "https://www.xataka.com/seleccion/msi-tira-casa-ventana-bajando-precio-su-consola-portatil-procesador-intel-core-ultra",
       "description": "Las consolas portátiles han dejado de ser únicamente consolas y ya podemos considerar que son PC consolizados dada la potencia y los sistemas operativos que suelen traer. La MSI Claw (A1M) surgió como competencia de la Steam Deck, los años han pasado y hoy en día se encuentra de oferta en la tienda oficial por 539,10 e",
@@ -2190,16 +2790,6 @@
       "language": "es",
       "image": "https://i.blogs.es/70ca3d/msi-claw/1024_2000.jpeg",
       "kind": "magazine"
-    },
-    {
-      "title": "Jérôme Fourquet : «Devenir manager après son bac+5, seul horizon d’une Gen Z surdiplômée ?»",
-      "url": "https://www.lefigaro.fr/vie-professionnelle/jerome-fourquet-devenir-manager-apres-son-bac-5-seul-horizon-d-une-gen-z-surdiplomee-20261022",
-      "description": "Avec 87% d’une classe d’âge au niveau bac, des écoles de commerce multipliées par onze en 40 ans et un tiers - plus que d’ouvriers - des salariés français disposant désormais du statut de cadre, assiste-t-on au chant du cygne des «jeunes cadres dynamiques» ?",
-      "date": "2026-10-22T14:46:08+00:00",
-      "source": "Le Figaro",
-      "language": "fr",
-      "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/bc12547ca4f7927dbf7a611a55fff6184f0c7c0874140ea741ff07ca39b6a277.jpg",
-      "kind": "presse"
     },
     {
       "title": "تهديدات أمريكية إسرائيلية بشن ضربات جديدة ضد إيران",
@@ -2262,16 +2852,6 @@
       "kind": "presse"
     },
     {
-      "title": "Retirada una polémica campaña en Irlanda que pide el consentimiento de los nietos a los abrazos de sus abuelos",
-      "url": "https://elpais.com/mamas-papas/actualidad/2026-10-22/retirada-una-polemica-campana-en-irlanda-que-pide-el-consentimiento-de-los-nietos-a-los-abrazos-de-sus-abuelos.html",
-      "description": "El anuncio, realizado por el Centro de Atención a Víctimas de Violación de Dublín, ha sido calificado por el ministro de Justicia irlandés de “inapropiado y denigrante” para los abuelos",
-      "date": "2026-10-22T14:30:39+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://imagenes.elpais.com/resizer/v2/AYEHU4IWDVC7LEX7XIMRDHWEAU.jpg?auth=bbf33ddb5aafe3dc76a3fc29bbd241c7e4f8bf0b9f3b393d43ba59cdde6a4202",
-      "kind": "presse"
-    },
-    {
       "title": "Gemini se vuelve \"personal\" en el coche: tendrá acceso a tu Gmail, Calendar y Maps mientras conduces",
       "url": "https://www.xataka.com/robotica-e-ia/gemini-se-vuelve-personal-coche-tendra-acceso-a-tu-gmail-calendar-maps-conduces",
       "description": "Google se está poniendo las pilas con Gemini en el coche, permitiendo que el asistentede IA pueda ahora inspeccionartus datosen servicios comoGmail, Calendar, Fotos, Maps, YouTube y Search para respondertodo tipo depreguntas mientras conduces.Tal y como explica la compañía en una publicación, la funciónya ha comenzado ",
@@ -2292,16 +2872,6 @@
       "kind": "presse"
     },
     {
-      "title": "¿Por qué no te callas, Milei?",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-22/por-que-no-te-callas-milei.html",
-      "description": "La derecha española, tan patriótica, evita responder a los insultos lanzados por el presidente argentino contra Pedro Sánchez y la prensa; lejos de condenarlos, alimenta la bronca en internet",
-      "date": "2026-10-22T14:23:59+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261021/1228198_175858_video_1800.mp4",
-      "kind": "presse"
-    },
-    {
       "title": "Cameroon: Ten years after a massive train disaster, victims are still awaiting justice",
       "url": "https://www.france24.com/en/video/20261022-cameroon-ten-years-after-a-massive-train-disaster-victims-are-still-awaiting-justice",
       "description": "It has been ten years since a Cameroon National Railway Intercity train travelling between Yaounde and Douala derailed and became the country's worst ever railway disaster. Seventy-nine people were killed and hundreds were injured.",
@@ -2319,46 +2889,6 @@
       "source": "France 24 English",
       "language": "en",
       "image": "https://s.france24.com/media/display/8b7ebcfa-ce22-11f1-b348-97baf3e9dd31/w:1024/p:16x9/capture-1d521ee2.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "Russia agrees to resume trilateral peace talks on Ukraine war",
-      "url": "https://www.france24.com/en/russia-agrees-to-resume-trilateral-peace-talks-on-ukraine-war",
-      "description": "A US envoy met Putin in Saint Petersburg on Wednesday after the Kremlin agreed to resume peace talks with Ukraine and the United States. Details by FRANCE 24's correspondent Gulliver Cragg.",
-      "date": "2026-10-22T14:19:27+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/6eda9058-cd3f-11f1-84de-8bea73bbe173/w:1024/p:16x9/2026-10-21T102625Z-722811654-RC2M7OATXY8O-RTRMADP-3-UKRAINE-CRISIS-PUTIN-WITKOFF.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "La huelga de camioneros en el sur de Italia vacía los supermercados y desabastece de combustible aeropuertos y gasolineras",
-      "url": "https://elpais.com/internacional/2026-10-22/la-huelga-de-camioneros-en-italia-vacia-los-supermercados-y-desabastece-de-combustible-aeropuertos-y-gasolineras.html",
-      "description": "El Gobierno de Giorgia Meloni aprueba ayudas de 550 millones para acabar con los cortes de carreteras y la escasez de suministros",
-      "date": "2026-10-22T14:18:44+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://imagenes.elpais.com/resizer/v2/FTGJQXATN5EARAFUDNIL7ZFWHY.jpg?auth=1b31ccef91d56a13307e8075ace4ff3e2d30acd8b395a2fbf313c76d914ce0f3",
-      "kind": "presse"
-    },
-    {
-      "title": "Hoy en Lidl, la solución al problema de los malos olores en casa con su nuevo difusor ultrasónico, ya disponible en dos formatos",
-      "url": "https://www.xataka.com/seleccion/hoy-lidl-solucion-al-problema-malos-olores-casa-su-nuevo-difusor-ultrasonico-disponible-dos-formatos",
-      "description": "La sección Bazar de Lidl está plagada de dispositivos para el hogar. Semanalmente se van renovando en los establecimientos físicos, por lo que solemos encontrar una gran variedad. Y el difusor de aromas ultrasónico de Livarno está disponible en la tienda online por un precio de 11,99 euros, pero si queremos comprarlo e",
-      "date": "2026-10-22T14:16:09+00:00",
-      "source": "Xataka",
-      "language": "es",
-      "image": "https://i.blogs.es/492b5d/lidl/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "title": "Galaxie Bolloré ? Parlons-en avec G. Davet et F. Lhomme",
-      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261022-galaxie-bollor%C3%A9-parlons-en-avec-g-davet-et-f-lhomme",
-      "description": "Il possède aujourd’hui une galaxie de médias sans pareil en France : actionnaire principal du groupe Canal +, premier financier du cinéma français et maison mère de la chaîne d’opinion CNEWS. Il contrôle la radio Europe 1 et le JDD, mais aussi Paris Match via le groupe PRISMA. C'est un géant de l’édition avec les éditi",
-      "date": "2026-10-22T14:15:59+00:00",
-      "source": "France 24",
-      "language": "fr",
-      "image": "https://s.france24.com/media/display/a80d81c2-ce1c-11f1-8b76-7967b15eed96/w:1024/p:16x9/capture-e83bb975.jpg",
       "kind": "presse"
     },
     {
@@ -2389,16 +2919,6 @@
       "source": "BBC World",
       "language": "en",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cfa/live/29484c90-ce22-11f1-906e-e3128518d85d.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "El PP apoya el veto ideológico de Vox en las ayudas al cine de Castilla y León y defiende que busca proteger la “libertad”",
-      "url": "https://elpais.com/cultura/cine/2026-10-22/el-pp-apoya-la-censura-ideologica-de-vox-al-cine-de-castilla-y-leon-por-la-libertad-y-el-alcalde-de-valladolid-pp-rechaza-los-ataques-de-vox-al-festival-seminci.html",
-      "description": "El portavoz de la Junta alude a la “calidad” e independencia de la cultura, mientras el alcalde popular de Valladolid rechaza los ataques de los ultras al festival Seminci",
-      "date": "2026-10-22T14:09:40+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://imagenes.elpais.com/resizer/v2/K3CUUQFKGVCFHDKPPX2HHCRVBY.jpg?auth=b25f3c355b9b77e76aecb04c9eba173f42b04eab10ffa33bee012294b972e233",
       "kind": "presse"
     },
     {
@@ -2442,16 +2962,6 @@
       "kind": "presse"
     },
     {
-      "title": "Emmanuel Macron poursuit sa tournée dans le Golfe malgré la crise politique en France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261022-emmanuel-macron-poursuit-sa-tourn%C3%A9e-dans-le-golfe-malgr%C3%A9-la-crise-politique-en-france",
-      "description": "Le président français Emmanuel Macron est arrivé mercredi en Arabie saoudite pour une visite non annoncée, la première d'un chef d'Etat occidental dans le royaume depuis l'intensification des frappes houthies début octobre.",
-      "date": "2026-10-22T14:01:27+00:00",
-      "source": "France 24",
-      "language": "fr",
-      "image": "https://s.france24.com/media/display/7f82ed58-ce1e-11f1-8a9d-23d55109f116/w:1024/p:16x9/FR-20261022-143001-144103-CS.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "The great moth revival: how bogongs have bounced back",
       "url": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
       "description": "This animated map shows the insect’s population exploding in Australia’s eastern states, with the endangered species coming back from the brinkIf you live anywhere on the eastern side of Australia, you’ve probably noticed that bogong moths are back in a big way.While we don’t yet have figures from ecologist-led surveys",
@@ -2468,18 +2978,8 @@
       "date": "2026-10-22T14:00:35+00:00",
       "source": "The Guardian",
       "language": "en",
-      "image": "https://i.guim.co.uk/img/media/79daa551e34c69ca0e7b197df2d32c15163256dc/603_0_6030_4826/master/6030.jpg?width=140&quality=85&auto=format&fit=max&s=f94de144af1c6a8affb63654e72e981e",
+      "image": "https://i.guim.co.uk/img/media/20ff570da012016808839d5e195ae207ad84555d/1004_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=306f96fc8c9ca7364fdea681e033144a",
       "kind": "presse"
-    },
-    {
-      "title": "PHP2Shell es una vulnerabilidad crítica para tu web: cómo comprobar que tu sitio es seguro",
-      "url": "https://www.xataka.com/seguridad/php2shell-vulnerabilidad-critica-para-tu-web-como-comprobar-que-tu-sitio-seguro",
-      "description": "Si tienes un sitio web, es muy probable que funcione con PHP. Este lenguaje de programación está detrás de una enorme parte de la web, incluyendo WordPress, Wikipedia, webs de la administración pública y gubernamentales, y muchas tiendas online. Esta semana se han encontrado en él dos fallos críticos, por lo que vale l",
-      "date": "2026-10-22T14:00:10+00:00",
-      "source": "Xataka",
-      "language": "es",
-      "image": "https://i.blogs.es/952e6a/elephpantblue/1024_2000.png",
-      "kind": "magazine"
     },
     {
       "title": "Amazon lanza gafas inteligentes para conductores",
@@ -2572,16 +3072,6 @@
       "kind": "presse"
     },
     {
-      "title": "En 2023, veinte camiones cruzaron Países Bajos cargados con 400 toneladas de marisma frisia. Su destino era un canal capaz de fabricar tormentas",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/2023-veinte-camiones-cruzaron-paises-bajos-cargados-400-toneladas-marisma-frisia-su-destino-era-canal-capaz-fabricar-tormentas",
-      "description": "Es septiembre de 2023 y estamos en una reserva natural en la costa de Frisia. Hay varias excavadoras clavando en el suelo moldes de acero de dos metros por dos metros. Es, salvando las distancias, lo que Pim Willemsen, investigador de Wageningen y Deltares, llamaba un \"cortador de galletas gigante\". El único problema e",
-      "date": "2026-10-22T13:54:06+00:00",
-      "source": "Xataka",
-      "language": "es",
-      "image": "https://i.blogs.es/8b6d22/rijk-van-de-kaa-hvzfvtupg8a-unsplash/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
       "title": "First human case of Shamonda virus detected in France, officials say",
       "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
       "description": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
@@ -2662,26 +3152,6 @@
       "kind": "magazine"
     },
     {
-      "title": "Combatting online scams in the age of AI",
-      "url": "https://www.france24.com/en/tv-shows/people-profit/20261022-combatting-online-scams-in-the-age-of-ai",
-      "description": "One in four Europeans has fallen victim to an online scam, from identity fraud to fake romances. The rise of artificial intelligence is ushering in new risks. Minh Nguyen, Chief Product Officer at security solutions provider Entrust, says both online platforms and governments can play a role in protecting consumers and",
-      "date": "2026-10-22T13:33:54+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/5f127322-ce19-11f1-9f65-23d55109f116/w:1024/p:16x9/capture-b996a739.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "Felipe González cree que Sánchez tiene opciones en los comicios generales “si Milei visita España 15 veces más”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-22/gonzalez-confirma-que-votara-en-blanco-el-29-n-y-ve-opciones-para-sanchez-si-milei-visita-espana-15-veces-mas.html",
-      "description": "El expresidente del Gobierno asegura que votará en blanco porque no se siente representado por ningún candidato",
-      "date": "2026-10-22T13:33:44+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261022/1228561_135143_video_1800.mp4",
-      "kind": "presse"
-    },
-    {
       "title": "Chrome: Google macht Schluss mit unsicheren HTTP-Verbindungen",
       "url": "https://www.heise.de/news/Chrome-Google-macht-Schluss-mit-unsicheren-HTTP-Verbindungen-11497052.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "description": "Der Chrome-Browser warnt fortan vor dem ersten Aufruf unverschlüsselter Websites. Google hat die Sicherheitsfunktion standardmäßig für alle Nutzer aktiviert.",
@@ -2720,16 +3190,6 @@
       "language": "de",
       "image": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_455080310.jpeg.8419329.jpeg?f=1280x720",
       "kind": "magazine"
-    },
-    {
-      "title": "El cabeza de lista de Vox por Tarragona debe sentarse en el banquillo en julio por un delito de odio",
-      "url": "https://elpais.com/espana/2026-10-22/el-cabeza-de-lista-de-vox-por-tarragona-debe-sentarse-en-el-banquillo-en-julio-por-un-delito-de-odio.html",
-      "description": "El retraso del juicio por el asalto a un centro de menores permite a De la Fuente presentarse el 29-N pese a la inhabilitación que le pide el fiscal",
-      "date": "2026-10-22T13:27:59+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://imagenes.elpais.com/resizer/v2/M33EDD7NHZEWPAXKTPKMEVFWZE.JPG?auth=bb355019cdbf98f85271dc250893ee8612b79ba10c9facb0e80e10d875343ffb",
-      "kind": "presse"
     },
     {
       "title": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
@@ -2772,26 +3232,6 @@
       "kind": "presse"
     },
     {
-      "title": "El PSOE responde al juez del 'caso Cloacas' que está ocupado con las elecciones y no puede enviarle por ahora la información que le reclama",
-      "url": "https://www.elmundo.es/espana/2026/10/22/6ad9cf0bfdddff94708b4597.html",
-      "description": "El magistrado de la Audiencia Nacional Santiago Pedraz pretendía aclarar si el dinero abonado a algunos abogados estaba en realidad destinado a la 'fontanera' Leire Díez Leer",
-      "date": "2026-10-22T13:21:42+00:00",
-      "source": "El Mundo",
-      "language": "es",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926593858292.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "Vom Amiga-Studio zum Rockstar-Imperium: Der lange Weg zu „GTA 3“",
-      "url": "https://www.heise.de/hintergrund/25-Jahre-GTA-3-Willkommen-in-Liberty-City-11496918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "description": "Vor 25 Jahren veröffentlicht Rockstar Games „Grand Theft Auto III“. Es wird der Durchbruch für eine Serie, die sich seitdem fast 500 Millionen Mal verkauft hat.",
-      "date": "2026-10-22T13:21:00+00:00",
-      "source": "Heise Wissenschaft",
-      "language": "de",
-      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/7/2/8/3/gta-polizei-1efaa6e044daa9c6.jpeg",
-      "kind": "magazine"
-    },
-    {
       "title": "Microsoft Frontier Tour: KI ist wie der Kölner Dom – eine Vision",
       "url": "https://www.heise.de/news/Microsoft-Frontier-Tour-KI-ist-wie-der-Koelner-Dom-eine-Vision-11496656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "description": "Microsoft präsentierte auf der Frontier Tour in Köln eine große KI-Produktschau. Fokus: Kontrolle über KI-Anwendungen und Cloud-Souveränität.",
@@ -2802,14 +3242,14 @@
       "kind": "magazine"
     },
     {
-      "title": "France: 'Legitimate' grievances over education & inflation risk being overshadowed by violent unrest",
-      "url": "https://www.france24.com/en/video/20261022-what-is-happening-in-france-unpacking-the-recent-waves-of-protests",
-      "description": "Delano D'Souza is pleased to welcome Dr. Laura Keesman, Assistant Professor of Sociology at the Vrije Universiteit Amsterdam. Dr. Keesman examines the complex relationship between peaceful protest, radical activism, social inequality and state authority. She challenges the tendency to interpret disruptive demonstration",
-      "date": "2026-10-22T13:15:01+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/5ea80a1e-ce19-11f1-a7a4-97baf3e9dd31/w:1024/p:16x9/capture-94c7ef8b.jpg",
-      "kind": "presse"
+      "title": "Vom Amiga-Studio zum Rockstar-Imperium: Der lange Weg zu „GTA 3“",
+      "url": "https://www.heise.de/hintergrund/25-Jahre-GTA-3-Willkommen-in-Liberty-City-11496918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "description": "Vor 25 Jahren veröffentlicht Rockstar Games „Grand Theft Auto III“. Es wird der Durchbruch für eine Serie, die sich seitdem fast 500 Millionen Mal verkauft hat.",
+      "date": "2026-10-22T13:21:00+00:00",
+      "source": "Heise Wissenschaft",
+      "language": "de",
+      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/7/2/8/3/gta-polizei-1efaa6e044daa9c6.jpeg",
+      "kind": "magazine"
     },
     {
       "title": "Grupos humanitarios temen que plan de liberación de presos de Bukele lleve a inocentes a declararse culpables",
@@ -2829,16 +3269,6 @@
       "source": "The Guardian",
       "language": "en",
       "image": "https://i.guim.co.uk/img/media/ad0d9a1d652695e1b6e3636cdcd6f787bc705218/926_113_3873_3100/master/3873.jpg?width=140&quality=85&auto=format&fit=max&s=325339a1818bde4ca846b76fcd7f0570",
-      "kind": "presse"
-    },
-    {
-      "title": "REPLAY: French President vows to prevent violence ahead of protests",
-      "url": "https://www.france24.com/en/video/20261022-replay-french-president-vows-to-prevent-violence-ahead-of-protests",
-      "description": "French President ​Emmanuel Macron spoke to the press on Thursday after a meeting with security chiefs. He said that \"illegitimate\" protests would be banned in ​coming ‌days, ⁠while those from ‌organised groups such as unions ⁠would be offered alternative paths ​for the marches ‌to protect businesses.",
-      "date": "2026-10-22T13:04:45+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/d76a89de-cb19-11f1-8162-4dd8ac2cf3bf/w:1024/p:16x9/000-D3N97W4.jpg",
       "kind": "presse"
     },
     {
@@ -2869,16 +3299,6 @@
       "source": "DW Arabic",
       "language": "ar",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "title": "From screen to stage: 'Singin' in the Rain' comes to Paris",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261022-from-screen-to-stage-singin-in-the-rain-comes-to-paris",
-      "description": "One of the most recognisable and beloved musicals of all time has hit the stage in Paris. \"Singin' in the Rain\" is on at the Lido theatre until January 10. In this edition of Entre Nous we are pleased to welcome Ashley Day, the British actor bringing Don Lockwood to life. He tells us what it's like to step into Gene Ke",
-      "date": "2026-10-22T13:02:40+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/c016b1b4-ce10-11f1-81b1-97baf3e9dd31/w:1024/p:16x9/capture-d31a16c8.jpg",
       "kind": "presse"
     },
     {
@@ -3012,46 +3432,6 @@
       "kind": "presse"
     },
     {
-      "title": "La Guardia Civil detiene a dos miembros de ONG de Ceuta por repartir aerosoles de gas pimienta y armas blancas",
-      "url": "https://elpais.com/espana/2026-10-22/la-guardia-civil-investiga-a-miembros-de-dos-ong-de-ceuta-por-repartir-aerosoles-de-gas-pimienta-y-armas-blancas.html",
-      "description": "Las pesquisas, por las que hay otras seis personas investigadas, estudian si se incitó a migrantes a atacar a fuerzas de seguridad",
-      "date": "2026-10-22T12:37:30+00:00",
-      "source": "El País",
-      "language": "es",
-      "image": "https://imagenes.elpais.com/resizer/v2/PSRAVFZUEFDLXKDEDUCDL3QIPU.jpg?auth=240f03dbecdb2f04391998583a7f0199551add6dfe3480aacf5a53b864d45c00",
-      "kind": "presse"
-    },
-    {
-      "title": "Brazil's sprawling favelas require long-term urban planning solutions",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261022-brazil-s-sprawling-favelas-require-long-term-urban-planning-solutions",
-      "description": "As Brazilians head to the polls on Sunday for the second round of presidential elections, our correspondents take us to the heart of the country's favelas, where residents live in unsanitary conditions. Over the past 40 years, the area occupied by Brazilian favelas has almost tripled in size. They now cover around 460,",
-      "date": "2026-10-22T12:31:01+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/0dc5c6f8-ce10-11f1-979d-3f59e19fd7f8/w:1024/p:16x9/capture-e0525447.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "بوتين يوافق على استئناف محادثات السلام مع أوكرانيا",
-      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20261022-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D8%B9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
-      "description": "مؤشرات على استئناف المفاوضات الثلاثية بين موسكو وواشنطن وكييف، وسط خلافات بشأن الأراضي والضمانات الأمنية. مراسل فرانس 24 مازن عباس يستعرض نتائج لقاء بوتين وويتكوف، ودلالات السماح بإمدادات الديزل الروسي اقتصاديًا وسياسيًا.",
-      "date": "2026-10-22T12:30:16+00:00",
-      "source": "France 24 Arabic",
-      "language": "ar",
-      "image": "https://s.france24.com/media/display/d27e1388-cdfc-11f1-b80f-8d87bc3aeb3a/w:1024/p:16x9/AR-20261022-081139-081417-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "الانتخابات التشريعية الإسرائيلية: صورة نتنياهو بين «السيد أمن» وإخفاق 7 أكتوبر.. ماذا يختار الناخب؟",
-      "url": "https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB/20261022-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B5%D9%88%D8%B1%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A3%D9%85%D9%86-%D9%88%D8%A5%D8%AE%D9%81%D8%A7%D9%82-7-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AE%D8%AA%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%A7%D8%AE%D8%A8",
-      "description": "يتوجه الإسرائيليون إلى صناديق الاقتراع في السابع والعشرين من أكتوبر/تشرين الأول، في انتخابات تشريعية يواجه خلالها بنيامين نتنياهو تحدياً أساسياً يتعلق بالصورة التي سينظر إليه بها الناخبون: هل بوصفه «السيد أمن»، كما كان يُلقّب، أم باعتباره أحد المسؤولين الرئيسيين عن الإخفاق الأمني الذي سبق هجمات السابع من أكتوبر/تشرين ا",
-      "date": "2026-10-22T12:29:32+00:00",
-      "source": "France 24 Arabic",
-      "language": "ar",
-      "image": "https://s.france24.com/media/display/0fbba050-ce0f-11f1-8372-97baf3e9dd31/w:1024/p:16x9/capture-db4d7c5e.jpg",
-      "kind": "presse"
-    },
-    {
       "title": "Auffällig, aber harmlos: Warum sich im Herbst so viele Feuerwanzen in Gruppen zeigen",
       "url": "https://www.geo.de/natur/tierwelt/feuerwanzen-zeigen-sich-jetzt-zuhauf---woran-das-liegt-38402638.html?utm_campaign=alle&utm_medium=rss-feed&utm_source=standard",
       "description": "An warmen Herbsttagen versammeln sich Feuerwanzen oft zu Hunderten an Hauswänden und Mauern. Was hinter ihrem Verhalten steckt und was man tun sollte, wenn die Tiere ins Haus gelangen",
@@ -3060,26 +3440,6 @@
       "language": "de",
       "image": "https://image.geo.de/38403146/t/jz/v3/w1440/r1.7778/-/feuerwanzwn-m-ib1207382.jpg",
       "kind": "magazine"
-    },
-    {
-      "title": "France reports first human case of Shamonda virus, but says there's no public health risk",
-      "url": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk",
-      "description": "France has reported the first-ever recorded case of a human contracting the Shamonda livestock virus, which is most commonly found in cattle. Public health authorities stressed that there did not appear to be any health risk to the public, adding that the infection had been \"an exceptional case\" involving a person with",
-      "date": "2026-10-22T12:22:56+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/c90e21c2-ce00-11f1-9ac6-23d55109f116/w:1024/p:16x9/AP25281484289422.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "\"لم أعد أعرف هذا البلد الذي نشأت فيه\"... إسرائيليون يفكرون في الهجرة إلى الخارج",
-      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20261022-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%AD%D8%B1%D8%A8-%D8%BA%D8%B2%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%87%D8%AC%D8%B1%D8%A9-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D9%86%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9",
-      "description": "تشهد إسرائيل منذ عام 2023، تناميا غير مسبوق في ظاهرة هجرة الأدمغة. ومع اقتراب الانتخابات التشريعية المقررة في 27 أكتوبر/تشرين الأول، أكد العديد من خريجي الجامعات أنهم يخططون للهجرة إلى الخارج في حال أفرزت النتائج بقاء الائتلاف الحاكم، المؤلف من أحزاب اليمين واليمين المتطرف، بقيادة نتانياهو، على رأس السلطة. ريبورتاج.",
-      "date": "2026-10-22T12:21:49+00:00",
-      "source": "France 24 Arabic",
-      "language": "ar",
-      "image": "https://s.france24.com/media/display/94bdba32-c96d-11f1-9e3e-6313a763b466/w:1024/p:16x9/skyline-Tel-Aviv.jpg",
-      "kind": "presse"
     },
     {
       "title": "AI discovered a massive cyber-security flaw - here's what happened",
@@ -3212,19 +3572,9 @@
       "kind": "magazine"
     },
     {
-      "title": "Netflix: la machine à succès commence-t-elle à s’essouffler?",
-      "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261022-netflix-machine-succ%C3%A8s-commence-s-essouffler-croissance-ralentissement",
-      "description": "Avec près de 3,7 milliards de dollars de bénéfice entre juillet et septembre 2026, Netflix reste une entreprise très rentable. Pourtant, le ralentissement de sa croissance et des perspectives moins favorables qu’espéré inquiètent Wall Street. Pour le géant du streaming, le défi consiste désormais à capter une ressource",
-      "date": "2026-10-22T11:53:19+00:00",
-      "source": "RFI",
-      "language": "fr",
-      "image": "https://s.rfi.fr/media/display/341f3e1e-4c62-11f0-a875-005056bf30b7/w:1024/p:16x9/freestocks-11SgH7U6TmI-unsplash.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "Manifestations en France: Emmanuel Macron interdit tout rassemblement qui n'est pas organisé par des syndicats",
+      "title": "France: manifestations non syndicales interdites, Emmanuel Macron va recevoir les organisations étudiantes",
       "url": "https://www.rfi.fr/fr/france/20261022-manifestations-en-france-emmanuel-macron-interdit-tout-rassemblement-qui-n-est-pas-organis%C3%A9e-par-des-syndicats",
-      "description": "Après les manifestations du 17 octobre, Emmanuel Macron a indiqué que seules les manifestations syndicales seront tolérées samedi 24 octobre, alors qu'une nouvelle journée de mobilisation a été annoncée. Le président français dénonce des actions « séditieuses » menées par des groupes d’ultragauche, tout en reconnaissan",
+      "description": "Après les manifestations du 17 octobre, Emmanuel Macron a indiqué que seules les manifestations syndicales seront tolérées samedi 24 octobre, alors qu'une nouvelle journée de mobilisation a été annoncée. À Paris, le couvre feu en place dans certains secteurs de la ville est reconduit jusqu'au lundi 26 octobre. Le prési",
       "date": "2026-10-22T11:50:10+00:00",
       "source": "RFI",
       "language": "fr",
@@ -3312,16 +3662,6 @@
       "kind": "magazine"
     },
     {
-      "title": "heise+ | Bauanleitung für einen kompakten Feinstaub-Warner",
-      "url": "https://www.heise.de/ratgeber/Bauanleitung-fuer-einen-kompakten-Feinstaub-Warner-11485345.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "description": "Ein tragbares Luftqualitätsmessgerät für den Arbeitsplatz hilft bei der Einschätzung, ob und wie viel Feinstäube die Gesundheit belasten könnten.",
-      "date": "2026-10-22T11:30:00+00:00",
-      "source": "Heise Wissenschaft",
-      "language": "de",
-      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/1/3/5/4/zwischenversion_aussen_niwe-69edb025fd753c8c.jpeg",
-      "kind": "magazine"
-    },
-    {
       "title": "Guerre en Ukraine: vers un «nouveau Yalta» entre Moscou, Pékin et Washington?",
       "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261022-guerre-en-ukraine-vers-un-nouveau-yalta-entre-moscou-p%C3%A9kin-et-washington",
       "description": "La Russie se dit prête à la reprise des négociations trilatérales avec les États-Unis et l’Ukraine après les élections de mi-mandat aux États-Unis. L’annonce a été faite à l’issue d’une réunion, ce mercredi, entre le président russe et l’émissaire états-unien Steve Witkoff. Autre sujet abordé par les deux hommes : une ",
@@ -3329,16 +3669,6 @@
       "source": "RFI",
       "language": "fr",
       "image": "https://s.rfi.fr/media/display/12e3d09c-cd3b-11f1-84fb-6313a763b466/w:1024/p:16x9/AP26294376356906.jpg",
-      "kind": "presse"
-    },
-    {
-      "title": "At least four dead after storm brings flooding to southern France",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
-      "date": "2026-10-22T11:23:16+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba84/live/388ad750-cdf9-11f1-9a39-31b474234113.jpg",
       "kind": "presse"
     },
     {
@@ -3420,16 +3750,6 @@
       "language": "ar",
       "image": "https://arabhardware.net/storage/uploads/2026-10/6ad9ec3fa28ab.h1.jpgmain6ad9ec3fb33a3.webp",
       "kind": "magazine"
-    },
-    {
-      "title": "Irán se prepara para una nueva guerra y convierte Ormuz en su principal arma de presión",
-      "url": "https://www.elmundo.es/internacional/2026/10/22/6ad9dd5ee85ece97458b4576.html",
-      "description": "Teherán intensifica los ataques contra buques en el estrecho con una violencia mayor que en plena guerra de marzo, mientras Estados Unidos evacúa personal diplomático en la región Leer",
-      "date": "2026-10-22T11:01:23+00:00",
-      "source": "El Mundo",
-      "language": "es",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926629789017.jpg",
-      "kind": "presse"
     },
     {
       "title": "El mito del agua en la joroba del camello",
@@ -4002,16 +4322,6 @@
       "kind": "presse"
     },
     {
-      "title": "Kanada gehen die Ahornsirup-Reserven aus",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-ahornsirup-exporte-usa-deutschland-100.html",
-      "description": "Kanada hat eine strategische Ahornsirup-Reserve - und die geht zur Neige. Bis Ende Februar kommenden Jahres dürfte sie komplett leer sein. Im vergangenen Jahr hatte es Hamsterkäufe von Importeuren gegeben, vor allem aus den USA.",
-      "date": "2026-10-22T08:52:53+00:00",
-      "source": "Tagesschau",
-      "language": "de",
-      "image": "https://images.tagesschau.de/image/f1d9d859-2acd-4e80-a5a2-dfbcfae162e5/AAABoWLgCWk/AAABnSSvrFg/16x9-big/ahornsirup-102.jpg?width=1920",
-      "kind": "presse"
-    },
-    {
       "title": "الأمم المتحدة: لا حل عسكريًا للحرب في السودان.. والتفاوض هو السبيل الوحيد لإنهاء النزاع",
       "url": "https://www.dw.com/ar/الأمم-المتحدة-لا-حل-عسكريًا-للحرب-في-السودان-والتفاوض-هو-السبيل-الوحيد-لإنهاء-النزاع/a-79728840?maca=ara-rss-ar-all-1125-rdf",
       "description": "في ظل استمرار الحرب في السودان وتفاقم الأزمة الإنسانية، تتحرك الأمم المتحدة وشركاؤها لدفع جهود السلام وبناء الثقة بين الجيش السوداني وقوات الدعم السريع. الأمم المتحدة لا منتصر في حرب السودان عسكريًا.. والحل عبر التفاوض.",
@@ -4040,16 +4350,6 @@
       "language": "es",
       "image": "https://i.blogs.es/9c90cb/apple-music-made-by-sound/1024_2000.jpeg",
       "kind": "magazine"
-    },
-    {
-      "title": "Grèce: «Comme en France», étudiants, professeurs et fonctionnaires manifestent contre les conditions d'enseignement",
-      "url": "https://www.rfi.fr/fr/europe/20261022-en-gr%C3%A8ce-%C3%A9tudiants-professeurs-et-fonctionnaires-manifestent-contre-les-conditions-d-enseignement-mouvement-france",
-      "description": "Outre la France, la révolte des étudiants gagne aussi la Grèce. Mercredi 21 octobre, des manifestations ont eu lieu dans plusieurs villes du pays pour réclamer davantage de moyens pour l’éducation, mais aussi pour protester contre le coût de la vie et les difficultés d’accès au logement. Plus de 10 000 étudiants, lycée",
-      "date": "2026-10-22T08:08:49+00:00",
-      "source": "RFI",
-      "language": "fr",
-      "image": "https://s.rfi.fr/media/display/5f48c940-cde7-11f1-ae4d-19980254bb31/w:1024/p:16x9/AP26294341122811.jpg",
-      "kind": "presse"
     },
     {
       "title": "Oppo تكثّف توسعها في أوروبا بإطلاقات أسرع وشراكات مع شركات الاتصالات",
@@ -4090,16 +4390,6 @@
       "language": "de",
       "image": "https://static.spektrum.de/fm/912/thumbnails/53641212344-be1e94e20c-o.jpg.8120232.jpg?f=1280x720",
       "kind": "magazine"
-    },
-    {
-      "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
-      "description": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier.",
-      "date": "2026-10-22T07:56:08+00:00",
-      "source": "Tagesschau",
-      "language": "de",
-      "image": "https://images.tagesschau.de/image/98acc4d4-73fa-41f9-934b-d7d71e104580/AAABoV4oeo0/AAABnSSvrFg/16x9-big/markt-gemuese-isarel-100.jpg?width=1920",
-      "kind": "presse"
     },
     {
       "title": "PHP se actualiza para evitar dos agujeros de seguridad nivel «vulnerabilidad crítica»",
@@ -4150,16 +4440,6 @@
       "language": "es",
       "image": "https://i.blogs.es/0fe254/gafas-de-samsung/1024_2000.jpeg",
       "kind": "magazine"
-    },
-    {
-      "title": "Présidentielle au Brésil: Lula et Flavio Bolsonaro jettent leurs dernières forces dans la bataille du second tour",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261022-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-flavio-bolsonaro-jettent-leurs-derni%C3%A8res-forces-dans-la-bataille-du-second-tour",
-      "description": "Au Brésil, la campagne présidentielle pour le second tour, prévu dimanche 25 octobre, bat son plein. Il ne reste que quelques jours aux deux candidats, le président sortant Luiz Inacio Lula da Silva et son challenger, le sénateur d’extrême droite Flavio Bolsonaro, pour mobiliser les électeurs. Au premier tour, l’absten",
-      "date": "2026-10-22T07:01:24+00:00",
-      "source": "RFI",
-      "language": "fr",
-      "image": "https://s.rfi.fr/media/display/c3ce143e-cde1-11f1-bdf9-eb48fa034ddc/w:1024/p:16x9/AP26281731119044.jpg",
-      "kind": "presse"
     },
     {
       "title": "News kompakt: Papst Leo XIV. braucht keine weitere Krebsbehandlung",
@@ -4612,16 +4892,6 @@
       "kind": "presse"
     },
     {
-      "title": "Des scientifiques ont cherché dans le ciel ce qui annonce les séismes : les résultats sont presque trop beaux",
-      "url": "https://www.futura-sciences.com/planete/actualites/seisme-scientifiques-ont-cherche-ciel-ce-annonce-seismes-resultats-sont-presque-trop-beaux-138712/#xtor%3DRSS-8",
-      "description": "Aurait-on découvert un moyen de prédire des séismes plusieurs semaines à l’avance ? Une nouvelle étude affirme en effet avoir identifié des signaux précurseurs grâce à l’analyse de vibrations du sol et de variations du champ magnétique de l’ionosphère et annonce un taux de réussite de 83 % sur...",
-      "date": "2026-10-21T19:17:21+00:00",
-      "source": "Futura Sciences",
-      "language": "fr",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/wide1920/e/e/2/ee235a2049_50262348_chercheurs-seisme.jpg",
-      "kind": "magazine"
-    },
-    {
       "title": "WWII fighter plane crash found in Hungary after nearly 80 years",
       "url": "https://www.popsci.com/technology/ww2-soviet-plane-crash-hungary/",
       "description": "The Soviet Yakovlev Yak-1 likely lost a dogfight against German ace pilot, Peter Düttmann.\nThe post WWII fighter plane crash found in Hungary after nearly 80 years appeared first on Popular Science.",
@@ -4629,16 +4899,6 @@
       "source": "Popular Science",
       "language": "en",
       "image": "https://www.popsci.com/wp-content/uploads/2026/10/Soviet-WW2-Plane-Crash.jpg?quality=85",
-      "kind": "magazine"
-    },
-    {
-      "title": "HP تطلق حاسوبها المحمول الاقتصادي الجديد OmniBook 3 16 ببطارية تدوم حتى 20 ساعة",
-      "url": "https://www.unlimit-tech.com/2026/10/hp-%d8%aa%d8%b7%d9%84%d9%82-%d8%ad%d8%a7%d8%b3%d9%88%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%84-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%ac%d8%af%d9%8a/",
-      "description": "هذا الموضوع HP تطلق حاسوبها المحمول الاقتصادي الجديد OmniBook 3 16 ببطارية تدوم حتى 20 ساعة ظهر على التقنية بلا حدود.\nوسعت شركة HP سلسلة حواسيبها المحمولة OmniBook 3 بتقديم طراز اقتصادي جديد بحجم 16 بوصة يعتمد على معالج Snapdragon C من نوع C1-10-100 من شركة Qualcomm. ويأتي الحاسوب المحمول بشاشة بحجم 16 بوصة بدقة عرض 12",
-      "date": "2026-10-21T19:00:52+00:00",
-      "source": "تقنية بلا حدود",
-      "language": "ar",
-      "image": "https://www.notebookcheck.net/fileadmin/_processed_/d/a/csm_hp-omnibook-3-snapdragon-c-release-mid-2_d273e2bb7d.jpg",
       "kind": "magazine"
     },
     {
@@ -4730,16 +4990,6 @@
       "language": "ar",
       "image": "",
       "kind": "presse"
-    },
-    {
-      "title": "شاومي تطلق الإصدار الجديد من بنك الطاقة المغناطيسي فائق النحافة Jinshajiang Ultra-thin بمعدل سماكة يبلغ 6.75 ملم",
-      "url": "https://www.unlimit-tech.com/2026/10/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b7%d8%a7%d9%82/",
-      "description": "هذا الموضوع شاومي تطلق الإصدار الجديد من بنك الطاقة المغناطيسي فائق النحافة Jinshajiang Ultra-thin بمعدل سماكة يبلغ 6.75 ملم ظهر على التقنية بلا حدود.\nأطلقت شاومي في السوق الصينية إصداراً جديداً ومحدثاً من بنك الطاقة المغناطيسي فائق النحافة تحت اسم Jinshajiang Ultra-thin Magnetic Power Bank 5000mAh، وذلك بعد فترة قصيرة",
-      "date": "2026-10-21T18:00:18+00:00",
-      "source": "تقنية بلا حدود",
-      "language": "ar",
-      "image": "https://www.notebookcheck.net/fileadmin/_processed_/d/7/csm_Xiaomi-Ultra-thin-Magnetic-Power-Bank-5000mAh-27W-1_f989ae9ff4.jpg",
-      "kind": "magazine"
     },
     {
       "title": "Shanghai's 'Audacious' New Opera House Just Opened Its Doors—and a Gravity-Defying Staircase—to the Public",
@@ -4952,16 +5202,6 @@
       "kind": "magazine"
     },
     {
-      "title": "Philips vuelve a la carga con un descuento histórico en su monitor gaming EVNIA de 27 pulgadas",
-      "url": "https://muyinteresante.okdiario.com/bazar/philips-vuelve-a-la-carga-con-un-descuento-historico-en-su-monitor-gaming-evnia-de-27-pulgadas.html",
-      "description": "Con una pantalla curva 1500R con panel Fast VA de 27 pulgadas, tasa de refresco de 280 Hz, tiempo de respuesta de 0,3 ms y brillo de 300 cd/m² por sólo 119€.",
-      "date": "2026-10-21T14:53:28+00:00",
-      "source": "Muy Interesante",
-      "language": "es",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
       "title": "Spooooooky! Alaskan man makes terrifying ‘kelp-o’-lanterns’",
       "url": "https://www.popsci.com/environment/kelp-o-lanterns-alaska/",
       "description": "The kelp-y creations will only look creepier with time.\nThe post Spooooooky! Alaskan man makes terrifying ‘kelp-o’-lanterns’ appeared first on Popular Science.",
@@ -5072,16 +5312,6 @@
       "kind": "magazine"
     },
     {
-      "title": "¿Fue el nieto de la reina Victoria Jack el Destripador?",
-      "url": "https://muyinteresante.okdiario.com/historia/fue-el-nieto-de-la-reina-victoria-jack-el-destripador.html",
-      "description": "¿Por qué Alberto Víctor, nieto de la reina Victoria y posible futuro rey, terminó convertido en sospechoso de los asesinatos de Whitechapel?",
-      "date": "2026-10-21T13:00:12+00:00",
-      "source": "Muy Interesante",
-      "language": "es",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
       "title": "Innere Uhr: Eine Depression mit eigenem Schlafprofil",
       "url": "https://www.spektrum.de/news/innere-uhr-und-depression-hinweise-auf-einen-neuen-subtyp/2350565",
       "description": "Eine große Analyse deutet auf einen neuen Depressions-Subtyp hin. Betroffene haben häufiger einen gestörten Schlaf-wach-Rhythmus und sprechen schlechter auf Antidepressiva an.",
@@ -5149,16 +5379,6 @@
       "source": "Applesfera",
       "language": "es",
       "image": "https://i.blogs.es/50cf6c/homeview-espera/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "title": "Descubren cuerda neandertal de hace hasta 52.000 años: la tecnología «invisible» que exigía hasta 80 horas de torsión",
-      "url": "https://muyinteresante.okdiario.com/ciencia/descubren-cuerda-neandertal-de-hace-hasta-52-000-anos-la-tecnologia-invisible.html",
-      "description": "¿Cómo fabricaban cuerdas antiguas sin dejar rastro? Descubre el cordón neandertal y la tecnología “invisible” detrás de la Edad de Piedra.",
-      "date": "2026-10-21T12:00:00+00:00",
-      "source": "Muy Interesante",
-      "language": "es",
-      "image": "",
       "kind": "magazine"
     },
     {
@@ -5832,16 +6052,6 @@
       "kind": "magazine"
     },
     {
-      "title": "New comet accidentally discovered by space telescope",
-      "url": "https://www.popsci.com/science/new-comet-discovered-euclid-space-telescope/",
-      "description": "The ‘happy coincidence’ is currently more than 807 million miles from Earth.\nThe post New comet accidentally discovered by space telescope appeared first on Popular Science.",
-      "date": "2026-10-20T15:15:00+00:00",
-      "source": "Popular Science",
-      "language": "en",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/10/Euclid-Telescope-Illustration.png?quality=85",
-      "kind": "magazine"
-    },
-    {
       "title": "Neue Studie: Aufforstungspläne weltweit übersehen einen entscheidenden Faktor",
       "url": "https://www.geo.de/natur/nachhaltigkeit/klimaschutz-durch-aufforstung--studie-warnt-vor-risiken-38425514.html?utm_campaign=alle&utm_medium=rss-feed&utm_source=standard",
       "description": "Bäume gelten als Wunderwaffe im Kampf gegen den Klimawandel. Doch die Berechnung von geeigneten Flächen lässt einen wichtigen Faktor außer Acht: den Menschen",
@@ -5849,16 +6059,6 @@
       "source": "GEO Natur",
       "language": "de",
       "image": "https://image.geo.de/38425942/t/vl/v3/w1440/r1.7778/-/aufforstung-m-09799996-2.jpg",
-      "kind": "magazine"
-    },
-    {
-      "title": "Bat Beauty Contest returns October 24",
-      "url": "https://www.popsci.com/environment/bat-beauty-contest-2026/",
-      "description": "Who will take ‘Hoary Potter’s’ crown?\nThe post Bat Beauty Contest returns October 24 appeared first on Popular Science.",
-      "date": "2026-10-20T14:30:00+00:00",
-      "source": "Popular Science",
-      "language": "en",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/10/pallid-bat-lead.png?quality=85",
       "kind": "magazine"
     },
     {
@@ -7088,295 +7288,397 @@
       "kind": "presse",
       "ok": true,
       "count": 24,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "RFI",
       "kind": "presse",
       "ok": true,
       "count": 23,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Le Figaro",
       "kind": "presse",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Mediapart",
       "kind": "presse",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "BBC World",
       "kind": "presse",
       "ok": true,
       "count": 39,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "The Guardian",
       "kind": "presse",
       "ok": true,
       "count": 45,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Sky News",
       "kind": "presse",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Al Jazeera English",
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "France 24 English",
       "kind": "presse",
       "ok": true,
       "count": 24,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "BBC Mundo",
       "kind": "presse",
       "ok": true,
       "count": 34,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "El País",
       "kind": "presse",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "DW Español",
       "kind": "presse",
       "ok": true,
       "count": 24,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "El Mundo",
       "kind": "presse",
       "ok": true,
       "count": 26,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Deutsche Welle",
       "kind": "presse",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Tagesschau",
       "kind": "presse",
       "ok": true,
       "count": 40,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "France 24 Arabic",
       "kind": "presse",
       "ok": true,
       "count": 24,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "DW Arabic",
       "kind": "presse",
       "ok": true,
       "count": 37,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Futura Sciences",
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "ScienceDaily",
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Smithsonian Magazine",
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "La Recherche",
       "kind": "magazine",
       "ok": true,
       "count": 6,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "La Chronique Spatiale",
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Journal du Geek – Espace",
       "kind": "magazine",
       "ok": true,
       "count": 30,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Sciences et Avenir",
       "kind": "magazine",
       "ok": true,
       "count": 13,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Quanta Magazine",
       "kind": "magazine",
       "ok": true,
       "count": 5,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Science News",
       "kind": "magazine",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Popular Science",
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Microsiervos",
       "kind": "magazine",
       "ok": true,
       "count": 15,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Xataka",
       "kind": "magazine",
       "ok": true,
       "count": 26,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Genbeta",
       "kind": "magazine",
       "ok": true,
       "count": 16,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Applesfera",
       "kind": "magazine",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Muy Interesante",
       "kind": "magazine",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Spektrum der Wissenschaft",
       "kind": "magazine",
       "ok": true,
       "count": 20,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "bild der wissenschaft",
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Quarks",
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "GEO Natur",
       "kind": "magazine",
       "ok": true,
       "count": 30,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "Heise Wissenschaft",
       "kind": "magazine",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "عالم التقنية",
       "kind": "magazine",
       "ok": true,
       "count": 15,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "البوابة العربية للأخبار التقنية",
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "عرب هاردوير",
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "تقنية بلا حدود",
       "kind": "magazine",
       "ok": true,
       "count": 18,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     },
     {
       "source": "تقني بلس",
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-22T18:38:51.624624+00:00"
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
+    },
+    {
+      "source": "Wired Italia",
+      "kind": "magazine",
+      "ok": false,
+      "error": "Feed yielded no recent articles",
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": null,
+      "last_slot": null
+    },
+    {
+      "source": "Observador",
+      "kind": "presse",
+      "ok": true,
+      "count": 50,
+      "updated_at": "2026-10-22T20:19:05.301432+00:00",
+      "success_at": "2026-10-22T20:19:05.301432+00:00",
+      "last_slot": null
     }
   ],
-  "refreshed_sources": 42
+  "refreshed_sources": 43
 }
