@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlsplit, urlunsplit, parse_qsl, urlencode
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "articles.json"
@@ -93,6 +93,15 @@ def parse(blob,lang,source):
         image=extract_image(entry)
         articles.append(dict(title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image,kind=("magazine" if source in MAGAZINES else "presse")))
     return articles
+def canonical_url(url):
+    """Remove fragments and common tracking parameters for stable deduplication."""
+    parts = urlsplit(url)
+    query = [(key, value) for key, value in parse_qsl(parts.query, keep_blank_values=True)
+             if not key.lower().startswith("utm_") and key.lower() not in
+             {"fbclid", "gclid", "mc_cid", "mc_eid"}]
+    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(),
+                       parts.path.rstrip("/") or "/", urlencode(query), ""))
+
 def collect():
     articles=[];seen=set();status=[]
     cutoff=datetime.now(timezone.utc)-timedelta(days=MAX_AGE_DAYS)
@@ -111,9 +120,10 @@ def collect():
                     except (TypeError,ValueError):
                         continue
                 valid.append(article)
+            valid.sort(key=lambda a:a["date"] or "", reverse=True)
             added=0
             for article in valid[:MAX_PER_SOURCE]:
-                key=article["url"].split("#")[0]
+                key=canonical_url(article["url"])
                 if key not in seen:
                     seen.add(key)
                     articles.append(article)
