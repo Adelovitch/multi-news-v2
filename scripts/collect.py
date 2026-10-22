@@ -14,12 +14,21 @@ OUT = ROOT / "data" / "articles.json"
 SOURCES = [
     ("fr","France 24","https://www.france24.com/fr/rss"),
     ("fr","RFI","https://www.rfi.fr/fr/rss"),
+    ("fr","Le Figaro","https://www.lefigaro.fr/rss/figaro_flash-actu.xml"),
+    ("fr","Mediapart","https://www.mediapart.fr/articles/feed"),
     ("en","BBC World","https://feeds.bbci.co.uk/news/world/rss.xml"),
     ("en","The Guardian","https://www.theguardian.com/world/rss"),
+    ("en","Sky News","https://feeds.skynews.com/feeds/rss/world.xml"),
+    ("en","Al Jazeera English","https://www.aljazeera.com/xml/rss/all.xml"),
+    ("en","France 24 English","https://www.france24.com/en/rss"),
     ("es","BBC Mundo","https://feeds.bbci.co.uk/mundo/rss.xml"),
+    ("es","El País","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"),
+    ("es","DW Español","https://rss.dw.com/rdf/rss-sp-top"),
+    ("es","El Mundo","https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml"),
     ("de","Deutsche Welle","https://rss.dw.com/rdf/rss-de-all"),
     ("de","Tagesschau","https://www.tagesschau.de/xml/rss2/"),
     ("ar","France 24 Arabic","https://www.france24.com/ar/rss"),
+    ("ar","DW Arabic","https://rss.dw.com/rdf/rss-ar-all"),
 ]
 def clean(value):
     return html.unescape(re.sub(r"<[^>]*>","",value or "")).strip()
@@ -84,14 +93,14 @@ def collect():
             req=urllib.request.Request(url,headers={"User-Agent":"MultiNews/2.0 RSS aggregator"})
             with urllib.request.urlopen(req,timeout=15) as response:blob=response.read(2_000_000)
             found=parse(blob,lang,source)
-            for article in found:
+            for article in found[:20]:
                 key=article["url"].split("#")[0]
                 if key not in seen:seen.add(key);articles.append(article)
             status.append({"source":source,"ok":bool(found),"count":len(found)})
         except Exception as exc:
             status.append({"source":source,"ok":False,"error":str(exc)[:120]})
     articles.sort(key=lambda a:a["date"] or "",reverse=True)
-    return {"updated_at":datetime.now(timezone.utc).isoformat(),"articles":articles[:350],"sources":status}
+    return {"updated_at":datetime.now(timezone.utc).isoformat(),"articles":articles[:400],"sources":status}
 def main():
     result=collect()
     if not result["articles"]:raise SystemExit("No live RSS items collected; refusing to publish an empty feed.")
