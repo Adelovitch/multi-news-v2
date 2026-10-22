@@ -40,6 +40,8 @@ jobs:
             else
               echo "mode=press" >> "$GITHUB_OUTPUT"
             fi
+          elif [[ "${{ github.event_name }}" == "push" && "${{ contains(github.event.head_commit.message, '[refresh feeds]') }}" == "true" ]]; then
+            echo "mode=both" >> "$GITHUB_OUTPUT"
           elif [[ ! -f data/articles.json ]]; then
             echo "mode=both" >> "$GITHUB_OUTPUT"
           else
