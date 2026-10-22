@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '15 4 * * *'
+    - cron: '17 3-9,16-21 * * *'
 permissions:
   contents: write
   pages: write
@@ -31,11 +31,7 @@ jobs:
         shell: bash
         run: |
           if [[ "${{ github.event_name }}" == "schedule" ]]; then
-            if [[ "$(date -u +%u)" == "7" ]]; then
-              echo "mode=both" >> "$GITHUB_OUTPUT"
-            else
-              echo "mode=press" >> "$GITHUB_OUTPUT"
-            fi
+            echo "mode=scheduled" >> "$GITHUB_OUTPUT"
           elif [[ "${{ github.event_name }}" == "push" && "${{ contains(github.event.head_commit.message, '[refresh feeds]') }}" == "true" ]]; then
             echo "mode=both" >> "$GITHUB_OUTPUT"
           elif [[ ! -f data/articles.json ]]; then
@@ -44,11 +40,12 @@ jobs:
             echo "mode=publish" >> "$GITHUB_OUTPUT"
           fi
       - name: Collect or reuse news
+        id: collect
         env:
           COLLECT_MODE: ${{ steps.mode.outputs.mode }}
         run: python scripts/collect.py
       - name: Persist catalogue in repository
-        if: steps.mode.outputs.mode != 'publish'
+        if: steps.collect.outputs.changed == 'true' && steps.mode.outputs.mode != 'publish'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -58,10 +55,14 @@ jobs:
             git push
           fi
       - name: Prepare static site
+        if: steps.collect.outputs.changed == 'true'
         run: cp -r data site/data
       - uses: actions/configure-pages@v5
+        if: steps.collect.outputs.changed == 'true'
       - uses: actions/upload-pages-artifact@v4
+        if: steps.collect.outputs.changed == 'true'
         with:
           path: site
       - id: deployment
+        if: steps.collect.outputs.changed == 'true'
         uses: actions/deploy-pages@v4
