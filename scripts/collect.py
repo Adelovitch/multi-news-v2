@@ -94,7 +94,8 @@ def parse(blob,lang,source):
         articles.append(dict(title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image,kind=("magazine" if source in MAGAZINES else "presse")))
     return articles
 def collect():
-    articles=[];seen=set();status=[]\n    cutoff=datetime.now(timezone.utc)-timedelta(days=MAX_AGE_DAYS)
+    articles=[];seen=set();status=[]
+    cutoff=datetime.now(timezone.utc)-timedelta(days=MAX_AGE_DAYS)
     for lang,source,url in SOURCES:
         try:
             req=urllib.request.Request(url,headers={"User-Agent":"MultiNews/2.0 RSS aggregator"})
