@@ -33,6 +33,16 @@ jobs:
       - name: Diagnose sparse RSS images
         if: contains(github.event.head_commit.message, '[diagnose images]')
         run: PYTHONPATH=. python scripts/diagnose_images.py
+      - name: Audit TV catalogue
+        if: contains(github.event.head_commit.message, '[audit tv]')
+        run: python scripts/audit_tv.py
+      - name: Upload TV audit
+        if: contains(github.event.head_commit.message, '[audit tv]')
+        uses: actions/upload-artifact@v4
+        with:
+          name: tv-catalogue-audit
+          path: reports/tv-audit.json
+          retention-days: 30
       - name: Select collection schedule
         id: mode
         shell: bash
