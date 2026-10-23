@@ -166,6 +166,10 @@ def extract_image(entry):
             candidates.append(node.get("url", ""))
         elif local == "image" and node.get("href"):
             candidates.append(node.get("href", ""))
+        elif local == "image" and node.get("url"):
+            candidates.append(node.get("url", ""))
+        elif local == "link" and node.get("rel", "").lower() == "enclosure" and node.get("type", "").lower().startswith("image/"):
+            candidates.append(node.get("href", ""))
     for node in entry.iter():
         local = node.tag.rsplit("}", 1)[-1].lower()
         if local not in ("description", "encoded", "summary", "content"):
