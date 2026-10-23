@@ -16,6 +16,18 @@ class QualityAuditTests(unittest.TestCase):
         self.assertEqual(result["missing_images"],1)
         self.assertIn("ScienceDaily",result["failed_sources"])
         self.assertEqual(result["issues"],[])
+    def test_metadata_coverage_by_source_and_language(self):
+        data={"articles":[
+            {"url":"https://example.org/a","language":"fr","source":"RFI","image":"https://example.org/i.jpg","author":"Alice","categories":["Monde"]},
+            {"url":"https://example.org/b","language":"fr","source":"RFI","image":"","author":"","categories":[]},
+            {"url":"https://example.org/c","language":"en","source":"BBC","image":"","author":"Bob","categories":[]},
+        ],"sources":[]}
+        report=audit(data,NOW)["metadata_coverage"]
+        self.assertEqual(report["all"]["image"],{"count":1,"percent":33.3})
+        self.assertEqual(report["by_language"]["fr"]["author"],{"count":1,"percent":50.0})
+        self.assertEqual(report["by_source"]["RFI"]["categories"],{"count":1,"percent":50.0})
+        self.assertEqual(report["by_source"]["BBC"]["author"],{"count":1,"percent":100.0})
+
     def test_old_catalogue_warns_after_morning_window(self):
         data={"articles":[],"sources":[],"updated_at":"2026-10-21T04:00:00+00:00"}
         report=audit(data,datetime(2026,10,22,10,tzinfo=timezone.utc))
