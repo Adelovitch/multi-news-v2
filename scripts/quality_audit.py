@@ -36,6 +36,11 @@ def audit(data, now=None):
     kinds=Counter()
     distribution=Counter()
     missing_dates=missing_images=duplicate_urls=invalid_urls=stale=0
+    completeness={"all":Counter(),"by_language":{},"by_source":{}}
+    def increment(group,article):
+        group["total"]+=1
+        for key in ("image","author","categories"):
+            if article.get(key): group[key]+=1
     for a in articles:
         if not isinstance(a,dict):
             problems.append("Non-object article")
@@ -57,6 +62,9 @@ def audit(data, now=None):
         languages[a.get("language","?")]+=1
         kinds[a.get("kind","presse")]+=1
         distribution[a.get("source","?")]+=1
+        increment(completeness["all"],a)
+        increment(completeness["by_language"].setdefault(a.get("language","?"),Counter()),a)
+        increment(completeness["by_source"].setdefault(a.get("source","?"),Counter()),a)
     failed=[s.get("source","?") for s in sources if isinstance(s,dict) and s.get("ok") is False]
     expected={lang for lang,_,_ in SOURCES}
     covered={lang for lang in expected if languages[lang]}
@@ -64,6 +72,9 @@ def audit(data, now=None):
         problems.append("Invalid or duplicated URLs")
     if not covered:
         problems.append("No configured language has articles")
+    def coverage(counts):
+        total=counts.get("total",0)
+        return {"articles":total,**{key:{"count":counts.get(key,0),"percent":round(100*counts.get(key,0)/total,1) if total else 0} for key in ("image","author","categories")}}
     result={
         "generated_at":now.isoformat(),
         "catalogue_updated_at":updated_at,
@@ -76,6 +87,11 @@ def audit(data, now=None):
         "articles_by_language":dict(sorted(languages.items())),
         "articles_by_kind":dict(sorted(kinds.items())),
         "articles_by_source":dict(sorted(distribution.items())),
+        "metadata_coverage":{
+            "all":coverage(completeness["all"]),
+            "by_language":{k:coverage(v) for k,v in sorted(completeness["by_language"].items())},
+            "by_source":{k:coverage(v) for k,v in sorted(completeness["by_source"].items())},
+        },
         "missing_dates":missing_dates,
         "missing_images":missing_images,
         "duplicate_urls":duplicate_urls,
@@ -101,6 +117,8 @@ def main():
         for warning in report["warnings"]:
             print("::warning title=Multi News catalogue freshness::"+warning)
     print("types:",report["articles_by_kind"])
+    print("metadata coverage:",report["metadata_coverage"]["all"])
+    print("metadata coverage by language:",report["metadata_coverage"]["by_language"])
     print("sources with errors:",report["failed_sources"])
     print("languages without articles:",report["languages_without_articles"])
     if report["issues"]:
