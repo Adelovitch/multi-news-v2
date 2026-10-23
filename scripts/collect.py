@@ -181,6 +181,22 @@ def extract_image(entry):
     return ""
 
 
+def extract_metadata(entry):
+    """Optional RSS/Atom metadata; never infer missing author or categories."""
+    author=field(entry,"{http://purl.org/dc/elements/1.1/}creator","author")
+    if not author:
+        author=field(entry,"{http://www.w3.org/2005/Atom}author/{http://www.w3.org/2005/Atom}name")
+    categories=[]
+    for node in entry:
+        if node.tag.rsplit("}",1)[-1] != "category":
+            continue
+        value=clean(node.get("term") or node.text or "")[:80]
+        if value and value not in categories:
+            categories.append(value)
+        if len(categories)>=5:
+            break
+    return author[:100],categories
+
 def parse(blob,lang,source):
     root=ET.fromstring(blob)
     items=root.findall(".//item") or root.findall(".//{http://purl.org/rss/1.0/}item")
@@ -195,7 +211,8 @@ def parse(blob,lang,source):
         u=urlparse(url)
         if not title or u.scheme not in ("http","https") or not u.netloc:continue
         image=extract_image(entry)
-        articles.append(dict(title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image,kind=("magazine" if source in MAGAZINES else "presse")))
+        author,categories=extract_metadata(entry)
+        articles.append(dict(author=author,categories=categories,title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image,kind=("magazine" if source in MAGAZINES else "presse")))
     return articles
 def canonical_url(url):
     """Remove fragments and common tracking parameters for stable deduplication."""
