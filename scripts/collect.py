@@ -75,6 +75,7 @@ SOURCES = [
     ("pt","RTP Notícias","https://www.rtp.pt/noticias/rss/"),
     ("pt","Público","https://feeds.feedburner.com/PublicoRSS"),
 ]
+RADIO_SOURCES = {"Radio France", "France Culture"}
 MAGAZINES = {"Geopop", "Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
 # Add only verified evening-edition feeds here. Ordinary news sites stay morning-only.
 EVENING_SOURCES = set()
@@ -201,6 +202,22 @@ def extract_metadata(entry):
             break
     return author[:100],categories
 
+def audio_enclosure(entry):
+    """Return the RSS/Atom media enclosure URL only when the MIME type is audio."""
+    for node in entry.iter():
+        tag=node.tag.rsplit("}",1)[-1]
+        if tag=="enclosure" or (tag=="link" and node.get("rel")=="enclosure"):
+            mime=node.get("type","").lower()
+            url=node.get("url") or node.get("href") or ""
+            parts=urlparse(url)
+            if mime.startswith("audio/") and parts.scheme in ("http","https") and parts.netloc:
+                return url
+    return ""
+
+def article_kind(source, audio_url=""):
+    if audio_url or source in RADIO_SOURCES: return "radio"
+    return "magazine" if source in MAGAZINES else "presse"
+
 def parse(blob,lang,source):
     root=ET.fromstring(blob)
     items=root.findall(".//item") or root.findall(".//{http://purl.org/rss/1.0/}item")
@@ -216,7 +233,8 @@ def parse(blob,lang,source):
         if not title or u.scheme not in ("http","https") or not u.netloc:continue
         image=extract_image(entry)
         author,categories=extract_metadata(entry)
-        articles.append(dict(author=author,categories=categories,title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image,kind=("magazine" if source in MAGAZINES else "presse")))
+        audio_url=audio_enclosure(entry)
+        articles.append(dict(audio_url=audio_url,author=author,categories=categories,title=title[:250],url=url,description=field(entry,"description","{http://purl.org/rss/1.0/}description","{http://www.w3.org/2005/Atom}summary")[:320],date=iso(field(entry,"pubDate","{http://www.w3.org/2005/Atom}updated","{http://purl.org/dc/elements/1.1/}date")),source=source,language=lang,image=image,kind=article_kind(source,audio_url)))
     return articles
 def canonical_url(url):
     """Remove fragments and common tracking parameters for stable deduplication."""
@@ -255,14 +273,14 @@ def collect(mode="both"):
     now=datetime.now(timezone.utc)
     previous=load_previous()
     cached=[a for a in previous.get("articles",[]) if isinstance(a,dict) and
-            a.get("kind","presse") in {"presse","magazine"} and is_recent(a,now)]
+            a.get("kind","presse") in {"presse","magazine","radio"} and is_recent(a,now)]
     status_by_source={s.get("source"):s for s in previous.get("sources",[])
                       if isinstance(s,dict) and s.get("source")}
     refreshed=set()
     if mode != "publish":
         for lang, source, url in SOURCES:
-            kind="magazine" if source in MAGAZINES else "presse"
-            if (mode=="press" and kind!="presse" or
+            kind=article_kind(source)
+            if (mode=="press" and kind not in ("presse","radio") or
                 mode=="magazine" and kind!="magazine" or
                 mode=="evening" and source not in EVENING_SOURCES):
                 continue
