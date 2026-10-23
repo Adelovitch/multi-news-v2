@@ -31,6 +31,12 @@ class CollectorTests(unittest.TestCase):
     def test_media_thumbnail(self):
         rss=b'<rss xmlns:media="http://search.yahoo.com/mrss/"><channel><item><title>T</title><link>https://example.org/x</link><media:thumbnail url="https://example.org/img.jpg"/></item></channel></rss>'
         self.assertEqual(parse(rss,"en","Test")[0]["image"],"https://example.org/img.jpg")
+    def test_atom_image_enclosure(self):
+        atom=b'<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>T</title><link href="https://example.org/a"/><link rel="enclosure" type="image/jpeg" href="https://example.org/photo.jpg"/></entry></feed>'
+        self.assertEqual(parse(atom,"en","Test")[0]["image"],"https://example.org/photo.jpg")
+    def test_image_url_attribute(self):
+        rss=b'<rss><channel><item><title>T</title><link>https://example.org/a</link><image url="https://example.org/photo.jpg"/></item></channel></rss>'
+        self.assertEqual(parse(rss,"en","Test")[0]["image"],"https://example.org/photo.jpg")
     def test_magazine_type(self):
         rss=b'<rss><channel><item><title>T</title><link>https://example.org/x</link></item></channel></rss>'
         self.assertEqual(parse(rss,"fr","Futura Sciences")[0]["kind"],"magazine")
