@@ -117,7 +117,7 @@ def schedule_slot(source, kind, now, previous_status, cached):
     """Return a due local-time slot; only one collection per slot on success."""
     tz=ZoneInfo(SOURCE_TIMEZONES.get(source,DEFAULT_TIMEZONE))
     local=now.astimezone(tz)
-    if kind=="presse":
+    if kind in ("presse","radio"):
         hour=local.hour
         if hour not in MORNING_HOURS and not (hour==EVENING_HOUR and source in EVENING_SOURCES):
             return None
