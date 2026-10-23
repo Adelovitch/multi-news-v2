@@ -18,6 +18,19 @@ class CollectorTests(unittest.TestCase):
         a=parse(rss,"fr","Test")[0]
         self.assertEqual(a["author"],"")
         self.assertEqual(a["categories"],[])
+    def test_radio_source_classification(self):
+        rss=b'<rss><channel><item><title>News</title><link>https://example.org/news</link></item></channel></rss>'
+        a=parse(rss,"fr","Radio France")[0]
+        self.assertEqual(a["kind"],"radio")
+        self.assertEqual(a["audio_url"],"")
+    def test_audio_enclosure_classification(self):
+        rss=b'<rss><channel><item><title>Show</title><link>https://example.org/show</link><enclosure url="https://example.org/show.mp3" type="audio/mpeg"/></item></channel></rss>'
+        a=parse(rss,"en","Example")[0]
+        self.assertEqual(a["kind"],"radio")
+        self.assertEqual(a["audio_url"],"https://example.org/show.mp3")
+    def test_regular_source_stays_press(self):
+        rss=b'<rss><channel><item><title>News</title><link>https://example.org/news</link></item></channel></rss>'
+        self.assertEqual(parse(rss,"fr","RFI")[0]["kind"],"presse")
     def test_normal_rss(self):
         rss=b'<rss><channel><item><title>Example</title><link>https://example.org/a</link><pubDate>Thu, 22 Oct 2026 11:00:00 GMT</pubDate></item></channel></rss>'
         data=parse(rss,"fr","Sample")
