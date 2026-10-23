@@ -16,6 +16,17 @@ class QualityAuditTests(unittest.TestCase):
         self.assertEqual(result["missing_images"],1)
         self.assertIn("ScienceDaily",result["failed_sources"])
         self.assertEqual(result["issues"],[])
+    def test_old_catalogue_warns_after_morning_window(self):
+        data={"articles":[],"sources":[],"updated_at":"2026-10-21T04:00:00+00:00"}
+        report=audit(data,datetime(2026,10,22,10,tzinfo=timezone.utc))
+        self.assertTrue(any("not refreshed" in w for w in report["warnings"]))
+        self.assertEqual(report["issues"],[])
+
+    def test_old_catalogue_does_not_warn_before_morning(self):
+        data={"articles":[],"sources":[],"updated_at":"2026-10-21T04:00:00+00:00"}
+        report=audit(data,datetime(2026,10,22,6,tzinfo=timezone.utc))
+        self.assertFalse(any("not refreshed" in w for w in report["warnings"]))
+
     def test_duplicate_urls_are_detected(self):
         a={"url":"https://example.org/news?utm_source=rss","language":"fr","kind":"presse"}
         b={"url":"https://example.org/news","language":"fr","kind":"presse"}
