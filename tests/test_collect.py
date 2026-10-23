@@ -3,6 +3,21 @@ from datetime import datetime, timezone, timedelta
 from scripts.collect import parse, extract_image, canonical_url, iso, SOURCES, MAGAZINES
 
 class CollectorTests(unittest.TestCase):
+    def test_rss_author_and_categories(self):
+        rss=b'<rss xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><item><title>T</title><link>https://example.org/a</link><dc:creator>Marie Dupont</dc:creator><category>Science</category><category>Culture</category></item></channel></rss>'
+        a=parse(rss,"fr","Test")[0]
+        self.assertEqual(a["author"],"Marie Dupont")
+        self.assertEqual(a["categories"],["Science","Culture"])
+    def test_atom_author_and_category(self):
+        feed=b'<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>News</title><link href="https://example.org/1" /><author><name>Reporter</name></author><category term="Tech"/></entry></feed>'
+        a=parse(feed,"en","Test")[0]
+        self.assertEqual(a["author"],"Reporter")
+        self.assertEqual(a["categories"],["Tech"])
+    def test_missing_metadata_is_optional(self):
+        rss=b'<rss><channel><item><title>News</title><link>https://example.org/x</link></item></channel></rss>'
+        a=parse(rss,"fr","Test")[0]
+        self.assertEqual(a["author"],"")
+        self.assertEqual(a["categories"],[])
     def test_normal_rss(self):
         rss=b'<rss><channel><item><title>Example</title><link>https://example.org/a</link><pubDate>Thu, 22 Oct 2026 11:00:00 GMT</pubDate></item></channel></rss>'
         data=parse(rss,"fr","Sample")
