@@ -1,7 +1,8 @@
 """Quality report for the static Multi News catalogue. No network access required."""
 import json
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from urllib.parse import urlparse
 from scripts.collect import canonical_url, SOURCES, MAGAZINES, is_recent
@@ -15,6 +16,20 @@ def audit(data, now=None):
     articles=data.get("articles",[])
     sources=data.get("sources",[])
     problems=[]
+    warnings=[]
+    updated_at=data.get('updated_at')
+    age_hours=None
+    if updated_at:
+        try:
+            stamp=datetime.fromisoformat(updated_at)
+            if stamp.tzinfo is None: stamp=stamp.replace(tzinfo=timezone.utc)
+            age_hours=round((now-stamp).total_seconds()/3600,1)
+        except (ValueError,TypeError): warnings.append('Invalid catalogue update timestamp')
+    else: warnings.append('Missing catalogue update timestamp')
+    # Evaluate after the European morning collection window, not at midnight.
+    paris=now.astimezone(ZoneInfo('Europe/Paris'))
+    if paris.hour>=10 and age_hours is not None and age_hours>18:
+        warnings.append(f'Catalogue not refreshed for {age_hours} hours')
     seen=set()
     languages=Counter()
     kinds=Counter()
@@ -50,6 +65,9 @@ def audit(data, now=None):
         problems.append("No configured language has articles")
     result={
         "generated_at":now.isoformat(),
+        "catalogue_updated_at":updated_at,
+        "catalogue_age_hours":age_hours,
+        "warnings":warnings,
         "total_articles":len(articles),
         "configured_sources":len(SOURCES),
         "source_status_records":len(sources),
@@ -76,6 +94,8 @@ def main():
     for field in ("total_articles","configured_sources","missing_dates","missing_images","duplicate_urls","invalid_urls","stale_articles"):
         print(f"{field}: {report[field]}")
     print("languages:",report["articles_by_language"])
+    print("catalogue age (hours):",report["catalogue_age_hours"])
+    print("freshness warnings:",report["warnings"])
     print("types:",report["articles_by_kind"])
     print("sources with errors:",report["failed_sources"])
     print("languages without articles:",report["languages_without_articles"])
