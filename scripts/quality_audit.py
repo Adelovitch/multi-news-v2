@@ -1,5 +1,6 @@
 """Quality report for the static Multi News catalogue. No network access required."""
 import json
+import os
 from collections import Counter
 from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
@@ -96,6 +97,9 @@ def main():
     print("languages:",report["articles_by_language"])
     print("catalogue age (hours):",report["catalogue_age_hours"])
     print("freshness warnings:",report["warnings"])
+    if os.getenv("GITHUB_ACTIONS") == "true":
+        for warning in report["warnings"]:
+            print("::warning title=Multi News catalogue freshness::"+warning)
     print("types:",report["articles_by_kind"])
     print("sources with errors:",report["failed_sources"])
     print("languages without articles:",report["languages_without_articles"])
