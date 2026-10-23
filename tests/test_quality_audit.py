@@ -20,7 +20,7 @@ class QualityAuditTests(unittest.TestCase):
         data={"articles":[],"sources":[],"updated_at":"2026-10-21T04:00:00+00:00"}
         report=audit(data,datetime(2026,10,22,10,tzinfo=timezone.utc))
         self.assertTrue(any("not refreshed" in w for w in report["warnings"]))
-        self.assertEqual(report["issues"],[])
+        self.assertIn("No configured language has articles",report["issues"])
 
     def test_old_catalogue_does_not_warn_before_morning(self):
         data={"articles":[],"sources":[],"updated_at":"2026-10-21T04:00:00+00:00"}
