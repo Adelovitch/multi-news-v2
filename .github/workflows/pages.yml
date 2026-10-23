@@ -29,6 +29,8 @@ jobs:
           node --check /tmp/multi-news.js
           python -c "from pathlib import Path; s=Path('site/tv/index.html').read_text(); Path('/tmp/multi-news-tv.js').write_text(s.split('<script>')[1].split('</script>')[0])"
           node --check /tmp/multi-news-tv.js
+          python -c "from pathlib import Path; s=Path('site/tv/lab/index.html').read_text(); Path('/tmp/multi-news-tv-lab.js').write_text(s.split('<script>')[1].split('</script>')[0])"
+          node --check /tmp/multi-news-tv-lab.js
       - name: Probe candidate French feeds
         if: contains(github.event.head_commit.message, '[probe french]')
         run: PYTHONPATH=. python scripts/probe_french.py
