@@ -24,50 +24,79 @@ const featuredStreams=[
  {name:'ABC News Australia',video:'vOTiJkg1voo',official:'https://www.abc.net.au/news/newschannel'}
 ];
 let screenCount=1;
+const screenStates=[{choice:0,playing:false},{choice:1,playing:false},{choice:2,playing:false}];
+let screenCount=1;
+const screenNodes=[];
+function updateScreen(i){
+ const state=screenStates[i],nodes=screenNodes[i],item=featuredStreams[state.choice];
+ nodes.select.value=String(state.choice);
+ nodes.media.replaceChildren();
+ if(state.playing){
+  const frame=document.createElement('iframe');
+  frame.src='https://www.youtube.com/embed/'+item.video+'?autoplay=0&mute=1&playsinline=1';
+  frame.title=item.name+' — direct YouTube officiel';
+  frame.referrerPolicy='strict-origin-when-cross-origin';
+  frame.allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen';
+  frame.allowFullscreen=true;frame.loading='lazy';nodes.media.append(frame);
+ }else{
+  const cover=document.createElement('div');cover.className='cover';
+  cover.textContent='Lecteur officiel prêt. Cliquez sur « Lire le direct », puis ▶ dans la vidéo.';
+  nodes.media.append(cover);
+ }
+ nodes.toggle.textContent=state.playing?'Fermer le direct':'▶ Lire le direct';
+ nodes.link.href=item.official;
+}
+function createScreen(i){
+ const box=document.createElement('section');box.className='screen';
+ const head=document.createElement('div');head.className='screen-head';
+ const select=document.createElement('select');select.setAttribute('aria-label','Chaîne écran '+(i+1));
+ featuredStreams.forEach((channel,k)=>{const option=document.createElement('option');option.value=String(k);option.textContent=channel.name;select.append(option)});
+ select.onchange=()=>{screenStates[i].choice=Number(select.value);screenStates[i].playing=false;updateScreen(i)};
+ const label=document.createElement('small');label.textContent='Écran '+(i+1);head.append(label,select);
+ const media=document.createElement('div');media.className='screen-media';
+ const actions=document.createElement('div');actions.className='screen-actions';
+ const toggle=document.createElement('button');
+ toggle.onclick=()=>{screenStates[i].playing=!screenStates[i].playing;updateScreen(i)};
+ const link=document.createElement('a');link.target='_blank';link.rel='noopener noreferrer';link.textContent='Direct chez le diffuseur ↗';
+ actions.append(toggle,link);box.append(head,media,actions);
+ screenNodes[i]={box,select,media,toggle,link};
+ updateScreen(i);
+ return box;
+}
+function setScreenCount(count){
+ const root=$('screens');
+ if(count<screenCount){
+  for(let i=count;i<screenCount;i++){
+   if(screenStates[i].playing){screenStates[i].playing=false;updateScreen(i)}
+   screenNodes[i].box.remove();
+  }
+ }else if(count>screenCount){
+  for(let i=screenCount;i<count;i++){
+   if(!screenNodes[i])createScreen(i);
+   root.append(screenNodes[i].box);
+  }
+ }
+ screenCount=count;
+ document.querySelectorAll('[data-screens]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.screens)===screenCount)));
+}
+function stopScreens(){
+ for(let i=0;i<screenCount;i++){
+  if(screenStates[i].playing){screenStates[i].playing=false;updateScreen(i)}
+ }
+}
+function openQuickDirect(index){
+ // Change only screen 1: every other active screen retains its iframe and sound.
+ screenStates[0].choice=index;screenStates[0].playing=true;updateScreen(0);
+ document.querySelector('.wall').scrollIntoView({behavior:'smooth',block:'start'});
+}
 const directNav=$('direct-links');
 featuredStreams.forEach((item,index)=>{
  const button=document.createElement('button');button.type='button';
  button.textContent=item.name+' ▶';button.style.cssText='padding:9px 13px;font-size:14px;border-radius:999px';
- button.onclick=()=>{if(index>=0){screenStates[0].choice=index;screenStates[0].playing=true;screenCount=1;drawScreens();document.querySelector('.wall').scrollIntoView({behavior:'smooth',block:'start'})}};
- directNav.append(button);
+ button.onclick=()=>openQuickDirect(index);directNav.append(button);
 });
-
-const screenStates=[{choice:0,playing:false},{choice:1,playing:false},{choice:2,playing:false}];
-function stopScreens(){for(const state of screenStates)state.playing=false;drawScreens()}
-function drawScreens(){
- const root=$('screens');root.replaceChildren();
- for(let i=0;i<screenCount;i++){
-  const state=screenStates[i],item=featuredStreams[state.choice],box=document.createElement('section');
-  box.className='screen';
-  const head=document.createElement('div');head.className='screen-head';
-  const select=document.createElement('select');select.setAttribute('aria-label','Chaîne écran '+(i+1));
-  featuredStreams.forEach((channel,k)=>{const option=document.createElement('option');option.value=String(k);option.textContent=channel.name;select.append(option)});
-  select.value=String(state.choice);
-  select.onchange=()=>{state.choice=Number(select.value);state.playing=false;drawScreens()};
-  const label=document.createElement('small');label.textContent='Écran '+(i+1);
-  head.append(label,select);box.append(head);
-  if(state.playing){
-   const frame=document.createElement('iframe');
-   frame.src='https://www.youtube.com/embed/'+item.video+'?autoplay=0&mute=1&playsinline=1';
-   frame.title=item.name+' — direct YouTube officiel';
-   frame.referrerPolicy='strict-origin-when-cross-origin';
-   frame.allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen';
-   frame.allowFullscreen=true;frame.loading='lazy';box.append(frame);
-  }else{
-   const cover=document.createElement('div');cover.className='cover';
-   cover.textContent='Lecteur officiel prêt. Cliquez sur « Lire le direct », puis ▶ dans la vidéo.';
-   box.append(cover);
-  }
-  const actions=document.createElement('div');actions.className='screen-actions';
-  const toggle=document.createElement('button');toggle.textContent=state.playing?'Fermer le direct':'▶ Lire le direct';
-  toggle.onclick=()=>{state.playing=!state.playing;drawScreens()};actions.append(toggle);
-  const link=document.createElement('a');link.href=item.official;link.target='_blank';link.rel='noopener noreferrer';
-  link.textContent='Direct chez le diffuseur ↗';actions.append(link);
-  box.append(actions);root.append(box);
- }
- document.querySelectorAll('[data-screens]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.screens)===screenCount)));
-}
-document.querySelectorAll('[data-screens]').forEach(b=>b.onclick=()=>{screenCount=Number(b.dataset.screens);stopScreens()});
-$('stop-all').onclick=stopScreens;drawScreens();
+$('screens').append(createScreen(0));
+document.querySelectorAll('[data-screens]').forEach(b=>b.onclick=()=>setScreenCount(Number(b.dataset.screens)));
+$('stop-all').onclick=stopScreens;setScreenCount(1);
 for(const id of ['search','country','language'])$(id).addEventListener(id==='search'?'input':'change',()=>{shown=SIZE;render()});$('more').onclick=()=>{shown+=SIZE;render()};load();
 </script></body></html>
