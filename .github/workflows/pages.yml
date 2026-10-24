@@ -88,7 +88,7 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "chore: update RSS catalogue [skip ci]"
             git fetch origin main
-            git rebase origin/main
+            git -c rebase.autoStash=true rebase origin/main
             git push
           fi
       - name: Prepare static site
