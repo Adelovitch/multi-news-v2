@@ -41,6 +41,8 @@ SOURCES = [
     ("fr","Clubic","https://www.clubic.com/feed/news.rss"),
     ("fr","01net","https://www.01net.com/feed/"),
     ("fr","France Culture","https://www.radiofrance.fr/franceculture/rss"),
+    ("en","BBC Global News Podcast","https://podcasts.files.bbci.co.uk/p02nq0gn.rss"),
+    ("en","DW News Brief","https://rss.dw.com/syndication/feeds/gk-audio-apple-news-en.28959-mrss.xml"),
     ("fr","Radio France","https://www.radiofrance.fr/franceinfo/rss"),
     ("fr","Reporterre","https://reporterre.net/spip.php?page=backend"),
     ("fr","Futura Sciences","https://www.futura-sciences.com/rss/actualites.xml"),
@@ -75,7 +77,7 @@ SOURCES = [
     ("pt","RTP Notícias","https://www.rtp.pt/noticias/rss/"),
     ("pt","Público","https://feeds.feedburner.com/PublicoRSS"),
 ]
-RADIO_SOURCES = {"Radio France", "France Culture"}
+RADIO_SOURCES = {"Radio France", "France Culture", "BBC Global News Podcast", "DW News Brief"}
 MAGAZINES = {"Geopop", "Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
 # Add only verified evening-edition feeds here. Ordinary news sites stay morning-only.
 EVENING_SOURCES = set()
