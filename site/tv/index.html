@@ -22,7 +22,7 @@ const directNav=$('direct-links');
 const livePlayer=$('live-player'),liveFrame=$('live-frame'),liveTitle=$('live-title'),liveOfficial=$('live-official');
 let currentLive=-1;
 function closeLive(){liveFrame.replaceChildren();livePlayer.hidden=true;currentLive=-1;directNav.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed','false'))}
-function openLive(index){
+function openLive(index, scroll=true){
  const item=featuredStreams[index];if(!item)return;
  liveFrame.replaceChildren();
  const iframe=document.createElement('iframe');
@@ -35,7 +35,7 @@ function openLive(index){
  liveFrame.append(iframe);liveTitle.textContent=item.name;liveOfficial.href=item.official;
  livePlayer.hidden=false;currentLive=index;
  directNav.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.index)===index)));
- livePlayer.scrollIntoView({behavior:'smooth',block:'nearest'});
+ if(scroll)livePlayer.scrollIntoView({behavior:'smooth',block:'nearest'});
 }
 featuredStreams.forEach((item,index)=>{
  const button=document.createElement('button');button.type='button';button.dataset.index=String(index);
@@ -43,5 +43,7 @@ featuredStreams.forEach((item,index)=>{
  button.setAttribute('aria-pressed','false');button.onclick=()=>openLive(index);directNav.append(button);
 });
 $('close-live').onclick=closeLive;
+// Afficher France 24 par défaut, sans lecture automatique ni défilement forcé.
+openLive(0, false);
 for(const id of ['search','country','language'])$(id).addEventListener(id==='search'?'input':'change',()=>{shown=SIZE;render()});$('more').onclick=()=>{shown+=SIZE;render()};load();
 </script></body></html>
