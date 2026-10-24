@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T20:54:21.907811+00:00",
+  "updated_at": "2026-10-24T21:28:37.399655+00:00",
   "articles": [
     {
       "audio_url": "",
@@ -255,6 +255,19 @@
       "language": "pt",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b2ae38b4aba0ed7a325f63366a5d28fb?w=350&q=50&rect=0,14,1920,1053&auto=format",
       "kind": "presse"
+    },
+    {
+      "audio_url": "https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/28959_gk-audio-apple-news-en/2026_10_24_Top_Stories___Saturday_21_00_UTC_984518-128KB-podcast-28959-984518.mp3",
+      "author": "",
+      "categories": [],
+      "title": "The world news at 21:00 UTC on 10/24/2026",
+      "url": "https://www.dw.com/en/dw-news/program-262267?ad=984518&maca=en-gk-audio-apple-news-en-28959-xml-mrss",
+      "description": "Up-to-the-minute news from around the world.",
+      "date": "2026-10-24T21:00:00+00:00",
+      "source": "DW News Brief",
+      "language": "en",
+      "image": "",
+      "kind": "radio"
     },
     {
       "audio_url": "",
@@ -714,19 +727,6 @@
       "language": "ar",
       "image": "https://www.notebookcheck.net/fileadmin/_processed_/4/8/csm_black-shark-pad-air-7-official_8c223ca0a7.jpg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/28959_gk-audio-apple-news-en/2026_10_24_Top_Stories___Saturday_20_00_UTC_984515-128KB-podcast-28959-984515.mp3",
-      "author": "",
-      "categories": [],
-      "title": "The world news at 20:00 UTC on 10/24/2026",
-      "url": "https://www.dw.com/en/dw-news/program-262267?ad=984515&maca=en-gk-audio-apple-news-en-28959-xml-mrss",
-      "description": "Up-to-the-minute news from around the world.",
-      "date": "2026-10-24T20:00:00+00:00",
-      "source": "DW News Brief",
-      "language": "en",
-      "image": "",
-      "kind": "radio"
     },
     {
       "audio_url": "",
@@ -7280,19 +7280,6 @@
       "kind": "magazine"
     },
     {
-      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj9f1x.mp3",
-      "author": "",
-      "categories": [],
-      "title": "The Happy Pod: Lost my ring, found some friends",
-      "url": "http://www.bbc.co.uk/programmes/p0pj9wyz",
-      "description": "Patrick Mohr thought his wedding ring was gone after it fell off his hand while he swam in Italy, but it led to an international friendship with three locals who dived to find it. Filippo Palagi, Nicola Malloggi and Edoardo Poggi went on a trip to return it to Patrick in Ireland. Also: the grandmother who competed at M",
-      "date": "2026-10-24T11:00:00+00:00",
-      "source": "BBC Global News Podcast",
-      "language": "en",
-      "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pj9x5h.jpg",
-      "kind": "radio"
-    },
-    {
       "audio_url": "",
       "author": "",
       "categories": [],
@@ -7332,6 +7319,19 @@
       "language": "de",
       "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/6/0/0/8/df_0626_Titel-5092abd87d5e8c70.jpeg",
       "kind": "magazine"
+    },
+    {
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj9f1x.mp3",
+      "author": "",
+      "categories": [],
+      "title": "The Happy Pod: Lost my ring, found some friends",
+      "url": "http://www.bbc.co.uk/programmes/p0pj9wyz",
+      "description": "Patrick Mohr thought his wedding ring was gone after it fell off his hand while he swam in Italy, but it led to an international friendship with three locals who dived to find it. Filippo Palagi, Nicola Malloggi and Edoardo Poggi went on a trip to return it to Patrick in Ireland. Also: the grandmother who competed at M",
+      "date": "2026-10-24T11:00:00+00:00",
+      "source": "BBC Global News Podcast",
+      "language": "en",
+      "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pj9x5h.jpg",
+      "kind": "radio"
     },
     {
       "audio_url": "",
@@ -15913,7 +15913,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-10-24T20:54:21.907811+00:00",
+      "updated_at": "2026-10-24T21:28:37.399655+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16039,19 +16039,19 @@
       "kind": "radio",
       "ok": true,
       "count": 29,
-      "updated_at": "2026-10-24T20:54:21.907811+00:00",
-      "success_at": "2026-10-24T20:54:21.907811+00:00",
-      "last_slot": null
+      "updated_at": "2026-10-24T21:28:37.399655+00:00",
+      "success_at": "2026-10-24T21:28:37.399655+00:00",
+      "last_slot": "2026-10-24:8"
     },
     {
       "source": "DW News Brief",
       "kind": "radio",
       "ok": true,
       "count": 1,
-      "updated_at": "2026-10-24T20:54:21.907811+00:00",
-      "success_at": "2026-10-24T20:54:21.907811+00:00",
-      "last_slot": null
+      "updated_at": "2026-10-24T21:28:37.399655+00:00",
+      "success_at": "2026-10-24T21:28:37.399655+00:00",
+      "last_slot": "2026-10-24:8"
     }
   ],
-  "refreshed_sources": 59
+  "refreshed_sources": 2
 }
