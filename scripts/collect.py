@@ -114,16 +114,18 @@ def magazine_interval(source, cached):
     return 1 if typical<=2 else 3 if typical<=7 else 7 if typical<=28 else 14
 
 def schedule_slot(source, kind, now, previous_status, cached):
-    """Return a due local-time slot; only one collection per slot on success."""
+    """Choose the most recent due local slot, catching up delayed GitHub runs."""
     tz=ZoneInfo(SOURCE_TIMEZONES.get(source,DEFAULT_TIMEZONE))
     local=now.astimezone(tz)
     if kind in ("presse","radio"):
-        hour=local.hour
-        if hour not in MORNING_HOURS and not (hour==EVENING_HOUR and source in EVENING_SOURCES):
+        due=[h for h in sorted(MORNING_HOURS) if h<=local.hour]
+        if source in EVENING_SOURCES and local.hour>=EVENING_HOUR:
+            due.append(EVENING_HOUR)
+        if not due:
             return None
-        slot=f"{local.date()}:{hour}"
+        slot=f"{local.date()}:{max(due)}"
     else:
-        if local.hour!=9:
+        if local.hour<9:
             return None
         interval=magazine_interval(source,cached)
         prior=previous_status.get("success_at")
