@@ -80,7 +80,12 @@ class CollectorTests(unittest.TestCase):
         now=datetime(2026,10,22,6,15,tzinfo=timezone.utc)
         self.assertEqual(schedule_slot("BBC World","presse",now,{},[]),"2026-10-22:7")
         self.assertEqual(schedule_slot("France 24","presse",now,{},[]),"2026-10-22:8")
-        self.assertIsNone(schedule_slot("Al Jazeera English","presse",now,{},[]))
+        self.assertEqual(schedule_slot("Al Jazeera English","presse",now,{},[]),"2026-10-22:8")
+    def test_late_scheduled_run_catches_up(self):
+        from scripts.collect import schedule_slot
+        now=datetime(2026,10,22,15,15,tzinfo=timezone.utc)
+        self.assertEqual(schedule_slot("BBC World","presse",now,{},[]),"2026-10-22:8")
+        self.assertEqual(schedule_slot("ScienceDaily","magazine",now,{},[]),"2026-10-22:magazine")
     def test_no_duplicate_slot(self):
         from scripts.collect import schedule_slot
         now=datetime(2026,10,22,6,15,tzinfo=timezone.utc)
