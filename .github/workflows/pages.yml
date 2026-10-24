@@ -75,12 +75,16 @@ jobs:
           path: reports/quality-report.json
           if-no-files-found: ignore
           retention-days: 14
+      - name: Build lightweight TV directory
+        run: python scripts/build_tv_directory.py
       - name: Persist catalogue in repository
-        if: steps.collect.outputs.changed == 'true' && steps.mode.outputs.mode != 'publish'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/articles.json
+          git add data/tv-directory.json
+          if [[ "${{ steps.collect.outputs.changed }}" == "true" && "${{ steps.mode.outputs.mode }}" != "publish" ]]; then
+            git add data/articles.json
+          fi
           if ! git diff --cached --quiet; then
             git commit -m "chore: update RSS catalogue [skip ci]"
             git fetch origin main
