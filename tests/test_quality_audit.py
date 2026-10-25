@@ -9,7 +9,7 @@ class QualityAuditTests(unittest.TestCase):
         sample={"articles":[
           {"url":"https://example.org/1","title":"A","language":"fr","kind":"presse","source":"RFI","date":"2026-10-22T10:00:00+00:00","image":""},
           {"url":"https://example.org/2","title":"B","language":"en","kind":"magazine","source":"ScienceDaily","date":"2026-10-20T10:00:00+00:00","image":"https://example.org/p.jpg"}],
-          "sources":[{"source":"RFI","ok":True},{"source":"ScienceDaily","ok":False}]}
+          "sources":[{"source":"RFI","kind":"presse","ok":True,"success_at":"2026-10-22T10:00:00+00:00"},{"source":"ScienceDaily","ok":False}]}
         result=audit(sample,NOW)
         self.assertEqual(result["total_articles"],2)
         self.assertEqual(result["articles_by_kind"]["magazine"],1)
