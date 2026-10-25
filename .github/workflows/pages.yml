@@ -4,8 +4,8 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    # Two opportunities per hour: scheduled GitHub Actions may be delayed or skipped.
-    - cron: '7,37 3-10,16-21 * * *'
+    # Two opportunities per hour throughout daytime; GitHub may delay scheduled runs.
+    - cron: '13,43 3-21 * * *'
 permissions:
   contents: write
   pages: write
