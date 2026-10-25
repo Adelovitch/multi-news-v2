@@ -39,6 +39,26 @@ class QualityAuditTests(unittest.TestCase):
         report=audit(data,datetime(2026,10,22,6,tzinfo=timezone.utc))
         self.assertFalse(any("not refreshed" in w for w in report["warnings"]))
 
+    def test_press_stale_over_36_hours_is_blocking(self):
+        article={"url":"https://example.org/news","language":"fr","kind":"presse","source":"RFI"}
+        data={"articles":[article],"sources":[{"source":"RFI","kind":"presse","success_at":"2026-10-20T00:00:00+00:00"}],
+              "updated_at":"2026-10-22T11:00:00+00:00"}
+        result=audit(data,NOW)
+        self.assertTrue(any("Press catalogue stale" in x for x in result["issues"]))
+        self.assertGreater(result["press_age_hours"],36)
+
+    def test_recent_podcast_does_not_mask_old_press(self):
+        data={"articles":[{"url":"https://example.org/news","language":"fr","source":"RFI"}],
+              "updated_at":"2026-10-22T11:00:00+00:00",
+              "sources":[{"source":"RFI","kind":"presse","success_at":"2026-10-20T00:00:00+00:00"},
+                         {"source":"Podcast","kind":"radio","success_at":"2026-10-22T11:00:00+00:00"}]}
+        self.assertTrue(any("Press catalogue stale" in x for x in audit(data,NOW)["issues"]))
+
+    def test_recent_press_collection_passes_staleness_gate(self):
+        data={"articles":[{"url":"https://example.org/news","language":"fr","source":"RFI"}],
+              "press_updated_at":"2026-10-22T08:00:00+00:00"}
+        self.assertFalse(any("Press catalogue stale" in x for x in audit(data,NOW)["issues"]))
+
     def test_duplicate_urls_are_detected(self):
         a={"url":"https://example.org/news?utm_source=rss","language":"fr","kind":"presse"}
         b={"url":"https://example.org/news","language":"fr","kind":"presse"}
