@@ -31,6 +31,32 @@ def audit(data, now=None):
     paris=now.astimezone(ZoneInfo('Europe/Paris'))
     if paris.hour>=10 and age_hours is not None and age_hours>18:
         warnings.append(f'Catalogue not refreshed for {age_hours} hours')
+    # A successful podcast or magazine update must not conceal stale press feeds.
+    press_stamp=data.get("press_updated_at")
+    if not press_stamp:
+        valid_press=[]
+        for source in sources:
+            if not isinstance(source,dict) or source.get("kind")!="presse" or not source.get("success_at"):
+                continue
+            try:
+                stamp=datetime.fromisoformat(source["success_at"])
+                valid_press.append(stamp if stamp.tzinfo else stamp.replace(tzinfo=timezone.utc))
+            except (TypeError,ValueError):
+                pass
+        if valid_press:
+            press_stamp=max(valid_press).isoformat()
+    press_age_hours=None
+    if press_stamp:
+        try:
+            stamp=datetime.fromisoformat(press_stamp)
+            if stamp.tzinfo is None:stamp=stamp.replace(tzinfo=timezone.utc)
+            press_age_hours=round((now-stamp).total_seconds()/3600,1)
+        except (TypeError,ValueError):
+            problems.append("Invalid press update timestamp")
+    elif articles:
+        problems.append("Missing last successful press collection timestamp")
+    if press_age_hours is not None and press_age_hours>36:
+        problems.append(f"Press catalogue stale: {press_age_hours} hours since last successful press collection")
     seen=set()
     languages=Counter()
     kinds=Counter()
@@ -78,6 +104,8 @@ def audit(data, now=None):
     result={
         "generated_at":now.isoformat(),
         "catalogue_updated_at":updated_at,
+        "press_updated_at":press_stamp,
+        "press_age_hours":press_age_hours,
         "catalogue_age_hours":age_hours,
         "warnings":warnings,
         "total_articles":len(articles),
@@ -112,6 +140,7 @@ def main():
         print(f"{field}: {report[field]}")
     print("languages:",report["articles_by_language"])
     print("catalogue age (hours):",report["catalogue_age_hours"])
+    print("press age (hours):",report["press_age_hours"])
     print("freshness warnings:",report["warnings"])
     if os.getenv("GITHUB_ACTIONS") == "true":
         for warning in report["warnings"]:
