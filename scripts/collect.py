@@ -326,14 +326,26 @@ def collect(mode="both"):
             unique.append(article)
     if not unique:
         raise RuntimeError("No articles available; keeping previous published site")
-    return {"updated_at":now.isoformat() if mode!="publish" else previous.get("updated_at"),
+    # Preserve a truthful timestamp: only successful sources may advance it.
+    successful_at=now.isoformat() if refreshed else previous.get("updated_at")
+    press_times=[]
+    for source_status in status_by_source.values():
+        if source_status.get("kind")!="presse" or not source_status.get("success_at"):
+            continue
+        try:
+            press_times.append(datetime.fromisoformat(source_status["success_at"]).astimezone(timezone.utc))
+        except (TypeError,ValueError):
+            pass
+    press_updated_at=max(press_times).isoformat() if press_times else previous.get("press_updated_at")
+    return {"updated_at":successful_at,
+            "press_updated_at":press_updated_at,
             "articles":unique[:1200],"sources":list(status_by_source.values()),
             "refreshed_sources":len(refreshed)}
 
 def main():
     mode=os.getenv("COLLECT_MODE","both")
     result=collect(mode)
-    changed=(mode!="scheduled" or result["refreshed_sources"]>0)
+    changed=result["refreshed_sources"]>0
     if os.getenv("GITHUB_OUTPUT"):
         with open(os.environ["GITHUB_OUTPUT"],"a",encoding="utf-8") as output:
             output.write(f"changed={str(changed).lower()}\n")
