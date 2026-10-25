@@ -1,4 +1,5 @@
 import unittest
+from unittest.mock import patch
 from datetime import datetime, timezone, timedelta
 from scripts.collect import parse, extract_image, canonical_url, iso, SOURCES, MAGAZINES
 
@@ -74,6 +75,39 @@ class CollectorTests(unittest.TestCase):
         names={name for lang,name,url in SOURCES if lang=="fr"}
         self.assertTrue(expected.issubset(names))
         self.assertEqual(len(names),len([1 for lang,_,_ in SOURCES if lang=="fr"]))
+
+    def test_failed_refresh_keeps_press_timestamp(self):
+        from scripts import collect as module
+        previous={"updated_at":"2026-10-24T07:00:00+00:00",
+                  "articles":[{"url":"https://example.org/old","date":"2026-10-24T06:00:00+00:00",
+                               "kind":"presse","source":"RFI"}],
+                  "sources":[{"source":"RFI","kind":"presse","success_at":"2026-10-24T07:00:00+00:00"}]}
+        with patch.object(module,"SOURCES",[("fr","RFI","https://example.org/rss")]), patch.object(module,"load_previous",return_value=previous), patch.object(module.urllib.request,"urlopen",side_effect=OSError("offline")):
+            result=module.collect("both")
+        self.assertEqual(result["refreshed_sources"],0)
+        self.assertEqual(result["updated_at"],previous["updated_at"])
+        self.assertEqual(result["press_updated_at"],previous["sources"][0]["success_at"])
+        self.assertEqual(len(result["articles"]),1)
+
+    def test_podcast_only_does_not_advance_press_timestamp(self):
+        from scripts import collect as module
+        previous={"updated_at":"2026-10-24T07:00:00+00:00",
+                  "articles":[{"url":"https://example.org/old","date":"2026-10-24T06:00:00+00:00","kind":"presse","source":"RFI"}],
+                  "sources":[{"source":"RFI","kind":"presse","success_at":"2026-10-24T07:00:00+00:00"}]}
+        rss=b'<rss><channel><item><title>Podcast</title><link>https://example.org/audio</link></item></channel></rss>'
+        class Response:
+            def __enter__(self):return self
+            def __exit__(self,*args):return False
+            def read(self,*args):return rss
+        with patch.object(module,"SOURCES",[("en","BBC Global News Podcast","https://example.org/feed")]), patch.object(module,"load_previous",return_value=previous), patch.object(module.urllib.request,"urlopen",return_value=Response()):
+            result=module.collect("both")
+        self.assertEqual(result["refreshed_sources"],1)
+        self.assertEqual(result["press_updated_at"],"2026-10-24T07:00:00+00:00")
+
+    def test_dst_switch_october_25(self):
+        from scripts.collect import schedule_slot
+        self.assertIsNone(schedule_slot("France 24","presse",datetime(2026,10,25,4,13,tzinfo=timezone.utc),{},[]))
+        self.assertEqual(schedule_slot("France 24","presse",datetime(2026,10,25,5,13,tzinfo=timezone.utc),{},[]),"2026-10-25:6")
 
     def test_local_morning_slots(self):
         from scripts.collect import schedule_slot
