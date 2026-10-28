@@ -11,6 +11,7 @@ on:
   schedule:
     # Several UTC opportunities; delayed/missed GitHub runs catch up via source slots.
     # No duplicate source fetching: the collector persists last_slot per source.
+    # Scheduled attempts depend on GitHub availability; manual forced recovery remains possible.
     - cron: '7,22,37,52 * * * *'
 permissions:
   contents: write
