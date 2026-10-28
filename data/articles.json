@@ -1,7 +1,366 @@
 {
-  "updated_at": "2026-10-28T15:02:00.508590+00:00",
-  "press_updated_at": "2026-10-28T15:02:00.508590+00:00",
+  "updated_at": "2026-10-28T20:11:56.966018+00:00",
+  "press_updated_at": "2026-10-28T20:11:56.966018+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Sarah Buono",
+      "categories": [
+        "Cronaca",
+        "Autopsia",
+        "Bologna",
+        "Fabio Anselmo",
+        "Polizia"
+      ],
+      "title": "Morte Fakir, la frase del poliziotto davanti al corpo già esanime catturata dalla bodycam: “Aò? Muori và” | Video",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/morte-fakir-video-bodycam-poliziotti-muori-va/8553354/",
+      "description": "Sono diversi minuti che il respiro, già flebile di Abderrahim Fakir, si sta spegnendo mentre è ammanettato e faccia a terra. “Lascia tanto non si muove”, dice uno dei due agenti all’altro mentre gli stringono le fascette intorno alle caviglie. Fakir non si muove, non reagisce. Il video della bodycam si inquadra mentre ",
+      "date": "2026-10-28T20:09:42+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Manolo Lanaro",
+      "categories": [
+        "Politica",
+        "Governo Meloni",
+        "Manifestazioni",
+        "Studenti"
+      ],
+      "title": "Meloni, la manovra elettorale ascolta anche i giovani: “Li abbiamo visti in piazza, ma non diamo risposte a chi sfascia le vetrine ma a chi vuole dimostrare il suo talento”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/legge-bilancio-meloni-giovani-misure-notizie/8553363/",
+      "description": "“Un pacchetto di misure”. Salario, affitti a canone concordato, climatizzatori e pompe di calore per tutte le scuole ed efficentamento energetico per le università. “Proviamo a dare risposte concrete – afferma la presidente del Consiglio Giorgia Meloni in conferenza stampa, durante l’illustrazione della Legge di Bilanc",
+      "date": "2026-10-28T20:00:36+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Giacomo Salvini",
+      "categories": [
+        "Politica",
+        "Antonio Tajani",
+        "Forza Italia",
+        "Fratelli d'Italia",
+        "Giorgia Meloni"
+      ],
+      "title": "Forza Italia, Tajani perde pezzi: il deputato brianzolo Sala lascia e va verso Fratelli d’Italia",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/fabrizio-sala-forza-italia-fratelli-italia-notizie/8553385/",
+      "description": "“Non mi sento più a casa né nella famiglia politica in cui sono cresciuto”. Così il deputato Fabrizio Sala ha deciso: lascia Forza Italia e approda al gruppo Misto della Camera, con lo sguardo già rivolto a Fratelli d’Italia. Uno strappo maturato dopo mesi di malumori, che il deputato brianzolo ha affidato anche a uno ",
+      "date": "2026-10-28T19:53:13+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Redazione Politica",
+      "categories": [
+        "Giustizia",
+        "Corte Penale Internazionale",
+        "Diritti Umani",
+        "Dossieraggio",
+        "Gaza"
+      ],
+      "title": "Il Giornale contro la gip di Siher: “Firmò un appello per Gaza”. Ma c’era anche la firma della pm che ha chiesto il carcere",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/caso-siher-gip-landoni-appello-gaza-notizie/8553115/",
+      "description": "“Esclusivo – La toga che ha liberato Siher ha firmato un appello per Gaza“. Non si è fatto attendere il dossieraggio nei confronti di Tiziana Landoni, la gip di Milano che ha rimesso in libertà il 30enne accusato di istigazione a delinquere con finalità di terrorismo. Nel tentativo di mettere in dubbio l’imparzialità d",
+      "date": "2026-10-28T19:52:50+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "F. Q.",
+      "categories": [
+        "I nostri video"
+      ],
+      "title": "Siher libero, hanno sbattuto il mostro in prima pagina. Rivedi la diretta con Peter Gomez e Andrea Borello",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/youssef-siher-libero-gip-rigetta-fermo-notizie/8553382/",
+      "description": "Youssef Siher è uscito dal carcere. La gip Tiziana Landoni ha rigettato la richiesta di convalida del fermo e l’applicazione della misura cautelare in carcere proposta dalla procura e il ricercatore è tornato in libertà. L’ordinanza ha smontato punto per punto la ricostruzione dei pm: “Ha evocato la ‘disobbedienza civi",
+      "date": "2026-10-28T19:44:47+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Redazione Cronaca",
+      "categories": [
+        "Cronaca",
+        "Cgil",
+        "Lula",
+        "Maurizio Landini",
+        "Susanna Camusso"
+      ],
+      "title": "La Cgil cancella Camusso dalla foto di Landini con Lula: “Errore tecnico”. L’ex segretaria: “Ma quale incidente…”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/cgil-foto-landini-camusso-lula-polemiche/8553345/",
+      "description": "Una foto pubblicata dalla Cgil per festeggiare la rielezione del presidente Luiz Inácio Lula in Brasile diventa un caso. Nello scatto postato sui social, infatti, si vede il segretario generale Maurizio Landini stringere la mano al leader sudamericano, senza nessuno attorno. Ma la foto originale, scattata quando i due ",
+      "date": "2026-10-28T18:56:53+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Manolo Lanaro",
+      "categories": [
+        "Politica",
+        "Antonio Tajani",
+        "Garantismo"
+      ],
+      "title": "Tajani il garantista su Youssef Siher ha già la sentenza: “I reati erano comprovati”. E poi il suo diritto penale sui generis: “Era come se fosse in flagranza”. “Decisione sbagliata perché demotiva la polizia”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/tajani-il-garantista-su-youssef-siher-ha-gia-la-sentenza-i-reati-erano-comprovati-erano-come-se-fosse-in-flagranza/8553329/",
+      "description": "La conferenza stampa sulla legge di Bilancio ha una coda quando questa è terminata e la vicenda della scarcerazione di Youssef Siher resta al centro delle domande dei giornalisti. “Io ci credo sempre nello Stato di diritto – afferma la presidente del Consiglio Giorgia Meloni – che vuol dire soprattutto la gente perbene",
+      "date": "2026-10-28T18:49:04+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Redazione Politica",
+      "categories": [
+        "Politica",
+        "Codice della Strada",
+        "Consiglio dei Ministri",
+        "Giorgia Meloni",
+        "Legge di Bilancio"
+      ],
+      "title": "Nella Manovra via libera alle targhe dell’auto personalizzate (al costo di 600 euro). Meloni: “Ci si potrà sbizzarrire”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/targhe-personalizzate-manovra-600-euro-notizie/8553289/",
+      "description": "La targa personalizzata. Ecco una delle novità inserite nella legge di Bilancio approvata dal Consiglio dei ministri. Il governo è così tanto a caccia di risorse che punta anche sulle targhe di auto e moto: poter scegliere lettere e numeri per la propria automobile costerà 600 euro. “Ci si potrà più o meno sbizzarrire ",
+      "date": "2026-10-28T18:26:45+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Redazione Esteri",
+      "categories": [
+        "Mondo",
+        "Elon Musk",
+        "Intelligenza Artificiale"
+      ],
+      "title": "Elonville, la città che Musk vuole comprare per i suoi data center dell’intelligenza artificiale",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/elon-musk-acquisto-case-southaven-xai-notizie/8552813/",
+      "description": "Elon Musk vuole acquistare una città in Mississippi: si chiama Southaven, ospita una centrale elettrica fondamentale per alimentare i data center della sua intelligenza artificiale, e da alcuni media americani è stata già ribattezzata “Elonville“. Il piano del miliardario prevede l’acquisto di 418 case a un prezzo di m",
+      "date": "2026-10-28T18:26:24+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Wanda Marra",
+      "categories": [
+        "Politica",
+        "Benjamin Netanyahu",
+        "Corte Penale Internazionale",
+        "Donald Trump",
+        "Gaza"
+      ],
+      "title": "L’Italia firma con altri 8 Paesi il proprio sostegno alla Cpi dopo le sanzioni di Washington. Ma in Parlamento la maggioranza evita il voto contro Trump",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/corte-penale-internazionale-italia-sanzioni-trump-notizie/8553308/",
+      "description": "Il governo italiano ha aderito a una dichiarazione congiunta siglata da otto Paesi (tra cui Francia, Germania, Regno Unito, Canada e Giappone) per ribadire il proprio sostegno alla Corte Penale Internazionale e contestare le misure restrittive decise da Washington a ottobre, quando l’amministrazione Trump ha annunciato",
+      "date": "2026-10-28T18:21:36+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Giuseppe Pietrobelli",
+      "categories": [
+        "Giustizia",
+        "Corte d'appello",
+        "Morti sul Lavoro",
+        "Padova",
+        "Sicurezza sul Lavoro"
+      ],
+      "title": "Acciaierie Venete, condannato in appello il presidente Banzato per la morte di due operai. Attesa la sua nomina a capo di Federacciai",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/acciaierie-venete-banzato-condanna-appello-notizie/8553313/",
+      "description": "Alessandro Banzato, presidente di Acciaierie Venete, è stato condannato anche in Corte d’Appello per la morte di due operai avvenuta nel 2018 a seguito di un incidente in uno degli stabilimenti del gruppo, alla periferia di Padova. Una colata di metallo liquido li aveva investiti per il cedimento di un grande contenito",
+      "date": "2026-10-28T18:16:23+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "F. Q.",
+      "categories": [
+        "Media",
+        "Editoria",
+        "Il Fatto Quotidiano"
+      ],
+      "title": "Il Cda di Seif respinge la richiesta di due diligence di Lmdv Media – Il comunicato della società",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/il-cda-di-seif-respinge-la-richiesta-di-due-diligence-di-lmdv-media-il-comunicato-della-societa/8553310/",
+      "description": "In relazione al comunicato stampa (“COS LMDV”) diffuso in data 25 ottobre 2026 da LMDV Media S.r.l. (“LMDV Media”), con cui è stata resa nota la richiesta di svolgere una due diligence confermatoria su Società Editoriale Il Fatto S.p.A. (“SEIF” o la “Società”) ai fini della promozione di un’eventuale e futura offerta p",
+      "date": "2026-10-28T18:14:44+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Redazione Cronaca",
+      "categories": [
+        "Cronaca",
+        "Polizia"
+      ],
+      "title": "Caso Fakir, il poliziotto che ha detto “se schiatta ci divertiamo” si scusa con la famiglia della vittima: “Frutto di stanchezza ed emozione”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/caso-fakir-poliziotto-scuse-bodycam-notizie/8553012/",
+      "description": "Ha detto: “Se schiatta ci divertiamo” e “Cazzo me ne frega a me”. Ma ora vuole scusarsi “con la famiglia di Abderrahim Fakir“, il 42enne marocchino che ha perso la vita durante un fermo della polizia il 19 luglio. Uno dei due agenti coinvolti nell’indagine ha parlato per bocca del proprio avvocato, dopo che martedì […]",
+      "date": "2026-10-28T17:42:22+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Lorenzo Giarelli",
+      "categories": [
+        "Politica",
+        "Elezioni",
+        "Legge Elettorale",
+        "Raccolta Firme",
+        "Roberto Vannacci"
+      ],
+      "title": "Marco Rizzo sbarca in Parlamento e guarda a destra: “Più simpatica del Pd, non correremo con questa sinistra traditrice”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/marco-rizzo-parlamento-destra-notizie/8553100/",
+      "description": "Marco Rizzo svolta a destra? L’ingresso in coalizione non c’è, ma in diversi lo hanno pensato quando hanno visto che al Senato un ex meloniano, Antonio Guidi, se n’è andato al Misto aderendo a una sigla sconosciuta (Civici Marche) la quale ha poi cambiato nome in Italia Domani – Marco Rizzo. Uno stratagemma che consent",
+      "date": "2026-10-28T17:36:57+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Redazione Sport",
+      "categories": [
+        "Sport News",
+        "Basket",
+        "Nba"
+      ],
+      "title": "Come si diventa un campione NBA con una statura normale: i folli allenamenti uno-contro-uno di Payton Pritchard, che recluta sfidanti dalle serie minori",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/payton-pritchard-allenamento-estivo-nba-notizie/8553161/",
+      "description": "“Non posso svegliarmi ed essere Wemby”. Payton Pritchard è cosciente di essere fisicamente “inaccettabile” per l’NBA: è “solo” 1,85 metri, poco per quella lega di giganti. Eppure è uno dei giocatori più importanti dei Boston Celtics, con cui è diventato campione nel 2025, stagione in cui ha anche vinto il premio Sesto ",
+      "date": "2026-10-28T17:35:12+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Giorgio Cremaschi",
+      "categories": [
+        "Blog",
+        "Lavoro",
+        "Governo Meloni",
+        "Sciopero Generale",
+        "USB"
+      ],
+      "title": "Il 30 ottobre si sciopera per ragioni che gli ottusi governanti non capiranno mai",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/sciopero-generale-30-ottobre-usb-notizie/8552994/",
+      "description": "Lo sciopero generale del 30 ottobre nasce da un evento che ha pochi precedenti nel mondo del lavoro: lo sciopero internazionale di più di 100 porti del Mediterraneo e dell’Atlantico contro l’uso militare delle infrastrutture, il riarmo, la guerra. I portuali, una delle categorie più antiche del mondo del lavoro, ancora",
+      "date": "2026-10-28T17:23:40+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Redazione Politica",
+      "categories": [
+        "Politica",
+        "Giancarlo Giorgetti",
+        "Giorgia Meloni",
+        "Governo Meloni",
+        "Matteo Salvini"
+      ],
+      "title": "Il ministro Giorgetti prova a lasciare la conferenza stampa ma Meloni lo blocca: “Se vai via tu noi che facciamo?”",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/meloni-giorgetti-conferenza-stampa-notizie/8553237/",
+      "description": "Siparietto tra la presidente del consiglio Giorgia Meloni e il ministro dell’Economia Giancarlo Giorgetti. Il ministro ad un certo punto si alza dicendo che se ne deve andare (dopo che anche Matteo Salvini aveva abbandonato Palazzo Chigi) e la premier lo blocca: “Se te ne vai pure tu che facciamo? Cinque minuti, resta ",
+      "date": "2026-10-28T17:14:46+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Gianni Rosini",
+      "categories": [
+        "Mondo",
+        "Benjamin Netanyahu",
+        "Donald Trump",
+        "Governo di Unità Nazionale",
+        "Iran"
+      ],
+      "title": "Il diktat di Trump a Netanyahu: “Fuori gli estremisti dal governo”. Così avanza l’ipotesi del governo di unità nazionale",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/trump-netanyahu-estremisti-governo-notizie/8552769/",
+      "description": "Il sostegno degli Stati Uniti di Donald Trump a Benjamin Netanyahu, questa volta, ha un prezzo: fuori gli estremisti dal prossimo governo. Così, però, col premier uscente che ha già escluso qualsiasi possibile alleanza con la folta rappresentanza dei partiti arabi, che a scrutinio ancora in corso pesa tra i 17 e i 19 s",
+      "date": "2026-10-28T17:08:34+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Andrea Tundo",
+      "categories": [
+        "Mondo",
+        "Alta Velocità",
+        "Incidente Ferroviario",
+        "Spagna"
+      ],
+      "title": "Il guasto del sistema di sicurezza e gli errori della sala di controllo: i 17 minuti del disastro ferroviario in Spagna",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/incidente-treni-spagna-cosa-e-successo-guasto-sistema-errore-sala-controllo/8553160/",
+      "description": "Un errore umano, mentre il sistema di segnalamento computerizzato era finito in tilt. È questa la pista, ormai consolidata, seguita da investigatori e autorità per spiegare il secondo grave incidente ferroviario che ha colpito la Spagna. Lo scontro lungo la linea Alta velocità nei pressi di Urda, vicino a Toledo, è arr",
+      "date": "2026-10-28T17:04:00+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Redazione Sport",
+      "categories": [
+        "Tennis"
+      ],
+      "title": "Musetti show a Vienna: battuto Tiafoe in due set, ora c’è Fery. L’inedito derby Cobolli-Berrettini",
+      "url": "https://www.ilfattoquotidiano.it/2026/10/28/atp-vienna-musetti-tiafoe-derby-cobolli-berrettini-notizie/8553210/",
+      "description": "Lorenzo Musetti debutta con una grande vittoria all’Erste Bank Open, l’ATP 500 sul duro indoor a Vienna, alla Wiener Stadthalle. Il carrarino, numero 26 del mondo e fresco vincitore a Lione, ha sconfitto in due set lo statunitense Frances Tiafoe, oggi numero 9 ATP e quarta testa di serie del tabellone. Il punteggio fin",
+      "date": "2026-10-28T16:59:45+00:00",
+      "source": "Il Fatto Quotidiano",
+      "language": "it",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "",
@@ -5449,21 +5808,6 @@
     },
     {
       "audio_url": "",
-      "author": "F. Q.",
-      "categories": [
-        "Fatti a motore"
-      ],
-      "title": "Pneumatici invernali, dal 15 novembre scatta l’obbligo. Ecco cosa sapere",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/pneumatici-invernali-dal-15-novembre-scatta-lobbligo-ecco-cosa-sapere/8552294/",
-      "description": "Dal 15 novembre 2026 torna l’obbligo di pneumatici invernali o catene da neve a bordo sulle strade interessate dalle ordinanze. Gli automobilisti hanno ancora poco più di due settimane per organizzarsi, ma è già possibile effettuare il cambio gomme: la finestra per il montaggio anticipato si è aperta il 15 ottobre. L’o",
-      "date": "2026-10-28T10:20:21+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "FRANCE24",
       "categories": [],
       "title": "Israel: Netanyahu edges closer to a majority",
@@ -5576,24 +5920,6 @@
     },
     {
       "audio_url": "",
-      "author": "Giuseppe Candela",
-      "categories": [
-        "Televisione",
-        "Borse di Studio",
-        "Bruno Vespa",
-        "Porta a Porta"
-      ],
-      "title": "Bruno Vespa su Sabrina Brizzola: “Mi ha deluso che una giovane con un ruolo importante non si documenti”. E critica le reazioni alla polemica",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/bruno-vespa-su-sabrina-brizzola-mi-ha-deluso-che-una-giovane-con-un-ruolo-importante-non-si-documenti-e-critica-le-reazioni-alla-polemica/8552346/",
-      "description": "“A una settimana dal confronto in studio con Sabrina Brizzola, coordinatrice dell’Unione degli universitari, farei qualche osservazione a mente fredda, commentando le reazioni che ho trovato talvolta fuori misura”, ha così esordito Bruno Vespa nella puntata di “Porta a Porta” in onda martedì 27 ottobre. Il conduttore è",
-      "date": "2026-10-28T10:16:48+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Maxime Claudel",
       "categories": [
         "Consoles de jeu",
@@ -5660,24 +5986,6 @@
     },
     {
       "audio_url": "",
-      "author": "Emanuele Corbo",
-      "categories": [
-        "Televisione",
-        "Alberto Stasi",
-        "Chiara Poggi",
-        "Le Iene"
-      ],
-      "title": "Delitto di Garlasco, “Le Iene non hanno diffamato Stefania Cappa”: la vittoria in appello con la sentenza che ribalta tutto",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/delitto-di-garlasco-le-iene-non-hanno-diffamato-stefania-cappa-la-vittoria-in-appello-con-la-sentenza-che-ribalta-tutto/8552396/",
-      "description": "Riccardo Festinese e Alessandro De Giuseppe, rispettivamente autore e inviato de “Le Iene”, sono stati assolti dall’accusa di diffamazione aggravata nei confronti di Stefania Cappa in relazione al servizio “Speciale Le Iene, delitto di Garlasco, la verità di Alberto Stasi” andato in onda il 24 maggio 2022. Lo ha deciso",
-      "date": "2026-10-28T10:13:19+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "En partenariat avec Reolink",
       "categories": [
         "Bons Plans"
@@ -5706,41 +6014,6 @@
     },
     {
       "audio_url": "",
-      "author": "Estefano Tamburrini",
-      "categories": [
-        "Mondo",
-        "Brasile",
-        "Jair Bolsonaro",
-        "Lula"
-      ],
-      "title": "Bolsonaro Jr fuggito in Usa, il “piano B” era già pronto: “Abbattere Lula dall’esterno in caso di sconfitta alle urne”",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/bolsonaro-fuga-florida-piano-eversivo-notizie/8552366/",
-      "description": "Apparati di intelligence e Polizia federale brasiliana prevedevano un “rischio di fuga molto alto” da parte dell’ex candidato Flávio Bolsonaro – atterrato in Florida, insieme alla famiglia, nella notte di martedì – in caso di sconfitta alle urne. Bolsonaro Jr. affronta almeno quattro indagini in Brasile: evasione fisca",
-      "date": "2026-10-28T10:05:45+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Luisiana Gaita",
-      "categories": [
-        "Ambiente",
-        "Cambiamenti Climatici",
-        "Salute"
-      ],
-      "title": "Crisi climatica, 3 milioni di vittime in otto anni solo per il caldo estremo. L’allarme di Lancet: “Si dichiari l’emergenza sanitaria”",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/crisi-climatica-morti-caldo-estremo-lancet-notizie/8552348/",
-      "description": "Molti danni alla salute legati al climate change si stanno aggravando più rapidamente rispetto a 10 anni fa perché le azioni per il clima non sono riuscite a tenere il passo. Basti pensare che, dopo l’entrata in vigore dell’Accordo di Parigi del 2015, la media annuale dei decessi legati al caldo è aumentata di quasi […",
-      "date": "2026-10-28T10:05:09+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Cruise ship left stranded in Cambodia after 'soaring fuel costs'",
@@ -5764,25 +6037,6 @@
       "language": "es",
       "image": "https://i.blogs.es/d2b49d/dartvader/1024_2000.jpeg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Riccardo Antoniucci",
-      "categories": [
-        "Archivio",
-        "Mondo",
-        "Benjamin Netanyahu",
-        "Elezioni Israele",
-        "Israele"
-      ],
-      "title": "Israele, i possibili scenari post-voto: accordo con le liste arabe o lo spettro di un nuove elezioni entro pochi mesi",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/elezioni-israele-scenari-postvoto-notizie/8552335/",
-      "description": "Il conteggio del voto reale delle elezioni del 27 ottobre in Israele ha sgonfiato in parte le speranze dei partiti ebraici che hanno fatto campagna contro Netanyahu, quello che è stato chiamato il blocco del cambiamento o anche semplicemente l’opposizione. Mentre i voti continuano a essere scrutinati e i risultati si p",
-      "date": "2026-10-28T10:01:23+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -5994,40 +6248,6 @@
     },
     {
       "audio_url": "",
-      "author": "Redazione Cronaca",
-      "categories": [
-        "Media"
-      ],
-      "title": "Appendino (M5s) invita a comprare una copia del Fatto: “Sosteniamo chi ha ancora il coraggio di fare le pulci al Sistema”",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/opa-fatto-quotidiano-appendino-del-vecchio-pulci-sistema/8552354/",
-      "description": "“Travaglio e i fondatori del Fatto hanno risposto chiaramente: il Fatto non è in vendita. Lo possono comprare solo i lettori. Allora facciamolo. Una copia in edicola, un abbonamento. Sosteniamo chi vuole restare libero. Sosteniamo chi ha ancora il coraggio di andare controcorrente e di fare le pulci al Sistema”. Chiara",
-      "date": "2026-10-28T09:54:27+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "il Fatto Quotidiano",
-      "categories": [
-        "Società",
-        "Sponsorizzati",
-        "Intelligenza Artificiale",
-        "Peter Gomez",
-        "Walter Veltroni"
-      ],
-      "title": "Intelligenza artificiale, la sfida per gli agenti assicurativi: a Roma il confronto tra esperti e operatori del settore",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/intelligenza-artificiale-la-sfida-per-gli-agenti-assicurativi-a-roma-il-confronto-tra-esperti-e-operatori-del-settore/8551620/",
-      "description": "Il 5 novembre a Villa Miani il convegno promosso da GAAT Service con UNI Agenti e AGI. Tra i relatori Aranzulla, Camisani Calzolari, Frontoni e Veltroni. Peter Gomez modererà la tavola rotonda sul futuro dell’intermediazione. L’intelligenza artificiale è già entrata nei processi di molte imprese e sta cambiando il modo",
-      "date": "2026-10-28T09:54:15+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/10/28/Emanuele-Frontoni-630x460.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "J.D., F.B. avec AFP",
       "categories": [
         "Monde",
@@ -6084,25 +6304,6 @@
       "source": "Courrier international",
       "language": "fr",
       "image": "https://focus.courrierinternational.com/2026/10/27/0/0/5170/3763/644/0/60/0/fac8853_ftp-1-9lz57dbksxix-afp-d4hy6xc.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Redazione Economia",
-      "categories": [
-        "Economia",
-        "Gasolio",
-        "Grande Distribuzione",
-        "Legacoop",
-        "Mezzogiorno"
-      ],
-      "title": "Rincari carburanti, taglio delle accise da 4 centesimi al litro fino al 7 novembre. Unione consumatori: “Presa in giro ridicola”",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/taglio-accise-carburante-gasolio-novembre-notizie/8552289/",
-      "description": "Torna il taglio delle accise sul gasolio, fino al 7 novembre, con una riduzione di 4 centesimi circa al litro, che diventano circa 4,9, iva compresa. E’ quanto prevede il decreto pubblicato in Gazzetta Ufficiale: “L’aliquota di accisa sugli oli da gas o gasolio”, si legge, “è rideterminata nella misura di 632,90 euro p",
-      "date": "2026-10-28T09:52:28+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -6208,41 +6409,6 @@
     },
     {
       "audio_url": "",
-      "author": "Antonella Zangaro",
-      "categories": [
-        "Trending News",
-        "Australia",
-        "Masterchef",
-        "Meghan Markle",
-        "Netflix"
-      ],
-      "title": "Meghan Markle è la nuova giudice di Junior di Masterchef Australia: “Non vedo l’ora, vedere ciò che queste piccole star creano in cucina sarà molto divertente”",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/meghan-markle-e-la-nuova-giudice-di-junior-di-masterchef-australia-non-vedo-lora-vedere-cio-che-queste-piccole-star-creano-in-cucina-sara-molto-divertente/8552299/",
-      "description": "Meghan torna ai fornelli, torna in Australia e diventa la nuova giudice dell’edizione Junior di Masterchef. La rete di Melbourne, Canale 10, lo ha confermato ufficialmente dopo che i tabloid britannici avevano rivelato che i duchi del Sussex hanno lasciato il Regno Unito per una vacanza. In Inghilterra la settimana di ",
-      "date": "2026-10-28T09:34:01+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Redazione FqMagazine",
-      "categories": [
-        "Animal House",
-        "Animali"
-      ],
-      "title": "“È irresistibile e affettuosa, ma è una grande responsabilità”: la storia di Petar, l’elettricista che ha trovato un’orsa nel bosco e non l’ha più lasciata",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/e-irresistibile-e-affettuosa-ma-e-una-grande-responsabilita-la-storia-di-petar-lelettricista-che-ha-trovato-unorsa-nel-bosco-e-non-lha-piu-lasciata/8552323/",
-      "description": "Pesava due chili quando Petar Tubić l’ha trovata, sola in un bosco, senza più la madre. Oggi Masa ne pesa circa 150, ma non se n’è accorta: ogni volta che può prova a salire sulle ginocchia dell’uomo che l’ha cresciuta, come faceva da cucciola. Lo riporta l’agenzia AP. Vivono insieme sul monte Ozren, nei pressi […]\nL'a",
-      "date": "2026-10-28T09:33:07+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Futura Partenariats, Contenu sponsorisé",
       "categories": [
         "Environnement",
@@ -6316,43 +6482,6 @@
     },
     {
       "audio_url": "",
-      "author": "Redazione Esteri",
-      "categories": [
-        "Mondo",
-        "Disinformazione",
-        "Giornalismo",
-        "Libertà di Stampa",
-        "Serbia"
-      ],
-      "title": "I giornalisti di una tv serba si scusano per il lavoro svolto negli ultimi anni: “Rimasti in silenzio, fornito informazioni di parte e non posto le domande giuste”",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/rtv-serbia-scuse-telespettatori-notizie/8552266/",
-      "description": "“Per molti anni il servizio pubblico non ha svolto la sua funzione, è rimasto in silenzio, ha chiuso un occhio, ha fornito informazioni di parte e ha riportato i fatti in modo acritico. Non sono state poste le domande giuste o non sono state poste affatto”. Esordisce così il giornalista Goran Eror dell’emittente serba ",
-      "date": "2026-10-28T09:22:18+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Redazione Esteri",
-      "categories": [
-        "Mondo",
-        "Belgrado",
-        "Elezioni Israele",
-        "Isis"
-      ],
-      "title": "Belgrado, attacca poliziotto con il coltello davanti all’ambasciata di Israele: ucciso. “E’ un minore sostenitore dell’Isis”",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/attacco-ambasciata-israele-belgrado-notizie/8552271/",
-      "description": "Un tentato assalto con il coltello a un agente di polizia davanti all’ambasciata di Israele, terminato con l’uccisione dell’assalitore. E’ accaduto poco dopo mezzanotte a Belgrado. “Un minore, la cui identità non è ancora stata accertata ma che si presume sia originario di Sabac (città della Serbia occidentale, ndr), h",
-      "date": "2026-10-28T09:12:55+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil",
@@ -6410,25 +6539,6 @@
     },
     {
       "audio_url": "",
-      "author": "Redazione Esteri",
-      "categories": [
-        "Mondo",
-        "Alta Velocità",
-        "Incidente Ferroviario",
-        "Madrid",
-        "Spagna"
-      ],
-      "title": "Spagna, incidente tra due treni dell’alta velocità: “Almeno 39 morti e 150 feriti”. Vagoni precipitati, è la stessa linea della strage di gennaio",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/scontro-treni-alta-velocita-madrid-siviglia-notizie/8552267/",
-      "description": "Almeno 39 morti, oltre 150 feriti (di cui cinque molto gravi) e diversi vagoni precipitati nella scarpata. Questo il primo bilancio secondo Sky News di un incidente ferroviario tra due treni ad alta velocità in Spagna: la pista più plausibile è quella dell’errore umano. La società di gestione delle infrastrutture Adif ",
-      "date": "2026-10-28T09:04:14+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
@@ -6465,24 +6575,6 @@
       "language": "de",
       "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/0/2/4/2/Google-Genie-4-9dc240cc1d0a7ad1.jpeg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Luisiana Gaita",
-      "categories": [
-        "Economia",
-        "ONU",
-        "Povertà",
-        "Sostenibilità"
-      ],
-      "title": "Lotta a povertà e disuguaglianze, l’Italia è messa peggio di 15 anni fa: arretra su 5 obiettivi di sviluppo sostenibile dell’Agenda 2030",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/poverta-diseguaglianze-italia-peggiora-agenda-2030-obiettivi-notizie/8551494/",
-      "description": "A quattro anni dalla scadenza dell’Agenda 2030, non solo l’Italia è in netto ritardo rispetto agli Obiettivi di sviluppo sostenibile (SDGs), ma nel 2025 sei dei 17 Obiettivi Onu peggiorano. E appare non raggiungibile il 58% dei target quantitativi fissati al 2030 (tra i 38 analizzati) per i vari goal. Un ritardo che si",
-      "date": "2026-10-28T09:02:59+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/10/27/Screenshot-2026-10-27-alle-12.52.01-630x325.png",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -6531,23 +6623,6 @@
     },
     {
       "audio_url": "",
-      "author": "Redazione FqMagazine",
-      "categories": [
-        "World News",
-        "Aerei",
-        "Aeroporto di Malpensa"
-      ],
-      "title": "Passeggeri molesti si mettono a fumare a bordo del volo Delta New York-Milano: scatta l’emergenza, la Polizia interviene all’atterraggio a Malpensa",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/passeggeri-molesti-si-mettono-a-fumare-a-bordo-del-volo-delta-new-york-milano-scatta-lemergenza-la-polizia-interviene-allatterraggio-a-malpensa/8552245/",
-      "description": "Sigarette accese all’interno della cabina passeggeri durante il tragitto sull’Atlantico e comportamenti sempre più indisciplinati e molesti nei confronti degli altri viaggiatori e del personale di bordo. È la scena che si è consumata all’interno del Boeing 767 della Delta Air Lines decollato da New York e diretto a Mil",
-      "date": "2026-10-28T09:01:27+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "José A. Lizana",
       "categories": [],
       "title": "Salir a caminar en vez de ir al gimnasio está muy bien, pero solo funciona si la caminata es a 5 km/h y con cierta constancia",
@@ -6558,23 +6633,6 @@
       "language": "es",
       "image": "https://i.blogs.es/e9e19c/salir-a-caminar/1024_2000.jpeg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Redazione FqMagazine",
-      "categories": [
-        "Trending News",
-        "Ambra Angiolini",
-        "Revenge porn"
-      ],
-      "title": "“Al liceo mi sentivo strana, me ne stavo sempre nel mio, arrivando a chiedermi se esistessero persone come me. Bravate? Non le ho mai fatte per non danneggiare i miei genitori”: così Jolanda Renga",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/al-liceo-mi-sentivo-strana-me-ne-stavo-sempre-nel-mio-arrivando-a-chiedermi-se-esistessero-persone-come-me-bravate-non-le-ho-mai-fatte-cosi-jolanda-renga/8552217/",
-      "description": "“Sono un po’ pesantona, sempre un pizzico più matura della mia età”. Si racconta così a La Stampa Jolanda Renga alla vigilia della sua esperienza come concorrente della seconda edizione “The Traitors Italia”, che debutterà su Prime Video con i primi tre episodi venerdì 6 novembre. Al suo nome vengono inevitabilmente ac",
-      "date": "2026-10-28T09:00:39+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -6662,22 +6720,6 @@
     },
     {
       "audio_url": "",
-      "author": "Redazione FqMagazine",
-      "categories": [
-        "Trending News",
-        "Ministero della Salute"
-      ],
-      "title": "Acqua minerale richiamata dal ministero della Salute, il batterio che preoccupa: controllate lotto e scadenza",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/acqua-minerale-richiamata-dal-ministero-della-salute-il-batterio-che-preoccupa-controllate-lotto-e-scadenza/8552263/",
-      "description": "Chi ha in casa bottiglie di acqua San Zaccaria da un litro farebbe bene a controllare l’etichetta. Il ministero della Salute ha pubblicato un avviso di richiamo per un lotto dell’acqua minerale prodotta da Fonti Terme di Brennero, per via di una possibile contaminazione da Pseudomonas aeruginosa, un batterio che rappre",
-      "date": "2026-10-28T08:58:46+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Jean-Loup Delmas",
       "categories": [
         "Économie",
@@ -6693,23 +6735,6 @@
       "source": "20 Minutes",
       "language": "fr",
       "image": "https://img.20mn.fr/eCv9Zlp5SMKBTtsWWtXRCCk/1200x768_la-fortune-de-tous-les-milliardaires-francais-permet-elle-de-payer-seulement-meme-pas-deux-ans-de-depenses-des-pensions-de-retraite-explications",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Omar Abu Eideh",
-      "categories": [
-        "Fatti a motore",
-        "Emissioni co2",
-        "Mobilità Sostenibile"
-      ],
-      "title": "L’Italia ostaggio del traffico.1,33 miliardi di ore perse e un conto da 22 miliardi",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/litalia-ostaggio-del-traffico-133-miliardi-di-ore-perse-e-un-conto-da-22-miliardi/8552243/",
-      "description": "In Italia la congestione stradale determina ogni anno 1,33 miliardi di ore perse nel traffico, per un costo economico stimato in circa 22 miliardi di euro, pari all’1% del PIL. Il fenomeno si concentra prevalentemente nelle città, dove si accumula oltre l’80% del tempo perso. Sul fronte ambientale, le emissioni restano",
-      "date": "2026-10-28T08:57:54+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -6789,24 +6814,6 @@
       "source": "Mediapart",
       "language": "fr",
       "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/28/261028-img-dechainement-repressif-du-senat-sur-la-loi-casseurs-payeurs.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Redazione FqMagazine",
-      "categories": [
-        "Televisione",
-        "Justin Timberlake",
-        "Podcast",
-        "Serie TV"
-      ],
-      "title": "Jessica Biel conferma l’arrivo di un reboot della serie tv “Settimo cielo”: “Racconteremo le esperienze che vivono oggi gli adolescenti e le famiglie”",
-      "url": "https://www.ilfattoquotidiano.it/2026/10/28/jessica-biel-conferma-larrivo-di-un-reboot-della-serie-tv-settimo-cielo-racconteremo-le-esperienze-che-vivono-oggi-gli-adolescenti-e-le-famiglie/8552237/",
-      "description": "A quasi vent’anni dal finale di “Settimo Cielo”, Jessica Biel, interprete dell’iconica Mary Camden, ha annunciato ufficialmente la produzione del reboot della celebre serie televisiva. Il longevo show, andato in onda per undici stagioni fino al 2007, tornerà in una veste rinnovata: l’attrice ha infatti confermato che i",
-      "date": "2026-10-28T08:44:54+00:00",
-      "source": "Il Fatto Quotidiano",
-      "language": "it",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -15452,19 +15459,6 @@
       "language": "fr",
       "image": "https://larecherche-assets-bucket.s3.eu-west-3.amazonaws.com/s3fs-public/article_papier_field_image_portrait/E%CC%81chelle%20solar-eruption-filament_eruption.jpg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "ppajot@sophiapublications.fr",
-      "categories": [],
-      "title": "Comment les climatologues réinventent leurs scénarios du futur",
-      "url": "https://www.larecherche.fr/climat/comment-les-climatologues-r%C3%A9inventent-leurs-sc%C3%A9narios-du-futur",
-      "description": "Comment les climatologues réinventent leurs scénarios du futur\n\n            Donald Trump a beau clamer depuis des années que le changement climatique est une blague, il manque rarement l’occasion de commenter l’actualité du réchauffement. Pas toujours à grande vitesse. Le 20 mai 2026, le locataire de la Maison blanche ",
-      "date": "2026-07-30T15:17:57+00:00",
-      "source": "La Recherche",
-      "language": "fr",
-      "image": "https://larecherche-assets-bucket.s3.eu-west-3.amazonaws.com/s3fs-public/article_web_field_image_portrait/Globes-LaRecherche-Paleoclimats2023.jpg",
-      "kind": "magazine"
     }
   ],
   "sources": [
@@ -15903,18 +15897,18 @@
     {
       "source": "Il Fatto Quotidiano",
       "kind": "presse",
-      "ok": false,
-      "error": "The read operation timed out",
-      "updated_at": "2026-10-28T15:02:00.508590+00:00",
-      "success_at": "2026-10-28T10:31:05.854611+00:00",
-      "last_slot": "2026-10-27:8"
+      "ok": true,
+      "count": 25,
+      "updated_at": "2026-10-28T20:11:56.966018+00:00",
+      "success_at": "2026-10-28T20:11:56.966018+00:00",
+      "last_slot": "2026-10-28:8"
     },
     {
       "source": "Fanpage",
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-10-28T15:02:00.508590+00:00",
+      "updated_at": "2026-10-28T20:11:56.966018+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16054,5 +16048,5 @@
       "last_slot": "2026-10-28:8"
     }
   ],
-  "refreshed_sources": 34
+  "refreshed_sources": 1
 }
