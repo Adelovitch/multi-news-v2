@@ -68,6 +68,20 @@ class CollectorTests(unittest.TestCase):
         self.assertIn("Geopop",MAGAZINES)
         self.assertIn(("pt","RTP Notícias","https://www.rtp.pt/noticias/rss/"),SOURCES)
 
+    def test_portuguese_magazine_sources(self):
+        from scripts.collect import article_kind, SOURCE_TIMEZONES
+        expected = {
+            "Superinteressante": "https://super.abril.com.br/feed/",
+            "Pplware": "https://pplware.sapo.pt/feed/",
+            "Olhar Digital": "https://olhardigital.com.br/feed/",
+        }
+        for name, feed in expected.items():
+            with self.subTest(source=name):
+                self.assertIn(("pt", name, feed), SOURCES)
+                self.assertIn(name, MAGAZINES)
+                self.assertEqual(article_kind(name), "magazine")
+                self.assertIn(SOURCE_TIMEZONES[name], ("Europe/Lisbon", "America/Sao_Paulo"))
+
     def test_added_french_sources(self):
         expected={"Libération","20 Minutes","Ouest-France","Courrier international",
                   "TV5MONDE","Euronews","Numerama","Clubic","01net",
