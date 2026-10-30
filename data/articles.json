@@ -1,87 +1,1272 @@
 {
-  "updated_at": "2026-10-30T11:35:21.214159+00:00",
-  "press_updated_at": "2026-10-30T11:35:21.214159+00:00",
+  "updated_at": "2026-10-30T14:35:08.485198+00:00",
+  "press_updated_at": "2026-10-30T14:35:08.485198+00:00",
   "articles": [
     {
       "audio_url": "",
       "author": "",
       "categories": [
-        "Economia"
+        "Mundo"
       ],
-      "title": "Crescimento económico da Alemanha desacelera para 0,2% no 3.º trimestre",
-      "url": "https://www.rtp.pt/noticias/economia/crescimento-economico-da-alemanha-desacelera-para-02-no-3o-trimestre_n1775595",
-      "description": "A economia alemã cresceu 0,2% no terceiro trimestre em relação aos três meses anteriores, corrigidos os efeitos de preços, sazonais e de calendário, segundo os dados preliminares publicados hoje pela agência federal de Estatística alemã (Destatis).",
-      "date": "2026-10-30T11:34:58+00:00",
+      "title": "Christa Pike. Sobrevivente a dupla injeção letal nos EUA revela que está em dor permanente",
+      "url": "https://www.rtp.pt/noticias/mundo/christa-pike-sobrevivente-a-dupla-injecao-letal-nos-eua-revela-que-esta-em-dor-permanente_n1775655",
+      "description": "Christa Pike, a mulher que sobreviveu a duas injeções letais no Tennessee, nos Estados Unidos, divulgou as primeiras declarações desde a execução mal sucedida em setembro. Garante que desde aquele dia não houve sequer um momento em que não sentisse dores.",
+      "date": "2026-10-30T14:34:03+00:00",
       "source": "RTP Notícias",
       "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0bc6a046bfa0e9cf43da91c479fdf292.jpg?w=350&q=50&auto=format",
       "kind": "presse"
     },
     {
       "audio_url": "",
       "author": "",
       "categories": [
-        "Economia"
+        "Mundo"
       ],
-      "title": "Dormidas no alojamento turístico com maior crescimento em quatro meses em setembro",
-      "url": "https://www.rtp.pt/noticias/economia/dormidas-no-alojamento-turistico-com-maior-crescimento-em-quatro-meses-em-setembro_n1775590",
-      "description": "As dormidas no setor do alojamento turístico registaram em setembro o maior crescimento em quatro meses, subindo 2% para 8,7 milhões, e acumulam um aumento de 1,5% nos primeiros nove meses, para 66,0 milhões, divulgou hoje o INE.",
-      "date": "2026-10-30T11:34:38+00:00",
+      "title": "14h Habitação: Seguro exige entendimentos para evitar o deslace da sociedade",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-habitacao-seguro-exige-entendimentos-para-evitar-o-deslace-da-sociedade_a1_1775662",
+      "description": "",
+      "date": "2026-10-30T14:33:03+00:00",
       "source": "RTP Notícias",
       "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format",
       "kind": "presse"
     },
     {
       "audio_url": "",
       "author": "",
       "categories": [
-        "Futebol Nacional"
+        "País"
       ],
-      "title": "Números e Curiosidades - Jornada 10 da I Liga",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/numeros-e-curiosidades-jornada-10-da-i-liga_d1775593",
-      "description": "A I Liga cumpre este fim de semana a décima jornada.",
-      "date": "2026-10-30T11:33:04+00:00",
+      "title": "Liga promove peditório até domingo",
+      "url": "https://www.rtp.pt/noticias/pais/liga-promove-peditorio-ate-domingo_v1775661",
+      "description": "A Liga Portuguesa Contra o Cancro espera igualar o valor de donativos do ano passado.",
+      "date": "2026-10-30T14:32:53+00:00",
       "source": "RTP Notícias",
       "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fbdffc7d673b93f6a9f93d226d37c16a.webp?w=350&q=50&auto=format",
+      "image": "https://cdn-images.rtp.pt/icm/images/21/21379a1bf1226c00289d72ac14ed97e2_N.jpg?",
       "kind": "presse"
     },
     {
       "audio_url": "",
-      "author": "Agência Lusa",
+      "author": "",
       "categories": [
-        "Vila Real",
-        "País",
-        "Sociedade",
-        "Drogas",
-        "Universidades"
+        "Cultura"
       ],
-      "title": "Distribuídas pulseiras que detetam droga em festa académica",
-      "url": "https://observador.pt/2026/10/30/vila-real-distribui-pulseiras-que-detetam-droga-em-festa-academica-para-prevenir/",
-      "description": "Distribuição de cinco mil pulseiras que mudam de cor ao detetar droga pretende reforçar a segurança, consciencializar e alertar para os perigos que existem em deixar o copo sem vigilância.",
-      "date": "2026-10-30T11:32:55+00:00",
-      "source": "Observador",
+      "title": "Já arrancou 'O meu primeiro FITEI'",
+      "url": "https://www.rtp.pt/noticias/cultura/ja-arrancou-o-meu-primeiro-fitei_v1775660",
+      "description": "A 7.ª edição é sobre o cosmos, a imaginação e a vida em comunidade.",
+      "date": "2026-10-30T14:32:48+00:00",
+      "source": "RTP Notícias",
       "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/08/05131903/20630582_770x433_acf_cropped.jpg",
+      "image": "https://cdn-images.rtp.pt/icm/images/8a/8a9d5733f94ead8763cfa89bd163d559_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "6 preguntas para entender qué se elige en las elecciones de medio mandato en EE.UU. y qué significan para Trump",
+      "url": "https://www.bbc.com/mundo/articles/cmly035wdwgdo?at_medium=RSS&at_campaign=rss",
+      "description": "Los votantes estadounidenses acudirán a las urnas el 3 de noviembre en unas elecciones que podrían tener un gran impacto en la presidencia de Donald Trump.",
+      "date": "2026-10-30T14:25:44+00:00",
+      "source": "BBC Mundo",
+      "language": "es",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "PCP critica falta de investimento na saúde",
+      "url": "https://www.rtp.pt/noticias/pais/pcp-critica-falta-de-investimento-na-saude_v1775659",
+      "description": "O Secretário-geral do PCP critica aquilo que considera ser \"mais um desinvestimento do Governo na saúde\".",
+      "date": "2026-10-30T14:24:47+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/65/652bb633e31157931467aa796d353491_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "1.ª Liga"
+      ],
+      "title": "Farioli rejeita facilidades na receção ao `lanterna vermelha` Estoril",
+      "url": "https://www.rtp.pt/noticias/1a-liga/farioli-rejeita-facilidades-na-rececao-ao-lanterna-vermelha-estoril_d1775658",
+      "description": "O treinador Francesco Farioli alerta para as dificuldades que o FC Porto vai sentir na receção de sábado ao Estoril Praia, apesar de os 'canarinhos' ocuparem o último lugar do campeonato.",
+      "date": "2026-10-30T14:24:06+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/78/78e568c39ba8d27ade6f3b38a47bf37b?w=350&q=50&rect=0,0,1499,822&auto=format",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "date": "2026-10-30T14:19:43+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Mundo"
+      ],
+      "title": "Israel sem vencedor claro",
+      "url": "https://www.rtp.pt/noticias/mundo/israel-sem-vencedor-claro_v1775653",
+      "description": "Os blocos de Netanyahu e Eisenkot estão separados por apenas cinco lugares no Parlamento. Os Partidos árabes conquistam 19 mandatos.",
+      "date": "2026-10-30T14:16:48+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/27/27ac6b1b9c6631b034b56b5ba644eb35_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Ed Pilkington",
+      "categories": [
+        "Christa Pike",
+        "Tennessee",
+        "US news",
+        "US crime",
+        "Capital punishment"
+      ],
+      "title": "Christa Pike makes first public comments since failed execution: ‘There is pain in my mind and in my soul’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/christa-pike-statement-tennessee-execution",
+      "description": "She is facing the death penalty for the 1995 murder of her classmate, despite surviving a botched execution last monthChrista Pike has marked a month since her failed execution by Tennessee and released a statement in which she laments the “incompetence” that has led to this moment, adding that despite ongoing healing ",
+      "date": "2026-10-30T14:15:48+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/32cecd4632615ae888b3dbf65938ff640a20fdcc/524_301_1664_1331/master/1664.jpg?width=140&quality=85&auto=format&fit=max&s=1ad538aca20cdef85596461894c144a8",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Sam Jones in Madrid and Jakub Krupa",
+      "categories": [
+        "Spain",
+        "Europe",
+        "World news",
+        "Rail transport"
+      ],
+      "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
+      "url": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez",
+      "description": "Pedro Sánchez says government’s task is to investigate causes of Wednesday’s crash that killed 69 people, but also to try to restore trustEurope live – latest updatesSpain’s prime minister, Pedro Sánchez, has admitted “trust in high-speed rail has been broken” after Wednesday’s deadly train collision that killed at lea",
+      "date": "2026-10-30T14:13:52+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/584de6579df1ed215adbac115151073bf3a88e92/961_0_4231_3387/master/4231.jpg?width=140&quality=85&auto=format&fit=max&s=a3b35f58f733fe8125fdf15d34531206",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "José Olivares",
+      "categories": [
+        "US Congress",
+        "Democrats",
+        "ICE (US Immigration and Customs Enforcement)",
+        "US news",
+        "Trump administration"
+      ],
+      "title": "Congressional Democrats demand answers over ICE treatment of hunger strikers",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
+      "description": "Immigrants at Texas detention facility, protesting against harsh conditions, say they face threats of force-feedingMembers of Congress sent a scathing letter to federal immigration officials this week demanding answers about conditions inside a Texas immigration jail, as detained immigrants on a prolonged hunger strike",
+      "date": "2026-10-30T14:13:13+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/cfdea443db1fc8e6b8dcc22cb52d204bd188667c/373_0_4175_3339/master/4175.jpg?width=140&quality=85&auto=format&fit=max&s=a293a4f8fa5e752a59a1c6e136c7d77a",
       "kind": "presse"
     },
     {
       "audio_url": "",
       "author": "Rádio Observador",
       "categories": [
-        "Dinheiro",
-        "Economia",
-        "Finanças Pessoais",
-        "Finanças"
+        "Rádio Observador",
+        "Observador",
+        "Escolas",
+        "Educação",
+        "Ranking Escolas"
       ],
-      "title": "Dia Mundial da Poupança: saber poupar e saber investir",
-      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/dia-mundial-da-poupanca-saber-poupar-e-saber-investir/",
-      "description": "Os portugueses reconhecem a importância de poupar, mas ainda há um grande desafio na forma como depois gerem essas poupanças.",
-      "date": "2026-10-30T11:32:26+00:00",
+      "title": "14h. Ranking Escolas. ME pede cautela na leitura do ranking",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2519/",
+      "description": "O ranking do ensino secundário tem em conta os resultados obtidos nos exames nacionais. Ainda,  PCP quer reforçar em 900 milhões de euros o investimento público na habitação.",
+      "date": "2026-10-30T14:12:31+00:00",
       "source": "Observador",
       "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rádio Observador",
+      "categories": [
+        "Guerra",
+        "Conflitos",
+        "Mundo",
+        "Rússia",
+        "Vladimir Putin"
+      ],
+      "title": "\"Trump não tem uma estratégia clara de saída\"",
+      "url": "https://observador.pt/programas/gabinete-de-guerra/trump-nao-tem-uma-estrategia-clara-de-saida/",
+      "description": "Bruno Cardoso Reis alerta que o Trump não possui qualquer estratégia clara de saída do conflito. O historiador afirma que a diplomacia exige lidar com inimigos e não só com os amigos.",
+      "date": "2026-10-30T14:11:35+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "Violência doméstica faz aumentar institucionalização das crianças",
+      "url": "https://www.rtp.pt/noticias/pais/violencia-domestica-faz-aumentar-institucionalizacao-das-criancas_v1775650",
+      "description": "O Relatório CASA, do Instituto da Segurança Social, revela que no ano passado 651 menores foram retirados à família por alegados crimes de violência.",
+      "date": "2026-10-30T14:10:47+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/c0/c0a51e8f29b2609643be68dcc29f8060_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Tom Phillips in Rio de Janeiro",
+      "categories": [
+        "Brazil",
+        "Flávio Bolsonaro",
+        "Jair Bolsonaro",
+        "Americas",
+        "World news"
+      ],
+      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+      "description": "Brazilian media ridicule defeated candidate over ‘shameful’  absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil.Instead, the far-right politician’s decision to flee to the United States after losing the elec",
+      "date": "2026-10-30T14:08:41+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=140&quality=85&auto=format&fit=max&s=cbfaced3620018ffcae42b99c53bcde5",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "Escolas públicas estão na posição 38 do ranking",
+      "url": "https://www.rtp.pt/noticias/pais/escolas-publicas-estao-na-posicao-38-do-ranking_v1775649",
+      "description": "A escola pública com a média mais elevada é a Secundária de Monção, no distrito de Viana do Castelo. Apresenta uma média de 14.08 valores.<br />",
+      "date": "2026-10-30T14:06:47+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/90/906e10a8644dbe7abeede55b0a2cd244_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Matthew Weaver",
+      "categories": [
+        "Palestine Action",
+        "Freedom of speech",
+        "Home Office",
+        "Labour",
+        "Politics"
+      ],
+      "title": "Andreas Malm condemns UK travel ban as ‘drift into authoritarianism’",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism",
+      "description": "Swedish climate academic says he has been ‘kept in the dark’ over Home Office decision to revoke his travel authorisationThe Swedish climate academic Andreas Malm has condemned a travel ban imposed on him by the UK government as a “drift into authoritarianism” amid criticism of the move.Malm, the author of How to Blow ",
+      "date": "2026-10-30T14:06:23+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/d25aa27ed036c3b7ae4d3ae55532ce3c3455b452/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=38a1124e0176d29d97da20f8be49a0c0",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "Colégios privados dominam ranking dos exames",
+      "url": "https://www.rtp.pt/noticias/pais/colegios-privados-dominam-ranking-dos-exames_v1775648",
+      "description": "O Grande Colégio Universal, no Porto, lidera a lista segundo o ranking feito pelo jornal público e pela Católica Porto Business School.<br />",
+      "date": "2026-10-30T14:04:48+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/fc/fcc8a122bb92c00916c93e3c63c0459b_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Mundo"
+      ],
+      "title": "Rússia admite negociadores europeus \"se a razão prevalecer na Europa\"",
+      "url": "https://www.rtp.pt/noticias/mundo/russia-admite-negociadores-europeus-se-a-razao-prevalecer-na-europa_n1775634",
+      "description": "A Rússia admitiu hoje uma participação da Europa no processo de negociações com a Ucrânia, mas ressalvou que, de momento, qualquer aproximação passa apenas pela mediação dos Estados Unidos.",
+      "date": "2026-10-30T14:01:59+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/12/1212ec5d0f3972e35414c2f44cf3acac?w=350&q=50&rect=0,0,1499,822&auto=format",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "A Prova dos Factos. Casas públicas vendidas a preço de mercado",
+      "url": "https://www.rtp.pt/noticias/pais/a-prova-dos-factos-casas-publicas-vendidas-a-preco-de-mercado_v1775646",
+      "description": "Entre 2008 e 2021, a Câmara de Lisboa vendeu 1.630 casas municipais e a maioria está agora a ser revendida a preços de mercado.",
+      "date": "2026-10-30T14:01:47+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/05/052298e3943b641f11c8cd27530ffe68_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Josh Butler",
+      "categories": [
+        "Australian law",
+        "AI (artificial intelligence)",
+        "Australia news",
+        "Technology",
+        "Australian politics"
+      ],
+      "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+      "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+      "description": "Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey saysGet our daily political email, free app or daily news podcastAltering copyright law to allow AI companies to scrape music, books and journalism could trigger a constitutional breach, Coalitio",
+      "date": "2026-10-30T14:00:18+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=140&quality=85&auto=format&fit=max&s=2593b4fbc81435c52aba38620941ff0c",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rachel Hall",
+      "categories": [
+        "Patrick Stewart",
+        "Domestic violence",
+        "Violence against women and girls",
+        "Culture",
+        "Amnesty International"
+      ],
+      "title": "‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy",
+      "url": "https://www.theguardian.com/culture/2026/oct/30/domestic-abuse-charities-patrick-stewart-amnesty-international-refuge",
+      "description": "Actor first shared his childhood experiences as part of Amnesty International campaign and became Refuge ambassadorWhen Patrick Stewart was growing up in the 1940s, he witnessed how, after his father beat his mother, home doctors and ambulance workers would tell her: “You must have done something to provoke him.”Stewar",
+      "date": "2026-10-30T14:00:18+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/73ad7b2871e09a267ed4452fd59eaf39659b7bc0/0_0_1661_1329/master/1661.jpg?width=140&quality=85&auto=format&fit=max&s=b136e36df0a7c8afa92ded3667c9e24d",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Lois Beckett in Burbank, California",
+      "categories": [
+        "California",
+        "US news",
+        "West Coast",
+        "World news",
+        "Halloween"
+      ],
+      "title": "Serial killers, set designers, and hordes of skeletons: welcome to the Halloween capital of America",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/burbank-california-los-angeles-halloween-capital",
+      "description": "In the placid LA suburb of Burbank, residents spend months – and thousands of dollars – turning their homes into Disney-style attractions. Why does it go so hard for Halloween – and is it becoming too popular for its own good?Every night, starting in mid-September, Diego Linares puts on a serial killer costume and stan",
+      "date": "2026-10-30T14:00:15+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/a3b6f6e5c73414bab20f04cbf0c5f693181e46f1/0_485_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=f7bee165cf562bb262874098dcd1ad1a",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Mundo"
+      ],
+      "title": "Bispo José Ornelas alerta que facilitar despejos agravará a crise",
+      "url": "https://www.rtp.pt/noticias/mundo/bispo-jose-ornelas-alerta-que-facilitar-despejos-agravara-a-crise_n1775642",
+      "description": "O bispo de Leiria-Fátima manifestou hoje preocupação com a crise da habitação e advertiu que medidas que facilitem despejos podem agravar o problema, denunciando, além disso, o fenómeno da especulação imobiliária.",
+      "date": "2026-10-30T13:59:11+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/45/45aa732f47ad89d59c38b612edea2e46?w=350&q=50&rect=0,0,860,471&auto=format",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "Tendas voltam este sábado ao Rossio",
+      "url": "https://www.rtp.pt/noticias/pais/tendas-voltam-este-sabado-ao-rossio_v1775644",
+      "description": "Os manifestantes pelo direto à habitação tencionam dormir na praça do Rossio, em Lisboa, sábado à noite, após a manifestação que está marcada para as 16:00.",
+      "date": "2026-10-30T13:54:49+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/02/02d985605dd4d22e17a1f7eb0755e8c9_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "\"No ha habido un solo momento desde esa noche que no sienta dolor\":  Christa Pike en su primera declaración desde la fallida ejecución",
+      "url": "https://www.bbc.com/mundo/articles/c674pd105v54o?at_medium=RSS&at_campaign=rss",
+      "description": "Esta es la primera declaración pública de Pike desde que sobrevivió a un intento de ejecución mediante inyección letal en septiembre.",
+      "date": "2026-10-30T13:54:17+00:00",
+      "source": "BBC Mundo",
+      "language": "es",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d03e/live/538ab8c0-d46d-11f1-8228-c14a49713dc8.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Manuel Nobre Monteiro",
+      "categories": [
+        "Estados Unidos da América",
+        "América",
+        "Mundo",
+        "Crimes Sexuais",
+        "Crime"
+      ],
+      "title": "Cornell. Procuradora pode ser afastada da investigação",
+      "url": "https://observador.pt/2026/10/30/cornell-publicacoes-nas-redes-sociais-podem-afastar-procuradora-da-investigacao-sobre-alegada-violacao-em-grupo/",
+      "description": "Letitia James classificou o caso como \"horrível\" e chamou \"sobrevivente\" à vítima antes de liderar a investigação. Um arguido pede o seu afastamento por falta de imparcialidade nas redes sociais.",
+      "date": "2026-10-30T13:53:35+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/07104810/gettyimages-2297900421-scaled.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Jeremy Barr in Washington",
+      "categories": [
+        "CBS",
+        "US press and publishing",
+        "Bari Weiss",
+        "Television industry",
+        "Business"
+      ],
+      "title": "Ousted 60 Minutes correspondent Cecilia Vega on overhaul at CBS News: ‘It hurts to watch’",
+      "url": "https://www.theguardian.com/media/2026/oct/30/60-minutes-correspondent-cecilia-vega-cbs-news",
+      "description": "Vega said she still doesn’t know why she was fired from the show, which has experienced a slump in ratingsCecilia Vega, the 60 Minutes correspondent fired as part of a dramatic overhaul of the CBS News show this spring, said it “hurts” to see what has happened to the storied newsmagazine and other segments of the netwo",
+      "date": "2026-10-30T13:53:14+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/00cdf42bc7a790c9ff3bd4d2f8174448b0df1a98/333_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=998d330c8cb0d61ed72fdd0cf327e66b",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Política"
+      ],
+      "title": "Seguro pede fim de “jogo de trica partidária” e exige convergências para solucionar crise na habitação",
+      "url": "https://www.rtp.pt/noticias/politica/seguro-pede-fim-de-jogo-de-trica-partidaria-e-exige-convergencias-para-solucionar-crise-na-habitacao_n1775632",
+      "description": "António José Seguro exigiu aos partidos que “cumpram a sua função” e encontrem soluções para os problemas do país, em especial na habitação e na saúde.",
+      "date": "2026-10-30T13:51:04+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0a31e230a401dedba424f372f7595b33.JPG?w=350&q=50&auto=format",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Jakub Krupa (now and earlier) and Martin Belam (earlier)",
+      "categories": [
+        "Spain",
+        "Italy",
+        "France",
+        "World news",
+        "Europe"
+      ],
+      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+      "description": "Some 69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missingPeunte begins by paying tribute to all affected by the incident.He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “",
+      "date": "2026-10-30T13:48:58+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/761dff5040731572cd809d76f86cf7a461b0100f/517_447_2958_2366/master/2958.jpg?width=140&quality=85&auto=format&fit=max&s=22103e8e2fb6752b3f9880b2296c9bb0",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "PIB português cresceu 0,2%",
+      "url": "https://www.rtp.pt/noticias/pais/pib-portugues-cresceu-02_v1775639",
+      "description": "Os dados do Instituto Nacional de Estatística (INE) mostram que, na comparação com o ano passado, a economia em Portugal cresceu 2,4%.",
+      "date": "2026-10-30T13:48:48+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/86/864b4b8ad3c1dfc39badeaeadf3e70bb_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "Hackeo a la empresa Binance afecta US$6.300 millones en activos digitales, en el mayor robo de criptomonedas conocido (y con impacto en América Latina)",
+      "url": "https://www.bbc.com/mundo/articles/cvze42lk562ko?at_medium=RSS&at_campaign=rss",
+      "description": "Dos empresas de análisis han atribuido el incidente a una unidad de piratería informática norcoreana llamada TraderTraitor.",
+      "date": "2026-10-30T13:48:15+00:00",
+      "source": "BBC Mundo",
+      "language": "es",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "date": "2026-10-30T13:46:16+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "Presidente do INEM nega bloqueio no socorro",
+      "url": "https://www.rtp.pt/noticias/pais/presidente-do-inem-nega-bloqueio-no-socorro_v1775633",
+      "description": "O presidente do INEM nega ter havido bloqueio por parte da PSP a pedidos de socorro durante a carga policial em Lisboa.",
+      "date": "2026-10-30T13:43:48+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/7f/7f00f185705eea9e15c93b1e4e45edef_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Teatro",
+        "Cultura"
+      ],
+      "title": "Peça do Teatro Gíria nomeada para prémio no Uruguai",
+      "url": "https://observador.pt/2026/10/30/peca-a-20-de-novembro-do-teatro-giria-nomeada-para-premio-no-uruguai/",
+      "description": "Monólogo inspira-se na figura de Sebastian Bosse, o estudante responsável por uma tentativa de massacre escolar nos EUA, em 2006. Peça passará pela Dinamarca, Espanha, Grécia, Argentina e Portugal.",
+      "date": "2026-10-30T13:41:19+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:121/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/28231539/jporfirio-bastidores-eunice-munoz-59-scaled.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Anna Betts",
+      "categories": [
+        "Oregon",
+        "US news",
+        "West Coast"
+      ],
+      "title": "British student pilot among three dead after two helicopters collide in Oregon",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/oregon-two-helicopters-collide",
+      "description": "Flight instructor, 22, and pilot, 38, among other fatalities after mid-air collision occurs near small airportThree people have been killed after two helicopters collided in mid-air near a small airport in Oregon on Thursday, authorities have confirmed.The Yamhill county sheriff’s office said on Thursday that it receiv",
+      "date": "2026-10-30T13:41:00+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/f23046e7258e90a0b0aad9b7f71b3a5c1e5bc1a1/1_0_4689_3750/master/4689.jpg?width=140&quality=85&auto=format&fit=max&s=456e73f4a44880783429cda8da313a40",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "Ministra admite aumento das listas de espera",
+      "url": "https://www.rtp.pt/noticias/pais/ministra-admite-aumento-das-listas-de-espera_v1775630",
+      "description": "A ministra da saúde admite que as listas de espera para cirurgia vão continuar a aumentar e assume que se está a instalar uma tendência de não resposta.",
+      "date": "2026-10-30T13:40:47+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/icm/images/43/436f418f6cefe90671d842444aef77d6_N.jpg?",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Serviço Nacional de Saúde",
+        "País",
+        "Sociedade",
+        "Saúde",
+        "Ministério da Saúde"
+      ],
+      "title": "Novo sistema de consultas e cirurgias arranca em janeiro",
+      "url": "https://observador.pt/2026/10/30/novo-sistema-de-acesso-a-consultas-e-cirurgias-arranca-em-janeiro-anuncia-ministra-da-saude/",
+      "description": "O novo sistema, o SINACC, vai avançar em janeiro do próximo ano, com a ministra da Saúde a garantir que o que \"não estiver bem, nas portarias ou nos despachos, muda-se\".",
+      "date": "2026-10-30T13:40:15+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30124312/47817567.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Obras Públicas",
+        "Investimento público",
+        "País",
+        "Sociedade",
+        "Estradas"
+      ],
+      "title": "IP inicia obras na EN2 em Abrantes",
+      "url": "https://observador.pt/2026/10/30/ip-inicia-obras-de-estabilizacao-do-talude-da-en2-em-abrantes/",
+      "description": "Empreitada tem um prazo de execução de 90 dias e deverá estar concluída até 26 de janeiro de 2027. IP tem duas outras obras de reabilitação rodoviária no concelho de Abrantes.",
+      "date": "2026-10-30T13:40:03+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1999:1124:nowe:0:187/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/17162025/estrada-nacional-2.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rádio Observador",
+      "categories": [
+        "Desporto",
+        "Futebol",
+        "Sporting",
+        "Liga dos Campeões",
+        "Benfica"
+      ],
+      "title": "A magia de Lukebakio pode ser “problema” para Marco Silva",
+      "url": "https://observador.pt/programas/e-o-campeao-e/a-magia-de-lukebakio-pode-ser-problema-para-marco-silva/",
+      "description": "A “taça xanax” acordou. Benfica, Gil Vicente, Braga e Famalicão trouxeram emoção à prova que tinha dado para dormir nos primeiros dois jogos. Ainda o Sporting a tentar livrar-se da crise e CR985.",
+      "date": "2026-10-30T13:39:48+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Literatura",
+        "Cultura",
+        "Livros"
+      ],
+      "title": "Hugo Gonçalves vence Prémio Literário San Clemente",
+      "url": "https://observador.pt/2026/10/30/hugo-goncalves-vence-premio-literario-san-clemente-em-espanha-com-revolucao/",
+      "description": "\"Revolução\" acompanha a história da família Storm entre o fim da ditadura e os primeiros anos da democracia portuguesa, cruzando os conflitos familiares com os problemas da sociedade na altura.",
+      "date": "2026-10-30T13:36:59+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3264:1837:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/05/22131755/dscf7729-1.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Minas",
+        "Economia",
+        "Protestos",
+        "Sociedade"
+      ],
+      "title": "Retirada de máquina da mina em Boticas aplaudida",
+      "url": "https://observador.pt/2026/10/30/litio-grupo-de-pessoas-que-se-opoe-a-mina-em-boticas-aplaude-retirada-de-maquina-da-savannah/",
+      "description": "Durante três dias, entre terça e quinta-feira, várias pessoas juntaram-se perto de um local de prospeção, em terreno baldio, com o objetivo de bloquear os trabalhos da Savannah.",
+      "date": "2026-10-30T13:35:18+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/07/27193613/25395429-scaled_770x433_acf_cropped.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Helena Horton",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Life and style",
+        "Skincare",
+        "UK news"
+      ],
+      "title": "Mercury, lead and methanol found in counterfeit beauty products seized across UK",
+      "url": "https://www.theguardian.com/fashion/2026/oct/30/mercury-lead-methanol-counterfeit-beauty-products-seized-uk",
+      "description": "Copies of popular cosmetics and skincare products more likely to contain toxic substances, Trading Standards warnsMercury, lead and methanol have been found in counterfeit beauty products seized across the UK, Trading Standards has said.There is a rising problem with fake beauty products, with scammers selling copies o",
+      "date": "2026-10-30T13:35:10+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/011d34f22885429c286610c015203f751324babf/0_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=f566f83e8cb8f503ad4432ee129b71d8",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Noticiário Antena1"
+      ],
+      "title": "13h MAI defende PSP: foram pacientes e deram primazia ao diálogo",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-mai-defende-psp-foram-pacientes-e-deram-primazia-ao-dialogo_a1_1775628",
+      "description": "",
+      "date": "2026-10-30T13:35:03+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Cultura",
+        "Governo",
+        "Política",
+        "Diário da República",
+        "País"
+      ],
+      "title": "Candidaturas a apoios à internacionalização abrem segunda",
+      "url": "https://observador.pt/2026/10/30/candidaturas-a-linha-de-apoio-a-internacionalizacao-da-cultura-portuguesa-abrem-segunda/",
+      "description": "Vão ser abrangidas iniciativas nas áreas do \"património cultural, da criação artística e das atividades culturais e criativas, desde que a candidatura demonstre a relevância cultural do seu objeto\".",
+      "date": "2026-10-30T13:32:53+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/04145023/46147178.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Arte",
+        "Cultura"
+      ],
+      "title": "Lisbon Art Weekend vai reunir 60 espaços e 95 eventos",
+      "url": "https://observador.pt/2026/10/30/lisbon-art-weekend-vai-reunir-60-espacos-e-95-eventos-na-maior-edicao-de-sempre/",
+      "description": "Criado em 2019, o Lisbon Art Weekend pretende dar a conhecer a diversidade da criação contemporânea na cidade e aproximar o público de espaços dedicados à arte contemporânea e projetos culturais.",
+      "date": "2026-10-30T13:32:25+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/08/31100917/maat03_1280x720_acf_cropped_770x433_acf_cropped.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Manuel Nobre Monteiro",
+      "categories": [
+        "Reino Unido",
+        "Europa",
+        "Mundo",
+        "Londres",
+        "Diplomacia"
+      ],
+      "title": "\"Mau gosto\". Embaixada do Montenegro divide bairro londrino",
+      "url": "https://observador.pt/2026/10/30/bandeira-excessivamente-vistosa-e-medo-de-intrusos-a-embaixada-do-montenegro-que-esta-a-agitar-um-bairro-londrino/",
+      "description": "Abertura da embaixada do Montenegro numa zona residencial de Londres gerou várias críticas entre vizinhos. Uma moradora avançou para tribunal, alegando que a mudança prejudicou a sua saúde mental.",
+      "date": "2026-10-30T13:31:54+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2127:1196:nowe:0:7/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30112829/captura-de-ecra-2026-10-30-as-112758.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "País"
+      ],
+      "title": "Comparar desempenho entre escolas privadas e públicas, está a incorrer num erro, diz ministro de Educação",
+      "url": "https://www.rtp.pt/noticias/pais/comparar-desempenho-entre-escolas-privadas-e-publicas-esta-a-incorrer-num-erro-diz-ministro-de-educacao_n1775624",
+      "description": "",
+      "date": "2026-10-30T13:29:33+00:00",
+      "source": "RTP Notícias",
+      "language": "pt",
+      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Andrew Sparrow",
+      "categories": [
+        "Politics",
+        "UK news",
+        "Labour",
+        "Andy Burnham",
+        "John Swinney"
+      ],
+      "title": "Burnham says he wants to ‘draw a line’ under relationship with devolved powers – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+      "description": "PM hoping for improved relations and ‘model of deeper devolution in Scotland and Wales’Downing Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson gave a comment that was a bit more extensive than the usual No 10 contribution when a great British ce",
+      "date": "2026-10-30T13:28:01+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/07d1c549b953d6a138c94dd2c4bab47e3d21ff1b/1135_680_2580_2063/master/2580.jpg?width=140&quality=85&auto=format&fit=max&s=2cf7c8aa825204c254f49b3be8683836",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "4 escenarios que se abren en Israel luego de que ni Netanyahu ni Eisenkot lograran mayoría absoluta en las elecciones",
+      "url": "https://www.bbc.com/mundo/articles/c9kgje41ezpro?at_medium=RSS&at_campaign=rss",
+      "description": "Con el conteo de votos completo, ningún bloque político logró alcanzar los escaños necesarios para formar un gobierno. Israel se encuentra en un punto muerto y lo más probable es que se celebren nuevas elecciones.",
+      "date": "2026-10-30T13:26:30+00:00",
+      "source": "BBC Mundo",
+      "language": "es",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/71c9/live/f349f380-d3b4-11f1-a340-478c8f3b9e55.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "União Europeia",
+        "Europa",
+        "Mundo",
+        "Transporte Ferroviário",
+        "Transportes"
+      ],
+      "title": "Transporte ferroviário de passageiros aumentou 2,6% em 2025",
+      "url": "https://observador.pt/2026/10/30/transporte-ferroviario-de-passageiros-na-ue-aumenta-26-em-2025-para-maximo-desde-2004/",
+      "description": "A Alemanha registou o maior número de passageiros transportados, com 2.954 milhões, seguida de França (1.312 milhões) e Itália (844 milhões). No extremo oposto, surge a Lituânia.",
+      "date": "2026-10-30T13:22:52+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1542:867:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30113020/47451176.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rádio Observador",
+      "categories": [
+        "Rádio Observador",
+        "Observador",
+        "Presidente da República",
+        "Política",
+        "António José Seguro"
+      ],
+      "title": "13h. Coesão Social. PR critica inação dos partidos",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2491/",
+      "description": "Em visita hoje a escolas requalificadas em Leiria, Seguro assume estar preocupado com falta de coesão social no país. Ainda, INE avança com estimativas de crescimento da economia e taxa de inflação.",
+      "date": "2026-10-30T13:17:08+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Orçamento do Estado",
+        "Economia",
+        "Serviço Nacional de Saúde",
+        "País",
+        "Sociedade"
+      ],
+      "title": "PCP acusa Governo de cortar na saúde e habitação",
+      "url": "https://observador.pt/2026/10/30/pcp-acusa-governo-de-cortar-na-saude-e-habitacao-e-aprofundar-desmantelamento-do-sns/",
+      "description": "Paulo Raimundo diz que \"metade dos recursos disponíveis para o SNS destina-se a transferências para o setor privado\". Para habitação pública propõe afetação de 1% do Produto Interno Bruto.",
+      "date": "2026-10-30T13:15:32+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/15204229/47865904.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Maria Ramos Silva",
+      "categories": [
+        "Celebridades",
+        "Lifestyle"
+      ],
+      "title": "Little Black Book: Tatler elege it boys e it girls de 2026",
+      "url": "https://observador.pt/2026/10/30/da-filha-do-primeiro-ministro-a-realeza-malaia-do-apelido-bellingham-a-paltrow-martin-tatler-elege-os-it-boys-e-it-girls-de-2026/",
+      "description": "A filha de Salma Hayek e Françoi-Henri Pinault lidera a lista da Tatler com os \"mais elegíveis\" da sociedade britânica em 2026. Burnham, Paltrow/Martin ou Bellingham são outros dos apelidos incluídos.",
+      "date": "2026-10-30T13:12:53+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3383:1904:nowe:295:68/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30124228/gettyimages-2203312915-scaled.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "Diplomacia"
+      ],
+      "title": "Consternação de Carlos face à escravatura é posta à prova à medida que o movimento pelas reparações ganha terreno",
+      "url": "https://www.publico.pt/2026/10/30/impar/noticia/consternacao-carlos-face-escravatura-posta-prova-medida-movimento-reparacoes-ganha-terreno-2193201",
+      "description": "O Palácio de Buckingham indicou que o rei não pedá desculpa em nome da Grã-Bretanha, que tem descartado a possibilidade de reparações financeiras pelo seu papel no comércio transatlântico de escravos.",
+      "date": "2026-10-30T13:12:00+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Agricultura",
+        "Sociedade",
+        "Açores",
+        "País",
+        "União Europeia"
+      ],
+      "title": "Bruxelas autoriza apoio do Governo a agricultores dos Açores",
+      "url": "https://observador.pt/2026/10/30/bruxelas-autoriza-apoio-de-3-milhoes-de-euros-do-governo-para-agricultores-dos-acores/",
+      "description": "Apoio criado em abril ao abrigo do Quadro Temporário de Auxílios Estatais para a Crise do Médio Oriente e aprovado em agosto pelo Governo Regional tem o montante máximo de 50 mil euros por empresa.",
+      "date": "2026-10-30T13:11:49+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:51/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/21131423/47193240.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Madalena Moreira",
+      "categories": [
+        "Espanha",
+        "Europa",
+        "Mundo",
+        "Eleições",
+        "Política"
+      ],
+      "title": "O impacto do acidente em Toledo nas eleições espanholas",
+      "url": "https://observador.pt/especiais/psoe-e-pp-dedicam-se-ao-luto-vox-responsabiliza-governo-o-impacto-do-acidente-em-toledo-nas-eleicoes-espanholas/",
+      "description": "Partidos sublinharam a necessidade de apurar responsabilidades, mas discordaram na cronologia de quando o fazer. Governo e PP querem respeitar luto antes de seguir com luta política, Vox já avançou.",
+      "date": "2026-10-30T13:11:02+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1964:nowe:0:142/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29122315/gettyimages-2302424416.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "Almada"
+      ],
+      "title": "“Mais uma noite e ele sem aparecer”: a história de amor e resistência de Rosa e Alfredo — e dos almadenses presos pela ditadura",
+      "url": "https://www.publico.pt/2026/10/30/local/noticia/noite-passou-aparecer-historia-amor-resistencia-rosa-alfredo-almadenses-presos-ditadura-2191915",
+      "description": "Alfredo foi preso pela ditadura e casou-se com Rosa na prisão: esta é uma das histórias de presos políticos na exposição Enquanto Eu não Sair em Liberdade. Cartas de Amor e Resistência, em Almada.",
+      "date": "2026-10-30T13:11:00+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Educação",
+        "Estudantes",
+        "Exames Nacionais"
+      ],
+      "title": "Estudantes exigem fim dos exames nacionais",
+      "url": "https://observador.pt/2026/10/30/estudantes-exigem-fim-dos-exames-nacionais-por-penalizarem-alunos-mais-pobres/",
+      "description": "Movimento Voz aos Estudantes afirma que os exames privilegiam quem \"pode pagar a sua educação\" e apresentam uma valorização da avaliação contínua como alternativa.",
+      "date": "2026-10-30T13:09:48+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/27144335/47482495.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Agência Lusa",
+      "categories": [
+        "Europa",
+        "Mundo",
+        "Crime",
+        "Sociedade",
+        "INTERPOL"
+      ],
+      "title": "PSP apreende mais de 60 veículos em operação europeia",
+      "url": "https://observador.pt/2026/10/30/psp-apreende-mais-de-60-veiculos-em-operacao-europeia-contra-trafico-e-furto-automovel/",
+      "description": "PSP fez parte da operação europeia JAD (Joint Action Day) Mobile 9, sob liderança da Interpol, com centro de operações na Polónia, que apreendeu mais de 700 viaturas e 334 detenções pela Europa.",
+      "date": "2026-10-30T13:08:42+00:00",
+      "source": "Observador",
+      "language": "pt",
+      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:91/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011818/arquivo-diogofariareis-9052-scaled.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "Pensões"
+      ],
+      "title": "Novas estimativas da população portuguesa não alteram idade da reforma em 2027",
+      "url": "https://www.publico.pt/2026/10/30/economia/noticia/novas-estimativas-populacao-portuguesa-nao-alteram-idade-reforma-2027-2193197",
+      "description": "O indicador da esperança de vida aos 65 anos não muda e, por isso, a idade normal de reforma será de 66 anos e 11 meses no próximo ano.",
+      "date": "2026-10-30T13:05:59+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Matthew Taylor",
+      "categories": [
+        "Trade unions",
+        "Environment",
+        "UK news",
+        "Climate crisis",
+        "Politics"
+      ],
+      "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
+      "url": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
+      "description": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’UK politics live – latest updatesThe leader of the UK’s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those em",
+      "date": "2026-10-30T13:04:03+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/44ad5917cfe307f50a5e26514caa5d9e3186e54f/187_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=0f365de8412c7a2dd724a195092718d8",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "date": "2026-10-30T13:03:34+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "Exposição"
+      ],
+      "title": "Anunciação: Cristo negro e arte indígena brasileira ocupam o Convento da Graça",
+      "url": "https://www.publico.pt/2026/10/30/publico-brasil/noticia/anunciacao-cristo-negro-arte-indigena-brasileira-ocupam-convento-graca-2193108",
+      "description": "Xavier Auza fez da exposição de arte que inaugura 4 de novembro e tem forte presença brasileira, uma “carta de amor” a Lisboa, num tempo em que imigrantes “não parecem ser bem-vindos em lado nenhum”.",
+      "date": "2026-10-30T13:00:58+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "INE"
+      ],
+      "title": "Esperança de vida em Portugal volta a subir. É no Norte que se vive mais tempo",
+      "url": "https://www.publico.pt/2026/10/30/sociedade/noticia/esperanca-vida-portugal-volta-subir-norte-vive-tempo-2193190",
+      "description": "Estimativa para a esperança de vida à nascença está nos 81,85 anos e, aos 65 anos, quem reside em Portugal pode esperar viver mais 20,19 anos.",
+      "date": "2026-10-30T12:51:42+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "PS"
+      ],
+      "title": "Pedro Nuno Santos critica abstenção no OE: PS deu “mais um ano de vida” ao Governo para “fazer reformas com o Chega”",
+      "url": "https://www.publico.pt/2026/10/30/politica/noticia/pedro-nuno-santos-critica-abstencao-oe-ps-deu-ano-vida-governo-reformas-chega-2193177",
+      "description": "Antigo líder socialista considera que a posição do partido no Orçamento do Estado foi um “cheque em branco” à AD e anunciou que não pretende voltar a candidatar-se a deputado.",
+      "date": "2026-10-30T12:51:01+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Patrick Wintour Diplomatic editor",
+      "categories": [
+        "Middle East and north Africa",
+        "US-Israel war on Iran",
+        "World news",
+        "Iran",
+        "US foreign policy"
+      ],
+      "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+      "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+      "description": "IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in the face of Iranian attack, according to ",
+      "date": "2026-10-30T12:49:56+00:00",
+      "source": "The Guardian",
+      "language": "en",
+      "image": "https://i.guim.co.uk/img/media/08682fee386a7fd0564b3e9c5c78d005c78d486d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f25b9800d3276380759e47f1a95ee5d4",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "Preços"
+      ],
+      "title": "Preços da energia sobem 17% em Outubro e levam a nova aceleração da inflação",
+      "url": "https://www.publico.pt/2026/10/30/economia/noticia/precos-energia-sobem-17-outubro-levam-nova-aceleracao-inflacao-2193195",
+      "description": "Taxa de inflação terá sido de 3,79% em Outubro, o valor mais elevado que se regista deste Maio de 2023, segundo os dados preliminares divulgados pelo INE nesta sexta-feira.",
+      "date": "2026-10-30T12:45:01+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+      "description": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
+      "date": "2026-10-30T12:36:55+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fe/live/78e57430-d458-11f1-93d9-89af68edb68a.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "Guerra na Ucrânia"
+      ],
+      "title": "Ajuda humanitária começou a chegar a Oleshki e residentes podem abandonar a cidade",
+      "url": "https://www.publico.pt/2026/10/30/mundo/noticia/ajuda-humanitaria-comecou-chegar-oleshki-residentes-podem-abandonar-cidade-2193192",
+      "description": "Comida e medicamentos chegaram para acudir a população na cidade ucraniana sob controlo russo que está em regime de cessar-fogo há mais de três dias. Ucrânia voltou a atacar refinarias russas.",
+      "date": "2026-10-30T12:34:46+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "What we know about Binance's $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+      "date": "2026-10-30T12:27:28+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "date": "2026-10-30T12:25:53+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61c/live/cae6b6f0-d461-11f1-93e1-3b657b665bcf.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "Protestos pela habitação"
+      ],
+      "title": "Luís Neves diz acompanhar operações da PSP nas acampadas e afasta intervenção de Montenegro",
+      "url": "https://www.publico.pt/2026/10/30/sociedade/noticia/luis-neves-acompanhar-operacoes-psp-acampadas-afasta-intervencao-montenegro-2193191",
+      "description": "Ministro da Administração Interna voltou a negar ter dado ordem à PSP para intervir nas acampadas e a defender a actuação da polícia que até apelidou de “pedagógica”.",
+      "date": "2026-10-30T12:23:12+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+      "date": "2026-10-30T12:20:04+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "publico@publico.pt",
+      "categories": [
+        "Turismo"
+      ],
+      "title": "Lisboa recupera em Setembro da descida nas receitas de turismo",
+      "url": "https://www.publico.pt/2026/10/30/economia/noticia/lisboa-recupera-setembro-descida-receitas-turismo-2193186",
+      "description": "Grande Lisboa liderou o ranking das regiões turísticas com mais proveitos em Setembro, mês em que as receitas subiram 4,9% para 249,6 milhões de euros, permitindo recuperar perdas de Julho e Agosto.",
+      "date": "2026-10-30T12:15:08+00:00",
+      "source": "Público",
+      "language": "pt",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+      "date": "2026-10-30T12:04:02+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "AI-powered 'doorbell cameras' tested to alert people to approaching polar bears",
+      "url": "https://news.sky.com/story/ai-powered-doorbell-cameras-tested-to-cut-risk-of-rising-human-encounters-with-polar-bears-13605711",
+      "description": "Artificial intelligence-powered \"doorbell cameras\" are being tested by a team of international experts in Canada to warn communities about approaching polar bears as climate change increases the risk of dangerous encounters.",
+      "date": "2026-10-30T11:49:00+00:00",
+      "source": "Sky News",
+      "language": "en",
+      "image": "https://e3.365dm.com/26/10/1920x1080/skynews-polar-bears-conservation_7391726.jpg?20261030102409",
       "kind": "presse"
     },
     {
@@ -95,25 +1280,6 @@
       "source": "Ouest-France",
       "language": "fr",
       "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwNjgwNzY5NGFhYjhiODUxNThlMGQzNzM5MDZlOWE4ODA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=280d076ee5530eefbd26db5ceaec1f5213fa2394908ecc6b1286702358aea498",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Canadá",
-        "América",
-        "Mundo",
-        "Segurança",
-        "Sociedade"
-      ],
-      "title": "Canadá apresenta primeira estratégia de segurança em 20 anos",
-      "url": "https://observador.pt/2026/10/30/canada-apresenta-primeira-estrategia-de-seguranca-nacional-em-mais-de-20-anos/",
-      "description": "Entre os principais objetivos encontram-se a redução de dependências externas e a modernização das Forças Armadas. A estratégia será revista pelo menos de quatro em quatro anos.",
-      "date": "2026-10-30T11:31:49+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30093828/45173636.jpg",
       "kind": "presse"
     },
     {
@@ -141,21 +1307,6 @@
       "language": "es",
       "image": "https://i.blogs.es/95986d/apple-watch-series-11/1024_2000.jpeg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Noticiário Antena1"
-      ],
-      "title": "11h Acidente em Baleizão faz um morto e sete feridos",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-acidente-em-baleizao-faz-um-morto-e-sete-feridos_a1_1775592",
-      "description": "",
-      "date": "2026-10-30T11:31:03+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -238,25 +1389,6 @@
     },
     {
       "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Castelo Branco",
-        "País",
-        "Sociedade",
-        "Solidão",
-        "Educação"
-      ],
-      "title": "Universidade Sénior inicia ano letivo com 1.670 alunos",
-      "url": "https://observador.pt/2026/10/30/universidade-senior-albicastrense-inicia-ano-letivo-com-1-670-alunos/",
-      "description": "Universidade Sénior Albicastrense iniciou o novo ano letivo com um total de 1.670 alunos, um crescimento de 7,5% do número de alunos, face ao número que frequentava no ano anterior.",
-      "date": "2026-10-30T11:28:27+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2245:nowe:0:66/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/03/29141008/gettyimages-1228421790.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "TV5MONDE Info",
       "categories": [],
       "title": "Cyberattaque de réfrigérateurs de supermarchés: avant la France, des bases militaires américaines touchées",
@@ -266,25 +1398,6 @@
       "source": "TV5MONDE",
       "language": "fr",
       "image": "https://information.tv5monde.com/sites/tv5-info/files/styles/rss/public/2026-10/ap26287372665644.jpg?h=d6665d70",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Leiria",
-        "País",
-        "Sociedade",
-        "Tráfico de Droga",
-        "Crime"
-      ],
-      "title": "Droga. Suspeito de tráfico de 17 anos detido junto a escola",
-      "url": "https://observador.pt/2026/10/30/jovem-de-17-anos-suspeito-de-trafico-de-droga-detido-junto-a-escola-da-marinha-grande/",
-      "description": "Para além do jovem detido por tráfico de droga, com 11,88 gramas de haxixe em seis doses, foi identificado um outro jovem, também de 17 anos, por suspeita de consumo de estupefacientes.",
-      "date": "2026-10-30T11:27:45+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:189/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/01164231/jporfirio-reportagem-forte-do-alto-do-duque-psp-investigacao-criminal-01-10-2026-01-15-scaled.jpg",
       "kind": "presse"
     },
     {
@@ -343,25 +1456,6 @@
     },
     {
       "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Música",
-        "Cultura",
-        "Lisboa",
-        "País",
-        "Sociedade"
-      ],
-      "title": "JP Simões regressa ao álbum \"1970\" num concerto em Lisboa",
-      "url": "https://observador.pt/2026/10/30/jp-simoes-regressa-ao-album-1970-num-concerto-em-novembro-em-lisboa/",
-      "description": "Músico editou no ano passado o terceiro e último álbum do projeto Bloom, feito de referências anglo-saxónicas. Casa Capitão refere que convencer JP Simões \"a revisitar este material não foi fácil\".",
-      "date": "2026-10-30T11:25:57+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:67/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/12211143/casa-capitao-1.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Agence France-Presse",
       "categories": [
         "France"
@@ -390,6 +1484,19 @@
       "source": "El Mundo",
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17933073284327.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "date": "2026-10-30T11:23:06+00:00",
+      "source": "BBC World",
+      "language": "en",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg",
       "kind": "presse"
     },
     {
@@ -504,25 +1611,6 @@
     },
     {
       "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Loures",
-        "País",
-        "Sociedade",
-        "Crimes Sexuais",
-        "Crime"
-      ],
-      "title": "Homem detido por abusar sexualmente de duas imãs menores",
-      "url": "https://observador.pt/2026/10/30/homem-detido-por-abusar-sexualmente-de-duas-irmas-menores-em-loures/",
-      "description": "Suspeito foi detido pela prática de 17 crimes de abuso sexual contra duas irmãs menores, de 9 e 13 anos, ocorridos desde 2024 até a data, num contexto de vizinhança e de relação de confiança.",
-      "date": "2026-10-30T11:20:39+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1024:574:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/04/11225354/gettyimages-643067734-1.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [
         "Culture"
@@ -549,21 +1637,6 @@
       "source": "Le Figaro",
       "language": "fr",
       "image": "https://i.f1g.fr/media/cms/orig/2026/10/30/1e9aab2abe69c5ce784d9333c8c0f738fc6bac67c2cb377d61a69efaa675c532.JPG",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Economia"
-      ],
-      "title": "Taxa de inflação acelera para 3,8% em outubro",
-      "url": "https://www.rtp.pt/noticias/economia/taxa-de-inflacao-acelera-para-38-em-outubro_n1775584",
-      "description": "A taxa de inflação situou-se nos 3,8% em outubro, face a 3,6% em setembro, segundo a estimativa rápida divulgada hoje pelo Instituto Nacional de Estatística (INE). Ou seja, é uma taxa superior em 0,2 pontos percentuais à observada no mês anterior.",
-      "date": "2026-10-30T11:20:10+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c0e31cbbbb9f1b58770ddbf01f9b4e63.JPG?w=350&q=50&auto=format",
       "kind": "presse"
     },
     {
@@ -596,25 +1669,6 @@
     },
     {
       "audio_url": "",
-      "author": "Jakub Krupa",
-      "categories": [
-        "Spain",
-        "Italy",
-        "France",
-        "World news",
-        "Europe"
-      ],
-      "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-      "description": "69 people have been confirmed dead but the toll may rise further, with at least 70 people reported missingPeunte begins by paying tribute to all affected by the incident.He says that “at present, evidence points to a failure within Adif’s command and control centre,” but adds that investigators are still looking “to cl",
-      "date": "2026-10-30T11:18:15+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/5db46eb38c6083f927b683f97dd5e7033a8a2ba7/1543_524_2950_2360/master/2950.jpg?width=140&quality=85&auto=format&fit=max&s=0dad98809991c734c22b3f5516106842",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Redazione FqMagazine",
       "categories": [
         "Televisione",
@@ -630,19 +1684,6 @@
       "source": "Il Fatto Quotidiano",
       "language": "it",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-      "date": "2026-10-30T11:17:32+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg",
       "kind": "presse"
     },
     {
@@ -733,36 +1774,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Economia"
-      ],
-      "title": "Transporte ferroviário de passageiros na UE aumenta 2,6% em 2025 para máximo desde 2004",
-      "url": "https://www.rtp.pt/noticias/economia/transporte-ferroviario-de-passageiros-na-ue-aumenta-26-em-2025-para-maximo-desde-2004_n1775581",
-      "description": "O transporte ferroviário de passageiros na União Europeia (UE) aumentou 2,6% em 2025, face ao ano anterior, para 457 mil milhões de passageiros por quilómetro, o valor mais elevado desde o início da recolha de dados, em 2004.",
-      "date": "2026-10-30T11:14:20+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Economia"
-      ],
-      "title": "Preços do gás na UE recuam 3,5% em termos homólogos, Portugal entre os mais caros",
-      "url": "https://www.rtp.pt/noticias/economia/precos-do-gas-na-ue-recuam-35-em-termos-homologos-portugal-entre-os-mais-caros_n1775577",
-      "description": "Os preços do gás natural na União Europeia (UE) recuaram 3,5% em termos homólogos no primeiro semestre de 2026, atingindo o valor mais baixo desde 2022, estando Portugal entre os países mais caros.",
-      "date": "2026-10-30T11:13:59+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Libération ., AFP .",
       "categories": [],
       "title": "Un «pays de chiottes» ? Oui, mais les plus belles au monde, rétorque la Norvège à Donald Trump",
@@ -831,24 +1842,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Sanlez",
-      "categories": [
-        "Inflação",
-        "Preços",
-        "Consumo",
-        "Economia"
-      ],
-      "title": "Inflação terá acelerado para 3,8% em outubro",
-      "url": "https://observador.pt/2026/10/30/inflacao-tera-acelerado-para-38-em-outubro/",
-      "description": "Os preços continuaram a acelerar em outubro, com os produtos energéticos a puxar a inflação para cima. Terá avançado 3,8% em outubro, mais 0,2 pontos face a setembro.",
-      "date": "2026-10-30T11:08:51+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:128/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/07195608/dventura-aumento-preco-combustiveis-22-scaled.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [
         "News"
@@ -879,25 +1872,6 @@
       "source": "El País",
       "language": "es",
       "image": "https://imagenes.elpais.com/resizer/v2/JAZPK4RG6RBC7JD7MJOT3DFDRI.jpg?auth=8f9feea8ac6cecaacf4d4a6ba1611e9be90fb0b74fb98028b64d535a3ed352eb",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Andrew Sparrow",
-      "categories": [
-        "Politics",
-        "UK news",
-        "Labour",
-        "Andy Burnham",
-        "John Swinney"
-      ],
-      "title": "Foreign firms that win defence contracts will have to invest in UK under new policy – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
-      "description": "Wes Streeting says overseas suppliers of defence contracts will need to spend the equivalent amount in the UKThis is from Rhun ap Iorwerth, the Welsh first minister, summarising what he will be putting to Andy Burnham at their meeting in Glasgow today.Today, I represent Wales at the National Economic Council in Glasgow",
-      "date": "2026-10-30T11:07:17+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/76e7b06aaa1dba51952f3de74144f02accf20a81/1289_0_3839_3072/master/3839.jpg?width=140&quality=85&auto=format&fit=max&s=fd8ddaee8d924a721c0f5766cedb0d35",
       "kind": "presse"
     },
     {
@@ -1161,43 +2135,6 @@
     },
     {
       "audio_url": "",
-      "author": "Melody Schreiber",
-      "categories": [
-        "US news",
-        "MMR",
-        "Vaccines and immunisation",
-        "Health"
-      ],
-      "title": "Families in the US are opting for earlier measles vaccinations amid outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/measles-outbreak-vaccination",
-      "description": "Parents are opting for a second shot of MMR vaccine sooner, which aligns with guidance in Germany, the UK and FranceMeasles cases are accelerating in the US, with twice as many confirmed cases as last year, and more parents are opting for earlier vaccination – especially with the second dose of the measles, mumps and r",
-      "date": "2026-10-30T11:00:52+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/3cd307152c6a1d868153f9fa5577433f17059b06/277_0_2770_2216/master/2770.jpg?width=140&quality=85&auto=format&fit=max&s=f2b2eafcc9cc3e85c601f02876df72b2",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "José Olivares",
-      "categories": [
-        "US Congress",
-        "Democrats",
-        "ICE (US Immigration and Customs Enforcement)",
-        "US news",
-        "Trump administration"
-      ],
-      "title": "Congressional Democrats send scathing letter to ICE and DHS decrying treatment of hunger strikers",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
-      "description": "Immigrants at Texas detention facility, protesting harsh conditions, say they’ve been threatened with force-feedingMembers of Congress sent a scathing letter to federal immigration officials this week demanding answers about conditions inside a Texas immigration jail, as detained immigrants on a prolonged hunger strike",
-      "date": "2026-10-30T11:00:52+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/cfdea443db1fc8e6b8dcc22cb52d204bd188667c/373_0_4175_3339/master/4175.jpg?width=140&quality=85&auto=format&fit=max&s=a293a4f8fa5e752a59a1c6e136c7d77a",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Florian Bayard",
       "categories": [
         "Crypto-monnaies",
@@ -1371,44 +2308,6 @@
     },
     {
       "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Reino Unido",
-        "Europa",
-        "Mundo",
-        "Polícia Judiciária",
-        "Justiça"
-      ],
-      "title": "PJ detém casal suspeito de burla durante a pandemia",
-      "url": "https://observador.pt/2026/10/30/casal-suspeito-de-burla-durante-a-pandemia-no-reino-unido-detido-pela-judiciaria/",
-      "description": "Casal, procurado pelas autoridades do Reino Unido, apresentou mais de 300 pedidos fraudulentos, num valor superior a 1,8 milhões de euros. Tribunal ordenou prisão preventiva e extradição.",
-      "date": "2026-10-30T10:59:40+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/28190743/18985783_770x433_acf_cropped.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Algarve",
-        "País",
-        "Sociedade",
-        "Ambiente",
-        "Ciência"
-      ],
-      "title": "Estudo sobre resíduos avalia proposta de tratamento mecânico",
-      "url": "https://observador.pt/2026/10/30/estudo-sobre-residuos-do-algarve-vai-avaliar-proposta-de-tratamento-mecanico-e-biologico-da-zero/",
-      "description": "Estudo sobre os resíduos do Algarve vai incluir a avaliação da proposta de tratamento mecânico e biológico (TMB) apresentada pela ZERO face à proposta inicial da ministra do Ambiente, a incineração.",
-      "date": "2026-10-30T10:59:07+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1289:726:nowe:214:307/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/16080617/44586236.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Manuel Masiero",
       "categories": [],
       "title": "Niedergang von Stack Overflow: Moderation und KI als Ursachen",
@@ -1431,25 +2330,6 @@
       "source": "France 24 English",
       "language": "en",
       "image": "https://s.france24.com/media/display/b53b7c32-d44d-11f1-ada0-bf1914cabd52/w:1024/p:16x9/capture-6cca01f2.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Jillian Ambrose and Lauren Almeida",
-      "categories": [
-        "BP",
-        "Oil and gas companies",
-        "Business",
-        "Energy industry",
-        "Oil"
-      ],
-      "title": "BP profits hit 18-year high as Iran war drives up oil refining margins",
-      "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-      "description": "Third-quarter underlying ​replacement ⁠cost profit rises to $8.46bn, angering climate campaignersBP’s profits have hit their highest level in almost two decades, as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading.The energy company hailed a “banner quarter” on Friday, wi",
-      "date": "2026-10-30T10:57:55+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/d524eb35bfb6cb2a0181248f4fae344aebcfd872/4_0_2723_2180/master/2723.jpg?width=140&quality=85&auto=format&fit=max&s=7749fe130897eb881ba7c02861a75142",
       "kind": "presse"
     },
     {
@@ -1517,25 +2397,6 @@
       "source": "France 24",
       "language": "fr",
       "image": "https://s.france24.com/media/display/a7691398-d449-11f1-bb94-bf1914cabd52/w:1024/p:16x9/FR-20261030-100635-100748-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Hermano Rodrigues",
-      "categories": [
-        "Economia",
-        "Transformar Portugal",
-        "Observador Lab",
-        "Indústria",
-        "Empresas"
-      ],
-      "title": "Produtividade industrial: uma condição para transformar",
-      "url": "https://observador.pt/opiniao/produtividade-industrial-uma-condicao-para-transformar-portugal/",
-      "description": "A discussão sobre produtividade deve ser entendida numa perspetiva mais ampla. Não se trata apenas de produzir mais. Trata-se de criar mais valor.",
-      "date": "2026-10-30T10:55:04+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A3497%3A3497%3Anowe%3A0%3A58%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F28160558%2Fimg-0536.jpg",
       "kind": "presse"
     },
     {
@@ -1611,21 +2472,6 @@
     },
     {
       "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Ípsilon"
-      ],
-      "title": "Rebecca Solnit vs. a desesperança. Ângela Ferreira nos tempos da História",
-      "url": "https://www.publico.pt/2026/10/30/newsletter/ipsilon",
-      "description": "",
-      "date": "2026-10-30T10:52:48+00:00",
-      "source": "Público",
-      "language": "pt",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [
         "News"
@@ -1673,21 +2519,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Economia"
-      ],
-      "title": "Portugal já libertou reservas de petróleo ao abrigo de compromisso assumido em março",
-      "url": "https://www.rtp.pt/noticias/economia/portugal-ja-libertou-reservas-de-petroleo-ao-abrigo-de-compromisso-assumido-em-marco_n1775573",
-      "description": "O Ministério do Ambiente e Energia esclareceu hoje que Portugal já libertou a totalidade das suas reservas estratégicas de petróleo no âmbito do compromisso assumido a 11 de março, estando esse processo \"integralmente concluído\".",
-      "date": "2026-10-30T10:50:54+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/fa/faf3fa0f3403721b91fabd899b101fff.jpg?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "EL PAÍS",
       "categories": [
         "Oficinas turismo",
@@ -1718,22 +2549,6 @@
       "source": "Al Jazeera English",
       "language": "en",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Press Association",
-      "categories": [
-        "Scotland",
-        "UK news"
-      ],
-      "title": "Police Scotland says it has received information on Jeffrey Epstein visit to Balmoral with Andrew",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/30/police-jeffrey-epstein-balmoral-former-prince-andrew",
-      "description": "Force says ‘inquiries ongoing’ into visit to royal estate in Scotland, when Ghislaine Maxwell was also presentDetectives are investigating time spent by Andrew Mountbatten-Windsor, Jeffrey Epstein and Ghislaine Maxwell at the king’s private estate in Scotland.Police Scotland said it had received “information” and an in",
-      "date": "2026-10-30T10:50:20+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/6d50ad851b1ef1144802e78fb87afa9c78204033/0_0_3822_3057/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=585812b734adcd241d2dd3f343393b3f",
       "kind": "presse"
     },
     {
@@ -1814,21 +2629,6 @@
       "source": "Ouest-France",
       "language": "fr",
       "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwOWQwMWRjMGNlNjAxMTRiZWIwNjM4MDQ2M2VhYTcxMjY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=6e2ee327255a739715376fae29ee1449ed87d02e77421100b26dd7f316d35274",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "País"
-      ],
-      "title": "Hospital de Santa Maria e INEM vão partilhar profissionais de saúde",
-      "url": "https://www.rtp.pt/noticias/pais/hospital-de-santa-maria-e-inem-vao-partilhar-profissionais-de-saude_n1775574",
-      "description": "O Hospital de Santa Maria, em Lisboa, e o INEM vão partilhar profissionais de saúde, ao abrigo do primeiro protocolo do género, assinado hoje, dia em que o instituto apresentou as primeiras viaturas recebidas para renovar a frota.",
-      "date": "2026-10-30T10:47:30+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c568cf39e60d6dc8d2d6475013661f09?w=350&q=50&rect=0,164,1391,763&auto=format",
       "kind": "presse"
     },
     {
@@ -1951,21 +2751,6 @@
       "source": "20 Minutes",
       "language": "fr",
       "image": "https://img.20mn.fr/ZZJ1xSuwT1qYYU0w4ET1Jyk/1200x768_des-enfants-costumes-regardent-les-gens-danser-lors-de-l-evenement-d-halloween-pumpkinfest-romania-a-bucarest-en-roumanie-le-vendredi-31-octobre-2025-ap-photo-andreea-alexandru-xaa120-25305787688821-2511012300",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Covas do Barroso"
-      ],
-      "title": "Lítio: Savannah conclui os trabalhos geotécnicos em Covas do Barroso, em Boticas",
-      "url": "https://www.publico.pt/2026/10/30/azul/noticia/litio-savannah-conclui-trabalhos-geotecnicos-covas-barroso-boticas-2193166",
-      "description": "Savannah garante que o bloqueio não travou os trabalhos geotécnicos, já concluídos. População fala em “vitória” depois de a máquina de perfuração deixar o baldio.",
-      "date": "2026-10-30T10:44:47+00:00",
-      "source": "Público",
-      "language": "pt",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -2218,21 +3003,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Política"
-      ],
-      "title": "Luís Neves assume responsabilidade política nas intervenções policiais",
-      "url": "https://www.rtp.pt/noticias/politica/luis-neves-assume-responsabilidade-politica-nas-intervencoes-policiais_n1775569",
-      "description": "O ministro da Administração Interna esclarece que a polícia tem \"total autonomia técnica, tática e operacional\" para tomar as decisões.",
-      "date": "2026-10-30T10:37:04+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7cded39f99a325f1d11bb0f417d02cb8?w=350&q=50&rect=0,0,1499,822&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Eric Dahan",
       "categories": [],
       "title": "Mort de Stephen Kovacevich, le plus anglais des pianistes américains",
@@ -2242,70 +3012,6 @@
       "source": "Libération",
       "language": "fr",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "País"
-      ],
-      "title": "Entre memórias e falta de braços, apanha da azeitona resiste entre famílias do Médio Tejo",
-      "url": "https://www.rtp.pt/noticias/pais/entre-memorias-e-falta-de-bracos-apanha-da-azeitona-resiste-entre-familias-do-medio-tejo_n1775570",
-      "description": "Franquelim Lopes troca todos os anos dias de férias e folgas por jornadas na apanha da azeitona, tradição herdada dos avós que continua a partilhar com o pai, de 78 anos, apesar das dúvidas sobre o futuro.",
-      "date": "2026-10-30T10:36:05+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Economia"
-      ],
-      "title": "PIB do euro com crescimento homólogo de 1,3% no 3.º trimestre e Portugal supera média",
-      "url": "https://www.rtp.pt/noticias/economia/pib-do-euro-com-crescimento-homologo-de-13-no-3o-trimestre-e-portugal-supera-media_n1775571",
-      "description": "O Produto Interno Bruto (PIB) da zona euro cresceu 1,3% no terceiro trimestre, face ao período homólogo do ano anterior, enquanto em Portugal subiu acima da média, o equivalente a 2,4%, indica uma estimativa preliminar hoje divulgada pelo Eurostat.",
-      "date": "2026-10-30T10:35:33+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Economia"
-      ],
-      "title": "Desemprego sobe na zona euro e na UE em setembro e mantém-se estável em Portugal",
-      "url": "https://www.rtp.pt/noticias/economia/desemprego-sobe-na-zona-euro-e-na-ue-em-setembro-e-mantem-se-estavel-em-portugal_n1775572",
-      "description": "A taxa de desemprego aumentou em setembro, em termos homólogos, para 6,5% na zona euro e 6,2% na União Europeia (UE), enquanto em Portugal recuou 0,3 pontos percentuais para 5,6%, revelam dados hoje divulgados pelo Eurostat.",
-      "date": "2026-10-30T10:35:14+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Observador Lab",
-      "categories": [
-        "Economia",
-        "Observador Lab",
-        "Empresas",
-        "Transportes",
-        "Energia"
-      ],
-      "title": "Combustíveis, frotas e contratos: onde está o risco?",
-      "url": "https://observador.pt/programas/empresas-em-transformacao/combustiveis-frotas-e-contratos-onde-esta-o-risco-2/",
-      "description": "Ana Catarina Dias, Pedro Costa e Nuno Barradas debatem os custos dos combustíveis, a eletrificação e os desafios do setor de transportes e logística.",
-      "date": "2026-10-30T10:35:07+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1541:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/28114219/eet-novobanco-1540-1.png",
       "kind": "presse"
     },
     {
@@ -2334,44 +3040,6 @@
       "source": "France 24",
       "language": "fr",
       "image": "https://s.france24.com/media/display/164f1bec-d44d-11f1-b8ba-695cb59fade5/w:1024/p:16x9/2026-10-28T070023Z-1880392334-RC2R9OANRTSZ-RTRMADP-3-EUROPE-PROTESTS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Acidente Rodoviário",
-        "Acidente",
-        "Sociedade",
-        "Bombeiros",
-        "País"
-      ],
-      "title": "Beja. Despiste de autocarro provoca vítima mortal",
-      "url": "https://observador.pt/2026/10/30/despiste-de-autocarro-provoca-morte-de-motorista-e-sete-feridos-no-concelho-de-beja/",
-      "description": "Acidente provocou a morte do motorista e sete pessoas ficaram feridas, duas gravemente, no concelho de Beja. Doença súbita do motorista estará na origem do despiste.",
-      "date": "2026-10-30T10:33:35+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1138:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05100038/gco-incendio-vouzela-4-julho-2026-011.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Estados Unidos da América",
-        "América",
-        "Mundo",
-        "Migrantes",
-        "Donald Trump"
-      ],
-      "title": "Governo de Trump deteve mais de 4.100 imigrantes em 10 dias",
-      "url": "https://observador.pt/2026/10/30/governo-de-trump-deteve-mais-de-4-100-migrantes-em-10-dias-numa-operacao-no-texas/",
-      "description": "As detenções fazem parte de uma operação chamada Lone Star Mission, realizada entre 19 e 29 de outubro. Os detidos estavam em situação migratória irregular e apresentavam registos criminais.",
-      "date": "2026-10-30T10:33:33+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30091953/42145460.jpg",
       "kind": "presse"
     },
     {
@@ -2497,40 +3165,6 @@
     },
     {
       "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Meditação na Pastelaria"
-      ],
-      "title": "A estranha espuma dos dias",
-      "url": "https://www.publico.pt/2026/10/30/culturaipsilon/cronica/estranha-espuma-dias-2192716",
-      "description": "Ler Albert Londres hoje na mansidão deste monte compassivo tem várias vantagens. Aprendemos, viajamos, divertimo-nos e, last but not least, subtraímo-nos à espuma dos dias. Crónica de Ana Cristina Leonardo",
-      "date": "2026-10-30T10:31:00+00:00",
-      "source": "Público",
-      "language": "pt",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Observador Lab",
-      "categories": [
-        "Economia",
-        "Empresas",
-        "Transportes",
-        "Ambiente",
-        "Ciência"
-      ],
-      "title": "Combustíveis, frotas e contratos: onde está o risco?",
-      "url": "https://observador.pt/programas/empresas-em-transformacao/combustiveis-frotas-e-contratos-onde-esta-o-risco/",
-      "description": "Ana Catarina Dias, Pedro Costa e Nuno Barradas debatem os custos dos combustíveis, a eletrificação e os desafios do setor de transportes e logística.",
-      "date": "2026-10-30T10:30:36+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1541:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30103410/eet-novobanco-thumbb-ep8.png",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Marie Turcan, Waxx",
       "categories": [
         "Résonances"
@@ -2602,25 +3236,6 @@
       "language": "pt",
       "image": "",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Presidente Trump",
-        "Estados Unidos da América",
-        "América",
-        "Mundo",
-        "Eleições EUA"
-      ],
-      "title": "Departamento de Justiça investiga fraude eleitoral no Alasca",
-      "url": "https://observador.pt/2026/10/30/departamento-de-justica-investiga-alegada-fraude-eleitoral-no-alasca/",
-      "description": "No decorrer da investigação criminal em torno de fraude eleitoral no Alasca, foram emitidas novas intimações a envolvidos, para depoimentos ou apresentação de documentos perante um grande júri.",
-      "date": "2026-10-30T10:29:56+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1683:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/03161157/gettyimages-2177424188.jpg",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -2707,25 +3322,6 @@
     },
     {
       "audio_url": "",
-      "author": "Agência Lusa",
-      "categories": [
-        "Eleições EUA",
-        "Estados Unidos da América",
-        "América",
-        "Mundo",
-        "Kamala Harris"
-      ],
-      "title": "Kamala Harris apela a voto contra \"tirania\" de Trump",
-      "url": "https://observador.pt/2026/10/30/eleicoes-nos-eua-kamala-harris-pede-voto-contra-a-tirania-de-trump/",
-      "description": "A ex-vice-presidente apela à ativação do \"poder do povo\" nas eleições. As sondagens apontam para uma vitória dos democratas na Câmara dos Representantes. Kamala não descarta recandidatar-se em 2028.",
-      "date": "2026-10-30T10:27:04+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30093204/47937089.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "RFI",
       "categories": [
         "Environnement"
@@ -2752,21 +3348,6 @@
       "source": "France 24",
       "language": "fr",
       "image": "https://s.france24.com/media/display/62da0e46-d2c1-11f1-9fe2-a7bbbeea0b20/w:1024/p:16x9/TN-ATHLETE-FR-2.png",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "País"
-      ],
-      "title": "\"JAD Mobile 9\". Apreendidos 60 veículos em fiscalização europeia contra crime automóvel",
-      "url": "https://www.rtp.pt/noticias/pais/jad-mobile-9-apreendidos-60-veiculos-em-fiscalizacao-europeia-contra-crime-automovel_n1775565",
-      "description": "No decorrer da operação, a PSP detetou várias situações de fraude associada a veículos, nomeadamente através da utilização de matrículas falsas e da alteração dos números de identificação dos carros.",
-      "date": "2026-10-30T10:26:12+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/72/72b91cae6d3ac3368ff3382eecedbfaa?w=350&q=50&rect=0,88,1500,822&auto=format",
       "kind": "presse"
     },
     {
@@ -2908,21 +3489,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "Noticiário Antena1"
-      ],
-      "title": "10h Acidente com autocarro em Beja",
-      "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-acidente-com-autocarro-em-beja_a1_1775568",
-      "description": "",
-      "date": "2026-10-30T10:21:03+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Faits divers"
       ],
       "title": "Saône-et-Loire : l’automobiliste qui a percuté et tué une mère de famille à vélo en septembre, mis en examen pour «assassinat»",
@@ -2964,25 +3530,6 @@
       "language": "pt",
       "image": "https://olhardigital.com.br/wp-content/uploads/2022/07/fases-da-Lua-1024x186.png",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Maria João Simões",
-      "categories": [
-        "Guerra na Ucrânia",
-        "Ucrânia",
-        "Europa",
-        "Mundo",
-        "França"
-      ],
-      "title": "França. \"Quem quer revolução é vítima de si próprio\"",
-      "url": "https://observador.pt/programas/o-dominio-da-guerra/franca-quem-quer-revolucao-e-vitima-de-si-proprio/",
-      "description": "Major General Arnaut Moreira avisa que o colapso da polícia em França abre caminho para a revolução. Afirma ainda que a busca por igualdade fomenta nos revolucionários vítimas da sua própria revolta.",
-      "date": "2026-10-30T10:18:58+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/01/06113240/770-podcast-o-dominio-da-guerra-1.jpg",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -3038,25 +3585,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Vieira Amaral",
-      "categories": [
-        "Rádio Observador",
-        "Observador",
-        "Escolas",
-        "Educação",
-        "Ranking Escolas"
-      ],
-      "title": "Ranking das escolas. O que explica o domínio dos privados?",
-      "url": "https://observador.pt/programas/explicador/ranking-das-escolas-o-que-explica-o-dominio-dos-privados/",
-      "description": "O presidente da associação de diretores escolares, Filinto Lima, pede que mais critérios sejam analisados neste estudo. Já o investigador Pedro Feitas explica as diferenças entre o Norte e o Sul.",
-      "date": "2026-10-30T10:17:30+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Farid Achache",
       "categories": [
         "Afrique foot"
@@ -3104,40 +3632,6 @@
     },
     {
       "audio_url": "",
-      "author": "Rádio Observador",
-      "categories": [
-        "Rádio Observador",
-        "Observador",
-        "Acidente",
-        "Sociedade",
-        "Comboios"
-      ],
-      "title": "10h. Acidente Espanha. MNE confirma um morto português",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2510/",
-      "description": "A vítima mortal era membro da tripulação de um dos comboios envolvidos no acidente de quarta-feira. Ainda, amanhã há nova manifestação em Lisboa e o movimento Acampada admite regressar ao Rossio.",
-      "date": "2026-10-30T10:16:27+00:00",
-      "source": "Observador",
-      "language": "pt",
-      "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "País"
-      ],
-      "title": "Casal suspeito de burla durante a pandemia no Reino Unido detido pela Judiciária",
-      "url": "https://www.rtp.pt/noticias/pais/casal-suspeito-de-burla-durante-a-pandemia-no-reino-unido-detido-pela-judiciaria_n1775561",
-      "description": "A Polícia Judiciária anunciou hoje a detenção em Sintra de um casal estrangeiro procurado no Reino Unido por crimes de burla e branqueamento de dinheiro durante a pandemia da Covid-19.",
-      "date": "2026-10-30T10:16:16+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Roberta Zunini",
       "categories": [
         "Mondo",
@@ -3152,21 +3646,6 @@
       "source": "Il Fatto Quotidiano",
       "language": "it",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Mundo"
-      ],
-      "title": "Ataques com drones em campo de deslocados na Etiópia fazem pelo menos 14 mortos",
-      "url": "https://www.rtp.pt/noticias/mundo/ataques-com-drones-em-campo-de-deslocados-na-etiopia-fazem-pelo-menos-14-mortos_n1775562",
-      "description": "Pelo menos 14 pessoas, incluindo crianças, foram mortas na quinta-feira em vários ataques com drones contra um campo de deslocados situado no norte da Etiópia, afirmaram hoje testemunhas à agência AFP.",
-      "date": "2026-10-30T10:15:58+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
       "kind": "presse"
     },
     {
@@ -3186,21 +3665,6 @@
       "source": "El País",
       "language": "es",
       "image": "https://www.youtube.com/watch?v=nhLp-JR4bak",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Mundo"
-      ],
-      "title": "Moçambique. Violência armada provocou 1,3 milhões de deslocados desde 2017",
-      "url": "https://www.rtp.pt/noticias/mundo/mocambique-violencia-armada-provocou-13-milhoes-de-deslocados-desde-2017_n1775536",
-      "description": "Cerca de 1,3 milhões de pessoas foram deslocadas internamente em Moçambique desde 2017 devido à insurgência armada no norte, que provocou ainda mais de 26 mil novos deslocados no primeiro semestre deste ano, divulgou hoje o ACNUR.",
-      "date": "2026-10-30T10:15:12+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&q=50&auto=format",
       "kind": "presse"
     },
     {
@@ -3425,21 +3889,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Futebol Internacional"
-      ],
-      "title": "Flamengo destaca-se na liderança do Brasileirão",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/flamengo-destaca-se-na-lideranca-do-brasileirao_d1775566",
-      "description": "O campeão em título Flamengo, de Leonardo Jardim, reforçou na quinta-feira a liderança do campeonato brasileiro, ao vencer por 4-1 no reduto do vizinho Vasco da Gama, em encontro da 33.ª jornada.",
-      "date": "2026-10-30T10:06:51+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d3e727440dcd8f265c95b2e2de9c1e7?w=350&q=50&rect=0,0,1499,822&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Eralp reagiert auf Spiegel-Bericht",
       "url": "https://www.tagesschau.de/inland/regional/berlin/nach-spiegel-bericht-eralp-100.html",
@@ -3489,21 +3938,6 @@
       "date": "2026-10-30T10:05:49+00:00",
       "source": "Il Fatto Quotidiano",
       "language": "it",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "PIB"
-      ],
-      "title": "Economia portuguesa desacelera e cresce apenas 0,2% no terceiro trimestre",
-      "url": "https://www.publico.pt/2026/10/30/economia/noticia/economia-portuguesa-desacelera-cresce-apenas-02-terceiro-trimestre-2193165",
-      "description": "Consumo interno continua a ser um dos motores de crescimento do PIB, que regista sexto trimestre consecutivo de aumento, mas também um dos mais anémicos dos últimos dois anos.",
-      "date": "2026-10-30T10:05:24+00:00",
-      "source": "Público",
-      "language": "pt",
       "image": "",
       "kind": "presse"
     },
@@ -3567,21 +4001,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Economia"
-      ],
-      "title": "Economia portuguesa cresce 2,4% no terceiro trimestre",
-      "url": "https://www.rtp.pt/noticias/economia/economia-portuguesa-cresce-24-no-terceiro-trimestre_n1775560",
-      "description": "A economia portuguesa cresceu 2,4% no terceiro trimestre, em termos homólogos, e 0,2% em cadeia, segundo a estimativa rápida divulgada esta sexta-feira pelo Instituto Nacional de Estatística.",
-      "date": "2026-10-30T10:03:18+00:00",
-      "source": "RTP Notícias",
-      "language": "pt",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cd659159551bc070857fef799b178aa8.jpg?w=350&q=50&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Cécile Breton, Journaliste",
       "categories": [
         "Halloween",
@@ -3635,21 +4054,6 @@
     },
     {
       "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Filosofia"
-      ],
-      "title": "Porque é que Simone Weil seduz novos leitores? É filosofia de comparência inteira",
-      "url": "https://www.publico.pt/2026/10/30/culturaipsilon/noticia/filosofia-comparencia-inteira-simone-weil-seduz-novos-leitores-2192629",
-      "description": "Várias edições portuguesas alimentam o renovado fascínio pela obra da filósofa francesa. Um pensamento radical e claro que atraiu novos leitores e… Rosalía.",
-      "date": "2026-10-30T10:02:00+00:00",
-      "source": "Público",
-      "language": "pt",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Redacción de Genbeta",
       "categories": [],
       "title": "Fin a 28 años de historia: Telefónica dejará de encargarse de prestar el Servicio Universal de Telecomunicaciones",
@@ -3678,82 +4082,6 @@
       "source": "El Mundo",
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933543660651.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Joseph Gedeon in Detroit",
-      "categories": [
-        "Michigan",
-        "US midterm elections 2026",
-        "US news",
-        "Democrats",
-        "US politics"
-      ],
-      "title": "As Trump escalates extreme attacks, Democrats – finally – rally round El-Sayed",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/abdul-el-sayed-michigan-senate-tump",
-      "description": "Endorsement not always full-throated but party backing marks major turn after bitter split over nominationFacing a barrage of extreme attacks from Donald Trump and his allies, the Democratic establishment is finally rallying around progressive Abdul El-Sayed, the party’s candidate in the closely watched US Senate elect",
-      "date": "2026-10-30T10:00:52+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/44c5a282ebe1692759cf3941fef7047e59b80586/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4cd8698d7bf30a63b4e2882aa6e57200",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Richard Partington Senior economics correspondent",
-      "categories": [
-        "Regeneration",
-        "Angela Rayner",
-        "Labour",
-        "UK news",
-        "Business rates"
-      ],
-      "title": "Britain’s blighted high streets will improve by next election, says Rayner",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/30/britain-blighted-high-streets-angela-rayner-labour",
-      "description": "Housing secretary says Labour wants to reverse fortunes of towns plagued by boarded-up shops and rogue businessesAngela Rayner has said voters will begin to see a difference in their high street before the next general election as Labour prioritises investment in struggling local communities.The housing secretary said ",
-      "date": "2026-10-30T10:00:51+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/af2b26a5427e9606a8598af21175ace4bf240f00/271_509_3550_2840/master/3550.jpg?width=140&quality=85&auto=format&fit=max&s=6c45d10ad901c9d053125fe1129d880c",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Lauren Gambino",
-      "categories": [
-        "US midterm elections 2026",
-        "US news",
-        "Vivek Ramaswamy",
-        "Ohio",
-        "Islamophobia"
-      ],
-      "title": "A rare red line in deeply cynical times",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/a-rare-red-line-in-deeply-cynical-times",
-      "description": "It’s been a particularly brutal cycle for attack ads, but voters are responding with humanity. Plus: on the campaign trail with a Democrat in KansasThis was originally published in the Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inboxThere’s a campaign moment I can’t stop thinking a",
-      "date": "2026-10-30T10:00:51+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/54668b802d0bc4ff2d2d9c8ef48ff548c819149a/402_0_3097_2478/master/3097.jpg?width=140&quality=85&auto=format&fit=max&s=087575a2cadcbd24675e6063f2400978",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Kiran Stacey Policy editor",
-      "categories": [
-        "Renewable energy",
-        "Budget 2026",
-        "Ed Miliband",
-        "Miatta Fahnbulleh",
-        "John Healey"
-      ],
-      "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
-      "description": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defenceBritain is unlikely to hit its targets on green heating after the cuts announced by John Healey this week, experts have warned, as critics of Ed Miliband claim the former energy secretary’s green agenda is being d",
-      "date": "2026-10-30T10:00:50+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/6df7a974f96cec3017d59db5bb6067cd9078e17c/1636_1241_3517_2814/master/3517.jpg?width=140&quality=85&auto=format&fit=max&s=192430f84e8f0d2f58337395d56ad988",
       "kind": "presse"
     },
     {
@@ -3861,21 +4189,6 @@
     },
     {
       "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Música"
-      ],
-      "title": "“As mulheres são as grandes transmissoras, tanto nas canções como nas histórias”",
-      "url": "https://www.publico.pt/2026/10/30/culturaipsilon/noticia/mulheres-sao-transmissoras-tanto-cancoes-historias-2193158",
-      "description": "Do fado a Cabo Verde, da poesia à música tradicional, o novo álbum de Cristina Clara tem duetos com António Zambujo, Sérgio Godinho, Tito Paris e Rolando Semedo.",
-      "date": "2026-10-30T10:00:00+00:00",
-      "source": "Público",
-      "language": "pt",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Amine Baba Aissa",
       "categories": [
         "Blockchain",
@@ -3959,21 +4272,6 @@
       "date": "2026-10-30T09:54:50+00:00",
       "source": "Al Jazeera English",
       "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Barragens"
-      ],
-      "title": "Concurso público para a concessão da Barragem do Cabril é lançado esta sexta-feira",
-      "url": "https://www.publico.pt/2026/10/30/azul/noticia/concurso-publico-concessao-barragem-cabril-lancado-sextafeira-2193162",
-      "description": "A barragem mais alta do país passa a ter regras para reservas de água e controlo de cheias. Parte das receitas da nova concessão de 45 anos vai ficar nas regiões.",
-      "date": "2026-10-30T09:53:50+00:00",
-      "source": "Público",
-      "language": "pt",
       "image": "",
       "kind": "presse"
     },
@@ -4285,21 +4583,6 @@
     },
     {
       "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Beja"
-      ],
-      "title": "Despiste de autocarro no concelho de Beja provoca um morto e pelo menos sete feridos",
-      "url": "https://www.publico.pt/2026/10/30/sociedade/noticia/despiste-autocarro-concelho-beja-provoca-sete-feridos-gravidade-2193163",
-      "description": "Autocarro encontra-se capotado na Estrada Nacional 260, na zona de Baleizão. Vítima mortal é o motorista do autocarro acidentado, que terá sofrido uma doença súbita.",
-      "date": "2026-10-30T09:39:44+00:00",
-      "source": "Público",
-      "language": "pt",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
@@ -4526,21 +4809,6 @@
     },
     {
       "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Crítica"
-      ],
-      "title": "Huawei Watch D3 em teste: o relógio que mede a tensão arterial de verdade",
-      "url": "https://www.publico.pt/2026/10/30/enter/critica/huawei-watch-d3-teste-relogio-mede-tensao-arterial-verdade-2193071",
-      "description": "A Huawei refinou o seu relógio com braçadeira insuflável. Mais fino e elegante, o Watch D3 é uma ferramenta de saúde ímpar, apesar de caprichos no software.",
-      "date": "2026-10-30T09:30:50+00:00",
-      "source": "Público",
-      "language": "pt",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "FRANCE24",
       "categories": [],
       "title": "US midterms: With deep-red states now in play, could blue wave redraw America's political landscape?",
@@ -4670,21 +4938,6 @@
       "language": "pt",
       "image": "",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "publico@publico.pt",
-      "categories": [
-        "Empresas"
-      ],
-      "title": "Binance alvo de ataque informático, desvio ultrapassa 5,5 mil milhões de euros",
-      "url": "https://www.publico.pt/2026/10/30/enter/noticia/binance-alvo-ataque-informatico-desvio-ultrapassa-55-mil-milhoes-euros-2193159",
-      "description": "Ataque terá tido origem na Coreia do Norte. Empresa de criptomoedas diz que vai cobrir perdas de utilizadores.",
-      "date": "2026-10-30T09:29:46+00:00",
-      "source": "Público",
-      "language": "pt",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -5893,25 +6146,6 @@
     },
     {
       "audio_url": "",
-      "author": "Dan Milmo and agencies",
-      "categories": [
-        "Binance",
-        "Cryptocurrencies",
-        "Business",
-        "Hacking",
-        "US news"
-      ],
-      "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
-      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-      "description": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so farThe world’s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (£4.7bn) hack, with experts identifying North Korea as the likely culprit.Binance has scrambled to freeze the affected assets, with about $3bn ",
-      "date": "2026-10-30T08:19:38+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/a0e5af33d483d9aab5e06bd85fc2dc72c9948b20/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a4ece422cf50883b089653bc4db277a9",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [
         "Sport"
@@ -6076,19 +6310,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/41c75efa-4f5b-425d-a35b-7ba46431d872/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "What we know about Binance's $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
-      "date": "2026-10-30T08:02:02+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf2/live/c8fa3060-d439-11f1-b441-2b33b063138f.jpg",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -7132,23 +7353,6 @@
     },
     {
       "audio_url": "",
-      "author": "Libby Brooks",
-      "categories": [
-        "Israel",
-        "Middle East and north Africa",
-        "Benjamin Netanyahu"
-      ],
-      "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
-      "url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
-      "description": "In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political momentGood morning. It was described by many Israelis as the most consequential election in their country’s history. And, as the final",
-      "date": "2026-10-30T06:44:29+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/40da4bb6af73d2bc793695b58b615b2dd6c6f3fc/433_0_3583_2867/master/3583.jpg?width=140&quality=85&auto=format&fit=max&s=7d811d224a0b83f67750061a7d606024",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Esther Gómez, Ana Carrasco, Olga R. Sanmartín",
       "categories": [
         "Accidente tren Toledo",
@@ -7612,25 +7816,6 @@
     },
     {
       "audio_url": "",
-      "author": "Sam Jones in Madrid",
-      "categories": [
-        "Spain",
-        "Pedro Sánchez",
-        "Europe",
-        "World news",
-        "Rail transport"
-      ],
-      "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
-      "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
-      "description": "Next month’s poll no longer the contest it was, as Pedro Sánchez finds himself forced to defend government’s safety recordOne of the most dependable cliches of contemporary Spanish politics is that it never pays to bet against Pedro Sánchez. Time and time again – as leader of the Spanish Socialist Workers’ party (PSOE)",
-      "date": "2026-10-30T06:00:47+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/45b775938ef866af30283aa372e1d089fd0ffaea/625_0_3977_3181/master/3977.jpg?width=140&quality=85&auto=format&fit=max&s=aec501441e408231e6fef87bcc5c9de8",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Paola Pozzolo",
       "categories": [
         "Società"
@@ -7877,23 +8062,6 @@
     },
     {
       "audio_url": "",
-      "author": "Nino Bucci  Justice and courts reporter",
-      "categories": [
-        "Erin Patterson mushroom trial",
-        "Victoria",
-        "Australia news"
-      ],
-      "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-      "description": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three peopleErin Patterson mushroom murders appeal – live updatesGet our breaking news email, free app or daily news podcastErin Patterson has lost her bid to overturn her convictions and bee",
-      "date": "2026-10-30T05:31:26+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/5254cf587c7c076dfd7c74396b859c0751b7d6b1/17_0_3058_2447/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=cdf2750e02c7dbe10d6e50b23afe7926",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [
         "Technik & Digitales"
@@ -7947,23 +8115,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/b8bab86b-2598-49df-90bb-225a7eb9d12a/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "Australian Associated Press",
-      "categories": [
-        "New South Wales",
-        "Australia news",
-        "Queensland"
-      ],
-      "title": "Former Sydney childcare worker Ashley Paul Griffith hit with 202 more abuse charges",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
-      "description": "NSW police say charges include child rape and relate to 23 alleged victims aged between one and five at a Sydney childcare centreGet our breaking news email, free app or daily news podcastOne of Australia’s most notorious paedophiles is facing hundreds more child abuse charges, including for the alleged rape of childre",
-      "date": "2026-10-30T05:14:17+00:00",
-      "source": "The Guardian",
-      "language": "en",
-      "image": "https://i.guim.co.uk/img/media/fe9c34958098b88035e7cc30e26bdd71b37fa74e/238_0_3282_2626/master/3282.jpg?width=140&quality=85&auto=format&fit=max&s=55372038270457b6628dea3aeb4d5929",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -8563,19 +8714,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-      "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-      "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-      "date": "2026-10-30T01:35:40+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd0/live/73fed000-d3fa-11f1-ad77-7dc2f7c343f8.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "فرانس24",
       "categories": [
         "الشرق الأوسط"
@@ -8718,19 +8856,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
-      "url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&at_campaign=rss",
-      "description": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant.",
-      "date": "2026-10-30T00:43:04+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/dc6c6420-d2e9-11f1-8d86-83eebc838351.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "FRANCE24",
       "categories": [],
       "title": "الحراك الطلابي في صربيا يريد تنحية رؤساء أجهزة حكومية",
@@ -8774,19 +8899,6 @@
       "source": "France 24 English",
       "language": "en",
       "image": "https://s.france24.com/media/display/8f840fcc-d3f3-11f1-bc65-1beafce15fea/w:1024/p:16x9/2026-10-29T230502Z-1125020976-RC29DOAMMSDH-RTRMADP-3-NORTHKOREA-ARMS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Student-backed election winners demand sweeping resignations in Serbia",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-      "description": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
-      "date": "2026-10-30T00:17:28+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dec3/live/30285610-d42e-11f1-b441-2b33b063138f.jpg",
       "kind": "presse"
     },
     {
@@ -8838,19 +8950,6 @@
       "source": "El Mundo",
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17933017181269.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
-      "description": "Changing family structures in India are driving demand for start-ups offering services for eldercare.",
-      "date": "2026-10-30T00:02:35+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83eb/live/3d4d12b0-d37d-11f1-bf63-739fb2907d03.jpg",
       "kind": "presse"
     },
     {
@@ -9156,19 +9255,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Google value plunges by $500bn as AI search hits ad sales",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "date": "2026-10-29T22:17:52+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "alvy@microsiervos.com (Alvy)",
       "categories": [
         "Películas / TV"
@@ -9259,19 +9345,6 @@
       "source": "20 Minutes",
       "language": "fr",
       "image": "https://img.20mn.fr/X9yf7fEkSGmJKRNUvgpU7yk/1200x768_l-ex-secretaire-d-etat-ecologiste-jean-vincent-place-arrive-jeudi-au-tribunal-correctionnel-de-paris",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "description": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-      "date": "2026-10-29T21:31:12+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
       "kind": "presse"
     },
     {
@@ -9373,19 +9446,6 @@
       "language": "ar",
       "image": "https://arabhardware.net/storage/uploads/2026-10/6ae34c6329500.g1.jpgmain6ae34c633ec63.webp",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Venezuela opposition leader María Machado calls for elections upon return",
-      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
-      "description": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be  \"irreversible, organised, pacific\".",
-      "date": "2026-10-29T21:05:03+00:00",
-      "source": "BBC World",
-      "language": "en",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50d1/live/da5dfe00-d3cf-11f1-9c32-1532a6164171.jpg",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -9727,19 +9787,6 @@
       "source": "DW Español",
       "language": "es",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 69 muertos en España",
-      "url": "https://www.bbc.com/mundo/articles/cqdjv79dkrdzo?at_medium=RSS&at_campaign=rss",
-      "description": "El gobierno apunta a un \"error humano\" como causa del segundo siniestro con decenas de muertos en los trenes españoles en menos de un año.",
-      "date": "2026-10-29T19:19:34+00:00",
-      "source": "BBC Mundo",
-      "language": "es",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfe9/live/2e15ee20-d2ec-11f1-8d86-83eebc838351.jpg",
       "kind": "presse"
     },
     {
@@ -11795,19 +11842,6 @@
       "audio_url": "",
       "author": "",
       "categories": [],
-      "title": "Will she stand? Lagarde quits European Central Bank ahead of French election",
-      "url": "https://news.sky.com/story/lagarde-quits-european-central-bank-ahead-of-french-election-13605291",
-      "description": "The French head of the European Central Bank (ECB) is to step down from the role, just months ahead of the troubled country's presidential election.",
-      "date": "2026-10-29T11:31:00+00:00",
-      "source": "Sky News",
-      "language": "en",
-      "image": "https://e3.365dm.com/26/10/1920x1080/skynews-christine-lagarde_7390814.jpg?20261029114914",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
       "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
       "url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
       "description": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with longer exposure to bright light linked to even greater reductions. Remarkably, get",
@@ -12755,19 +12789,6 @@
       "audio_url": "",
       "author": "",
       "categories": [],
-      "title": "4 escenarios que se abren en Israel luego de que ni Netanyahu ni Eisenkot lograran mayoría absoluta en las elecciones",
-      "url": "https://www.bbc.com/mundo/articles/c9kgje41ezpro?at_medium=RSS&at_campaign=rss",
-      "description": "Con el 85% de los votos escrutados, todo apunta a un punto muerto. Lo más probable es que se celebren nuevas elecciones.",
-      "date": "2026-10-29T03:56:08+00:00",
-      "source": "BBC Mundo",
-      "language": "es",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/71c9/live/f349f380-d3b4-11f1-a340-478c8f3b9e55.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
       "title": "Your blood pressure could be dangerous even when your numbers look normal",
       "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
       "description": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
@@ -12802,19 +12823,6 @@
       "language": "en",
       "image": "",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Girl injured in wolf attack at wildlife park",
-      "url": "https://news.sky.com/story/germany-eight-year-old-girl-seriously-injured-in-wolf-attack-at-wildlife-park-13605151",
-      "description": "An eight-year-old girl has been seriously injured in a wolf attack at a wildlife park in Germany.",
-      "date": "2026-10-29T02:03:00+00:00",
-      "source": "Sky News",
-      "language": "en",
-      "image": "https://e3.365dm.com/26/10/1920x1080/skynews-animal-grey-wolf_7390514.jpg?20261029030057",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -12957,32 +12965,6 @@
       "source": "DW Español",
       "language": "es",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Las conexiones que tienen las elecciones en Israel y EE.UU. y el posible impacto global de sus resultados",
-      "url": "https://www.bbc.com/mundo/articles/cmn8wzn7vd26o?at_medium=RSS&at_campaign=rss",
-      "description": "En el margen de una semana se celebran dos importantes elecciones en continentes diferentes. Los resultados marcarán la geopolítica y la economía global.",
-      "date": "2026-10-28T21:17:31+00:00",
-      "source": "BBC Mundo",
-      "language": "es",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/060c/live/03a51100-d159-11f1-93e1-3b657b665bcf.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Los pasajeros de un crucero de lujo quedan varados en Camboya por el aumento del precio del combustible",
-      "url": "https://www.bbc.com/mundo/articles/ckly063z9lyeo?at_medium=RSS&at_campaign=rss",
-      "description": "El crucero Villa Vie Odyssey suspendió su viaje y está en contacto con los pasajeros para gestionar el desembarque y encontrarles \"alojamiento temporal\".",
-      "date": "2026-10-28T21:09:30+00:00",
-      "source": "BBC Mundo",
-      "language": "es",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5db1/live/450ec990-d2fa-11f1-8091-57f2713cabe8.jpg",
       "kind": "presse"
     },
     {
@@ -16343,28 +16325,28 @@
       "source": "BBC World",
       "kind": "presse",
       "ok": true,
-      "count": 35,
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
-      "success_at": "2026-10-30T11:35:21.214159+00:00",
-      "last_slot": "2026-10-30:7"
+      "count": 36,
+      "updated_at": "2026-10-30T14:35:08.485198+00:00",
+      "success_at": "2026-10-30T14:35:08.485198+00:00",
+      "last_slot": "2026-10-30:8"
     },
     {
       "source": "The Guardian",
       "kind": "presse",
       "ok": true,
       "count": 45,
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
-      "success_at": "2026-10-30T11:35:21.214159+00:00",
-      "last_slot": "2026-10-30:7"
+      "updated_at": "2026-10-30T14:35:08.485198+00:00",
+      "success_at": "2026-10-30T14:35:08.485198+00:00",
+      "last_slot": "2026-10-30:8"
     },
     {
       "source": "Sky News",
       "kind": "presse",
       "ok": true,
-      "count": 9,
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
-      "success_at": "2026-10-30T11:35:21.214159+00:00",
-      "last_slot": "2026-10-30:7"
+      "count": 8,
+      "updated_at": "2026-10-30T14:35:08.485198+00:00",
+      "success_at": "2026-10-30T14:35:08.485198+00:00",
+      "last_slot": "2026-10-30:8"
     },
     {
       "source": "Al Jazeera English",
@@ -16389,9 +16371,9 @@
       "kind": "presse",
       "ok": true,
       "count": 34,
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
-      "success_at": "2026-10-30T11:35:21.214159+00:00",
-      "last_slot": "2026-10-30:7"
+      "updated_at": "2026-10-30T14:35:08.485198+00:00",
+      "success_at": "2026-10-30T14:35:08.485198+00:00",
+      "last_slot": "2026-10-30:8"
     },
     {
       "source": "El País",
@@ -16695,9 +16677,9 @@
       "kind": "presse",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
-      "success_at": "2026-10-30T11:35:21.214159+00:00",
-      "last_slot": "2026-10-30:7"
+      "updated_at": "2026-10-30T14:35:08.485198+00:00",
+      "success_at": "2026-10-30T14:35:08.485198+00:00",
+      "last_slot": "2026-10-30:8"
     },
     {
       "source": "Il Post",
@@ -16722,18 +16704,18 @@
       "kind": "presse",
       "ok": true,
       "count": 50,
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
-      "success_at": "2026-10-30T11:35:21.214159+00:00",
-      "last_slot": "2026-10-30:7"
+      "updated_at": "2026-10-30T14:35:08.485198+00:00",
+      "success_at": "2026-10-30T14:35:08.485198+00:00",
+      "last_slot": "2026-10-30:8"
     },
     {
       "source": "Público",
       "kind": "presse",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
-      "success_at": "2026-10-30T11:35:21.214159+00:00",
-      "last_slot": "2026-10-30:7"
+      "updated_at": "2026-10-30T14:35:08.485198+00:00",
+      "success_at": "2026-10-30T14:35:08.485198+00:00",
+      "last_slot": "2026-10-30:8"
     },
     {
       "source": "Il Fatto Quotidiano",
@@ -16749,7 +16731,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
+      "updated_at": "2026-10-30T14:35:08.485198+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16916,5 +16898,5 @@
       "last_slot": null
     }
   ],
-  "refreshed_sources": 64
+  "refreshed_sources": 7
 }
