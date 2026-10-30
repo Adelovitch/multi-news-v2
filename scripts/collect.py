@@ -76,9 +76,12 @@ SOURCES = [
     ("pt","Observador","https://observador.pt/feed/"),
     ("pt","RTP Notícias","https://www.rtp.pt/noticias/rss/"),
     ("pt","Público","https://feeds.feedburner.com/PublicoRSS"),
+    ("pt","Superinteressante","https://super.abril.com.br/feed/"),
+    ("pt","Pplware","https://pplware.sapo.pt/feed/"),
+    ("pt","Olhar Digital","https://olhardigital.com.br/feed/"),
 ]
 RADIO_SOURCES = {"Radio France", "France Culture", "BBC Global News Podcast", "DW News Brief"}
-MAGAZINES = {"Geopop", "Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
+MAGAZINES = {"Superinteressante", "Pplware", "Olhar Digital", "Geopop", "Futura Sciences", "ScienceDaily", "Smithsonian Magazine", "La Recherche", "La Chronique Spatiale", "Journal du Geek – Espace", "Sciences et Avenir", "Quanta Magazine", "Science News", "Popular Science", "Microsiervos", "Xataka", "Genbeta", "Applesfera", "Muy Interesante", "Spektrum der Wissenschaft", "bild der wissenschaft", "Quarks", "GEO Natur", "Heise Wissenschaft", "عالم التقنية", "البوابة العربية للأخبار التقنية", "عرب هاردوير", "تقنية بلا حدود", "تقني بلس"}
 # Add only verified evening-edition feeds here. Ordinary news sites stay morning-only.
 EVENING_SOURCES = set()
 # Geographic origin of each newsroom, not the language of its feed.
@@ -91,6 +94,7 @@ SOURCE_TIMEZONES = {
     "Tagesschau":"Europe/Berlin", "DW Arabic":"Europe/Berlin",
     "Il Fatto Quotidiano":"Europe/Rome", "Fanpage":"Europe/Rome", "Geopop":"Europe/Rome",
     "Observador":"Europe/Lisbon", "RTP Notícias":"Europe/Lisbon", "Público":"Europe/Lisbon",
+    "Pplware":"Europe/Lisbon", "Superinteressante":"America/Sao_Paulo", "Olhar Digital":"America/Sao_Paulo",
 }
 DEFAULT_TIMEZONE = "Europe/Paris"
 MORNING_HOURS = {6,7,8}
