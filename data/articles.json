@@ -1,7 +1,45 @@
 {
-  "updated_at": "2026-10-31T08:47:38.801276+00:00",
+  "updated_at": "2026-10-31T14:50:00.907092+00:00",
   "press_updated_at": "2026-10-31T08:47:38.801276+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Ciência",
+        "Amazônia",
+        "árvores",
+        "BIODIVERSIDADE",
+        "Desmatamento"
+      ],
+      "title": "Pesquisa usa assinatura química das árvores para reforçar combate a madeira ilegal",
+      "url": "https://super.abril.com.br/ciencia/pesquisa-do-inmetro-reforca-combate-ao-comercio-ilegal-de-madeira-identificando-assinatura-quimica-das-arvores/",
+      "description": "Método inovador criado pelo Inmetro ajuda a rastrear a assinatura química das árvores - e descobrir em minutos a origem dos lotes de madeira apreendidos.",
+      "date": "2026-10-31T09:00:52+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/madeira-ilegal-amazonia-ibama-inmetro.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Diego Facundini",
+      "categories": [
+        "Ciência",
+        "AVES",
+        "Biologia",
+        "Corvos",
+        "pássaros"
+      ],
+      "title": "Corvos tomam decisões duas vezes mais rápido que humanos e macacos, mostra estudo",
+      "url": "https://super.abril.com.br/ciencia/corvos-tomam-decisoes-duas-vezes-mais-rapido-que-humanos-e-macacos-mostra-estudo/",
+      "description": "Novo estudo monitorou a atividade cerebral das aves para entender como elas processam suas escolhas, e encontrou similaridades com o cérebro de primatas.",
+      "date": "2026-10-31T09:00:14+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_corvo-decidido_site.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "",
@@ -5152,6 +5190,25 @@
     },
     {
       "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "animais",
+        "AVES",
+        "Biologia",
+        "ERA GLACIAL"
+      ],
+      "title": "Ave gigante da Era do Gelo pode nunca ter existido, segundo novo estudo",
+      "url": "https://super.abril.com.br/ciencia/ave-gigante-da-era-do-gelo-pode-nunca-ter-existido-segundo-novo-estudo/",
+      "description": "A espécie Grus primigenia pode ter sido, na verdade, apenas uma versão maior do atual grou-comum. Entenda.",
+      "date": "2026-10-30T22:18:40+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_Eurasian-crane_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "TV5MONDE Info",
       "categories": [],
       "title": "Sports : J-1 aux JOJ et une CAN tous les deux ans",
@@ -5606,6 +5663,24 @@
     },
     {
       "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "História",
+        "CONSTITUIÇÃO",
+        "pena de morte",
+        "prisão"
+      ],
+      "title": "Lei brasileira prevê a pena de morte em apenas uma condição; veja qual",
+      "url": "https://super.abril.com.br/historia/lei-brasileira-preve-a-pena-de-morte-em-apenas-uma-condicao-veja-qual/",
+      "description": "A última execução no Brasil ocorreu em 1876, mas a Constituição Federal ainda permite a pena capital.",
+      "date": "2026-10-30T21:00:52+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_lei-br-pena-de-morte_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "De México al Tíbet: los rituales más sorprendentes sobre la muerte",
@@ -6029,6 +6104,25 @@
       "language": "fr",
       "image": "https://information.tv5monde.com/sites/tv5-info/files/styles/rss/public/2026-10/ap26303496945345.jpg?h=69f2b9d0",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Saúde",
+        "Alzheimer",
+        "cérebro",
+        "Distúrbios neurológicos",
+        "doença"
+      ],
+      "title": "Demência por corpos de Lewy: entenda a doença do ator Patrick Stewart, morto aos 86 anos",
+      "url": "https://super.abril.com.br/saude/demencia-por-corpos-de-lewy-entenda-a-doenca-do-ator-patrick-stewart-morto-aos-86-anos/",
+      "description": "Confundida com Parkinson, ela provoca tremores, lentidão e alucinações visuais. Entenda.",
+      "date": "2026-10-30T19:20:57+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_Doenca-de-Corpos-de-Lewy_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7037,6 +7131,25 @@
     },
     {
       "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Saúde",
+        "África",
+        "CONGO",
+        "epidemia",
+        "surto"
+      ],
+      "title": "Congo inicia testes de vacina em meio ao surto da espécie mais letal já registrado do Ebola",
+      "url": "https://super.abril.com.br/saude/congo-inicia-testes-de-vacina-em-meio-ao-surto-da-especie-mais-letal-ja-registrado-do-ebola/",
+      "description": "O teste com o imunizante começa quando o Ebola Bundibugyo já tem quase 5 mil mortes confirmadas. A vacina usada foi desenvolvida para outro subtipo do vírus",
+      "date": "2026-10-30T17:06:15+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2019/10/ebola.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Marc PERELMAN",
       "categories": [
         "En tête-à-tête"
@@ -7776,6 +7889,25 @@
     },
     {
       "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "Alimentação saudável",
+        "CARDIOLOGIA",
+        "coração",
+        "dieta"
+      ],
+      "title": "Além da quantidade, variedade de vegetais também importa para a saúde",
+      "url": "https://super.abril.com.br/saude/alem-da-quantidade-variedade-de-vegetais-tambem-importa-para-a-saude/",
+      "description": "Estudo com mais de 30 mil pessoas mostra que menos de um em cada cinco atingia a ingestão de compostos associados à redução do risco de doenças cardiovasculares",
+      "date": "2026-10-30T16:00:25+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2023/07/0724_vegetais_layout_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Data centers : le nouveau terrain de luttes aux États-Unis",
@@ -8332,6 +8464,25 @@
     },
     {
       "audio_url": "",
+      "author": "Bela Lobato",
+      "categories": [
+        "Ciência",
+        "energia",
+        "Energia nuclear",
+        "física",
+        "FUSÃO NUCLEAR"
+      ],
+      "title": "Como funcionam as usinas nucleares de fusão e como podem revolucionar a indústria energética",
+      "url": "https://super.abril.com.br/ciencia/como-funcionam-as-usinas-nucleares-de-fusao-e-como-podem-revolucionar-a-industria-energetica/",
+      "description": "A energia nuclear de fusão é considerada confiável e tida como mais segura do que a fissão utilizada em usinas nucleares convencionais",
+      "date": "2026-10-30T14:00:48+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2019/05/site_fusaonuclear.png",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Laure Noualhat",
       "categories": [],
       "title": "Climat : « Nous avons perdu du temps et la situation est très dangereuse »",
@@ -8732,6 +8883,25 @@
       "source": "Muy Interesante",
       "language": "es",
       "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "BOTÂNICA",
+        "frutas",
+        "plantas",
+        "sementes"
+      ],
+      "title": "Como o coqueiro nasce se o coco não tem semente?",
+      "url": "https://super.abril.com.br/coluna/oraculo/como-o-coqueiro-nasce-se-o-coco-nao-tem-semente/",
+      "description": "O coco é um tipo de drupa. Entenda como esses frutos se densenvolvem.",
+      "date": "2026-10-30T12:01:06+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_Coqueiro.jpg",
       "kind": "magazine"
     },
     {
@@ -11530,6 +11700,19 @@
     },
     {
       "audio_url": "",
+      "author": "",
+      "categories": [],
+      "title": "Trump envisage  des attaques \"courtes mais intenses\" contre l'Iran, Vance tend la main à Téhéran",
+      "url": "https://fr.euronews.com/2026/10/29/trump-envisage-des-attaques-courtes-mais-intenses-contre-liran-vance-tend-la-main-a-tehera",
+      "description": "À moins d'une semaine des élections de mi-mandat au Congrès américain, Donald Trump a souvent évoqué reprendre attaques contre l'Iran après le scrutin. Selon responsables américains et sources informées citées par le Wall Street Journal, J.D. Vance a écrit à Mohsen Rezaei pour relancer négociations.",
+      "date": "2026-10-29T19:00:41+00:00",
+      "source": "Euronews",
+      "language": "fr",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
       "author": "Bruno Carbinatto",
       "categories": [
         "Ciência",
@@ -11546,19 +11729,6 @@
       "language": "pt",
       "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_Nova-especie-de-dinossauro_site.jpg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [],
-      "title": "Trump envisage  des attaques \"courtes mais intenses\" contre l'Iran, Vance tend la main à Téhéran",
-      "url": "https://fr.euronews.com/2026/10/29/trump-envisage-des-attaques-courtes-mais-intenses-contre-liran-vance-tend-la-main-a-tehera",
-      "description": "À moins d'une semaine des élections de mi-mandat au Congrès américain, Donald Trump a souvent évoqué reprendre attaques contre l'Iran après le scrutin. Selon responsables américains et sources informées citées par le Wall Street Journal, J.D. Vance a écrit à Mohsen Rezaei pour relancer négociations.",
-      "date": "2026-10-29T19:00:41+00:00",
-      "source": "Euronews",
-      "language": "fr",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -13618,25 +13788,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "Arte",
-        "Astronomia",
-        "CONSTELAÇÃO",
-        "Van Gogh"
-      ],
-      "title": "Astrônomos desvendam mistério em “A Noite Estrelada” de Van Gogh",
-      "url": "https://super.abril.com.br/ciencia/astronomos-desvendam-misterio-em-a-noite-estrelada-de-van-gogh/",
-      "description": "As famosas estrelas da obra seriam da constelação em forma de V das Híades, pintadas no céu de 22 de julho de 1889.",
-      "date": "2026-10-28T21:51:26+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_noite-estrelada_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Sultan Alqahtani",
       "categories": [
         "تقنيات متفرقة"
@@ -13666,23 +13817,6 @@
       "source": "البوابة العربية للأخبار التقنية",
       "language": "ar",
       "image": "https://aitnews.com/wp-content/uploads/2026/10/Gemini-4-Carbon-1130x720.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Ciência",
-        "Gadgets",
-        "Música"
-      ],
-      "title": "Fones têm equalização feita no Brasil – e podem assumir personalidades diferentes",
-      "url": "https://super.abril.com.br/coluna/bruno-garattoni/fones-tem-equalizacao-feita-no-brasil-e-podem-assumir-personalidades-diferentes/",
-      "description": "Auri, da marca brasileira Kuba, foram desenvolvidos a partir de uma pesquisa com mais de 1.000 pessoas e podem receber outras curvas de áudio pela internet; leia teste",
-      "date": "2026-10-28T21:00:44+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/kuba-auri_principalVA.jpg",
       "kind": "magazine"
     },
     {
@@ -13969,22 +14103,6 @@
       "kind": "magazine"
     },
     {
-      "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Tecnologia",
-        "Inteligência artificial"
-      ],
-      "title": "Ensaio distópico: oito maneiras de nos alimentarmos se uma IA rebelde destruir a agricultura moderna",
-      "url": "https://super.abril.com.br/tecnologia/ensaio-distopico-oito-maneiras-de-nos-alimentarmos-se-uma-ia-rebelde-destruir-a-agricultura-moderna/",
-      "description": "Se agentes de IA derrubassem as redes elétricas, a agricultura convencional entraria em colapso. Veja o que aconteceria - e o que poderia ser feito.",
-      "date": "2026-10-28T17:00:11+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2025/12/SI_482_Novas_Agricultura.jpg",
-      "kind": "magazine"
-    },
-    {
       "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk3gws.mp3",
       "author": "",
       "categories": [],
@@ -14059,25 +14177,6 @@
       "source": "GEO Natur",
       "language": "de",
       "image": "https://image.geo.de/38458032/t/11/v9/w1440/r1.7778/-/asiatische-hornisse-vespa-velutina-nest-m-2a06p92-2.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Maria Clara Rossini",
-      "categories": [
-        "Cultura",
-        "Conexões",
-        "David Lynch",
-        "Ficção científica",
-        "Futebol"
-      ],
-      "title": "Conexões: de Arrakis a Araras",
-      "url": "https://super.abril.com.br/coluna/oraculo/conexoes-de-arrakis-a-araras/",
-      "description": "O que o planeta de Duna e uma cidade do interior paulista têm em comum?",
-      "date": "2026-10-28T14:00:48+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_Conexoes.jpg",
       "kind": "magazine"
     },
     {
@@ -14298,25 +14397,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Tecnologia",
-        "câmera",
-        "Documentário",
-        "Fotografia",
-        "oceano"
-      ],
-      "title": "Como os documentários de vida marinha conseguem imagens tão nítidas?",
-      "url": "https://super.abril.com.br/coluna/oraculo/como-os-documentarios-de-vida-marinha-conseguem-imagens-tao-nitidas/",
-      "description": "Uma combinação de equipamentos adaptados com técnicas especiais.",
-      "date": "2026-10-28T12:00:23+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_documentarios_vida_marinha.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Scientists discover a hidden 100-million-year-old volcanic system",
@@ -14390,25 +14470,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bela Lobato",
-      "categories": [
-        "Saúde",
-        "Alimentação saudável",
-        "Alimentação vegana",
-        "dieta",
-        "EMAGRECIMENTO"
-      ],
-      "title": "Cardápio vegano pode ajudar no controle de peso, indica estudo",
-      "url": "https://super.abril.com.br/saude/cardapio-vegano-pode-ajudar-no-controle-de-peso-indica-estudo/",
-      "description": "Pesquisa aponta efeitos de uma dieta baseada em vegetais e baixo teor de gordura como aliada no processo de emagrecimento",
-      "date": "2026-10-28T10:00:03+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/03/0503-vegano-layout_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Skyler Ware",
       "categories": [
         "Space"
@@ -14433,24 +14494,6 @@
       "source": "ScienceDaily",
       "language": "en",
       "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "banana",
-        "ESPÉCIE EM EXTINÇÃO",
-        "frutas"
-      ],
-      "title": "Por que as bananas estão ameaçadas de extinção?",
-      "url": "https://super.abril.com.br/ciencia/por-que-as-bananas-estao-ameacadas-de-extincao/",
-      "description": "Uma combinação de fungos e de mudanças climáticas coloca em risco o futuro da fruta mais consumida do mundo (depois do tomate).",
-      "date": "2026-10-28T09:00:45+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2017/09/por-que-a-banana-c3a9-torta.png",
       "kind": "magazine"
     },
     {
@@ -14547,25 +14590,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "AMIZADE",
-        "chimpanzé",
-        "Comportamento",
-        "Primatas"
-      ],
-      "title": "Chimpanzés roubam menos de amigos, diz estudo",
-      "url": "https://super.abril.com.br/ciencia/chimpanzes-roubam-menos-de-amigos-diz-estudo/",
-      "description": "Quem tem um amigo tem tudo: experimento com duplas de chimpanzés revela capacidade de conter impulsos e ignorar uma guloseima em nome do bom relacionamento.",
-      "date": "2026-10-27T22:00:56+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2021/08/Bonobos-e-chimpanzes-parecem-ter-saudacoes-de-Ola-e-Tchau.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "فريق التحرير",
       "categories": [
         "تحت الضوء",
@@ -14581,23 +14605,6 @@
       "source": "عالم التقنية",
       "language": "ar",
       "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Sociedade",
-        "Amazônia",
-        "Economia"
-      ],
-      "title": "Medir pobreza rural amazônica com régua urbana infla índice em 17%",
-      "url": "https://super.abril.com.br/sociedade/medir-pobreza-rural-amazonica-com-regua-urbana-infla-indice-em-17/",
-      "description": "Pesquisadores da UFPA propõem novo indicador que corrige o índice de pobreza na Amazônia rural, superestimado pelas métricas convencionais",
-      "date": "2026-10-27T21:00:13+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/2710_SI-Inedita-PobrezaRural_site.jpg",
       "kind": "magazine"
     },
     {
@@ -16704,7 +16711,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-10-31T08:47:38.801276+00:00",
+      "updated_at": "2026-10-31T14:50:00.907092+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16847,10 +16854,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 47,
-      "updated_at": "2026-10-30T11:35:21.214159+00:00",
-      "success_at": "2026-10-30T11:35:21.214159+00:00",
-      "last_slot": null
+      "count": 50,
+      "updated_at": "2026-10-31T14:50:00.907092+00:00",
+      "success_at": "2026-10-31T14:50:00.907092+00:00",
+      "last_slot": "2026-10-31:magazine"
     },
     {
       "source": "Pplware",
@@ -16871,5 +16878,5 @@
       "last_slot": null
     }
   ],
-  "refreshed_sources": 49
+  "refreshed_sources": 1
 }
