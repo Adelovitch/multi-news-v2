@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-02T09:40:10.481486+00:00",
+  "updated_at": "2026-11-02T19:49:46.086294+00:00",
   "press_updated_at": "2026-11-02T09:40:10.481486+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Ciência",
+        "Vírus",
+        "Vírus - Doenças"
+      ],
+      "title": "Shamonda: o que se sabe sobre vírus que infectou e matou humano pela primeira vez",
+      "url": "https://super.abril.com.br/ciencia/shamonda-o-que-se-sabe-sobre-virus-que-infectou-e-matou-humano-pela-primeira-vez/",
+      "description": "Patógeno é transmitido por inseto e causa doença em bovinos. Chances de surtos entre humanos são baixas.",
+      "date": "2026-11-02T19:00:13+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2024/07/2507-vacas-super-site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Comportamento",
+        "comida",
+        "culinária",
+        "macarrão",
+        "Manual"
+      ],
+      "title": "Manual: como fazer um bom molho de tomate",
+      "url": "https://super.abril.com.br/coluna/oraculo/manual-como-fazer-um-bom-molho-de-tomate/",
+      "description": "O melhor para impressionar a família no almoço de domingo ou festas de fim de ano.",
+      "date": "2026-11-02T12:20:26+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_Manual.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "Miguel Ángel Medina Rodríguez",
@@ -6359,6 +6395,25 @@
     },
     {
       "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Mundo Estranho",
+        "Animais de Estimação",
+        "cachorros",
+        "cães",
+        "Comportamento"
+      ],
+      "title": "Não é só felicidade: entenda os outros motivos que fazem os cachorros abanarem o rabo",
+      "url": "https://super.abril.com.br/mundo-estranho/nao-e-so-felicidade-entenda-os-outros-motivos-que-fazem-os-cachorros-abanar-o-rabo/",
+      "description": "Latidos e rosnados por vezes não são suficientes, então o animal usa a cauda para comunicar uma série de emoções.",
+      "date": "2026-11-01T23:01:15+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_440_ORCL_raca-cachorro_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "فرانس24",
       "categories": [
         "الشرق الأوسط"
@@ -6619,6 +6674,25 @@
       "language": "fr",
       "image": "https://s.france24.com/media/display/48663fb4-d634-11f1-b395-a575454bc579/w:1024/p:16x9/Francais-2026-11-01T19-11-48-067Z.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "Alzheimer",
+        "cérebro",
+        "cognição",
+        "Envelhecimento"
+      ],
+      "title": "Idosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo",
+      "url": "https://super.abril.com.br/saude/idosos-mais-ativos-tem-volume-cerebral-preservado-em-areas-de-memoria-e-raciocinio-mostra-estudo/",
+      "description": "Ao analisar dados de 2,7 mil indivíduos em torno de 70 anos, pesquisadores da Unesp concluíram que o movimento ajuda a conter a atrofia em estruturas vitais.",
+      "date": "2026-11-01T21:00:28+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/05/0505-idosos-layout_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7826,6 +7900,25 @@
       "language": "fr",
       "image": "https://focus.courrierinternational.com/2026/10/23/0/0/6747/4500/644/0/60/0/b553b88_ftp-1-xi8dwlap1kii-congo-ebola-5.JPG",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bela Lobato",
+      "categories": [
+        "Saúde",
+        "amamentação",
+        "Gravidez",
+        "Jornal da Unesp",
+        "leite materno"
+      ],
+      "title": "Doar leite materno não enfraquece os ossos da mãe mais do que amamentar, mostra estudo",
+      "url": "https://super.abril.com.br/saude/doar-leite-materno-nao-enfraquece-os-ossos-da-mae-mais-do-que-amamentar-mostra-estudo/",
+      "description": "Pesquisa da Unesp aponta que a perda de massa óssea causada pela amamentação é passageira e equivalente em doadoras e não doadoras de leite.",
+      "date": "2026-11-01T15:00:14+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2018/07/amamentac3a7c3a3o_home.png",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -12326,25 +12419,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Cultura",
-        "barco",
-        "entrevista",
-        "Filmes",
-        "NAVEGAÇÃO"
-      ],
-      "title": "Os detalhes da travessia a remo de Amyr Klink pelo Atlântico Sul",
-      "url": "https://super.abril.com.br/cultura/os-detalhes-da-travessia-a-remo-de-amyr-klink-pelo-atlantico-sul/",
-      "description": "Em entrevista à Super, Amyr Klink conta sobre os desafios de sua histórica expedição, agora retratada no filme \"100 dias\".",
-      "date": "2026-10-29T21:30:59+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_Travessia-Amyr-Klink_site-CAPA.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Sultan Alqahtani",
       "categories": [
         "تقنيات متفرقة"
@@ -12614,22 +12688,6 @@
     },
     {
       "audio_url": "",
-      "author": "davi.daniel",
-      "categories": [
-        "Ciência",
-        "Abril Branded Content"
-      ],
-      "title": "Entenda o processo de recuperação das florestas da Bacia do Rio Doce",
-      "url": "https://super.abril.com.br/ciencia/entenda-o-processo-de-recuperacao-das-florestas-da-bacia-do-rio-doce/",
-      "description": "Conheça como o Novo Acordo do Rio Doce atua na recuperação da área atingida pelo rompimento da barragem de Fundão, da Samarco, e melhorias na Bacia do Rio Doce",
-      "date": "2026-10-29T20:00:38+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/2025_Samarco_Forest_Restauration_4.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "mgcirac",
       "categories": [
         "Actualidad",
@@ -12688,25 +12746,6 @@
       "source": "Futura Sciences",
       "language": "fr",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/wide1920/0/c/a/0ca7146128_50262706_reconstitution-dinosaure.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "cretáceo",
-        "Dinossauros",
-        "fóssil",
-        "paleontologia"
-      ],
-      "title": "Nova espécie de dinossauro que viveu há mais de 100 milhões de anos é identificada no Reino Unido",
-      "url": "https://super.abril.com.br/ciencia/nova-especie-de-dinossauro-que-viveu-ha-mais-de-100-milhoes-de-anos-e-identificada-no-reino-unido/",
-      "description": "Descrito por pesquisador da USP, Paludohadros proudlovii viveu no início do Cretáceo, pesava cerca de 1,5 tonelada e estava depositado em museu de Londres",
-      "date": "2026-10-29T19:00:41+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_Nova-especie-de-dinossauro_site.jpg",
       "kind": "magazine"
     },
     {
@@ -13114,25 +13153,6 @@
       "language": "fr",
       "image": "https://reporterre.net/local/cache-vignettes/L700xH467/insalubrite_-a5832.jpg?1793287646",
       "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Coronavírus",
-        "Covid-19",
-        "Gripe",
-        "som"
-      ],
-      "title": "Cientistas brasileiros exploram uso de ondas sonoras para destruir vírus da Covid-19",
-      "url": "https://super.abril.com.br/ciencia/cientistas-brasileiros-exploram-uso-de-ondas-sonoras-para-destruir-virus-da-covid-19/",
-      "description": "Experimentos com o SARS-CoV2 e o H1N1s mostram que ultrassom pode fragmentar partículas virais e reduzir sua capacidade de infectar células.",
-      "date": "2026-10-29T15:14:41+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/ultrassomCAPA.jpg",
-      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -13654,25 +13674,6 @@
       "source": "Microsiervos",
       "language": "es",
       "image": "https://img.microsiervos.com/images2026/world-coding-day.webp",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "comida",
-        "Comportamento animal",
-        "Japão",
-        "macacos"
-      ],
-      "title": "Os animais temperam a comida?",
-      "url": "https://super.abril.com.br/coluna/oraculo/os-animais-temperam-a-comida/",
-      "description": "Há pelo menos um caso documentado de animais bancando a Palmirinha.",
-      "date": "2026-10-29T12:00:25+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_Animais_temperam_comida.jpg",
       "kind": "magazine"
     },
     {
@@ -16585,7 +16586,7 @@
       "kind": "magazine",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-02T09:40:10.481486+00:00",
+      "updated_at": "2026-11-02T19:49:46.086294+00:00",
       "success_at": "2026-10-31T08:47:38.801276+00:00",
       "last_slot": "2026-10-31:magazine"
     },
@@ -16684,7 +16685,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-02T09:40:10.481486+00:00",
+      "updated_at": "2026-11-02T19:49:46.086294+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16827,10 +16828,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 48,
-      "updated_at": "2026-11-01T14:27:54.307126+00:00",
-      "success_at": "2026-11-01T14:27:54.307126+00:00",
-      "last_slot": "2026-11-01:magazine"
+      "count": 44,
+      "updated_at": "2026-11-02T19:49:46.086294+00:00",
+      "success_at": "2026-11-02T19:49:46.086294+00:00",
+      "last_slot": "2026-11-02:magazine"
     },
     {
       "source": "Pplware",
@@ -16851,5 +16852,5 @@
       "last_slot": null
     }
   ],
-  "refreshed_sources": 46
+  "refreshed_sources": 1
 }
