@@ -1,7 +1,191 @@
 {
-  "updated_at": "2026-11-03T09:26:17.744870+00:00",
+  "updated_at": "2026-11-03T17:16:59.730243+00:00",
   "press_updated_at": "2026-11-03T09:26:17.744870+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "android",
+        "google",
+        "سامسونج"
+      ],
+      "title": "Android Auto يتوقف عن الاتصال ببعض هواتف Galaxy بعد تحديث One UI 9",
+      "url": "https://www.tech-wd.com/wd/2026/11/03/android-auto-%d9%8a%d8%aa%d9%88%d9%82%d9%81-%d8%b9%d9%86-%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84-%d8%a8%d8%a8%d8%b9%d8%b6-%d9%87%d9%88%d8%a7%d8%aa%d9%81-galaxy-%d8%a8%d8%b9%d8%af-%d8%aa%d8%ad%d8%af/",
+      "description": "يشتكي عدد من مستخدمي هواتف Samsung Galaxy من مشكلة في Android Auto بعد تثبيت تحديث One UI 9 مؤخراَ، إذ ترفض هواتفهم الاتصال بشاشات السيارات أو تنقطع عنها دون سابق إنذار، في ظل غياب أي تفسير رسمي أو حل حتى الآن. وبحسب ما رصده موقع Sammy Fans، كانت الخدمة تعمل بشكل طبيعي لدى بعض المستخدمين …\nالتدوينة Android Auto يتوقف ع",
+      "date": "2026-11-03T17:07:29+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "android",
+        "google",
+        "الأمن السيبراني"
+      ],
+      "title": "أندرويد: ثغرة SMS of Death تعطل الهواتف وتقطع المكالمات برسالة نصية واحدة",
+      "url": "https://www.tech-wd.com/wd/2026/11/03/%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-%d8%ab%d8%ba%d8%b1%d8%a9-sms-of-death-%d8%aa%d8%b9%d8%b7%d9%84-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d9%88%d8%aa%d9%82%d8%b7%d8%b9-%d8%a7%d9%84%d9%85/",
+      "description": "كشف الباحث الأمني مارك بلاه عن ثغرة SMS of Death في نظام Android، والتي تحمل الرمز CVE-2026-58882، وتسمح للمهاجمين بتعطيل الاتصال الخلوي أو إيقاف الهاتف عن العمل عن بعد عبر رسالة نصية واحدة مصممة خصيصاً، بعد أن نشر نموذجاً تجريبياً عملياً لاستغلالها. وتنتمي الثغرة إلى فئة هجمات “صفر نقرة”، إذ تقطع المكالمات الجارية، بم",
+      "date": "2026-11-03T17:07:13+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "android",
+        "Galaxy Z Fold 9",
+        "إلكترونيات",
+        "سامسونج"
+      ],
+      "title": "Galaxy Z Fold 9 قد يحتفظ بكاميرات Fold 8 وسط جدل حول عودة الكاميرا المخفية",
+      "url": "https://www.tech-wd.com/wd/2026/11/03/galaxy-z-fold-9-%d9%82%d8%af-%d9%8a%d8%ad%d8%aa%d9%81%d8%b8-%d8%a8%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7%d8%aa-fold-8-%d9%88%d8%b3%d8%b7-%d8%ac%d8%af%d9%84-%d8%ad%d9%88%d9%84-%d8%b9%d9%88%d8%af%d8%a9/",
+      "description": "يتجه هاتف Samsung Galaxy Z Fold 9 للاحتفاظ بإعداد الكاميرات الحالي دون ترقيات كبيرة، بحسب تسريب جديد نُشر مطلع نوفمبر حول كاميرات Galaxy Z Fold 9 وFold 9 Ultra، في وقت تتضارب فيه التقارير حول عودة الكاميرا المخفية أسفل الشاشة الداخلية لمنافسة iPhone Duo من Apple. وبحسب ما نشره المسرب Walle على منصة X في …\nالتدوينة Gala",
+      "date": "2026-11-03T17:06:18+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "android",
+        "google"
+      ],
+      "title": "جوجل تبدأ طرح أيقونات جديدة لتطبيقات Google Messages وPhone وContacts",
+      "url": "https://www.tech-wd.com/wd/2026/11/03/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%a8%d8%af%d8%a3-%d8%b7%d8%b1%d8%ad-%d8%a3%d9%8a%d9%82%d9%88%d9%86%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-google-m/",
+      "description": "بدأت جوجل طرح أيقونات جديدة لتطبيقات Google Messages وPhone by Google وGoogle Contacts، تعتمد على تدرج لوني وانحناءات محدثة، في خطوة تهدف إلى توحيد مظهر تطبيقات الاتصال مع بقية تطبيقات الشركة. وقالت الشركة الرسمية إن الأيقونات الجديدة أكثر حدة ووضوحاً على الشاشة الرئيسية، بفضل تدرج لوني خفيف بحواف سهلة القراءة، مع ألوا",
+      "date": "2026-11-03T17:05:29+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "android",
+        "google",
+        "إلكترونيات",
+        "سامسونج"
+      ],
+      "title": "سامسونج تطرح نظارات Intelligent Eyewear في ديسمبر بكوريا وأمريكا بحسب تقرير",
+      "url": "https://www.tech-wd.com/wd/2026/11/03/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d8%b1%d8%ad-%d9%86%d8%b8%d8%a7%d8%b1%d8%a7%d8%aa-intelligent-eyewear-%d9%81%d9%8a-%d8%af%d9%8a%d8%b3%d9%85%d8%a8%d8%b1-%d8%a8%d9%83%d9%88%d8%b1/",
+      "description": "تستعد سامسونج لطرح نظارات Intelligent Eyewear، أول نظاراتها الذكية المدعومة بالذكاء الاصطناعي، في منتصف ديسمبر 2026، على أن تبدأ مبيعاتها في كوريا الجنوبية والولايات المتحدة أولاُ، بحسب تقرير لصحيفة ChosunBiz الكورية، في خطوة تدخل بها الشركة سوقاُ تتصدره Meta. ويأتي الموعد الجديد بعد أن أشارت تقارير سابقة إلى طرح نظارا",
+      "date": "2026-11-03T17:04:09+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "android",
+        "Apple",
+        "google"
+      ],
+      "title": "جوجل تعلن Quick Share SDK لدمج مشاركة الملفات في تطبيقات Android وiOS",
+      "url": "https://www.tech-wd.com/wd/2026/11/03/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%b9%d9%84%d9%86-quick-share-sdk-%d9%84%d8%af%d9%85%d8%ac-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d9%81%d9%8a-%d8%aa%d8%b7/",
+      "description": "أعلنت جوجل خلال مؤتمر Android Dev Summit 2026 عن أداة تطوير جديدة باسم Quick Share SDK، تتيح لمطوري التطبيقات على Android وiOS دمج ميزة مشاركة الملفات Quick Share مباشرة داخل تطبيقاتهم، على أن تصل الأداة خلال النصف الأول من عام 2027. وتنهي الأداة الجديدة الخطوات المعتادة لإرسال الملفات، إذ يضطر المستخدم حالياَ إلى فتح ",
+      "date": "2026-11-03T17:02:42+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Cultura",
+        "Tecnologia",
+        "Games",
+        "Playstation"
+      ],
+      "title": "“Phantom Blade Zero” traduz bem a velocidade do cinema de ação chinês",
+      "url": "https://super.abril.com.br/coluna/bruno-garattoni/phantom-blade-zero-traduz-bem-a-velocidade-do-cinema-de-acao-chines/",
+      "description": "Jogo para PlayStation 5 e PC tem lutas intensas e acrobáticas, fiéis ao gênero de ficção conhecido como \"wuxia\"; leia análise",
+      "date": "2026-11-03T17:00:04+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/phantom-blade-zero_foto-interna-1.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Ciência",
+        "açúcar",
+        "cérebro",
+        "Corpo humano",
+        "Doces"
+      ],
+      "title": "Por que, quando comemos algo doce, a bebida doce perde o gosto?",
+      "url": "https://super.abril.com.br/coluna/oraculo/por-que-quando-comemos-algo-doce-a-bebida-doce-perde-o-gosto/",
+      "description": "Sabe quando você toma um refri gelado enquanto come um bolo de chocolate? Essa é a sensação.",
+      "date": "2026-11-03T14:00:47+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_Comer_doce.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Cultura",
+        "Cinema",
+        "Netflix",
+        "Séries",
+        "streaming"
+      ],
+      "title": "Como é mensurado o lucro das séries e dos filmes das empresas de streaming?",
+      "url": "https://super.abril.com.br/coluna/oraculo/como-e-mensurado-o-lucro-das-series-e-dos-filmes-das-empresas-de-streaming/",
+      "description": "Esse é um segredo guardado a sete chaves – mas há algumas pistas.",
+      "date": "2026-11-03T12:01:14+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_Streaming.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Mundo Estranho",
+        "Animais aquáticos",
+        "ATLÂNTICO",
+        "Biologia",
+        "Ciência"
+      ],
+      "title": "Expedição submarina encontra 31 espécies novas nas águas do Brasil; veja fotos",
+      "url": "https://super.abril.com.br/mundo-estranho/expedicao-submarina-encontra-31-especies-novas-nas-aguas-do-brasil-veja-fotos/",
+      "description": "Pesquisa aconteceu na faixa do mar entre 200 m e 1.200 m de profundidade.",
+      "date": "2026-11-03T10:01:41+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/ME_Expedicao-INT-31-especies-novas_site-CAPA.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "",
@@ -758,6 +942,25 @@
       "language": "de",
       "image": "https://images.tagesschau.de/image/55af8e4e-1a69-4f3b-ac44-cfcdb698acfa/AAABoaBsy90/AAABnSSvrFg/16x9-big/schaeffler-146.jpg?width=1920",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Saúde",
+        "CEGUEIRA",
+        "IMPLANTE",
+        "olhos",
+        "Retina"
+      ],
+      "title": "Como olhos biônicos estão se tornando realidade",
+      "url": "https://super.abril.com.br/saude/como-olhos-bionicos-estao-se-tornando-realidade/",
+      "description": "Novas tecnologias e abordagens continuam a surgir. Conheça algumas delas",
+      "date": "2026-11-03T09:01:38+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2019/07/olho.png",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7892,6 +8095,42 @@
       "kind": "presse"
     },
     {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "google",
+        "WearOS"
+      ],
+      "title": "اختبار مبكر لشريط الحالة في Wear OS 7.1 تمهيدًا لإطلاقه في Wear OS 8",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d9%85%d8%a8%d9%83%d8%b1-%d9%84%d8%b4%d8%b1%d9%8a%d8%b7-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d9%81%d9%8a-wear-os-7-1-%d8%aa%d9%85%d9%87%d9%8a%d8%af%d9%8b%d8%a7/",
+      "description": "أعلنت جوجل بشكل هادئ عن إصدار Wear OS 7.1 في أحدث محاكي المطورين الخاص بها، ما يمنح نظرة أولية مبكرة على الجيل القادم من نظام تشغيل الساعات الذكية المعتمد على Android 17. يأتي التحديث الجديد عبر محاكي Wear OS Canary في Android Studio، ويعرف باسم Wear OS 7.1 (API level 37.2-beta1)، حيث يتيح للمطورين اختبار …\nالتدوينة اخ",
+      "date": "2026-11-02T16:35:57+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "samsung",
+        "إلكترونيات",
+        "تلفزيون",
+        "شاشات"
+      ],
+      "title": "سامسونج تخطط لمضاعفة شحنات التلفزيون بمفهوم Ultra وPlus وBasic الجديد",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d9%85%d8%b6%d8%a7%d8%b9%d9%81%d8%a9-%d8%b4%d8%ad%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86/",
+      "description": "كشفت مصادر تقنية أن سامسونج تعتزم تبسيط وتحديث تصنيف أجهزة التلفزيون الخاصة بها اعتبارًا من العام المقبل، وذلك عبر تقديم ثلاث فئات رئيسية هي: AI TV Ultra و AI TV Plus و AI TV Basic، ليصبح اختيار التلفزيون الأنسب للمستهلك أكثر وضوحًا وبعيدًا عن المسميات التقنية المعقدة. وستعكس هذه الفئات مستويات السعر والمزايا بوضوح؛ حي",
+      "date": "2026-11-02T16:32:44+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
       "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkwrw5.mp3",
       "author": "",
       "categories": [],
@@ -7918,6 +8157,24 @@
       "language": "fr",
       "image": "https://focus.courrierinternational.com/2026/11/02/0/0/764/966/644/0/60/0/61d975c_upload-1-ckajp0a5ory7-hull-daily-mail-2-novembre.png",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "Galaxy S27 Pro",
+        "samsung",
+        "إلكترونيات"
+      ],
+      "title": "سامسونج تبدأ إنتاج شاشة الخصوصية لهاتف Galaxy S27 Pro تمهيدًا للإطلاق مطلع 2027",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d8%b4%d8%a7%d8%b4%d8%a9-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9-%d9%84%d9%87%d8%a7%d8%aa/",
+      "description": "بدأت شركة Samsung Display الإنتاج الكمي لشاشات OLED المتطورة التي ستستخدم في هاتف Galaxy S27 Pro الجديد، والمقرر الكشف عنه أوائل العام المقبل ضمن سلسلة من أربعة طرازات رائدة، حسب تقرير KoreaHerald. وسيحمل Galaxy S27 Pro تقنية شاشة الخصوصية (Privacy Display) التي أثارت إعجاب المستخدمين عند ظهورها للمرة الأولى عالميًا مع",
+      "date": "2026-11-02T16:28:52+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7982,6 +8239,25 @@
       "language": "fr",
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/chevauchement-papier-produit-10.png?resize=1200,675&key=99180ccb",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "Apple",
+        "Galaxy Z Fold 8",
+        "iPhone Duo",
+        "samsung"
+      ],
+      "title": "سامسونج تهاجم مشاكل شاشة iPhone Duo بحملة شاحنات إعلانية وسخرية علنية",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%87%d8%a7%d8%ac%d9%85-%d9%85%d8%b4%d8%a7%d9%83%d9%84-%d8%b4%d8%a7%d8%b4%d8%a9-iphone-duo-%d8%a8%d8%ad%d9%85%d9%84%d8%a9-%d8%b4%d8%a7%d8%ad%d9%86/",
+      "description": "بدأت سامسونج حملة دعائية غير تقليدية في كندا تسخر فيها بشكل علني من مشاكل شاشة iPhone Duo. ففي خطوة جريئة، أرسلت الشركة الكورية شاحنات إعلانية متنقلة عبر مناطق حيوية في مدن كبرى مثل تورونتو وفانكوفر، مزودة بشاشات إلكترونية عملاقة تعرض صوراً لتشققات الشاشة المطابقة لتلك التي أثارت جدلاً حول أحدث أجهزة آبل القابلة للطي. ",
+      "date": "2026-11-02T16:08:40+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -8178,6 +8454,24 @@
     },
     {
       "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "Galaxy S27 Pro",
+        "samsung",
+        "إلكترونيات"
+      ],
+      "title": "تحالف داخلي في سامسونج لتحسين Exynos 2700 ورفع أداء Galaxy S27 Pro",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%af%d8%a7%d8%ae%d9%84%d9%8a-%d9%81%d9%8a-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d9%84%d8%aa%d8%ad%d8%b3%d9%8a%d9%86-exynos-2700-%d9%88%d8%b1%d9%81%d8%b9-%d8%a3/",
+      "description": "تستعد سامسونج لإحداث تحول في مسار هواتفها الرائدة من خلال استراتيجية جديدة لمعالجات Exynos، تهدف إلى تحقيق تكامل أعمق بين إدارات الهواتف المحمولة وفرق تصميم الشرائح الإلكترونية داخل الشركة. ووفقاً لتسريبات نقلها موقع Phonefuturist، يعمل قسم تجربة الأجهزة المحمولة (MX) مع وحدة System LSI على تحسين واعتماد معالج Exynos 2",
+      "date": "2026-11-02T15:17:21+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "FIFA to share documents relating to World Cup sell-off plan",
@@ -8216,6 +8510,25 @@
       "language": "de",
       "image": "",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "تحت الضوء",
+        "Apple",
+        "samsung",
+        "تقنية الأعمال"
+      ],
+      "title": "سوق الهواتف الذكية يسجل أدنى مستوى ربع سنوي منذ 10 سنوات وسط صمود Samsung وApple",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d8%b0%d9%83%d9%8a%d8%a9-%d9%8a%d8%b3%d8%ac%d9%84-%d8%a3%d8%af%d9%86%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d8%b1%d8%a8%d8%b9/",
+      "description": "سجل سوق الهواتف الذكية العالمي أسوأ أداء له منذ عقد، بعد تراجع حجم الشحنات بنسبة 20% على أساس سنوي خلال الربع الثالث من عام 2026، بحسب تقرير Omdia الأخير. بلغ إجمالي شحنات الهواتف الذكية عالميًا 254.7 مليون وحدة للربع الثالث، وهو أدنى مستوى يشهده هذا الفصل منذ عام 2013. ورغم أن جميع المصنعين الرئيسيين تأثروا …\nالتدوينة",
+      "date": "2026-11-02T15:06:46+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -8282,6 +8595,42 @@
     },
     {
       "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "Honor",
+        "Honor 700",
+        "إلكترونيات"
+      ],
+      "title": "Honor تدمج كاميرا الزووم الخاصة بـ Magic 9 في سلسلة Honor 700 المنتظرة",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/honor-%d8%aa%d8%af%d9%85%d8%ac-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d8%a7%d9%84%d8%b2%d9%88%d9%88%d9%85-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9-%d8%a8%d9%80-magic-9-%d9%81%d9%8a-%d8%b3%d9%84%d8%b3%d9%84/",
+      "description": "تستعد Honor لإطلاق سلسلة Honor 700 هذا الشهر، حيث كشفت تسريبات جديدة أن الهواتف ستدعم تقنية الكاميرا الخارجية (Teleconverter) التي ظهرت لأول مرة في Magic 9 Pro Max. يتيح هذا التطوير إمكانيات تصوير متقدمة بالتقريب، لتصبح سلسلة Honor 700 ثاني عائلة هواتف تدعم عدسات Teleconverter من Honor بعد Magic 9. ووفقًا للتسريبات، ست",
+      "date": "2026-11-02T14:45:08+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "huawei",
+        "Huawei Starlight O1 Pro",
+        "إلكترونيات"
+      ],
+      "title": "هواوي ستزود هاتف Starlight O1 Pro بنظام تبريد ثلاثي الأبعاد لتحسين الأداء",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%b3%d8%aa%d8%b2%d9%88%d8%af-%d9%87%d8%a7%d8%aa%d9%81-starlight-o1-pro-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%a8%d8%b1%d9%8a%d8%af-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a/",
+      "description": "كشفت تسريبات جديدة أن هاتف Huawei Starlight O1 Pro، أول أجهزة العلامة الفرعية الجديدة من هواوي، سيعتمد نظام تبريد مبتكر يركز على تعزيز الأداء عبر معالج Kirin من السلسلة 9 وبطارية ضخمة، إلى جانب تصميم جديد في الشكل والمواصفات. وذكر حساب SmartPikachu التقني أن الهاتف سيُطرح بتقنية تبريد حراري متقدمة، تعتمد على هيكل ثلاثي",
+      "date": "2026-11-02T14:41:23+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Antton Rouget",
       "categories": [
         "Attentat de Trappes : le racisme tue"
@@ -8294,6 +8643,24 @@
       "language": "fr",
       "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/02/261102-img-le-tueur-raciste-de-trappes-s-entrainait-depuis-des-annees-l-arme-lourde.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "huawei",
+        "Huawei Starlight O1 Pro",
+        "إلكترونيات"
+      ],
+      "title": "هواوي تستعد لإطلاق Starlight O1 Pro بثلاثة ألوان وشاشة 120 هرتز",
+      "url": "https://www.tech-wd.com/wd/2026/11/02/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-starlight-o1-pro-%d8%a8%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d9%84%d9%88%d8%a7%d9%86-%d9%88%d8%b4/",
+      "description": "تستعد هواوي للكشف عن أول هاتف في سلسلة تحمل علامة فرعية جديدة باسم Starlight، حيث من المتوقع أن يحمل الهاتف الأول اسم Starlight O1 Pro. وتشير أحدث التسريبات إلى أن الشركة ستطرح الجهاز في الأسواق الشهر المقبل، مستهدفة الفئة المتوسطة التي تبحث عن شاشة واسعة وتجربة استخدام متطورة بسعر اقتصادي، وذلك بعد تحقيق Pura X …\nالتد",
+      "date": "2026-11-02T14:38:59+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -9571,25 +9938,6 @@
     },
     {
       "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "برامج",
-        "HarmonyOS",
-        "HarmonyOS 7",
-        "huawei",
-        "Xiaomi"
-      ],
-      "title": "نجاح تجربة تثبيت HarmonyOS 7 على Xiaomi Pad 6S Pro",
-      "url": "https://www.tech-wd.com/wd/2026/11/01/%d9%86%d8%ac%d8%a7%d8%ad-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-harmonyos-7-%d8%b9%d9%84%d9%89-xiaomi-pad-6s-pro/",
-      "description": "تمكن أحد التقنيين من تشغيل نظام التشغيل HarmonyOS 7 المطور من هواوي على جهاز Xiaomi Pad 6S Pro، ليصبح بذلك أول جهاز طرف ثالث يشغّل الإصدار الأحدث من النظام، في خطوة تبرز نمو وانتشار HarmonyOS خارج بيئة هواوي الرسمية. بحسب DevPei Yuesheng، تم نقل نظام HarmonyOS 7 من جهاز MatePad Air التابع لهواوي وتثبيته على …\nالتدوينة ",
-      "date": "2026-11-01T16:30:43+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "FRANCE24",
       "categories": [],
       "title": "غليان شعبي في أوروبا... هل بات الشارع ساحة لتصفية الحسابات بين السلطة والمواطنين الغاضبين؟",
@@ -9613,116 +9961,6 @@
       "date": "2026-11-01T16:30:00+00:00",
       "source": "Microsiervos",
       "language": "es",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Honor",
-        "Honor X9e S",
-        "إلكترونيات",
-        "السعودية"
-      ],
-      "title": "إطلاق هاتف Honor X9e S بتصميم قوي وبطارية تدوم 3 أيام",
-      "url": "https://www.tech-wd.com/wd/2026/11/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-honor-x9e-s-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%82%d9%88%d9%8a-%d9%88%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%af%d9%88%d9%85-3-%d8%a3/",
-      "description": "أعلنت Honor رسميًا عن هاتفها الجديد Honor X9e S، الشبيه بهاتف Honor Turbo، مع تصميم لافت ثنائي اللون ومواصفات قوية تستهدف المستخدمين بطابع عصري وسعر مناسب. يأتي الهاتف بثلاثة ألوان: البرتقالي الفجري، والأسود الليلي، والأبيض الجليدي (تختلف خيارات اللون بحسب الأسواق). الهاتف بوزن 196 جرام وأبعاد 161.9 × 76.1 × 7.76 ملم. ",
-      "date": "2026-11-01T16:25:54+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "برامج",
-        "AppGallery",
-        "huawei",
-        "إلكترونيات",
-        "ساعات ذكية"
-      ],
-      "title": "هواوي تطلق تحديث شامل لمتجر AppGallery على الساعات الذكية",
-      "url": "https://www.tech-wd.com/wd/2026/11/01/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d9%85%d8%aa%d8%ac%d8%b1-appgallery-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d8%a7/",
-      "description": "أطلقت هواوي تحديث مرتقب منذ فترة طويلة لمتجر التطبيقات AppGallery الخاص بالساعات الذكية، ليصبح أسهل وأوضح في الاستخدام لمستخدمي الأجهزة القابلة للارتداء. يعمل متجر AppGallery كبديل رسمي لـ Google Play وApple App Store، حيث حصل على إعادة تصميم جذرية تركز بشكل خاص على راحة المستخدمين. النسخة القديمة من المتجر كانت تعاني ",
-      "date": "2026-11-01T16:21:16+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei Matebook Fold",
-        "إلكترونيات"
-      ],
-      "title": "هواوي قد تطلق MateBook Fold صغير ومبتكر في نوفمبر",
-      "url": "https://www.tech-wd.com/wd/2026/11/01/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d9%82%d8%af-%d8%aa%d8%b7%d9%84%d9%82-matebook-fold-%d8%b5%d8%ba%d9%8a%d8%b1-%d9%88%d9%85%d8%a8%d8%aa%d9%83%d8%b1-%d9%81%d9%8a-%d9%86%d9%88%d9%81%d9%85%d8%a8%d8%b1/",
-      "description": "تستعد هواوي للكشف عن عدد من المنتجات الجديدة في نوفمبر، وتشير التسريبات إلى أن الشركة ستطرح لأول مرة MateBook Fold صغير الحجم ضمن هذه المجموعة، إلى جانب الجيل الثاني من جهاز MatePad Mini اللوحي وهاتف Mate X8 القابل للطي. بحسب التسريبات، فإن الكمبيوتر المحمول الجديد القابل للطي من هواوي قد يكشف عنه الشهر المقبل، خاصة …\n",
-      "date": "2026-11-01T16:14:28+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei Mate X8",
-        "إلكترونيات"
-      ],
-      "title": "تسريب مواصفات Huawei Mate X8 يكشف عن كاميرا رئيسية 50 ميجابكسل",
-      "url": "https://www.tech-wd.com/wd/2026/11/01/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-huawei-mate-x8-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/",
-      "description": "ظهرت تفاصيل جديدة حول هاتف Huawei Mate X8 القابل للطي المتوقع إطلاقه الشهر القادم، حيث أشار تسريب حديث إلى أن الهاتف سيأتي بمواصفات تصوير محسّنة تشمل كاميرا رئيسية فائقة الوضوح بدقة 50 ميجابكسل وعدسات زووم متقدمة. بحسب SmartPikachu، من المنتظر أن يحمل Mate X8 شاشة داخلية بقياس 8 بوصات ومعالج Kirin 9050 Pro LogicFolding",
-      "date": "2026-11-01T16:09:52+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "برامج",
-        "huawei",
-        "Huawei Pura 70",
-        "Huawei Pura 80"
-      ],
-      "title": "هواوي تبدأ بإرسال تحديث أكتوبر الأمني لهواتف Pura 80 وPura 70",
-      "url": "https://www.tech-wd.com/wd/2026/11/01/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a8%d8%a5%d8%b1%d8%b3%d8%a7%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d8%a7%d9%84%d8%a3%d9%85%d9%86%d9%8a/",
-      "description": "بدأت شركة هواوي في إرسال تحديث EMUI لشهر أكتوبر 2026 لهواتف Pura 80 وPura 70، حاملاً معه تصحيحًا جديدًا للأمان وعددًا من إصلاحات الخصوصية وتحسين استقرار النظام. يستهدف التحديث الأخير معالجة ثغرتين أمنيتين عالية الخطورة و14 ثغرة متوسطة، إضافة إلى إصلاح 9 ثغرات حرجة و36 عالية و5 متوسطة واثنتين منخفضة المستوى في مكتبات ال",
-      "date": "2026-11-01T16:06:23+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Honor",
-        "Honor Magic 9",
-        "إلكترونيات"
-      ],
-      "title": "Honor تكشف أسباب الطلب القوي على سلسلة Magic 9",
-      "url": "https://www.tech-wd.com/wd/2026/11/01/honor-%d8%aa%d9%83%d8%b4%d9%81-%d8%a3%d8%b3%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%b7%d9%84%d8%a8-%d8%a7%d9%84%d9%82%d9%88%d9%8a-%d8%b9%d9%84%d9%89-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-magic-9/",
-      "description": "يشهد هاتف Honor Magic 9 الجديد إقبالاً قوياً في الأسواق، وهو ما فسره الرئيس التنفيذي للشركة “لي جيان” بتقديم ترقيتين محوريتين في الكاميرا والبطارية جعلتا السلسلة تتفوق على باقي هواتف أندرويد لعام 2026. وخلال فعالية البث المباشر لمهرجان Double 11، أكد رئيس Honor أن سلسلة Magic 9 حازت على اهتمام غير مسبوق من المستخدمين م",
-      "date": "2026-11-01T16:02:58+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
       "image": "",
       "kind": "magazine"
     },
@@ -10121,25 +10359,6 @@
     },
     {
       "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "تحت الضوء",
-        "Binance",
-        "اختراق",
-        "الأمن السيبراني"
-      ],
-      "title": "تقارير تربط كوريا الشمالية باختراق Binance الأخير",
-      "url": "https://www.tech-wd.com/wd/2026/10/31/%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1-%d8%aa%d8%b1%d8%a8%d8%b7-%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-binance-%d8%a7/",
-      "description": "كشف تقرير حديث من شركة استخبارات بلوكتشين أمريكية أن وحدة قرصنة تابعة لكوريا الشمالية تقف على الأرجح وراء الاختراق الضخم لمنصة Binance، الذي تجاوزت خسائره 6.3 مليار دولار، في أكبر حادثة من نوعها تسجل في قطاع العملات الرقمية. وأوضحت Binance أنها تمكنت، بالتعاون مع شركاء في مجال البلوكتشين، من تجميد نحو 3 مليارات دولار م",
-      "date": "2026-10-31T17:13:05+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Guille Lomener",
       "categories": [],
       "title": "El ordenador más arriesgado de la historia de Steve Jobs fue un fracaso comercial. Aun así, salvó a Apple y creó Internet tal como la conocemos",
@@ -10166,42 +10385,6 @@
     },
     {
       "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "FreeClip 2",
-        "huawei",
-        "إلكترونيات"
-      ],
-      "title": "​سماعات هواوي FreeClip 2 تتصدر المبيعات بعد تجاوز 10 ملايين وحدة",
-      "url": "https://www.tech-wd.com/wd/2026/10/31/%d8%b3%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-%d9%87%d9%88%d8%a7%d9%88%d9%8a-freeclip-2-%d8%aa%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a8%d8%b9%d8%af-%d8%aa%d8%ac/",
-      "description": "تأتي ​سماعات هواوي FreeClip 2 لتتوج النجاح الضخم الذي حققته هذه السلسلة الصوتية الفريدة، حيث كشفت الشركة رسمياً عن تجاوز المبيعات الإجمالية حاجز 10 ملايين وحدة عالمياً. وجاء هذا الإعلان بالتزامن مع الكشف عن إصدارات جديدة ومميزة تعزز مكانة هواوي في سوق الأجهزة الصوتية القابلة للارتداء. ​إطلاق سماعات هواوي FreeClip 2 الج",
-      "date": "2026-10-31T16:00:44+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Pura 90 Plus",
-        "إلكترونيات"
-      ],
-      "title": "هواوي بورا 90 بلس يشعل المنافسة بترقيات استثنائية وسعر مفاجئ",
-      "url": "https://www.tech-wd.com/wd/2026/10/31/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%a8%d9%88%d8%b1%d8%a7-90-%d8%a8%d9%84%d8%b3-%d9%8a%d8%b4%d8%b9%d9%84-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d8%a8%d8%aa%d8%b1%d9%82%d9%8a%d8%a7%d8%aa/",
-      "description": "ينضم هاتف هواوي بورا 90 بلس رسمياً إلى عائلة هواتف الشركة الرائدة ليوفر تجربة استخدام فائقة بفضل المعالج الجديد والشاشة المتطورة، حيث جاء الهاتف مع تصميم منحني مريح لليد وبطارية قوية تدعم الشحن الفائق السرعة لتقديم أفضل أداء ممكن للمستخدمين. ​مواصفات الشاشة والتصميم في هاتف هواوي بورا 90 بلس ​يتميز الهاتف الجديد بإطار ",
-      "date": "2026-10-31T16:00:23+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "wicho@microsiervos.com (Wicho)",
       "categories": [
         "Espacio"
@@ -10213,79 +10396,6 @@
       "source": "Microsiervos",
       "language": "es",
       "image": "https://img.microsiervos.com/images2020/SoyuzTM31Despegue.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Enjoy 100 Pro Max",
-        "huawei",
-        "إلكترونيات"
-      ],
-      "title": "هواوي Enjoy 100 Pro Max يتوفر ببطارية عملاقة ومواصفات خيالية",
-      "url": "https://www.tech-wd.com/wd/2026/10/31/%d9%87%d9%88%d8%a7%d9%88%d9%8a-enjoy-100-pro-max-%d9%8a%d8%aa%d9%88%d9%81%d8%b1-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b9%d9%85%d9%84%d8%a7%d9%82%d8%a9-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81/",
-      "description": "​هواوي Enjoy 100 Pro Max ينطلق رسمياً ليكون النسخة الأكثر قوة في السلسلة، حيث قدمت الشركة عملاقاً تقنياً يجمع بين البطارية الضخمة والشاشة فائقة السطوع مع دعم شبكات الاتصال الحديثة. ​مواصفات هاتف هواوي Enjoy 100 Pro Max ​أبدعت هواوي في تقديم تصميم خلفي بكاميرا دائرية مستوحاة من هاتف Mate 50، مع حواف أمامية نحيفة للغاية،",
-      "date": "2026-10-31T15:59:55+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei Router X2 Pro",
-        "Huawei Smart Life",
-        "إلكترونيات"
-      ],
-      "title": "أجهزة Huawei Router X2 Pro تظهر بتصميم فريد وأداء شبكي ذكي",
-      "url": "https://www.tech-wd.com/wd/2026/10/31/%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-huawei-router-x2-pro-%d8%aa%d8%b8%d9%87%d8%b1-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%81%d8%b1%d9%8a%d8%af-%d9%88%d8%a3%d8%af%d8%a7%d8%a1-%d8%b4%d8%a8%d9%83%d9%8a/",
-      "description": "أطلقت هواوي أجهزة Huawei Router X2 Pro بشكل رسمي خلال أحدث فعالياتها، لتراعي الجمع بين المظهر الجمالي الأنيق والتقنيات الشبكية المتقدمة. وتأتي هذه الأجهزة لتلبي احتياجات المنازل الحديثة عبر تقديم حلول تغطية فائقة تتغلب على عقبات العوائق والجدران بطريقة مبتكرة وسلسة. ​مواصفات وتصميم أجهزة Huawei Router X2 Pro الجديدة ​أ",
-      "date": "2026-10-31T15:59:31+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei Enjoy 100",
-        "إلكترونيات"
-      ],
-      "title": "هاتف Huawei Enjoy 100 يفاجئ الأسواق بتصميم عصري وأداء متطور",
-      "url": "https://www.tech-wd.com/wd/2026/10/31/%d9%87%d8%a7%d8%aa%d9%81-huawei-enjoy-100-%d9%8a%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%a7%d9%82-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%b9%d8%b5%d8%b1%d9%8a-%d9%88%d8%a3%d8%af/",
-      "description": "أعلنت هواوي رسميا عن إطلاق هاتفها الجديد  Huawei Enjoy 100 ليكون أحدث إصدارات سلسلتها الشهيرة، والتي تقدم من خلاله تجربة متكاملة تجمع ما بين التصميم المبتكر والبطارية الضخمة التي تلبي احتياجات الاستخدام اليومي الشاق. ​مواصفات هاتف Huawei Enjoy 100 جاء هاتف هواوي الجديد إنجوي 100 بتقنيات ومواصفات تكنولوجية حديثة ومتطورة",
-      "date": "2026-10-31T15:58:01+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Enjoy 100 Pro",
-        "huawei",
-        "إلكترونيات"
-      ],
-      "title": "هاتف هواوي إنجوي 100 برو يتحدى الفئة المتوسطة بمواصفات قوية",
-      "url": "https://www.tech-wd.com/wd/2026/10/31/%d9%87%d8%a7%d8%aa%d9%81-%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%a5%d9%86%d8%ac%d9%88%d9%8a-100-%d8%a8%d8%b1%d9%88-%d9%8a%d8%aa%d8%ad%d8%af%d9%89-%d8%a7%d9%84%d9%81%d8%a6%d8%a9-%d8%a7%d9%84%d9%85%d8%aa/",
-      "description": "​هاتف هواوي إنجوي 100 برو ينطلق رسمياً في الأسواق ليكشف عن قفزة تقنية حقيقية في أجهزة الفئة الاقتصادية، حيث قدمت الشركة تصميماً مبتكراً يعتمد على نقش الزهور ومواد عالية الجودة. وتستهدف الشركة بهذا الإصدار تقديم أداء قوي يناسب تطلعات المستخدمين اليومية من حيث التصوير والسعة التخزينية الممتدة. ​مواصفات هاتف هواوي إنجوي 1",
-      "date": "2026-10-31T15:57:41+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
       "kind": "magazine"
     },
     {
@@ -11257,25 +11367,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "BOTÂNICA",
-        "frutas",
-        "plantas",
-        "sementes"
-      ],
-      "title": "Como o coqueiro nasce se o coco não tem semente?",
-      "url": "https://super.abril.com.br/coluna/oraculo/como-o-coqueiro-nasce-se-o-coco-nao-tem-semente/",
-      "description": "O coco é um tipo de drupa. Entenda como esses frutos se densenvolvem.",
-      "date": "2026-10-30T12:01:06+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_Coqueiro.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Isra Fdez",
       "categories": [],
       "title": "El Plan 18.000: las familias madrileñas que pagaron sus casas hace 30 años y siguen sin ser dueñas del suelo",
@@ -11712,25 +11803,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Ciência",
-        "Dinossauros",
-        "fóssil",
-        "leilão",
-        "paleontologia"
-      ],
-      "title": "US$ 47,3 milhões: esqueleto raro de Nanotyrannus é vendido em leilão",
-      "url": "https://super.abril.com.br/ciencia/us-473-milhoes-esqueleto-raro-de-nanotyrannus-e-vendido-em-leilao/",
-      "description": "Apenas três esqueletos deste dinossauro parente do T. rex foram encontrados, e um deles acaba de ser leiloado.",
-      "date": "2026-10-30T10:00:17+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_esqueleto-raro_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "José A. Lizana",
       "categories": [],
       "title": "Robert Lustig, neuroendocrinólogo: \"La idea de comer menos y hacer más ejercicio es lo que la industria alimentaria quería que creyeras\"",
@@ -11984,23 +12056,6 @@
       "source": "Genbeta",
       "language": "es",
       "image": "https://i.blogs.es/170096/53472125825_8aeabe1e25_k/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Como foram criadas as bússolas?",
-      "url": "https://super.abril.com.br/mundo-estranho/como-foram-criadas-as-bussolas/",
-      "description": "Uma breve história, dos chineses e gregos antigos até a navegação nos dias de hoje.",
-      "date": "2026-10-30T09:00:01+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2021/08/SI_430_ORCL_Bussola_site.png",
       "kind": "magazine"
     },
     {
@@ -12721,25 +12776,6 @@
     },
     {
       "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Binance",
-        "اختراق",
-        "الأمن السيبراني",
-        "عملات مشفرة"
-      ],
-      "title": "اختراق جهاز موظف يكلّف Binance خسائر قياسية بقيمة 6.3 مليار دولار",
-      "url": "https://www.tech-wd.com/wd/2026/10/30/%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-%d8%ac%d9%87%d8%a7%d8%b2-%d9%85%d9%88%d8%b8%d9%81-%d9%8a%d9%83%d9%84%d9%81-binance-%d8%ae%d8%b3%d8%a7%d8%a6%d8%b1-%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d8%a8%d9%82/",
-      "description": "أعلنت منصة Binance عن تعرضها لاختراق هو الأكبر على الإطلاق في قطاع العملات الرقمية، بعد استغلال قراصنة لجهاز لابتوب موظف من فريق DevOps لتنفيذ تحويلات غير مخولة بقيمة بلغت حوالي 6.3 مليار دولار. وتعد الحادثة أكبر سرقة مسجلة في تاريخ سوق العملات الرقمية، متجاوزة الرقم القياسي السابق الذي سُجّل في اختراق Bybit عام 2025 ب",
-      "date": "2026-10-30T04:20:55+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Alessandro Di Lorenzo",
       "categories": [
         "Vídeos",
@@ -12792,24 +12828,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "anfíbio",
-        "extinção",
-        "marinho"
-      ],
-      "title": "Paleontólogos descobrem o primeiro anfíbio que viveu exclusivamente no mar",
-      "url": "https://super.abril.com.br/ciencia/paleontologos-descobrem-o-primeiro-anfibio-que-viveu-exclusivamente-no-mar/",
-      "description": "O Gerrothorax maritimus tinha escamas semelhantes a uma armadura que permitiram que ele vivesse em água salgada.",
-      "date": "2026-10-29T23:00:53+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_primeiro-anfibio_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Javier Marquez",
       "categories": [],
       "title": "Un hackeo de criptomonedas histórico evapora más de 2.000 millones de dólares de las carteras de Binance",
@@ -12856,25 +12874,6 @@
       "source": "Pplware",
       "language": "pt",
       "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "História",
-        "celtas",
-        "Dia das Bruxas",
-        "halloween",
-        "irlanda"
-      ],
-      "title": "Halloween não nasceu nos EUA: a festa celta de 2 mil anos que virou o Dia das Bruxas",
-      "url": "https://super.abril.com.br/historia/halloween-nao-nasceu-nos-eua-a-festa-celta-de-2-mil-anos-que-virou-o-dia-das-bruxas/",
-      "description": "Para os antigos celtas, a noite de 31 de outubro era o momento em que a fronteira entre o mundo dos vivos e dos mortos ficava mais tênue.",
-      "date": "2026-10-29T22:00:53+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_origem-celta-halloween_site.jpg",
       "kind": "magazine"
     },
     {
@@ -16381,7 +16380,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-03T09:26:17.744870+00:00",
+      "updated_at": "2026-11-03T17:16:59.730243+00:00",
       "success_at": "2026-11-02T09:40:10.481486+00:00",
       "last_slot": "2026-11-02:8"
     },
@@ -16577,18 +16576,18 @@
     {
       "source": "عالم التقنية",
       "kind": "magazine",
-      "ok": false,
-      "error": "HTTP Error 526: <none>",
-      "updated_at": "2026-11-03T09:26:17.744870+00:00",
-      "success_at": "2026-11-02T09:40:10.481486+00:00",
-      "last_slot": "2026-11-02:magazine"
+      "ok": true,
+      "count": 15,
+      "updated_at": "2026-11-03T17:16:59.730243+00:00",
+      "success_at": "2026-11-03T17:16:59.730243+00:00",
+      "last_slot": "2026-11-03:magazine"
     },
     {
       "source": "البوابة العربية للأخبار التقنية",
       "kind": "magazine",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-03T09:26:17.744870+00:00",
+      "updated_at": "2026-11-03T17:16:59.730243+00:00",
       "success_at": "2026-10-31T08:47:38.801276+00:00",
       "last_slot": "2026-10-31:magazine"
     },
@@ -16687,7 +16686,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-03T09:26:17.744870+00:00",
+      "updated_at": "2026-11-03T17:16:59.730243+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16830,10 +16829,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 44,
-      "updated_at": "2026-11-02T19:49:46.086294+00:00",
-      "success_at": "2026-11-02T19:49:46.086294+00:00",
-      "last_slot": "2026-11-02:magazine"
+      "count": 42,
+      "updated_at": "2026-11-03T17:16:59.730243+00:00",
+      "success_at": "2026-11-03T17:16:59.730243+00:00",
+      "last_slot": "2026-11-03:magazine"
     },
     {
       "source": "Pplware",
@@ -16854,5 +16853,5 @@
       "last_slot": null
     }
   ],
-  "refreshed_sources": 45
+  "refreshed_sources": 2
 }
