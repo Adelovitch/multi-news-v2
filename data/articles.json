@@ -1,7 +1,64 @@
 {
-  "updated_at": "2026-11-05T10:43:13.051867+00:00",
+  "updated_at": "2026-11-05T18:19:41.000552+00:00",
   "press_updated_at": "2026-11-05T10:43:13.051867+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "Diabetes",
+        "Exercícios físicos",
+        "insulina",
+        "natureza"
+      ],
+      "title": "Morar perto de áreas verdes está associado a menor risco de diabetes tipo 2",
+      "url": "https://super.abril.com.br/saude/morar-perto-de-areas-verdes-esta-associado-a-menor-risco-de-diabetes-tipo-2/",
+      "description": "Estudo com mais de 400 mil pessoas encontrou menor incidência da doença entre quem vivia em áreas com mais jardins residenciais e próximo a parques",
+      "date": "2026-11-05T17:09:45+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_morar-perto-areas-verdes_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Sociedade",
+        "Eleições",
+        "Estados Unidos",
+        "EUA",
+        "indígenas"
+      ],
+      "title": "Quem é Deb Haaland, eleita a primeira mulher indígena governadora nos EUA",
+      "url": "https://super.abril.com.br/sociedade/quem-e-deb-haaland-eleita-a-primeira-mulher-indigena-governadora-nos-eua/",
+      "description": "De mãe solo endividada a ministra de Biden: a trajetória da democrata do Pueblo de Laguna que chega ao governo do Novo México",
+      "date": "2026-11-05T14:00:53+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Deb-Haaland_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "História",
+        "Civilizações antigas",
+        "erupção",
+        "escavação",
+        "Grécia"
+      ],
+      "title": "A cidade soterrada de Acrotíri: conheça a “versão grega” do desastre de Pompeia",
+      "url": "https://super.abril.com.br/historia/a-cidade-soterrada-de-acrotiri-conheca-a-versao-grega-do-desastre-de-pompeia/",
+      "description": "Em Santorini, no Mar Egeu, uma cidade da Idade do Bronze passou 3.600 anos preservada pelas cinzas após uma erupção vulcânica.",
+      "date": "2026-11-05T12:20:17+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_pompeia-da-grecia_site.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "",
@@ -1435,6 +1492,25 @@
       "language": "fr",
       "image": "https://img.20mn.fr/IqtTmU83R7mOCOJ-49Nqzyk/1200x768_residents-of-the-nelson-mandela-high-school-collect-their-belongings-accompanied-by-their-parents-after-a-fire-that-broke-out-during-the-high-school-movement-on-october-1-2026-nantes-western-france-on-october-5-2026-des-internes-du-lycee-nelson-mandela-recuperent-leurs-affaires-accompagnes-de-leurs-parents-le-5-octobre-2026-un-feu-a-detruit-l-entree-du-lycee-le-1er-octobre-2026-dans-un-contexte-de-blocage-des-lycee-salom-gomis-m007-credit-sebastien-salom-gomis-sipa-2610070930",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "Bem-Estar",
+        "felicidade",
+        "Psicologia",
+        "Relacionamentos"
+      ],
+      "title": "Como ser feliz? Veja dicas dos pioneiros da ciência do bem-estar",
+      "url": "https://super.abril.com.br/saude/como-ser-feliz-confira-dicas-dos-pioneiros-da-ciencia-do-bem-estar/",
+      "description": "Uma vida boa e feliz se constrói por meio das pequenas conexões com as pessoas ao nosso lado e nossas comunidades como um todo.",
+      "date": "2026-11-05T10:00:12+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2024/11/2111-amigos-layout_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -6165,6 +6241,25 @@
     },
     {
       "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Ciência",
+        "ChatGPT",
+        "Inteligência artificial",
+        "Matemática",
+        "matemático"
+      ],
+      "title": "“Matematicalipse”? Por que a última enxurrada de resultados divulgados pela OpenAI deixou os matemáticos em choque",
+      "url": "https://super.abril.com.br/ciencia/matematicalipse-por-que-a-ultima-enxurrada-de-resultados-divulgados-pela-openai-deixou-os-matematicos-em-choque/",
+      "description": "Há séculos a verdade matemática é estabelecida por consenso entre os matemáticos, processo que pode ser muito demorado: teste definitivo dos resultados da OpenAI só virá depois de avaliação que a comunidade matemática fará deles após uma análise adequada.",
+      "date": "2026-11-05T03:36:14+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2024/05/2005-chatgpt-super-site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "FRANCE 24",
       "categories": [
         "Asia / Pacific"
@@ -6755,6 +6850,25 @@
     },
     {
       "audio_url": "",
+      "author": "Bruno Vaiano",
+      "categories": [
+        "Ciência",
+        "física",
+        "Física quântica",
+        "lhc",
+        "partículas"
+      ],
+      "title": "LHC detecta o que pode ser o decaimento de partícula mais raro já observado",
+      "url": "https://super.abril.com.br/ciencia/lhc-detecta-o-que-pode-ser-o-decaimento-de-particula-mais-raro-ja-observado/",
+      "description": "O fenômeno ajuda os físicos a sondar como mundo funciona a distâncias de um bilionésimo de trilionésimo de metro – o \"zeptoverso\".",
+      "date": "2026-11-04T22:24:37+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_particula-1-em-10-bilhoes_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Abraham P. Romero",
       "categories": [
         "Real Madrid",
@@ -6939,6 +7053,25 @@
       "language": "en",
       "image": "https://s.france24.com/media/display/5ac9150e-d892-11f1-86ac-d18c5759e759/w:1024/p:16x9/capture-bb0d8832.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Sociedade",
+        "espaço",
+        "NASA",
+        "NASA /NATIONAL AERONAUTICS AND SPACE ADMINISTRATION/",
+        "votação"
+      ],
+      "title": "Como os astronautas votam durante uma missão no espaço?",
+      "url": "https://super.abril.com.br/sociedade/como-os-astronautas-votam-durante-uma-missao-no-espaco/",
+      "description": "Os votos dos tripulantes americanos da ISS são transmitidos via satélite a um centro da Nasa no Texas, em um arquivo criptografado para evitar enxeridos.",
+      "date": "2026-11-04T21:00:43+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_SEO-astronautas-CAPA_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7369,6 +7502,25 @@
       "language": "fr",
       "image": "https://s.rfi.fr/media/display/04ca3b94-d87c-11f1-b674-a575454bc579/w:1024/p:16x9/2026-11-04T024418Z-1626119586-RC2QGOAV4GH9-RTRMADP-3-USA-ELECTION-GEORGIA.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Diego Facundini",
+      "categories": [
+        "Tecnologia",
+        "Fake News",
+        "meta",
+        "plataformas",
+        "Redes Sociais"
+      ],
+      "title": "Brasileiros desconfiam do conteúdo nas redes sociais, mas confiam nas plataformas",
+      "url": "https://super.abril.com.br/tecnologia/brasileiros-desconfiam-do-conteudo-nas-redes-sociais-mas-confiam-nas-plataformas/",
+      "description": "Segundo uma nova pesquisa, o ECA Digital e as eleições pouco mudaram a percepção dos brasileiros. E o conhecimento sobre IAs avança mais entre os mais ricos.",
+      "date": "2026-11-04T19:00:22+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/3110_SI-Inedita-Reglab_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -10407,25 +10559,6 @@
     },
     {
       "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Mundo Estranho",
-        "Animais aquáticos",
-        "ATLÂNTICO",
-        "Biologia",
-        "Ciência"
-      ],
-      "title": "Expedição submarina encontra 31 espécies novas nas águas do Brasil; veja fotos",
-      "url": "https://super.abril.com.br/mundo-estranho/expedicao-submarina-encontra-31-especies-novas-nas-aguas-do-brasil-veja-fotos/",
-      "description": "Pesquisa aconteceu na faixa do mar entre 200 m e 1.200 m de profundidade.",
-      "date": "2026-11-03T10:01:41+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/ME_Expedicao-INT-31-especies-novas_site-CAPA.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Álvaro García M.",
       "categories": [],
       "title": "John Ternus, CEO de Apple, sobre la escasez de iPhone Duo: \"no podemos predecir cuándo se equilibrará\"",
@@ -10453,25 +10586,6 @@
       "source": "GEO Natur",
       "language": "de",
       "image": "https://image.geo.de/38492434/t/E2/v3/w1440/r1.7778/-/esel-bulle.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Saúde",
-        "CEGUEIRA",
-        "IMPLANTE",
-        "olhos",
-        "Retina"
-      ],
-      "title": "Como olhos biônicos estão se tornando realidade",
-      "url": "https://super.abril.com.br/saude/como-olhos-bionicos-estao-se-tornando-realidade/",
-      "description": "Novas tecnologias e abordagens continuam a surgir. Conheça algumas delas",
-      "date": "2026-11-03T09:01:38+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2019/07/olho.png",
       "kind": "magazine"
     },
     {
@@ -10661,23 +10775,6 @@
       "source": "Popular Science",
       "language": "en",
       "image": "https://www.popsci.com/wp-content/uploads/2026/11/TRex-Bones-Close.jpg?quality=85",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Vírus",
-        "Vírus - Doenças"
-      ],
-      "title": "Shamonda: o que se sabe sobre vírus que infectou e matou humano pela primeira vez",
-      "url": "https://super.abril.com.br/ciencia/shamonda-o-que-se-sabe-sobre-virus-que-infectou-e-matou-humano-pela-primeira-vez/",
-      "description": "Patógeno é transmitido por inseto e causa doença em bovinos. Chances de surtos entre humanos são baixas.",
-      "date": "2026-11-02T19:00:13+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2024/07/2507-vacas-super-site.jpg",
       "kind": "magazine"
     },
     {
@@ -11158,25 +11255,6 @@
     },
     {
       "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Comportamento",
-        "comida",
-        "culinária",
-        "macarrão",
-        "Manual"
-      ],
-      "title": "Manual: como fazer um bom molho de tomate",
-      "url": "https://super.abril.com.br/coluna/oraculo/manual-como-fazer-um-bom-molho-de-tomate/",
-      "description": "O melhor para impressionar a família no almoço de domingo ou festas de fim de ano.",
-      "date": "2026-11-02T12:20:26+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_Manual.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Alberto García",
       "categories": [],
       "title": "El accesorio perfecto para el MacBook Neo es de Satechi: un hub cinco en uno que admite carga rápida y se acopla al ordenador",
@@ -11351,63 +11429,6 @@
       "kind": "magazine"
     },
     {
-      "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Mundo Estranho",
-        "Animais de Estimação",
-        "cachorros",
-        "cães",
-        "Comportamento"
-      ],
-      "title": "Não é só felicidade: entenda os outros motivos que fazem os cachorros abanarem o rabo",
-      "url": "https://super.abril.com.br/mundo-estranho/nao-e-so-felicidade-entenda-os-outros-motivos-que-fazem-os-cachorros-abanar-o-rabo/",
-      "description": "Latidos e rosnados por vezes não são suficientes, então o animal usa a cauda para comunicar uma série de emoções.",
-      "date": "2026-11-01T23:01:15+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_440_ORCL_raca-cachorro_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "Alzheimer",
-        "cérebro",
-        "cognição",
-        "Envelhecimento"
-      ],
-      "title": "Idosos mais ativos têm volume cerebral preservado em áreas de memória e raciocínio, mostra estudo",
-      "url": "https://super.abril.com.br/saude/idosos-mais-ativos-tem-volume-cerebral-preservado-em-areas-de-memoria-e-raciocinio-mostra-estudo/",
-      "description": "Ao analisar dados de 2,7 mil indivíduos em torno de 70 anos, pesquisadores da Unesp concluíram que o movimento ajuda a conter a atrofia em estruturas vitais.",
-      "date": "2026-11-01T21:00:28+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/05/0505-idosos-layout_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bela Lobato",
-      "categories": [
-        "Saúde",
-        "amamentação",
-        "Gravidez",
-        "Jornal da Unesp",
-        "leite materno"
-      ],
-      "title": "Doar leite materno não enfraquece os ossos da mãe mais do que amamentar, mostra estudo",
-      "url": "https://super.abril.com.br/saude/doar-leite-materno-nao-enfraquece-os-ossos-da-mae-mais-do-que-amamentar-mostra-estudo/",
-      "description": "Pesquisa da Unesp aponta que a perda de massa óssea causada pela amamentação é passageira e equivalente em doadoras e não doadoras de leite.",
-      "date": "2026-11-01T15:00:14+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2018/07/amamentac3a7c3a3o_home.png",
-      "kind": "magazine"
-    },
-    {
       "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkpfz4.mp3",
       "author": "",
       "categories": [],
@@ -11419,25 +11440,6 @@
       "language": "en",
       "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pkpg0w.jpg",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Ciência",
-        "Alimentação",
-        "Fibras",
-        "frutas",
-        "vegetais"
-      ],
-      "title": "Comer cascas de frutas e vegetais faz bem à saúde? Cientistas mostram que sim",
-      "url": "https://super.abril.com.br/ciencia/comer-cascas-de-frutas-e-vegetais-faz-bem-a-saude-cientistas-mostram-que-sim/",
-      "description": "Ricas em fibras, partes geralmente descartadas de alimentos podem ampliar o consumo do nutriente e reduzir o desperdício alimentar, diz pesquisa.",
-      "date": "2026-10-31T23:00:26+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_cascas-de-frutas-e-vegetais_site.jpg",
-      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -16555,7 +16557,7 @@
       "kind": "magazine",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-05T10:43:13.051867+00:00",
+      "updated_at": "2026-11-05T18:19:41.000552+00:00",
       "success_at": "2026-10-31T08:47:38.801276+00:00",
       "last_slot": "2026-10-31:magazine"
     },
@@ -16654,7 +16656,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-05T10:43:13.051867+00:00",
+      "updated_at": "2026-11-05T18:19:41.000552+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16797,10 +16799,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 43,
-      "updated_at": "2026-11-04T17:46:56.360980+00:00",
-      "success_at": "2026-11-04T17:46:56.360980+00:00",
-      "last_slot": "2026-11-04:magazine"
+      "count": 45,
+      "updated_at": "2026-11-05T18:19:41.000552+00:00",
+      "success_at": "2026-11-05T18:19:41.000552+00:00",
+      "last_slot": "2026-11-05:magazine"
     },
     {
       "source": "Pplware",
@@ -16821,5 +16823,5 @@
       "last_slot": null
     }
   ],
-  "refreshed_sources": 44
+  "refreshed_sources": 1
 }
