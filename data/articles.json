@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-11-05T18:19:41.000552+00:00",
-  "press_updated_at": "2026-11-05T10:43:13.051867+00:00",
+  "updated_at": "2026-11-06T03:42:58.854461+00:00",
+  "press_updated_at": "2026-11-06T03:42:58.854461+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+      "description": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+      "date": "2026-11-06T02:48:19+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "description": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
+      "date": "2026-11-06T02:03:47+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "California governor commutes sentences of more than 500 people on death row",
+      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+      "description": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+      "date": "2026-11-06T01:39:35+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+      "description": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
+      "date": "2026-11-06T00:19:57+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "description": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
+      "date": "2026-11-06T00:15:22+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "description": "Though the US president said deal was 'very close', he gave no specifics and did not meet visiting Ukrainian delegation.",
+      "date": "2026-11-06T00:06:31+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "description": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.",
+      "date": "2026-11-06T00:00:00+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+      "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+      "description": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
+      "date": "2026-11-05T23:46:52+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Generation Z and young voters help redefine US politics after midterms",
+      "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+      "description": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
+      "date": "2026-11-05T21:49:31+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "South Africa’s ANC on track for new lows in local polls",
+      "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+      "description": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
+      "date": "2026-11-05T21:48:16+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+      "description": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
+      "date": "2026-11-05T21:42:30+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+      "description": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
+      "date": "2026-11-05T21:33:40+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+      "description": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
+      "date": "2026-11-05T21:26:21+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Saudi coalition intercepts missile fired towards Medina",
+      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "description": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+      "date": "2026-11-05T20:48:47+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "TV Shows"
+      ],
+      "title": "Why are wealthy countries failing developing nations?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
+      "description": "UN report warns climate adaptation funding is falling far short of needs.",
+      "date": "2026-11-05T20:45:47+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "description": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+      "date": "2026-11-05T20:43:46+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Mass protests in France driven by nationwide strike action",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+      "description": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
+      "date": "2026-11-05T20:11:37+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+      "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+      "description": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
+      "date": "2026-11-05T20:07:04+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Harmeet Dhillon, top US civil rights official under Trump, resigns",
+      "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+      "description": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
+      "date": "2026-11-05T19:48:00+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+      "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+      "description": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
+      "date": "2026-11-05T19:31:28+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "Bruno Carbinatto",
@@ -716,21 +1016,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "Features"
-      ],
-      "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
-      "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
-      "description": "An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.",
-      "date": "2026-11-05T10:25:28+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "International"
       ],
       "title": "Finlande : un capitaine et un membre d'équipage condamnés après avoir saboté des câbles en mer Baltique",
@@ -769,21 +1054,6 @@
       "source": "Ouest-France",
       "language": "fr",
       "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOGJmNjc2NWE0ZGZhNDc3Y2U0MGQ5MjdjYmM1ZGI1NjY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=5e8a6a80a3c0467b8fbad26b7ed61773703db57f7a74ff34404e5d589add0983",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-      "url": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
-      "description": "US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.",
-      "date": "2026-11-05T10:24:14+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -1346,21 +1616,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
-      "url": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
-      "description": "'I love the club, the fans and the city,' says the Ballon d'Or ‌winner after extending his stay with German champions.",
-      "date": "2026-11-05T10:04:26+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Agencias  .",
       "categories": [
         "Aviones",
@@ -1717,21 +1972,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "News"
-      ],
-      "title": "A month after Yemen government offensive began, war of attrition takes hold",
-      "url": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
-      "description": "The Houthis suffer losses but also inflict pain on government forces and Saudi Arabia.",
-      "date": "2026-11-05T09:58:18+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Economia"
       ],
       "title": "Habitação. Quais as posições de PS e Chega na antecâmara da reunião com o Governo?",
@@ -1771,21 +2011,6 @@
       "source": "Observador",
       "language": "pt",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/08/07133217/40853102.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-      "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
-      "description": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
-      "date": "2026-11-05T09:57:04+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -1974,21 +2199,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
-      "url": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
-      "description": "Rights group says the journalist's arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
-      "date": "2026-11-05T09:52:02+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Libération ., AFP .",
       "categories": [],
       "title": "Le pape de la protest song Bob Dylan rencontre son homologue au Vatican",
@@ -1997,21 +2207,6 @@
       "date": "2026-11-05T09:50:36+00:00",
       "source": "Libération",
       "language": "fr",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Bomb threat diverts Dublin-Rome flight to France",
-      "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
-      "description": "A separate incident has been reported in Bulgaria, amid a string of bomb threats disrupting air travel across Europe.",
-      "date": "2026-11-05T09:50:08+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
       "image": "",
       "kind": "presse"
     },
@@ -2193,21 +2388,6 @@
       "source": "El Mundo",
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938714561382.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "It’s Gaza, stupid",
-      "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
-      "description": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
-      "date": "2026-11-05T09:44:33+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -2945,21 +3125,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-      "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
-      "description": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
-      "date": "2026-11-05T09:13:35+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Redazione FqMagazine",
       "categories": [
         "Televisione",
@@ -3620,21 +3785,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Wembanyama pours in career-high 52 points as Spurs edge Mavericks 112-111",
-      "url": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss",
-      "description": "Victor Wembanyama had 24 rebounds and 52 points as the San Antonio Spurs recorded their sixth straight win in the NBA.",
-      "date": "2026-11-05T08:39:40+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Agência Lusa",
       "categories": [
         "Saúde",
@@ -4263,21 +4413,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-      "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-      "description": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
-      "date": "2026-11-05T07:50:44+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Pablo R. Suanzes",
       "categories": [
         "Estados Unidos",
@@ -4293,21 +4428,6 @@
       "source": "El Mundo",
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938226885158.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-      "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
-      "description": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
-      "date": "2026-11-05T07:44:47+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -4373,21 +4493,6 @@
       "source": "01net",
       "language": "fr",
       "image": "https://www.01net.com/app/uploads/2025/11/Engwe-MileCity--1344x896.jpeg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
-      "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
-      "description": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
-      "date": "2026-11-05T07:41:25+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -4474,21 +4579,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Germany’s Merz expects Trump to keep ignoring Congress",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/germanys-merz-expects-trump-to-keep-ignoring-congress?traffic_source=rss",
-      "description": "German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.",
-      "date": "2026-11-05T07:25:56+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Libération ., AFP .",
       "categories": [],
       "title": "Salaires : la baisse du pouvoir d’achat touche aussi les cadres",
@@ -4527,36 +4617,6 @@
       "date": "2026-11-05T07:21:14+00:00",
       "source": "Euronews",
       "language": "fr",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
-      "url": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss",
-      "description": "Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.",
-      "date": "2026-11-05T07:21:01+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Guinness World Record broken as 53 red cards shown in Brazil under-20 match",
-      "url": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
-      "description": "Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.",
-      "date": "2026-11-05T07:20:18+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
       "image": "",
       "kind": "presse"
     },
@@ -4918,21 +4978,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "New Zealand braces for knife-edge election: What you need to know",
-      "url": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
-      "description": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
-      "date": "2026-11-05T06:34:50+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Thibaut Le Gal",
       "categories": [
         "Politique",
@@ -5145,21 +5190,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/78a53be8-8a73-4c40-b914-5b2f42102f68/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
-      "url": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
-      "description": "Sharjeel Imam questioned foundational ideas of India's nationalism in interview with The Quint, inspiring heated debate.",
-      "date": "2026-11-05T06:10:51+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -5402,21 +5432,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/90d27f65-1357-4516-9091-1949462a3ad0/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-      "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
-      "description": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
-      "date": "2026-11-05T05:39:31+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -5800,21 +5815,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/437cc36d-0c6f-427b-9786-a4d5a6ad1865/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
-      "description": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
-      "date": "2026-11-05T04:49:56+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -16278,9 +16278,9 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-11-05T10:43:13.051867+00:00",
-      "success_at": "2026-11-05T10:43:13.051867+00:00",
-      "last_slot": "2026-11-05:8"
+      "updated_at": "2026-11-06T03:42:58.854461+00:00",
+      "success_at": "2026-11-06T03:42:58.854461+00:00",
+      "last_slot": "2026-11-06:6"
     },
     {
       "source": "France 24 English",
