@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-11-06T18:24:36.831365+00:00",
-  "press_updated_at": "2026-11-06T11:36:41.829827+00:00",
+  "updated_at": "2026-11-07T03:07:51.441170+00:00",
+  "press_updated_at": "2026-11-07T03:07:51.441170+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+      "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+      "description": "Children and teenagers make up almost 60 percent of confirmed cases.",
+      "date": "2026-11-07T01:55:03+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "EU prosecutor office investigates fatal train crash in Spain",
+      "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+      "description": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+      "date": "2026-11-07T01:33:39+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+      "description": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+      "date": "2026-11-07T00:55:51+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+      "description": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+      "date": "2026-11-07T00:31:41+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+      "description": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
+      "date": "2026-11-07T00:21:49+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "description": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+      "date": "2026-11-07T00:00:00+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "New Zealanders head to polls on final day of voting",
+      "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+      "description": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+      "date": "2026-11-06T23:48:01+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+      "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+      "description": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
+      "date": "2026-11-06T23:33:28+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "TV Shows"
+      ],
+      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "description": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
+      "date": "2026-11-06T23:07:22+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "US urges China to honour Busan trade deal commitments",
+      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "description": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
+      "date": "2026-11-06T23:00:37+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "description": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+      "date": "2026-11-06T21:37:30+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+      "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+      "description": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.",
+      "date": "2026-11-06T21:22:57+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Protesters break into Microsoft data centre site in Amsterdam",
+      "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+      "description": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
+      "date": "2026-11-06T21:04:40+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+      "description": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
+      "date": "2026-11-06T20:48:25+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+      "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+      "description": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
+      "date": "2026-11-06T20:28:07+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+      "description": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
+      "date": "2026-11-06T20:27:09+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
+      "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+      "description": "The pontiff praises Uruguay's clean energy transition and calls for universal healthcare.",
+      "date": "2026-11-06T20:22:22+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "How ‘Street Medics’ protect French protesters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
+      "description": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests.",
+      "date": "2026-11-06T20:17:32+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+      "description": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
+      "date": "2026-11-06T19:42:46+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Why is Britain refusing to pay slavery reparations?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
+      "description": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
+      "date": "2026-11-06T19:34:33+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "Valdir Antonelli",
@@ -874,21 +1174,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Hoax or bomb threats? What we know about flight disruptions across Europe",
-      "url": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
-      "description": "Security inspections reveal no explosives as fighter jets escort planes amid Europe's major wave of bomb threats.",
-      "date": "2026-11-06T11:18:02+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Welche Folgen die US-Zwischenwahlen für die deutsche Wirtschaft haben",
       "url": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
@@ -1242,21 +1527,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
-      "url": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
-      "description": "Anarchistic activists who dress in black and clash with police are a regular feature of protests from France to Albania.",
-      "date": "2026-11-06T11:09:04+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Ben Schwan",
       "categories": [],
       "title": "Siri AI: Apples Chatbot kann bald mit Dateien operieren",
@@ -1281,21 +1551,6 @@
       "source": "RFI",
       "language": "fr",
       "image": "https://s.rfi.fr/media/display/1900e34c-d9c1-11f1-ab0b-1beafce15fea/w:1024/p:16x9/AP25337763809653.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
-      "url": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
-      "description": "Court finds Au Kam-san guilty of spreading false information and subversion in bid to disrupt Macao’s 2024 elections.",
-      "date": "2026-11-06T11:08:02+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5105,21 +5360,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
-      "url": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
-      "description": "Court had approved his transfer after the former prime minister's party paid $12m fine via crowdfunding.",
-      "date": "2026-11-06T09:01:40+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Fran León",
       "categories": [],
       "title": "Este reloj de Google es un chollo antes del Black Friday: ahora puedes comprarlo por menos de 70 euros",
@@ -5645,21 +5885,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
-      "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
-      "description": "Global markets are being roiled due to concerns over US data centre expansion and AI regulation.",
-      "date": "2026-11-06T08:41:05+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "20 Minutes avec AFP",
       "categories": [
         "Faits divers",
@@ -5741,21 +5966,6 @@
       "source": "Mediapart",
       "language": "fr",
       "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/06/261106-img-pedocriminalite-le-rn-se-paye-la-ciivise-sur-le-dos-des-victimes.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
-      "url": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
-      "description": "Captain Ajay Pant was in international waters when his allegedly 'shadow' tanker was captured by British soldiers.",
-      "date": "2026-11-06T08:32:57+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -6270,21 +6480,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "Abdul El-Sayed did not have to become less Muslim to win",
-      "url": "https://www.aljazeera.com/opinions/2026/11/6/abdul-el-sayed-did-not-have-to-become-less-muslim-to-win?traffic_source=rss",
-      "description": "His historic victory in Michigan shows that Muslim Americans need not abandon their identity to succeed in politics.",
-      "date": "2026-11-06T07:53:32+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Les États-Unis sont-ils en train de devenir socialistes ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/la-chronique-du-grand-continent/la-chronique-du-grand-continent-chronique-du-vendredi-06-novembre-2026-8336447",
@@ -6294,21 +6489,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/dae879e1-987b-4645-a224-a90113abae16/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "Can America ever return to pre-Trump politics?",
-      "url": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss",
-      "description": "The US midterms were a rejection of Trump's politics of division, but his legacy may be impossible to undo.",
-      "date": "2026-11-06T07:51:09+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -6472,21 +6652,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "News"
-      ],
-      "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
-      "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
-      "description": "A 14-day pause has been ordered blocking the so-called 'Arc de Trump' project in Washington, DC.",
-      "date": "2026-11-06T07:32:08+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Diplomatie"
       ],
       "title": "Après les midterms, Tokyo redoute un rapprochement entre Donald Trump et Xi Jinping",
@@ -6528,21 +6693,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News Analysis"
-      ],
-      "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
-      "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
-      "description": "Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third.",
-      "date": "2026-11-06T07:30:04+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Tilmann Althaus",
       "categories": [
         "ESCAPADE",
@@ -6559,21 +6709,6 @@
       "language": "de",
       "image": "https://static.spektrum.de/fm/912/thumbnails/escapade_twins_Mars2-crop.jpg.8422323.jpg?f=1280x720",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
-      "url": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
-      "description": "Israeli restrictions on teachers and pressure to adopt Israeli curriculum threaten Palestinian education in the city.",
-      "date": "2026-11-06T07:28:53+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -6617,36 +6752,6 @@
       "source": "TV5MONDE",
       "language": "fr",
       "image": "https://information.tv5monde.com/sites/tv5-info/files/styles/rss/public/2026-11/ap26291517141879.jpg?h=471cff66",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Indonesia names fourth wiretapping suspect as political intrigue deepens",
-      "url": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens?traffic_source=rss",
-      "description": "Scandal is driving divisions between President Prabowo Subianto and predecessor Joko Widodo.",
-      "date": "2026-11-06T07:24:26+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Global tech stocks plunge over fears of AI curbs in US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
-      "description": "Asian markets plunged Friday, tracking a sell-off in Western stocks following the US midterm elections.",
-      "date": "2026-11-06T07:24:20+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -6821,21 +6926,6 @@
       "date": "2026-11-06T07:10:34+00:00",
       "source": "Euronews",
       "language": "fr",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Israel’s President Herzog to name candidate to form government on Sunday",
-      "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
-      "description": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
-      "date": "2026-11-06T07:09:42+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
       "image": "",
       "kind": "presse"
     },
@@ -7126,21 +7216,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
-      "url": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss",
-      "description": "Hussey, known as 'Mr Cricket' for his technical expertise, will also work with Australia during the LA 2028 Olympics.",
-      "date": "2026-11-06T06:52:30+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Mathieu Dejean",
       "categories": [
         "Politique"
@@ -7197,21 +7272,6 @@
       "source": "Numerama",
       "language": "fr",
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/07/coffret-ultra-premium-pokemon-30eme-anniversaire-journee.jpg?resize=1200,675&key=12cf6ecd",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
-      "url": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
-      "description": "Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.",
-      "date": "2026-11-06T06:43:42+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -7552,21 +7612,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-      "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
-      "description": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
-      "date": "2026-11-06T06:06:24+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Propos recueillis par Fabien Randanne",
       "categories": [
         "Culture",
@@ -7754,36 +7799,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/9468dc83-811f-45b3-b9cf-dd23b8628bc2/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
-      "description": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-      "date": "2026-11-06T05:59:54+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "US Justice Department sues Penn State over undocumented students’ tuition",
-      "url": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
-      "description": "The lawsuit challenges Penn State's policy that allows undocumented students to qualify for reduced tuition rates.",
-      "date": "2026-11-06T05:57:27+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -8068,21 +8083,6 @@
       "source": "Tagesschau",
       "language": "de",
       "image": "https://images.tagesschau.de/image/10c9bfce-ba0b-4b57-932c-59c78b593359/AAABoO0-VxY/AAABnSSvrFg/16x9-big/ki-rechenzentrum-102.jpg?width=1920",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
-      "url": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss",
-      "description": "Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.",
-      "date": "2026-11-06T05:03:57+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -16342,9 +16342,9 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-11-06T11:36:41.829827+00:00",
-      "success_at": "2026-11-06T11:36:41.829827+00:00",
-      "last_slot": "2026-11-06:8"
+      "updated_at": "2026-11-07T03:07:51.441170+00:00",
+      "success_at": "2026-11-07T03:07:51.441170+00:00",
+      "last_slot": "2026-11-07:6"
     },
     {
       "source": "France 24 English",
@@ -16887,5 +16887,5 @@
       "last_slot": "2026-11-06:magazine"
     }
   ],
-  "refreshed_sources": 2
+  "refreshed_sources": 1
 }
