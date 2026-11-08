@@ -92,10 +92,13 @@ class CollectorTests(unittest.TestCase):
 
     def test_failed_refresh_keeps_press_timestamp(self):
         from scripts import collect as module
-        previous={"updated_at":"2026-10-24T07:00:00+00:00",
-                  "articles":[{"url":"https://example.org/old","date":"2026-10-24T06:00:00+00:00",
+        # Keep the cached article within MAX_AGE_DAYS as time passes.
+        previous_success=(datetime.now(timezone.utc)-timedelta(days=1)).isoformat()
+        previous_article=(datetime.now(timezone.utc)-timedelta(days=1,hours=1)).isoformat()
+        previous={"updated_at":previous_success,
+                  "articles":[{"url":"https://example.org/old","date":previous_article,
                                "kind":"presse","source":"RFI"}],
-                  "sources":[{"source":"RFI","kind":"presse","success_at":"2026-10-24T07:00:00+00:00"}]}
+                  "sources":[{"source":"RFI","kind":"presse","success_at":previous_success}]}
         with patch.object(module,"SOURCES",[("fr","RFI","https://example.org/rss")]), patch.object(module,"load_previous",return_value=previous), patch.object(module.urllib.request,"urlopen",side_effect=OSError("offline")):
             result=module.collect("both")
         self.assertEqual(result["refreshed_sources"],0)
@@ -116,7 +119,7 @@ class CollectorTests(unittest.TestCase):
         with patch.object(module,"SOURCES",[("en","BBC Global News Podcast","https://example.org/feed")]), patch.object(module,"load_previous",return_value=previous), patch.object(module.urllib.request,"urlopen",return_value=Response()):
             result=module.collect("both")
         self.assertEqual(result["refreshed_sources"],1)
-        self.assertEqual(result["press_updated_at"],"2026-10-24T07:00:00+00:00")
+        self.assertEqual(result["press_updated_at"],previous_success)
 
     def test_dst_switch_october_25(self):
         from scripts.collect import schedule_slot
