@@ -108,9 +108,12 @@ class CollectorTests(unittest.TestCase):
 
     def test_podcast_only_does_not_advance_press_timestamp(self):
         from scripts import collect as module
-        previous={"updated_at":"2026-10-24T07:00:00+00:00",
-                  "articles":[{"url":"https://example.org/old","date":"2026-10-24T06:00:00+00:00","kind":"presse","source":"RFI"}],
-                  "sources":[{"source":"RFI","kind":"presse","success_at":"2026-10-24T07:00:00+00:00"}]}
+        previous_success=(datetime.now(timezone.utc)-timedelta(days=1)).isoformat()
+        previous_article=(datetime.now(timezone.utc)-timedelta(days=1,hours=1)).isoformat()
+        previous={"updated_at":previous_success,
+                  "articles":[{"url":"https://example.org/old","date":previous_article,
+                               "kind":"presse","source":"RFI"}],
+                  "sources":[{"source":"RFI","kind":"presse","success_at":previous_success}]}
         rss=b'<rss><channel><item><title>Podcast</title><link>https://example.org/audio</link></item></channel></rss>'
         class Response:
             def __enter__(self):return self
