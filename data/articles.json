@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-10T09:58:59.636952+00:00",
+  "updated_at": "2026-11-10T17:40:09.177620+00:00",
   "press_updated_at": "2026-11-10T09:58:59.636952+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "cirurgias",
+        "gordura",
+        "lipoaspiração",
+        "Obesidade"
+      ],
+      "title": "Lipoaspiração pode compor tratamento contra o lipedema, mostra pesquisa",
+      "url": "https://super.abril.com.br/saude/lipoaspiracao-pode-compor-tratamento-contra-o-lipedema-mostra-pesquisa/",
+      "description": "Ensaio clínico identificou redução da dor em 68% das pacientes operadas. Mas a cirurgia tem riscos e não representa cura da doença.",
+      "date": "2026-11-10T17:00:31+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_lipo-compor-tratamento-lipedema_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Ciência",
+        "Combustível",
+        "GASOLINA"
+      ],
+      "title": "Renováveis ganham espaço, mas combustíveis fósseis ainda concentram 70% dos subsídios",
+      "url": "https://super.abril.com.br/ciencia/renovaveis-ganham-espaco-mas-fontes-fosseis-ainda-concentram-70-dos-subsidios/",
+      "description": "Brasil ainda destina maior parte do incentivo a energias poluentes, mostra levantamento.",
+      "date": "2026-11-10T10:00:23+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2017/08/poluic3a7c3a3o-aumenta-em-30-quando-carros-flex-preferem-gasolina.png",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "",
@@ -1349,6 +1385,25 @@
       "language": "pt",
       "image": "https://cdn-images.rtp.pt/icm/images/9d/9daaefa926d102ead8eeddbce4e9ff69_N.jpg?",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Sociedade",
+        "BONOBOS /CHIMPANZÉ/",
+        "chimpanzé",
+        "FENÔMENO CLIMÁTICO",
+        "INUNDAÇÃO"
+      ],
+      "title": "Santuário entrega comida a chimpanzé por drone nas enchentes na Flórida",
+      "url": "https://super.abril.com.br/sociedade/santuario-entrega-comida-a-chimpanze-por-drone-nas-enchentes-na-florida/",
+      "description": "Kaleb, de 38 anos, precisou receber bananas e cobertores por meio de drones.",
+      "date": "2026-11-10T09:00:36+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_santuario-chimpanze-comida-drone_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -6647,6 +6702,24 @@
     },
     {
       "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "Marte",
+        "Planetas",
+        "vulcão"
+      ],
+      "title": "Gás fora de época indica que os vulcões de Marte estão só adormecidos",
+      "url": "https://super.abril.com.br/ciencia/gas-fora-de-epoca-indica-que-os-vulcoes-de-marte-estao-so-adormecidos/",
+      "description": "Sonda da ESA flagrou cloreto de hidrogênio sobre fissuras do Monte Alba; calor do subsolo pode criar nichos favoráveis à vida microscópica",
+      "date": "2026-11-09T23:22:40+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_vulcoes-ativos-marte-chance-vida_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Richard Onanena",
       "categories": [
         "Afrique économie"
@@ -6834,6 +6907,24 @@
       "language": "ar",
       "image": "https://s.france24.com/media/display/cb4d57e0-dc8e-11f1-b73c-a575454bc579/w:1024/p:16x9/AR-20261109-213042-215248-CS.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "Lua",
+        "missão",
+        "NASA"
+      ],
+      "title": "NASA anuncia contratos de até 10 bilhões e novo rover para construção de base lunar",
+      "url": "https://super.abril.com.br/ciencia/nasa-anuncia-contratos-de-ate-10-bilhoes-e-novo-rover-para-construcao-de-base-lunar/",
+      "description": "SpaceX e Blue Origin estão entre as empresas que vão disputar entregas de carga na Lua; o veículo, movido a energia nuclear, deve explorar o polo sul.",
+      "date": "2026-11-09T22:34:00+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_NASA-revela-veiculo-PROMISE-lancado-lua-2028_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7439,6 +7530,25 @@
       "language": "fr",
       "image": "https://s.france24.com/media/display/23136886-dc33-11f1-b2ff-a575454bc579/w:1024/p:16x9/000-D6WB27W.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "brunoalmeidavaiano",
+      "categories": [
+        "Mundo Estranho",
+        "atmosfera",
+        "banheiro",
+        "espelho",
+        "EVAPORAÇÃO"
+      ],
+      "title": "Por que o espelho do banheiro desembaça de baixo para cima?",
+      "url": "https://super.abril.com.br/mundo-estranho/por-que-o-espelho-do-banheiro-desembaca-de-baixo-para-cima/",
+      "description": "Para entender essa, você vai precisar relembrar os queridinhos das aulas de química: os mols.",
+      "date": "2026-11-09T21:00:56+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_espelho-banheiro-desembaca_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -11882,25 +11992,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Amazônia",
-        "Bactérias",
-        "BIODIVERSIDADE",
-        "biotecnologia"
-      ],
-      "title": "Estudo revela como microbiota ajuda peixe-boi a extrair energia de dieta exclusivamente vegetal",
-      "url": "https://super.abril.com.br/ciencia/estudo-revela-como-microbiota-ajuda-peixe-boi-a-extrair-energia-de-dieta-exclusivamente-vegetal/",
-      "description": "Equipe do CNPEM descobriu bactéria que metaboliza a epilactose, açúcar inacessível à grande maioria dos microrganismos. Novas enzimas abrem caminho para inovar o processamento de resíduos agrícolas",
-      "date": "2026-11-06T19:00:08+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_microbiota-ajuda-peixe-boi_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Laura Baisas",
       "categories": [
         "Environment",
@@ -12068,25 +12159,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Alimentação",
-        "Aquecimento global",
-        "Carne vermelha",
-        "Desmatamento"
-      ],
-      "title": "Mudanças na merenda escolar podem reduzir em até 56% as emissões de gases de efeito estufa",
-      "url": "https://super.abril.com.br/ciencia/mudancas-na-merenda-escolar-podem-reduzir-em-ate-56-as-emissoes-de-gases-de-efeito-estufa/",
-      "description": "Estudo analisou quase 10,5 milhões de notas fiscais de compras públicas entre 2013 e 2022; entenda.",
-      "date": "2026-11-06T17:00:03+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_mudancas-merenda-escolar_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Eduardo Nuvens",
       "categories": [
         "Guia de Compras",
@@ -12182,25 +12254,6 @@
       "language": "en",
       "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0plnzcj.jpg",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "Alzheimer",
-        "cérebro",
-        "cirurgias",
-        "DIAGNÓSTICO"
-      ],
-      "title": "Conheça a doença tratável que pode ser confundida com demência em idosos",
-      "url": "https://super.abril.com.br/saude/conheca-a-doenca-tratavel-que-pode-ser-confundida-com-demencia-em-idosos/",
-      "description": "Hidrocefalia de pressão normal pode afetar a marcha, a memória e o controle urinário; diagnóstico precoce aumenta as chances de recuperação.",
-      "date": "2026-11-06T16:00:56+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2023/09/0918_remedio_idosos_layout_site.jpg",
-      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -12336,25 +12389,6 @@
       "source": "Applesfera",
       "language": "es",
       "image": "https://i.blogs.es/978d9b/edits-for-desktop-en-mac/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Biologia",
-        "células",
-        "física",
-        "infecção"
-      ],
-      "title": "Vírus também obedecem às leis da física, e entender isso pode levar a novos tratamentos",
-      "url": "https://super.abril.com.br/ciencia/virus-tambem-obedecem-as-leis-da-fisica-e-entender-isso-pode-levar-a-novos-tratamentos/",
-      "description": "A eficácia com que vírus infectam células é, em parte, uma questão de biomecânica.",
-      "date": "2026-11-06T14:00:53+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2024/07/1007-virus-hiv-super-site.jpg",
       "kind": "magazine"
     },
     {
@@ -12839,24 +12873,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Ciência",
-        "alergia",
-        "Alergia Alimentar",
-        "Bebês"
-      ],
-      "title": "Um terço dos bebês diagnosticados com alergia a amendoim pode não ter o problema",
-      "url": "https://super.abril.com.br/ciencia/um-terco-dos-bebes-diagnosticados-com-alergia-a-amendoim-pode-nao-ter-o-problema/",
-      "description": "Estudo australiano analisou dados de 1.275 bebês e sugere que há um problema na metodologia dos testes.",
-      "date": "2026-11-06T10:00:40+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_bebes-com-alergia_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Thomas Siebel",
       "categories": [
         "biopolymer",
@@ -13048,24 +13064,6 @@
       "source": "Xataka",
       "language": "es",
       "image": "https://i.blogs.es/3b8f16/vigo/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "NEUROCIÊNCIA",
-        "Psicologia",
-        "Redação Digital"
-      ],
-      "title": "O que é o déjà vu e por que ele ocorre?",
-      "url": "https://super.abril.com.br/mundo-estranho/o-que-e-o-deja-vu-e-por-que-ele-ocorre/",
-      "description": "Entenda como uma \"falha\" na sincronia cerebral gera a sensação de já ter vivido um momento.",
-      "date": "2026-11-06T09:00:49+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2018/07/parece-que-o-dc3a9jc3a0-vu-nc3a3o-funciona-do-jeito-que-vocc3aa-jc3a1-tinha-visto-antes_home.png",
       "kind": "magazine"
     },
     {
@@ -16829,7 +16827,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-10T09:58:59.636952+00:00",
+      "updated_at": "2026-11-10T17:40:09.177620+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16972,10 +16970,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 45,
-      "updated_at": "2026-11-09T19:13:08.969059+00:00",
-      "success_at": "2026-11-09T19:13:08.969059+00:00",
-      "last_slot": "2026-11-09:magazine"
+      "count": 46,
+      "updated_at": "2026-11-10T17:40:09.177620+00:00",
+      "success_at": "2026-11-10T17:40:09.177620+00:00",
+      "last_slot": "2026-11-10:magazine"
     },
     {
       "source": "Pplware",
@@ -16996,5 +16994,5 @@
       "last_slot": "2026-11-06:magazine"
     }
   ],
-  "refreshed_sources": 47
+  "refreshed_sources": 1
 }
