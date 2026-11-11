@@ -1,7 +1,285 @@
 {
-  "updated_at": "2026-11-11T09:33:42.926151+00:00",
-  "press_updated_at": "2026-11-11T09:33:42.926151+00:00",
+  "updated_at": "2026-11-11T17:25:08.880732+00:00",
+  "press_updated_at": "2026-11-11T17:25:08.880732+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Joanna YORK",
+      "categories": [
+        "France"
+      ],
+      "title": "The most hacked country in Europe? Why is France the target of so many cyberattacks",
+      "url": "https://www.france24.com/en/france/20261111-the-most-hacked-country-in-europe-why-is-france-the-target-of-so-many-cyberattacks",
+      "description": "The “unprecedented” hacks of French supermarket refrigerators were the latest in a series of major cyberattacks that have made the country the most hacked in Europe, according to some analysts. Cyberattacks are on the rise globally, but why is France such a ready target?",
+      "date": "2026-11-11T17:09:03+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/bfa44840-dde7-11f1-9104-695cb59fade5/w:1024/p:16x9/2026-10-29T100233Z-802993939-RC282OALI9O2-RTRMADP-3-USA-MILITARY-FREEZERS.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "Tens of thousands attend Polish nationalist march days afer shootings",
+      "url": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings",
+      "description": "Tens of thousands of Polish nationalist sympathisers gathered in Warsaw Wednesday for an annual Independence Day March, just days after a deadly shooting spree in Krakow that shook the country. The event is held each November 11 to commemorate the ending in 1918 of 123 years of partition by Russia, Prussia and Austria.",
+      "date": "2026-11-11T17:08:32+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/632a3764-ddf1-11f1-a19a-3f371022a770/w:1024/p:16x9/EN-20261111-171020-171438-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE 24",
+      "categories": [
+        "France"
+      ],
+      "title": "Tehran will strike US bases in Europe if used to attack Iran, security chief says",
+      "url": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
+      "description": "Iranian security chief Mohsen Rezaei said Wednesday that Tehran would attack US bases located in Europe if they were used to carry out bombing raids against the Islamic republic. The heavy defeat of US President Donald Trump's Republican Party in the midterm elections earlier this month seems to have pushed Washington ",
+      "date": "2026-11-11T16:45:46+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/f8c593d6-ddec-11f1-8f0b-3f371022a770/w:1024/p:16x9/AP26234800648076.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "Haiti: 'We need to know the truth, but so far, it’s totally dark'",
+      "url": "https://www.france24.com/en/bukele-says-salvadoran-troops-destroyed-gang-hq-in-haiti",
+      "description": "Jean-Marie Théodat, Director of the Department of Geography at University Paris, is our guest.",
+      "date": "2026-11-11T16:38:52+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/2f6655d8-dded-11f1-926e-f71d22e7fea9/w:1024/p:16x9/EN-20261111-151842-152903-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "Violent incidents in schools as French students vow to maintain protest pressure",
+      "url": "https://www.france24.com/en/violent-incidents-in-schools-as-french-students-vow-to-maintain-protest-pressure",
+      "description": "French President Emmanuel Macron on Tuesday condemned violence against teachers andgovernment officials during nationwide street protests after an official was hit by a gasoline-filled bottle outside ​a high school ‌near Paris.",
+      "date": "2026-11-11T16:35:05+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/09a5a02c-ddf4-11f1-b670-f71d22e7fea9/w:1024/p:16x9/capture-2c78d2b9.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias",
+      "url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
+      "description": "Jan Onoszko, our correspondent in Rio, has more.",
+      "date": "2026-11-11T16:08:22+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/c4a5b334-dde6-11f1-9c6b-695cb59fade5/w:1024/p:16x9/EN-20261111-161101-161439-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "COP31 talks in Turkey: Leaders from US, China and India skip summit",
+      "url": "https://www.france24.com/en/cop31-talks-in-turkey-leeaders-from-us-china-and-india-skip-summit",
+      "description": "Valérie Dekimpe, our environment editor, has more.",
+      "date": "2026-11-11T16:06:28+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/b79c40a6-dde9-11f1-8740-3f371022a770/w:1024/p:16x9/2026-11-11T104543Z-717228215-RC2MLOA7Z4YD-RTRMADP-3-CLIMATE-COP31.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "President Macron speaks for Armistice Day commemoration ceremony",
+      "url": "https://www.france24.com/en/president-macron-speaks-for-armistice-day-commemoration-ceremony",
+      "description": "On Wednesday, Emmanuel Macron presided over his final Armistice Day ceremony in Paris.",
+      "date": "2026-11-11T16:03:01+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/60087808-dde6-11f1-ae0c-29048b396e03/w:1024/p:16x9/EN-20261111-160143-160219-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE 24",
+      "categories": [
+        "Europe"
+      ],
+      "title": "Russia bans two French lawmakers and two journalists from entry",
+      "url": "https://www.france24.com/en/europe/20261111-russia-bans-two-french-lawmakers-and-two-journalists-from-entry",
+      "description": "Moscow on Wednesday said it was banning two French journalists and two French lawmakers from entering Russia in response to Paris's expulsion of pro-Russian TV commentator Xenia Fedorova earlier this year.",
+      "date": "2026-11-11T15:58:14+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/6c44c21c-dde5-11f1-a8d2-29048b396e03/w:1024/p:16x9/000-D72D264.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "Armistice Day in France: Macron honors the End of World War I",
+      "url": "https://www.france24.com/en/video/20261111-armistice-day-in-france-commemorating-the-end-of-world-war-i",
+      "description": "With less than six months to go before the presidential election, the 11 November commemorations have taken on a political hue. On Wednesday, Emmanuel Macron presided over his final ceremony in Paris.",
+      "date": "2026-11-11T15:57:54+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/4e1342ca-dde8-11f1-8f2e-5f54d898a954/w:1024/p:16x9/2026-11-11T144944Z-1574455219-RC2OLOAGKZUY-RTRMADP-3-REMEMBRANCE-DAY-FRANCE-MACRON.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "Spain: General strike over housing costs before national election",
+      "url": "https://www.france24.com/en/spain-general-strike-over-housing-costs-before-national-election",
+      "description": "Millions of Spanish workers shut down businesses and public transportation in a protest on Wednesday over housing costs that the government hopes to leverage before a national election later this month. The walkout — under the slogan “Salaries. Housing. Prices.” — was the first general strike in Spain in 14 years.",
+      "date": "2026-11-11T15:54:40+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/e2694a56-dde7-11f1-b92c-3f371022a770/w:1024/p:16x9/2026-11-11T135107Z-1475091229-RC2OLOAL1V8D-RTRMADP-3-SPAIN-STRIKE-MADRID-1.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Caroline DE CAMARET",
+      "categories": [
+        "Talking Europe"
+      ],
+      "title": "Exclusive: EU's Kallas says US 'can't negotiate on our behalf' on lifting Russia sanctions",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261111-exclusive-eu-s-kallas-says-us-can-t-negotiate-on-our-behalf-on-lifting-russia-sanctions",
+      "description": "In an exclusive interview with FRANCE 24, the EU's top diplomat Kaja Kallas discusses the war in Ukraine, the situation in the Middle East and a possible change in US President Donald Trump's foreign policy following the US midterm elections. The former Estonian prime minister, who is now the European Union's High Repr",
+      "date": "2026-11-11T15:15:40+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/f35d22fe-dd08-11f1-828d-5f54d898a954/w:1024/p:16x9/PHOTO-KAJA-KALLAS.png",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Olivia SALAZAR WINSPEAR",
+      "categories": [
+        "arts24"
+      ],
+      "title": "Charlotte Gainsbourg brings pioneering French lawyer Gisèle Halimi to the screen",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20261111-charlotte-gainsbourg-brings-pioneering-french-lawyer-gis%C3%A8le-halimi-to-the-screen",
+      "description": "New French film \"Women on trial\" revisits the landmark case in 1972 that paved the way for abortion legislation in France. Critic Manon Kerjean tells us why performances from Charlotte Gainsbourg and Cécile de France carry this powerful courtroom drama and how its directors recreated the tension of a high-profile socia",
+      "date": "2026-11-11T15:13:34+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/3adb4488-dde2-11f1-8927-f71d22e7fea9/w:1024/p:16x9/capture-5a1d0f2e.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Delano D’SOUZA",
+      "categories": [
+        "Entre Nous"
+      ],
+      "title": "Behind Georges Larnicol's creative spin on Breton specialty kouign-amann",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261111-tt-behind-georges-larnicol-s-creative-spin-on-kouign-amann",
+      "description": "From a traditional Breton specialty to an imaginative, bite-sized creation, in Entre Nous we explore how French pastry chef Georges Larnicol has reinvented the famous kouign-amann while preserving its Breton identity. He tells us what makes the pastry so special and why it is much loved around the world.",
+      "date": "2026-11-11T14:05:35+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/eb9e2f64-ddd4-11f1-a7f6-3f371022a770/w:1024/p:16x9/capture-274a931e.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Stuart NORVAL",
+      "categories": [
+        "Perspective"
+      ],
+      "title": "UNICEF head Catherine Russell: 'We're all committed to the importance of children'",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20261111-unicef-head-catherine-russell-we-re-all-committed-to-the-importance-of-children",
+      "description": "More than 50 countries, 20 non-governmental and philanthropic organisations and a series of multinational companies are pledging this week to put children's rights at the heart of their policies and actions. A pact is being agreed upon at the Paris Peace Forum, where the rights of children are taking centre stage.",
+      "date": "2026-11-11T12:49:54+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/7ebb8f6e-ddc4-11f1-89a0-695cb59fade5/w:1024/p:16x9/capture-c6a7c820.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Maude Petit-Jové",
+      "categories": [
+        "Focus"
+      ],
+      "title": "Aneto, one of southern Europe's largest glaciers, is melting away",
+      "url": "https://www.france24.com/en/tv-shows/focus/20261111-aneto-one-of-southern-europe-s-largest-glaciers-is-melting-away",
+      "description": "Within a decade, one of the largest glaciers in southern Europe will have disappeared. Aneto, the highest peak of the Spanish Pyrenees, is melting at a spectacular rate. Its demise is another sign of global warming and has much to teach glaciologists. FRANCE 24's Maude Petit-Jové, Mathilde Lopinski and Sarah Morris rep",
+      "date": "2026-11-11T12:32:41+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/563bdc52-dd28-11f1-836f-29048b396e03/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-SPAIN-ANETO-GLACIER-BAIN-Lauren-Sub.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "Patrick Bury: 'It’s going to cost a lot of money to repair the systems.'",
+      "url": "https://www.france24.com/en/europe-how-prepared-is-the-continent-to-face-a-futur-conflict",
+      "description": "Patrick Bury, Senior associate professor in warfare and counterterrorism at University of Bath, is our guest.",
+      "date": "2026-11-11T12:32:17+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/2b3c2234-ddcb-11f1-990f-5f54d898a954/w:1024/p:16x9/EN-20261111-130429-131254-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "US House votes to derail impeachment of Defense Secretary Hegseth",
+      "url": "https://www.france24.com/en/us-house-votes-to-derail-impeachment-of-defense-secretary-hegseth",
+      "description": "Republicans in ​the US House ​of Representatives banded together on Tuesday ​to ‌derail ⁠aneffort to impeach ‌Defense Secretary Pete Hegseth. Fraser Jackson, our correspondant in Washington DC, has more.",
+      "date": "2026-11-11T12:17:22+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/8f9877d4-ddc9-11f1-b424-5f54d898a954/w:1024/p:16x9/2026-11-10T155719Z-652015653-RC23LOADBZX1-RTRMADP-3-USA-POLAND.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "FRANCE24",
+      "categories": [],
+      "title": "Violent clashes near the Sudanese border: At least 65 dead in western Ethiopia",
+      "url": "https://www.france24.com/en/violent-clashes-near-the-sudanese-border-at-least-65-dead-in-western-ethiopia",
+      "description": "Tom Canetti, our correspondant in Ethiopia, has more.",
+      "date": "2026-11-11T12:07:35+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/7a2f7526-ddc6-11f1-a7e5-f71d22e7fea9/w:1024/p:16x9/EN-20261110-215203-215335-CS.jpg",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Elitsa GADEVA",
+      "categories": [
+        "Press Review"
+      ],
+      "title": "UK comedian David Walliams accused of grooming and sexual harassment",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261111-uk-comedian-david-walliams-accused-of-grooming-and-sexual-harassment",
+      "description": "PRESS REVIEW – Wednesday, November 11: Spanish and French papers discuss protests in the two countries. An investigation by The Guardian and ITV accuses comedian David Walliams of \"preying on young women for sex\". Finally, a Doberman sensed something was wrong with a baby. It may have saved his life.",
+      "date": "2026-11-11T11:56:59+00:00",
+      "source": "France 24 English",
+      "language": "en",
+      "image": "https://s.france24.com/media/display/1f90420c-ddc2-11f1-83c6-5f54d898a954/w:1024/p:16x9/capture-37f68384.jpg",
+      "kind": "presse"
+    },
     {
       "audio_url": "https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/28959_gk-audio-apple-news-en/2026_11_11_Top_Stories___Wednesday_11_00_UTC_985679-128KB-podcast-28959-985679.mp3",
       "author": "",
@@ -14,6 +292,25 @@
       "language": "en",
       "image": "",
       "kind": "radio"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Sociedade",
+        "cauda",
+        "cavalo",
+        "ÉGUA",
+        "LIVRO DOS RECORDES"
+      ],
+      "title": "Égua com cauda de 4 metros quebra recorde do Guinness",
+      "url": "https://super.abril.com.br/sociedade/egua-com-cauda-de-4-metros-quebra-recorde-do-guinness/",
+      "description": "Shampoo, condicionador e tranças fazem parte da rotina de cuidados de Jenny, que tem exatos 4,12 m de ornamento capilar em seu rabo",
+      "date": "2026-11-11T10:00:01+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_egua-rabo-4-metros-recorde-guiness_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -795,6 +1092,24 @@
       "language": "fr",
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/sans-titre-10.png?resize=1200,675&key=348466a9",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "doenças",
+        "síndrome",
+        "terapia genética"
+      ],
+      "title": "Terapia com células CAR-T devolve movimentos a pacientes com a doença de Céline Dion",
+      "url": "https://super.abril.com.br/ciencia/terapia-com-celulas-car-t-devolve-movimentos-a-pacientes-com-a-doenca-de-celine-dion/",
+      "description": "Em um estudo com 26 pacientes da síndrome da pessoa rígida, uma única dose de glóbulos brancos reprogramados melhorou a caminhada de 81% dos participantes.",
+      "date": "2026-11-11T09:00:23+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_esperanca-sindrome-pessoa-rigida-celine-dion_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -6317,6 +6632,25 @@
     },
     {
       "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "deuses egípcios",
+        "egito antigo",
+        "Gatos",
+        "múmias"
+      ],
+      "title": "Como era a vida dos gatos que os egípcios sacrificavam aos deuses",
+      "url": "https://super.abril.com.br/ciencia/como-era-a-vida-dos-gatos-que-os-egipcios-sacrificavam-aos-deuses/",
+      "description": "Análise de 131 crânios revela que, apesar de sua importância na religião egípcia, muitos felinos destinados a oferendas viviam em condições precárias.",
+      "date": "2026-11-10T23:00:37+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_como-era-vida-gatos-sacrificados-egito_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Francisco Pascual",
       "categories": [],
       "title": "No es la encuesta, es el encuestador",
@@ -6500,6 +6834,25 @@
       "language": "ar",
       "image": "https://s.france24.com/media/display/0891fa6a-dd53-11f1-9e32-5f54d898a954/w:1024/p:16x9/AR-20261110-223931-224319-CS.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Ciência",
+        "animais",
+        "arqueologia",
+        "AVES",
+        "Pré-história"
+      ],
+      "title": "Osso esquecido por 17 anos revela ave pré-histórica gigante na caverna dos “hobbits”",
+      "url": "https://super.abril.com.br/ciencia/osso-esquecido-por-17-anos-revela-ave-pre-historica-gigante-na-caverna-dos-hobbits/",
+      "description": "O fóssil pertence a um parente das galinhas que pesava quase 4 kg e foi encontrado junto aos ossos do hominídeo Homo floresiensis, que tinha só 1 m de altura.",
+      "date": "2026-11-10T22:00:14+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_nova-especie-ave-terrestre-CAPA_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -6742,6 +7095,25 @@
       "language": "es",
       "image": "",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Vaiano",
+      "categories": [
+        "Ciência",
+        "FENÔMENO CLIMÁTICO",
+        "inverno",
+        "meteorologia",
+        "PÓLO NORTE"
+      ],
+      "title": "Vórtice polar começa a ruir em novembro – mais cedo do que nunca",
+      "url": "https://super.abril.com.br/ciencia/vortice-polar-comeca-a-ruir-em-novembro-mais-cedo-do-que-nunca/",
+      "description": "Os ventos que costumam prendem o ar gelado no Ártico estão parando em uma data incomum. E isso pode trazer um inverno mais rigoroso ao Hemisfério Norte.",
+      "date": "2026-11-10T21:00:42+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/mapa-circulo-polar-artico.png?quality=70&w=300",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7240,6 +7612,23 @@
       "source": "Muy Interesante",
       "language": "es",
       "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Mundo Estranho",
+        "Redação Digital",
+        "site mundo estranho"
+      ],
+      "title": "Para que serve uma bigorna, afinal?",
+      "url": "https://super.abril.com.br/mundo-estranho/para-que-serve-uma-bigorna-afinal/",
+      "description": "Não é só para aparecer em desenho animado.",
+      "date": "2026-11-10T19:00:43+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_para-que-serve-bigorna_site.jpg",
       "kind": "magazine"
     },
     {
@@ -9112,21 +9501,6 @@
     },
     {
       "audio_url": "",
-      "author": "FRANCE 24",
-      "categories": [
-        "Environment"
-      ],
-      "title": "Fossil fuel emissions set to fall for first time since Covid, research shows",
-      "url": "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows",
-      "description": "Global fossil fuel emissions are expected to fall by 0.4 percent in 2026 for first time since the Covid pandemic, driven by the expansion of renewable energy and the oil price shock linked to the Iran war, researchers said Tuesday, who warned the decline may be short-lived.",
-      "date": "2026-11-10T08:25:03+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/1af1eed2-dcdf-11f1-a924-29048b396e03/w:1024/p:16x9/000-9RP3NX.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Frauke Gans",
       "categories": [
         "Bienen",
@@ -9219,21 +9593,6 @@
     },
     {
       "audio_url": "",
-      "author": "FRANCE 24",
-      "categories": [
-        "France"
-      ],
-      "title": "France threatens actions against Iran over supermarket cyberattacks",
-      "url": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
-      "description": "France will seek Europeans actions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-Noël Barrot said Tuesday, after accusing Tehran's Revolutionary Guards of orchestrating the October sabotage.",
-      "date": "2026-11-10T07:43:55+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/7a7a3c24-dcda-11f1-9a72-f71d22e7fea9/w:1024/p:16x9/da8f65893059c2a60634f440f726825d42694898.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Álvaro García M.",
       "categories": [],
       "title": "Toca actualizar el iPhone (incluso si es antiguo): Apple lanza iOS 27.2.1 para solucionar varios problemas de seguridad",
@@ -9256,36 +9615,6 @@
       "source": "Reporterre",
       "language": "fr",
       "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260825__c6fg4zd__v1__highres__france2027politicselectionplacepublique_1_-7c4a0.jpg?1794295757",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "L'Equipe TV",
-      "categories": [
-        "Sports"
-      ],
-      "title": "Teddy Riner announces candidacy for French presidential elections",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261110-teddy-riner-announces-candidacy-for-french-presidential-elections",
-      "description": "Judo star Teddy Riner has announced his candidacy for the 2027 French presidential elections, against a backdrop of political tension across France.",
-      "date": "2026-11-10T06:35:05+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/1ce5d6ca-dc73-11f1-b3f0-a575454bc579/w:1024/p:16x9/AP26313423095961.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE 24",
-      "categories": [
-        "Europe"
-      ],
-      "title": "Live: Ukraine, Russia and US resume peace talks in Abu Dhabi",
-      "url": "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi",
-      "description": "Negotiators from Ukraine, Russia and the United States are meeting in Abu Dhabi for their first trilateral talks in more than nine months, as Washington pushes for an end to the war and Kyiv faces pressure to make territorial concessions. European representatives will also attend, amid fears that US President Donald Tr",
-      "date": "2026-11-10T06:09:26+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/30631f82-dce1-11f1-bedf-f71d22e7fea9/w:1024/p:16x9/2026-11-10T083034Z-1055001884-RC2WKOARNXCT-RTRMADP-3-UKRAINE-CRISIS-TALKS.jpg",
       "kind": "presse"
     },
     {
@@ -9426,21 +9755,6 @@
     },
     {
       "audio_url": "",
-      "author": "FRANCE 24",
-      "categories": [
-        "France"
-      ],
-      "title": "Macrons file new defamation lawsuit against US podcaster over transgender rumours",
-      "url": "https://www.france24.com/en/france/20261110-macrons-file-new-defamation-lawsuit-against-us-podcaster-over-transgender-rumours",
-      "description": "French President Emmanuel Macron and his wife Brigitte filed a second lawsuit against US right-wing podcaster Candace Owens over false claims on her gender, accusing her of continuing to spread the allegations and profiting from them despite earlier legal action.",
-      "date": "2026-11-10T04:33:54+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/ef3af00a-dcbf-11f1-b34e-a575454bc579/w:1024/p:16x9/cb700a478b2bb0246e753a3e44c0a699e13978e9.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "\"Es insostenible\": El Hierro, la isla de 12.000 habitantes en España a la que han llegado 8.000 migrantes en barca en las últimas 5 semanas",
@@ -9507,36 +9821,6 @@
     },
     {
       "audio_url": "",
-      "author": "FRANCE 24",
-      "categories": [
-        "Americas"
-      ],
-      "title": "California voters reject proposed one-time tax on billionaires' wealth",
-      "url": "https://www.france24.com/en/americas/20261110-california-voters-reject-proposed-one-time-tax-on-billionaires-wealth",
-      "description": "California voters have rejected a proposed 5% tax on the net worth of billionaires, handing a victory to tech leaders who poured hundreds of millions of dollars into defeating the measure. The defeat of Proposition 40 also marks a setback for progressives seeking to tax the wealth of the ultra-rich.",
-      "date": "2026-11-10T03:19:56+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/1bfc22d4-d82f-11f1-844d-bf1914cabd52/w:1024/p:16x9/billionaire-calif-taxe.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE 24",
-      "categories": [
-        "Americas"
-      ],
-      "title": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
-      "url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
-      "description": "Amnesty International has called on El Salvador and Haiti to make public the agreement governing the deployment of around 2,000 Salvadoran troops to the gang-plagued Caribbean nation, warning of risks to human rights and accountability.",
-      "date": "2026-11-10T02:24:22+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/7a2090b6-dcad-11f1-9ef2-d18c5759e759/w:1024/p:16x9/AP26303760183098.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Stan Horaczek",
       "categories": [
         "Gear"
@@ -9593,19 +9877,6 @@
     },
     {
       "audio_url": "",
-      "author": "FRANCE24",
-      "categories": [],
-      "title": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy",
-      "url": "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy",
-      "description": "Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. The controversy has rattled investors, sending Nvidia shares tumbling.",
-      "date": "2026-11-10T00:22:00+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/b5d81122-dc9b-11f1-b602-1beafce15fea/w:1024/p:16x9/EN-20261110-000700-000840-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Quién es la supuesta espía china que tuvo una relación con el director de Nvidia, el gigante tecnológico de la IA (y otras claves del caso)",
@@ -9650,19 +9921,6 @@
     },
     {
       "audio_url": "",
-      "author": "FRANCE24",
-      "categories": [],
-      "title": "US Defense Secretary Hegseth faces expected impeachment vote this week",
-      "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
-      "description": "A Republican lawmaker moved Monday to impeach US Defense Secretary Pete Hegseth over the war in Iran, setting up a potentially explosive vote in Congress days after President Donald Trump's party suffered a crushing midterm defeat. Kentucky congressman Thomas Massie introduced eight articles of impeachment accusing Heg",
-      "date": "2026-11-09T22:51:39+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/20a94370-dc8f-11f1-a9ca-1beafce15fea/w:1024/p:16x9/EN-20261109-233324-233828-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Amanda Nascimento",
       "categories": [
         "Ciência",
@@ -9678,62 +9936,6 @@
       "language": "pt",
       "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_NASA-revela-veiculo-PROMISE-lancado-lua-2028_site.jpg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE24",
-      "categories": [],
-      "title": "France blames Iran for cyberattack on supermarket fridges",
-      "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
-      "description": "French Foreign Minister Jean-Noël Barrot on Monday accused Iran's Revolutionary Guards of being behind a recent cyberattack on French supermarket fridges, saying there would be consequences for the country.",
-      "date": "2026-11-09T22:33:12+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Sharon GAFFNEY",
-      "categories": [
-        "A propos"
-      ],
-      "title": "Nvidia: Honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
-      "description": "Nvidia ⁠and ​Chief ​Executive Jensen Huang were ​sued ‌on ⁠Monday ‌in ⁠a proposed class ​action accusing ‌them of ‌defrauding ​shareholders by concealing Huang's ties ​with ​a ​suspected ​Chinese spy. Speaking with FRANCE 24's Sharon Gaffney, Steve Tsang, Director of the SOAS China Institute, says that the affair \"can ",
-      "date": "2026-11-09T22:17:02+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/fd78160c-dc88-11f1-88e7-a575454bc579/w:1024/p:16x9/EN-20261109-223117-224317-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE24",
-      "categories": [],
-      "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
-      "url": "https://www.france24.com/en/nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
-      "description": "Nvidia ⁠and ​Chief ​Executive Jensen Huang were ​sued ‌on ⁠Monday ‌in ⁠a proposed class ​action accusing ‌them of ‌defrauding ​shareholders by concealing Huang's ties ​with ​a ​suspected ​Chinese spy. Speaking with FRANCE 24's Sharon Gaffney, Steve Tsang, Director of the SOAS China Institute, says that the affair \"can ",
-      "date": "2026-11-09T22:14:17+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/fd78160c-dc88-11f1-88e7-a575454bc579/w:1024/p:16x9/EN-20261109-223117-224317-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE 24",
-      "categories": [
-        "Europe"
-      ],
-      "title": "UK writer M. John Harrison wins Booker Prize for AI-tinged apocalyptic novel",
-      "url": "https://www.france24.com/en/europe/20261109-uk-writer-m-john-harrison-wins-booker-prize-for-ai-tinged-apocalyptic-novel",
-      "description": "UK author M. John Harrison won the Booker Prize on Monday for his enigmatic novel \"The End of Everything\", which echoes concerns about artificial intelligence in a darkly satirical depiction of post-apocalyptic Britain.",
-      "date": "2026-11-09T22:09:55+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/4a8ae5c2-dc8a-11f1-aa1e-695cb59fade5/w:1024/p:16x9/b494e954a69a687575dd83c9c41ab832139bc0fd.jpg",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -9766,36 +9968,6 @@
       "language": "en",
       "image": "https://www.popsci.com/wp-content/uploads/2026/11/Peru-Wall-Art.jpg?quality=85",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Clémence WALLER",
-      "categories": [
-        "Eye on Africa"
-      ],
-      "title": "South Africa's ANC suffers historic setback in local elections as coalition talks begin",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
-      "description": "South Africa's ruling ANC suffers its worst-ever local election results, securing just 30 percent of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence officer Herbert Matanda Mabonga accuses the army of secretly detaining and torturing opponents, following the release of videos that spa",
-      "date": "2026-11-09T21:54:11+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/346c3b5e-dc87-11f1-b0e6-bf1914cabd52/w:1024/p:16x9/capture-aa965032.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE 24",
-      "categories": [
-        "Europe"
-      ],
-      "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
-      "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
-      "description": "Negotiators from Ukraine, Russia and the United States are set to meet in the capital of the United Arab Emirates (UAE) on Tuesday for a new round of talks aimed at ending nearly five years of full-scale war triggered by Moscow's invasion of its neighbour. Security guarantees for the warring sides are set to top the ag",
-      "date": "2026-11-09T21:46:23+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -9901,19 +10073,6 @@
     },
     {
       "audio_url": "",
-      "author": "FRANCE24",
-      "categories": [],
-      "title": "French Judo superstar Teddy Riner says will run for president",
-      "url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president",
-      "description": "France's multiple Olympic judo champion Teddy Riner announced on Monday he would run in next year's presidential election, after expressing concern about the \"rise of the far right\". \"My name is Teddy Riner and today, I am telling you face to face: I am a candidate in the 2027 presidential election,\" the 37-year-old sa",
-      "date": "2026-11-09T21:14:51+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/f62a8bcc-dc7f-11f1-ad8f-d18c5759e759/w:1024/p:16x9/EN-20261109-213456-214006-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "brunoalmeidavaiano",
       "categories": [
         "Mundo Estranho",
@@ -9933,34 +10092,6 @@
     },
     {
       "audio_url": "",
-      "author": "Vedika BAHL",
-      "categories": [
-        "Truth or Fake"
-      ],
-      "title": "Trump says he was ‘kidding’ about Dana White press secretary job, amid online mix-up claims",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims",
-      "description": "Donald Trump says he was \"only kidding\" when he announced he had offered his friend and UFC boss Dana White the job of White House press secretary. The president shared an AI-generated video of White behind the briefing room podium and UFC fighters attacking journalists. But the announcement also sparked online specula",
-      "date": "2026-11-09T20:51:32+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/46f18494-dc7f-11f1-80b4-a575454bc579/w:1024/p:16x9/dana-white.png",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE24",
-      "categories": [],
-      "title": "Nvidia's Huang scandal rattles AI industry built around him",
-      "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him",
-      "description": "Nvidia chief Jensen Huang sits at the center of the artificial intelligence boom, and the spy scandal that erupted over the weekend threatens to shake the company at a time when confidence in the AI investment frenzy is already fragile. Taiwan-born Huang is regarded as the godfather of the AI economy, the executive eve",
-      "date": "2026-11-09T20:09:22+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/b0c0757c-dc77-11f1-97b1-695cb59fade5/w:1024/p:16x9/EN-20261109-203701-204148-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Steinmeier-Rede zum 9. November: Die Scham und das Glück der Deutschen",
@@ -9970,32 +10101,6 @@
       "source": "Deutsche Welle",
       "language": "de",
       "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE24",
-      "categories": [],
-      "title": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
-      "url": "https://www.france24.com/en/paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fridge-cyberattacks",
-      "description": "The Paris prosecutor said she had opened an investigation into Shahid Kaveh, a shadowy cyber unit of the IRGC, the Islamic republic's ideological army, over the 'unprecedented' cyberattacks targeting French supermarkets' fridges in October. Little is known about the Shahid Kaveh unit, although analysts have long observ",
-      "date": "2026-11-09T20:06:09+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/93dd0826-dc77-11f1-8ea8-bf1914cabd52/w:1024/p:16x9/EN-20261109-203104-203701-CS.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "FRANCE24",
-      "categories": [],
-      "title": "'Sexual predator' Russell Brand jailed for 10 years for rape, assault",
-      "url": "https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault",
-      "description": "British comedian and TV star Russell Brand was Monday jailed for more than 10 years for a string of sex offences including rape, as the judge told him he had been a \"sexual predator\" whose fame had protected him. Brand, 51, showed no emotion as judge Joel Bennathan said he had acted with \"staggering arrogance\" and show",
-      "date": "2026-11-09T20:03:55+00:00",
-      "source": "France 24 English",
-      "language": "en",
-      "image": "https://s.france24.com/media/display/f6830bca-dc76-11f1-ad17-1beafce15fea/w:1024/p:16x9/EN-20261109-201213-201409-CS.jpg",
       "kind": "presse"
     },
     {
@@ -12112,62 +12217,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "AVES",
-        "distúrbio",
-        "relógio biológico"
-      ],
-      "title": "Não são só os humanos: algumas aves também sofrem com jet lag",
-      "url": "https://super.abril.com.br/ciencia/nao-sao-so-os-humanos-algumas-aves-tambem-sofrem-com-jet-lag/",
-      "description": "Os bobos-pequenos, uma espécie típica do Atlântico Norte, voam tão rápido rumo ao leste que o relógio interno não acompanha o horário local.",
-      "date": "2026-11-07T21:00:39+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_aves-sofrem-jet-lag_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "CIVILIZAÇÃO INCA",
-        "Drogas",
-        "incas",
-        "sacrifício humano"
-      ],
-      "title": "Múmias incas revelam quais drogas eram usadas em sacrifícios humanos",
-      "url": "https://super.abril.com.br/ciencia/mumias-incas-revelam-quais-drogas-eram-usadas-em-sacrificios-humanos/",
-      "description": "Crianças sacrificadas no ritual da capacocha tinham cocaína, álcool e composto da ayahuasca em seus exames toxicológicos.",
-      "date": "2026-11-07T17:00:49+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_criancas-incas_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "Alimentação saudável",
-        "Carboidratos",
-        "COLESTEROL",
-        "coração"
-      ],
-      "title": "Trocar grãos refinados por integrais pode trazer benefícios ao coração, diz estudo",
-      "url": "https://super.abril.com.br/saude/trocar-graos-refinados-por-integrais-pode-trazer-beneficios-ao-coracao-diz-estudo/",
-      "description": "Metanálise associa a substituição a melhores indicadores de colesterol, triglicérides, pressão arterial e glicemia, mas quantidade deve ser individualizada.",
-      "date": "2026-11-07T15:00:32+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_pao-integral_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "فريق التحرير",
       "categories": [
         "الأخبار",
@@ -12342,24 +12391,6 @@
     },
     {
       "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Mundo Estranho",
-        "Comportamento",
-        "Psicologia",
-        "Sociedade"
-      ],
-      "title": "Pessoas que falam mais palavrões tendem a ser mais honestas",
-      "url": "https://super.abril.com.br/mundo-estranho/pessoas-que-falam-mais-palavroes-tendem-a-ser-mais-honestas/",
-      "description": "Ter a língua suja pode ser uma forma de transparecer que você está dizendo a verdade. Mas é preciso tomar cuidado.",
-      "date": "2026-11-07T09:01:44+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/ME_palavrao-mais-honestidade_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Samira El Hattab",
       "categories": [
         "Bildung",
@@ -12390,25 +12421,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "História",
-        "cannabis",
-        "Maconha",
-        "nômade",
-        "siberia"
-      ],
-      "title": "Humanos já usavam cannabis há 2.800 anos, revela túmulo na Sibéria",
-      "url": "https://super.abril.com.br/historia/humanos-ja-usavam-cannabis-ha-2-800-anos-revela-tumulo-na-siberia/",
-      "description": "Fios de cabelo e quase mil sementes encontrados numa sepultura da civilização cita sugerem uso psicoativo da planta, diz estudo.",
-      "date": "2026-11-06T23:00:00+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/03/1803-Canabis-layout_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "alvy@microsiervos.com (Alvy)",
       "categories": [
         "Internet"
@@ -12420,25 +12432,6 @@
       "source": "Microsiervos",
       "language": "es",
       "image": "https://img.microsiervos.com/images2026/unclickbait1.webp",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Cultura",
-        "Cinema",
-        "cinema americano",
-        "Filmes",
-        "Hollywood"
-      ],
-      "title": "Os 75 filmes que todo mundo deveria assistir, segundo o ator Josh Brolin",
-      "url": "https://super.abril.com.br/cultura/os-75-filmes-que-todo-mundo-deveria-assistir-segundo-o-ator-josh-brolin/",
-      "description": "\"Tubarão\", \"Os Embalos de Sábado à Noite\" e \"Cinema Paradiso\" estão entre os selecionados pelo artista, o Thanos de \"Vingadores\".",
-      "date": "2026-11-06T21:00:46+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_75-filmes-de-acordo-Josh-Brolin-CAPA_site.jpg",
       "kind": "magazine"
     },
     {
@@ -16479,11 +16472,11 @@
     {
       "source": "France 24 English",
       "kind": "presse",
-      "ok": false,
-      "error": "HTTP Error 404: Not Found",
-      "updated_at": "2026-11-11T09:33:42.926151+00:00",
-      "success_at": "2026-11-10T09:58:59.636952+00:00",
-      "last_slot": "2026-11-10:8"
+      "ok": true,
+      "count": 24,
+      "updated_at": "2026-11-11T17:25:08.880732+00:00",
+      "success_at": "2026-11-11T17:25:08.880732+00:00",
+      "last_slot": "2026-11-11:8"
     },
     {
       "source": "BBC Mundo",
@@ -16850,7 +16843,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-11T09:33:42.926151+00:00",
+      "updated_at": "2026-11-11T17:25:08.880732+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16993,10 +16986,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 46,
-      "updated_at": "2026-11-10T17:40:09.177620+00:00",
-      "success_at": "2026-11-10T17:40:09.177620+00:00",
-      "last_slot": "2026-11-10:magazine"
+      "count": 44,
+      "updated_at": "2026-11-11T17:25:08.880732+00:00",
+      "success_at": "2026-11-11T17:25:08.880732+00:00",
+      "last_slot": "2026-11-11:magazine"
     },
     {
       "source": "Pplware",
@@ -17017,5 +17010,5 @@
       "last_slot": "2026-11-06:magazine"
     }
   ],
-  "refreshed_sources": 45
+  "refreshed_sources": 2
 }
