@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-11-11T17:25:08.880732+00:00",
-  "press_updated_at": "2026-11-11T17:25:08.880732+00:00",
+  "updated_at": "2026-11-12T04:22:42.626803+00:00",
+  "press_updated_at": "2026-11-12T04:22:42.626803+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+      "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+      "description": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
+      "date": "2026-11-12T04:00:24+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+      "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+      "description": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
+      "date": "2026-11-12T03:50:42+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
+      "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+      "description": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
+      "date": "2026-11-12T03:31:08+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
+      "description": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet.",
+      "date": "2026-11-12T03:13:32+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Indonesian VP resigns over education qualification row",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+      "description": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
+      "date": "2026-11-12T02:22:48+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
+      "description": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
+      "date": "2026-11-12T02:03:30+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Three-storey building collapses in Brooklyn",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+      "description": "A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.",
+      "date": "2026-11-12T01:50:36+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News Analysis"
+      ],
+      "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
+      "url": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
+      "description": "Nvidia says no secrets were compromised, but experts question what sensitive information may have been exposed.",
+      "date": "2026-11-12T01:33:09+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+      "description": "Gaza's Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
+      "date": "2026-11-12T01:20:55+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
+      "url": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+      "description": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
+      "date": "2026-11-12T01:04:28+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+      "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+      "description": "Chip giant's stock price falls more than 8 percent amid speculation over co-founder's position.",
+      "date": "2026-11-12T00:43:26+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+      "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+      "description": "Guard at memorial site can be heard yelling at group to 'maintain an atmosphere of silence and respect at all times'.",
+      "date": "2026-11-12T00:42:37+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
+      "url": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
+      "description": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
+      "date": "2026-11-12T00:33:44+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Cameroon: Who is really calling the shots?",
+      "url": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss",
+      "description": "Biya’s absences raise questions about who holds power and what comes next in Cameroon.",
+      "date": "2026-11-12T00:29:33+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+      "description": "An army sentinel guarding the Tomb of the Unknown Soldier in the Arlington National Cemetery has reprimanded Hegseth.",
+      "date": "2026-11-12T00:18:46+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+      "description": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty.",
+      "date": "2026-11-12T00:06:50+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran war live: IRGC chief says sanctions won’t stop missile programme",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "description": "Israel orders military to step up preparations for possible attack on Iran as IRGC chief pledges missile development.",
+      "date": "2026-11-12T00:00:44+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Barcelona erupts in violence after general strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
+      "description": "Protesters hurled fireworks at police and set rubbish bins ablaze in Barcelona after Spain’s general strike.",
+      "date": "2026-11-11T23:50:01+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+      "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+      "description": "The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.",
+      "date": "2026-11-11T23:05:34+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Israeli strikes hit medical complex as nine killed across Gaza",
+      "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+      "description": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
+      "date": "2026-11-11T22:55:37+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "Joanna YORK",
@@ -1212,21 +1512,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
-      "url": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
-      "description": "US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.",
-      "date": "2026-11-11T08:58:59+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Carla Jorge de Carvalho",
       "categories": [
         "Rádio Observador",
@@ -1572,21 +1857,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "Opinions"
-      ],
-      "title": "Putin is not ready to make peace in Abu Dhabi",
-      "url": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
-      "description": "The Russian leader still believes he can outlast Western support for Ukraine.",
-      "date": "2026-11-11T08:37:31+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Mundo"
       ],
       "title": "China, EUA e Rússia negoceiam acordo sobre uso de IA em armas nucleares",
@@ -1896,21 +2166,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "How are Pakistan’s imports from India growing again despite tensions?",
-      "url": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions?traffic_source=rss",
-      "description": "Formally, they're not trading at all. But Pakistan's imports from India are back to pre-war levels. Is a thaw next?",
-      "date": "2026-11-11T08:30:40+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Elena Bittante",
       "categories": [
         "Viaggi",
@@ -2058,21 +2313,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "Economy"
-      ],
-      "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
-      "url": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss",
-      "description": "Booming exports mask a thriftiness among the Chinese that could undermine long-term growth.",
-      "date": "2026-11-11T08:29:10+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Noticiário Antena1"
       ],
       "title": "8h Mau tempo fecha acessos ao Funchal",
@@ -2198,21 +2438,6 @@
       "source": "France 24",
       "language": "fr",
       "image": "https://s.france24.com/media/display/9d2e57b8-b87d-11f1-859e-852b23529bb9/w:1024/p:16x9/J24-CAN.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-      "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
-      "description": "Mohsen Rezaei's comments come as the IRGC said at least three ships had hit mines and caught fire in the Hormuz strait.",
-      "date": "2026-11-11T08:21:56+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -2695,21 +2920,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Students run for safety after fireworks set off inside French school",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss",
-      "description": "Video captures the moment students and staff ran for safety as fireworks were set off along a school corridor in France.",
-      "date": "2026-11-11T07:55:55+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "\"15/18\" : filmer la crise et le soin",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-regard-culturel/le-regard-culturel-chronique-du-mercredi-11-novembre-2026-5335350",
@@ -3157,36 +3367,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "News"
-      ],
-      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-      "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
-      "description": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
-      "date": "2026-11-11T07:26:28+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "Is Washington rethinking its relationship with Israel?",
-      "url": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
-      "description": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
-      "date": "2026-11-11T07:26:17+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Noticiário Antena1"
       ],
       "title": "7h Os efeitos da depressão Charles na Madeira",
@@ -3258,21 +3438,6 @@
       "source": "El País",
       "language": "es",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261111/1236303_032125_video_1800.mp4",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "If hackers can take over a supermarket fridge, what else is at risk?",
-      "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss",
-      "description": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
-      "date": "2026-11-11T07:20:08+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -4076,21 +4241,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-      "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
-      "description": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
-      "date": "2026-11-11T06:23:04+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Vous postulez peut-être à un emploi qui n'existe pas : le phénomène des \"offres fantômes\"",
       "url": "https://www.radiofrance.fr/franceinfo/podcasts/le-monde-et-vous/le-monde-et-vous-du-mercredi-11-novembre-2026-2969626",
@@ -4535,21 +4685,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
-      "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
-      "description": "Double Olympic gold medallist cites 'financial and practical challenges' of swimming.",
-      "date": "2026-11-11T05:52:28+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Le tour de la question du mercredi 11 novembre 2026",
       "url": "https://www.radiofrance.fr/franceinfo/podcasts/le-tour-de-la-question/le-tour-de-la-question-du-mercredi-11-novembre-2026-6339720",
@@ -4630,21 +4765,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/f4c4d9fb-a79a-41bf-86ed-e5ead2bb67dc/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-      "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
-      "description": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim dealing heavy blows.",
-      "date": "2026-11-11T05:39:26+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -4843,21 +4963,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
-      "url": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
-      "description": "Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control.",
-      "date": "2026-11-11T05:16:57+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
@@ -4928,21 +5033,6 @@
       "source": "Courrier international",
       "language": "fr",
       "image": "https://focus.courrierinternational.com/2026/11/10/0/0/3972/2648/644/0/60/0/9699bcc_ftp-1-bciubeiysuc3-afp-d7276g7.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "US charges three men for allegedly plotting attack on UK base",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
-      "description": "The US has charged three men over alleged involvement in a plot to attack a Royal Air Force Base in Fairford, UK.",
-      "date": "2026-11-11T05:01:47+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5069,21 +5159,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/malaysias-ex-pm-transferred-to-house-arrest-for-1mdb-graft-sentence?traffic_source=rss",
-      "description": "Former Malaysian Prime Minister Najib Razak has been transferred from prison to his Kuala Lumpur home for house arrest.",
-      "date": "2026-11-11T04:56:22+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Caitlin Cassidy",
       "categories": [
         "Youpla/ACBF funeral fund",
@@ -5167,21 +5242,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
-      "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
-      "description": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict.",
-      "date": "2026-11-11T04:44:18+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "20 Minutes avec AFP",
       "categories": [
         "Monde",
@@ -5216,21 +5276,6 @@
       "source": "El País",
       "language": "es",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261110/1236168_180846_video_1800.mp4",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Russia, Ukraine exchange strikes as Baltic nations issue drone alerts",
-      "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
-      "description": "Attacks also reported in Russia's northwest as US-mediated talks continue in Abu Dhabi.",
-      "date": "2026-11-11T04:34:47+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5550,21 +5595,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Netanyahu heckled by Bennett at Knesset opening session",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
-      "description": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker PM Benjamin Netanyahu.",
-      "date": "2026-11-11T04:04:56+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Mathilde Durand",
       "categories": [
         "Monde",
@@ -5722,21 +5752,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Section 219: the future of US-Israeli defence partnership",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss",
-      "description": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
-      "date": "2026-11-11T03:48:58+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "RFI",
       "categories": [
         "Afrique"
@@ -5836,21 +5851,6 @@
       "source": "BBC World",
       "language": "en",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
-      "url": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
-      "description": "Kennedy dynasty has filed a motion to stop Trump's arch from obscuring JFK Eternal Flame and family gravesites.",
-      "date": "2026-11-11T03:21:40+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -16465,9 +16465,9 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-11-11T09:33:42.926151+00:00",
-      "success_at": "2026-11-11T09:33:42.926151+00:00",
-      "last_slot": "2026-11-11:8"
+      "updated_at": "2026-11-12T04:22:42.626803+00:00",
+      "success_at": "2026-11-12T04:22:42.626803+00:00",
+      "last_slot": "2026-11-12:7"
     },
     {
       "source": "France 24 English",
@@ -17010,5 +17010,5 @@
       "last_slot": "2026-11-06:magazine"
     }
   ],
-  "refreshed_sources": 2
+  "refreshed_sources": 1
 }
