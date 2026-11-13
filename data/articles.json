@@ -1,7 +1,453 @@
 {
-  "updated_at": "2026-11-13T08:48:27.549895+00:00",
+  "updated_at": "2026-11-13T16:47:12.992512+00:00",
   "press_updated_at": "2026-11-13T08:48:27.549895+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Eduardo Nuvens",
+      "categories": [
+        "Guia de Compras",
+        "produtos"
+      ],
+      "title": "DDR5 em promoção: memórias Corsair Vengeance estão com ótimas ofertas na Amazon",
+      "url": "https://olhardigital.com.br/2026/11/13/reviews/ddr5-em-promocao-memorias-corsair-vengeance-estao-com-otimas-ofertas-na-amazon/",
+      "description": "Se você está pensando em montar ou atualizar seu PC, este é um bom momento para ficar de olho nas memórias RAM. Reunimos três opções da linha Corsair Vengeance DDR5 que estão em promoção na Amazon Brasil — todas com bom desempenho para uso geral, games e produtividade. Corsair Vengeance 32GB (2x16GB) DDR5 5200MHz CL40 ",
+      "date": "2026-11-13T16:33:52+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "https://m.media-amazon.com/images/I/31Ch7pThgzL._SL500_.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Capozzi",
+      "categories": [
+        "Inteligência Artificial",
+        "agentes de IA",
+        "ChatGPT",
+        "chatgpt wallet",
+        "OpenAI"
+      ],
+      "title": "Você confia? Agente de IA da OpenAI, ChatGPT Wallet fará compras pelo usuário e promete segurança",
+      "url": "https://olhardigital.com.br/2026/11/13/inteligencia-artificial/voce-confia-agente-de-ia-da-openai-chatgpt-wallet-fara-compras-pelo-usuario-e-promete-seguranca/",
+      "description": "Mas a nova ferramenta não chega para todo mundo neste primeiro momento: por enquanto, estará disponível nos Estados Unidos para assinantes do ChatGPT Pro\nO post Você confia? Agente de IA da OpenAI, ChatGPT Wallet fará compras pelo usuário e promete segurança apareceu primeiro em Olhar Digital.",
+      "date": "2026-11-13T16:17:10+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Eduardo Nuvens",
+      "categories": [
+        "Guia de Compras",
+        "produtos"
+      ],
+      "title": "Mais velocidade e espaço: confira uma seleção de SSDs NVMe em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/11/13/reviews/mais-velocidade-e-espaco-confira-uma-selecao-de-ssds-nvme-em-promocao-na-amazon/",
+      "description": "Seja para dar um upgrade no PC, acelerar o notebook ou simplesmente ganhar mais espaço de armazenamento, investir em um bom SSD NVMe faz toda a diferença no dia a dia. Separamos três opções com ótimo custo-benefício que estão em oferta agora na Amazon — todas com interface PCIe Gen4 e formato M.2 2280, padrão […]\nO pos",
+      "date": "2026-11-13T16:13:52+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "https://m.media-amazon.com/images/I/316eR402YoL._SL500_.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Rui Neto",
+      "categories": [
+        "Google/YouTube",
+        "Inteligência Artificial",
+        "Notícias",
+        "Gemini 4 Hydrogen",
+        "Google"
+      ],
+      "title": "Google lança o Gemini 4 Hydrogen. Pesquisar no Google nunca mais será igual",
+      "url": "https://pplware.sapo.pt/inteligencia-artificial/google-lanca-o-gemini-4-hydrogen-pesquisar-no-google-nunca-mais-sera-igual/",
+      "description": "A Google acaba de apresentar o mais recente modelo de linguagem da sua família de topo, o Gemini 4 Hydrogen, que passa a estar integrado no motor de pesquisa para oferecer respostas mais ricas e inteligentes. Concebido para execução rápida em agentes Ao contrário dos seus antecessores Gemini 4 Argon e Carbon, lançados ",
+      "date": "2026-11-13T16:00:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Rachele Victoria",
+      "categories": [
+        "Games e Consoles",
+        "epic games store",
+        "Fatal Fury",
+        "Games",
+        "playstation 4"
+      ],
+      "title": "Fatal Fury: City of the Wolves terá vilão de anime clássico como novo personagem",
+      "url": "https://olhardigital.com.br/2026/11/13/games-e-consoles/fatal-fury-city-of-the-wolves-laocorn-gaudeamus-dlc/",
+      "description": "Laocorn Gaudeamus, antagonista do filme animado de 1994, chega ao jogo de luta em 19 de novembro como parte da terceira temporada de conteúdos adicionais\nO post Fatal Fury: City of the Wolves terá vilão de anime clássico como novo personagem apareceu primeiro em Olhar Digital.",
+      "date": "2026-11-13T16:00:00+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/unnamed-2-1024x768.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Valdir Antonelli",
+      "categories": [
+        "Internet e Redes Sociais",
+        "apagão",
+        "fax",
+        "Microsoft",
+        "Microsoft 365"
+      ],
+      "title": "Qual a última vez que você usou um fax? No apagão da Microsoft, empresas voltaram ao passado",
+      "url": "https://olhardigital.com.br/2026/11/13/internet-e-redes-sociais/qual-a-ultima-vez-que-voce-usou-um-fax-no-apagao-da-microsoft-empresas-voltaram-ao-passado/",
+      "description": "A interrupção afetou mais de 30 milhões de assinantes e levou bancos, seguradoras e transportadoras a adaptar suas comunicações e rotinas\nO post Qual a última vez que você usou um fax? No apagão da Microsoft, empresas voltaram ao passado apareceu primeiro em Olhar Digital.",
+      "date": "2026-11-13T15:57:57+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/08/Made-By-Google-2025-Pixel-10-1024x576.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Eduardo Nuvens",
+      "categories": [
+        "Guia de Compras",
+        "produtos"
+      ],
+      "title": "Precisão e velocidade: selecionamos mouses gamer sem fio que vale a pena conferir",
+      "url": "https://olhardigital.com.br/2026/11/13/reviews/precisao-e-velocidade-selecionamos-mouses-gamer-sem-fio-que-vale-a-pena-conferir/",
+      "description": "Quem leva os jogos a sério sabe que um bom mouse faz toda a diferença na performance. Reunimos três opções de mouses gamer sem fio que se destacam pela tecnologia embarcada, design e conectividade — e que estão disponíveis agora na Amazon. Confira: Mouse Gamer Sem Fio Redragon King Lite Ultraleve 49g Sensor PAW3313 100",
+      "date": "2026-11-13T15:53:52+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "https://m.media-amazon.com/images/I/31YyOHJwaLL._SL500_.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Eduardo Nuvens",
+      "categories": [
+        "Guia de Compras",
+        "produtos"
+      ],
+      "title": "Upgrade no seu setup: veja uma seleção de monitores gamer LG UltraGear em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/11/13/reviews/upgrade-no-seu-setup-veja-uma-selecao-de-monitores-gamer-lg-ultragear-em-promocao-na-amazon/",
+      "description": "Se você está pensando em melhorar a experiência nos jogos, esta é uma boa oportunidade. Reunimos três opções de monitores gamer da linha LG UltraGear disponíveis na Amazon, com painéis IPS, alta taxa de atualização e compatibilidade com as principais tecnologias anti-tearing do mercado. Confira: LG UltraGear 24″ IPS 14",
+      "date": "2026-11-13T15:33:52+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "https://m.media-amazon.com/images/I/41yYtMGJhDL._SL500_.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "História",
+        "Carne",
+        "trends"
+      ],
+      "title": "“Chuva de carne” existe? Conheça o caso real de 1876 e as 3 teorias para explicá-lo",
+      "url": "https://super.abril.com.br/historia/chuva-de-carne-existe-conheca-o-caso-real-de-1876-e-as-3-teorias-para-explica-lo/",
+      "description": "Numa fazenda no interior dos EUA, pedaços de carne crua caíram do céu e atraíram dezenas de curiosos em busca de explicações.",
+      "date": "2026-11-13T15:32:46+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_pode-chover-carne-caso-1876_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Flavia Correia",
+      "categories": [
+        "Astronomia",
+        "Ciência e Espaço",
+        "alinhamento",
+        "Planetas"
+      ],
+      "title": "Um espetáculo no céu te espera!",
+      "url": "https://olhardigital.com.br/2026/11/13/ciencia-e-espaco/um-espetaculo-no-ceu-te-espera/",
+      "description": "Mas, para assistir, você vai precisar acordar antes do nascer do Sol – e isso pode valer muito a pena!\nO post Um espetáculo no céu te espera!  apareceu primeiro em Olhar Digital.",
+      "date": "2026-11-13T15:31:35+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Alinhamento-Planetrio-no-Brasil1-819x1024.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Valdir Antonelli",
+      "categories": [
+        "Internet e Redes Sociais",
+        "apagão",
+        "memes",
+        "Microsoft 365"
+      ],
+      "title": "Falha no Outlook, Teams e Copilot rende memes nas redes sociais",
+      "url": "https://olhardigital.com.br/2026/11/13/internet-e-redes-sociais/falha-no-outlook-teams-e-copilot-rende-memes-nas-redes-sociais/",
+      "description": "Com instabilidade em ferramentas de trabalho e produtividade, usuários recorreram às redes sociais para publicar memes sobre a falha\nO post Falha no Outlook, Teams e Copilot rende memes nas redes sociais apareceu primeiro em Olhar Digital.",
+      "date": "2026-11-13T15:27:29+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Sofia Neto",
+      "categories": [
+        "Motores/Energia",
+        "BMW",
+        "indemnização"
+      ],
+      "title": "BMW deu tanto dinheiro aos funcionários para saídas voluntárias que teve de fechar as inscrições",
+      "url": "https://pplware.sapo.pt/motores/bmw-deu-tanto-dinheiro-aos-funcionarios-para-saidas-voluntarias-que-teve-de-fechar-as-inscricoes/",
+      "description": "A BMW está a oferecer indemnizações que, em casos excecionais, ultrapassam os 650 mil euros para incentivar a saída voluntária de trabalhadores na Alemanha. A procura foi tão elevada que a fabricante decidiu encerrar antecipadamente as inscrições no programa. A indústria automóvel europeia enfrenta uma crescente pressã",
+      "date": "2026-11-13T15:20:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Eduardo Nuvens",
+      "categories": [
+        "Guia de Compras",
+        "produtos"
+      ],
+      "title": "Hora de renovar o setup: selecionamos notebooks em promoção na Amazon",
+      "url": "https://olhardigital.com.br/2026/11/13/reviews/hora-de-renovar-o-setup-selecionamos-notebooks-em-promocao-na-amazon-8/",
+      "description": "Se você está pensando em trocar o computador ou adquirir um notebook novo, este é um bom momento para pesquisar. Reunimos três opções em oferta na Amazon que atendem perfis diferentes de usuário — do uso básico do dia a dia até quem precisa de mais desempenho e portabilidade. Confira. Samsung Galaxy Book4 — Intel […]\nO",
+      "date": "2026-11-13T15:13:52+00:00",
+      "source": "Olhar Digital",
+      "language": "pt",
+      "image": "https://m.media-amazon.com/images/I/41w8J-90SiL._SL500_.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Pedro Simões",
+      "categories": [
+        "Apple",
+        "dobrável",
+        "ecrã",
+        "iPhone Duo"
+      ],
+      "title": "iPhone Duo: quase um terço dos primeiros compradores devolveu o dobrável da Apple?",
+      "url": "https://pplware.sapo.pt/apple/iphone-duo-quase-um-terco-dos-primeiros-compradores-devolveu-o-dobravel-da-apple/",
+      "description": "O entusiasmo inicial em torno do primeiro smartphone dobrável da Apple começa a esbarrar na realidade do dia a dia. Duas semanas após o lançamento a 23 de outubro, multiplicam-se os relatos de utilizadores que decidiram acionar o período de devolução de 14 dias sem necessidade de justificação nos EUA. Uma sondagem rece",
+      "date": "2026-11-13T15:00:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Ciência",
+        "Astronomia",
+        "Buraco negro",
+        "Buracos negros"
+      ],
+      "title": "O que são buracos brancos?",
+      "url": "https://super.abril.com.br/coluna/oraculo/o-que-sao-buracos-brancos/",
+      "description": "Conheça o irmão esquecido do buraco negro.",
+      "date": "2026-11-13T14:00:35+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Oraculo_Buracos_brancos.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Pedro Pinto",
+      "categories": [
+        "Microsoft",
+        "E-mail"
+      ],
+      "title": "“Habemus e-mail”: Outlook já está a funcionar! Microsoft começa a recuperar do apagão",
+      "url": "https://pplware.sapo.pt/microsoft/habemus-e-mail-outlook-ja-esta-a-funcionar-microsoft-comeca-a-recuperar-do-apagao/",
+      "description": "Depois de várias horas de dificuldades, o serviço de e-mail da Microsoft começa a dar sinais de recuperação. Há utilizadores que já conseguem voltar a aceder às suas caixas de correio e enviar e receber mensagens. Problema esteve relacionada com servidores do Exchange Online A falha, que afetou o Outlook e vários servi",
+      "date": "2026-11-13T13:49:34+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Sofia Neto",
+      "categories": [
+        "Segurança",
+        "burla",
+        "fraude"
+      ],
+      "title": "Atenção: burlões podem usar cenário de falha da Microsoft para roubar dados e dinheiro!",
+      "url": "https://pplware.sapo.pt/internet/seguranca/atencao-burloes-podem-usar-cenario-de-falha-da-microsoft-para-roubar-dados-e-dinheiro/",
+      "description": "Os problemas recentes nos serviços da Microsoft podem servir de pretexto a campanhas fraudulentas, com os criminosos a explorarem a preocupação dos utilizadores para obterem dados pessoais e credenciais de acesso. Neste cenário, há cuidados simples que permitem evitar a maioria destas tentativas. Sempre que uma grande ",
+      "date": "2026-11-13T13:40:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Sofia Neto",
+      "categories": [
+        "Inteligência Artificial",
+        "Motores/Energia",
+        "Autocarro",
+        "câmara",
+        "inteligência artificial"
+      ],
+      "title": "Como câmaras com IA nos autocarros escolares estão a gerar milhões em multas",
+      "url": "https://pplware.sapo.pt/motores/como-camaras-com-ia-nos-autocarros-escolares-estao-a-gerar-milhoes-em-multas/",
+      "description": "Milhares de autocarros escolares nos Estados Unidos estão equipados com câmaras de Inteligência Artificial (IA) que detetam ultrapassagens ilegais. Apesar de o sistema já ter originado centenas de milhares de multas, uma investigação levanta dúvidas sobre o seu impacto na redução das infrações e dos acidentes. A fiscal",
+      "date": "2026-11-13T13:20:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Sofia Neto",
+      "categories": [
+        "Jogos",
+        "GTA 6",
+        "GTA VI",
+        "Logitech",
+        "Videojogos"
+      ],
+      "title": "Logitech vai pagar a todos os funcionários para passarem um dia a jogar videojogos. Porquê?",
+      "url": "https://pplware.sapo.pt/jogos/logitech-vai-pagar-a-todos-os-funcionarios-para-passarem-um-dia-a-jogar-videojogos-porque/",
+      "description": "A Logitech anunciou o “Logi Game Day”, uma iniciativa que dá a todos os funcionários a tempo inteiro e estagiários um dia de folga paga para jogarem o videojogo que quiserem, sem que tenha de ser o GTA 6, cujo lançamento está marcado para a próxima semana. A poucos dias do lançamento de Grand Theft […]",
+      "date": "2026-11-13T12:51:45+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Sofia Neto",
+      "categories": [
+        "Internet",
+        "Notícias",
+        "falha",
+        "Microsoft",
+        "outlook"
+      ],
+      "title": "Falha global da Microsoft chegou ao Governo português: há ministros sem e-mail",
+      "url": "https://pplware.sapo.pt/informacao/falha-global-da-microsoft-chegou-ao-governo-portugues-ha-ministros-sem-e-mail/",
+      "description": "A falha que afeta os serviços da Microsoft desde quinta-feira deixou vários ministros portugueses sem acesso ao e-mail, mas a atividade do Governo prossegue. Os serviços da Microsoft estão a registar falhas desde a tarde de quinta-feira, com milhões de utilizadores em todo o mundo a relatarem dificuldade em aceder ao O",
+      "date": "2026-11-13T12:02:31+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Pedro Simões",
+      "categories": [
+        "Browsers",
+        "Internet",
+        "firefox",
+        "mozilla",
+        "vpn"
+      ],
+      "title": "Firefox sem limites na VPN para se navegar sem restrições até 2027",
+      "url": "https://pplware.sapo.pt/internet/firefox-sem-limites-na-vpn-para-se-navegar-sem-restricoes-ate-2027/",
+      "description": "A Mozilla decidiu abrir os cordões à bolsa no que toca à privacidade e removeu o limite mensal de 50 GB da VPN gratuita integrada no Firefox. A medida entrou em vigor no dia 10 de novembro e estende-se até 31 de janeiro de 2027, permitindo a qualquer utilizador navegar sem olhar para o contador […]",
+      "date": "2026-11-13T11:00:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Sofia Neto",
+      "categories": [
+        "Inteligência Artificial",
+        "Ask Gira",
+        "chatbot",
+        "Cristina Ferreira",
+        "inteligência artificial"
+      ],
+      "title": "O próximo grande projeto de IA em Portugal pode ser um “ChatGPT” só para as mulheres",
+      "url": "https://pplware.sapo.pt/inteligencia-artificial/o-proximo-grande-projeto-de-ia-em-portugal-pode-ser-um-chatgpt-so-para-as-mulheres/",
+      "description": "No encerramento da Web Summit, em Lisboa, Cristina Ferreira anunciou um ChatGPT feminino, criado em parceria com a DefinedAI, de Daniela Braga. Cristina Ferreira deveria ter subido ao palco na quarta-feira, mas a tempestade Charles alterou o calendário da cimeira e levou-a a encerrar o evento no palco principal, perant",
+      "date": "2026-11-13T10:30:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Sofia Neto",
+      "categories": [
+        "Gadgets",
+        "Notícias",
+        "óculos inteligentes",
+        "samsung"
+      ],
+      "title": "Samsung aposta nos óculos inteligentes. Chegada ao mercado já tem data",
+      "url": "https://pplware.sapo.pt/informacao/samsung-entra-no-mercado-dos-oculos-inteligentes-lancamento-oficial-ja-tem-data/",
+      "description": "A Samsung prepara-se para lançar os seus novos óculos inteligentes a 10 de dezembro. Desenvolvidos em colaboração com a Google, a Gentle Monster e a Warby Parker, combinam Inteligência Artificial (IA), câmara e áudio num dispositivo pensado para a utilização diária. A Samsung anunciou oficialmente a nova gama de óculos",
+      "date": "2026-11-13T10:05:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Sociedade",
+        "animais",
+        "guiness",
+        "LIVRO DOS RECORDES",
+        "tartaruga"
+      ],
+      "title": "Como um veterinário salvou o animal mais velho do mundo, de 194 anos, cego e morrendo de fome",
+      "url": "https://super.abril.com.br/sociedade/como-um-veterinario-salvou-o-animal-mais-velho-do-mundo-de-194-anos-cego-e-morrendo-de-fome/",
+      "description": "A tartaruga Jonathan entrou para o Guinness e continua a impressionar com sua longevidade.",
+      "date": "2026-11-13T10:00:09+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_veterinario-salvou-animal-mais-velho-mundo-CAPA_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Mário Sousa",
+      "categories": [
+        "PUB",
+        "Software",
+        "chaves digitais",
+        "goodoffer24",
+        "Office 2024"
+      ],
+      "title": "Pôr palavra-passe num PDF não precisa de programas pagos",
+      "url": "https://pplware.sapo.pt/software/pdf-palavra-passe-office-2024-goodoffer24/",
+      "description": "Um recibo de vencimento, uma declaração para o banco, a cópia do cartão de cidadão que o senhorio pediu. Mandam-se em PDF e fica-se com a ideia de que o PDF é um envelope fechado. Não é. Qualquer pessoa a quem o email seja reencaminhado abre o ficheiro sem dar uma única explicação. Pôr uma […]",
+      "date": "2026-11-13T10:00:00+00:00",
+      "source": "Pplware",
+      "language": "pt",
+      "image": "",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "",
@@ -6022,6 +6468,25 @@
     },
     {
       "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Sociedade",
+        "China",
+        "escândalo",
+        "EUA",
+        "Inteligência artificial"
+      ],
+      "title": "Caso Nvidia: uma linha do tempo, do escândalo extraconjugal à renúncia do CEO Huang",
+      "url": "https://super.abril.com.br/sociedade/caso-nvidia-uma-linha-do-tempo-do-escandalo-extraconjugal-a-renuncia-do-ceo-huang/",
+      "description": "Em duas semanas, o \"rock star\" da inteligência artificial viu seu império perder US$ 1,08 trilhão em valor de mercado após suspeitas de espionagem chinesa.",
+      "date": "2026-11-13T00:21:40+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_caso-NVIDIA-ceo-Huang_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
@@ -6549,6 +7014,25 @@
     },
     {
       "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Sociedade",
+        "Estados Unidos",
+        "História",
+        "leilão",
+        "Martin Luther King"
+      ],
+      "title": "O mistério por trás do manuscrito do discurso “Eu Tenho um Sonho”, de Martin Luther King",
+      "url": "https://super.abril.com.br/sociedade/o-misterio-por-tras-do-manuscrito-do-discurso-eu-tenho-um-sonho-de-martin-luther-king-perdido-por-decadas/",
+      "description": "Perdidas por seis décadas, as anotações daquele dia foram redescobertas – e agora, vão a leilão.",
+      "date": "2026-11-12T22:15:21+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_versao-final-eu-tenho-um-sonho-CAPA_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Pablo Gil",
       "categories": [
         "música",
@@ -7029,6 +7513,25 @@
       "source": "تقنية بلا حدود",
       "language": "ar",
       "image": "https://www.notebookcheck.net/fileadmin/_processed_/5/4/csm_Vivo-X500-Pro-Max-screen_85301a73d6.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Mundo Estranho",
+        "Games",
+        "jogos",
+        "site mundo estranho",
+        "Videogames"
+      ],
+      "title": "133 estudos mostram: gamers são mais inteligentes que os outros",
+      "url": "https://super.abril.com.br/mundo-estranho/133-estudos-mostram-gamers-sao-mais-inteligentes-que-os-outros/",
+      "description": "Meta-análises concluíram que eles se saem melhor em testes de \"habilidades cognitivas\"; entenda.",
+      "date": "2026-11-12T21:00:15+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_gamers-mais-inteligentes-que-outros_site.jpg",
       "kind": "magazine"
     },
     {
@@ -7867,6 +8370,24 @@
       "source": "Xataka",
       "language": "es",
       "image": "https://i.blogs.es/012cdf/sebastian-coman-travel-r4re271njuo-unsplash/1024_2000.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Tecnologia",
+        "Gadgets",
+        "Inteligência artificial",
+        "Medo"
+      ],
+      "title": "Tech: os 4 produtos mais interessantes de novembro de 2026",
+      "url": "https://super.abril.com.br/tecnologia/tech-os-4-produtos-mais-interessantes-de-novembro-de-2026/",
+      "description": "O chip da Nvidia para notebooks de IA, o robô que faz massagem sozinho, os fones afinados no Brasil – e a máquina que tira sangue sem mostrar a agulha.",
+      "date": "2026-11-12T19:00:55+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Tech_Laptop_Dell_XPS_16.jpg",
       "kind": "magazine"
     },
     {
@@ -8762,6 +9283,24 @@
       "source": "Applesfera",
       "language": "es",
       "image": "https://i.blogs.es/8da0dd/ronald-wayneapple/1024_2000.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Tecnologia",
+        "China",
+        "chip",
+        "PROCESSADOR"
+      ],
+      "title": "A nova arma da China",
+      "url": "https://super.abril.com.br/tecnologia/a-nova-arma-da-china/",
+      "description": "O país encontrou uma solução criativa para driblar restrições geopolíticas: uma tecnologia que permite construir CPUs de dois andares.",
+      "date": "2026-11-12T17:00:43+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Tech_Huawei_Mate_XT2.jpg",
       "kind": "magazine"
     },
     {
@@ -9776,6 +10315,23 @@
       "language": "fr",
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/nvidia-jensen-huang-2.png?resize=1200,675&key=231c7260",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Mundo Estranho",
+        "Redação Digital",
+        "site mundo estranho"
+      ],
+      "title": "Como se luta sumô? Entenda as regras e a história dessa da luta milenar japonesa",
+      "url": "https://super.abril.com.br/mundo-estranho/como-se-luta-sumo-entenda-as-regras-e-a-historia-dessa-da-luta-milenar-japonesa/",
+      "description": "Já pensou em se tornar um lutador profissional de sumô?",
+      "date": "2026-11-12T15:16:35+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_lutadores-sumo_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -12750,42 +13306,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Vaiano",
-      "categories": [
-        "Ciência",
-        "FENÔMENO CLIMÁTICO",
-        "inverno",
-        "meteorologia",
-        "PÓLO NORTE"
-      ],
-      "title": "Vórtice polar começa a ruir em novembro – mais cedo do que nunca",
-      "url": "https://super.abril.com.br/ciencia/vortice-polar-comeca-a-ruir-em-novembro-mais-cedo-do-que-nunca/",
-      "description": "Os ventos que costumam prendem o ar gelado no Ártico estão parando em uma data incomum. E isso pode trazer um inverno mais rigoroso ao Hemisfério Norte.",
-      "date": "2026-11-10T21:00:42+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_polar-vortex_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Para que serve uma bigorna, afinal?",
-      "url": "https://super.abril.com.br/mundo-estranho/para-que-serve-uma-bigorna-afinal/",
-      "description": "Não é só para aparecer em desenho animado.",
-      "date": "2026-11-10T19:00:43+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_para-que-serve-bigorna_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "wicho@microsiervos.com (Wicho)",
       "categories": [
         "Espacio"
@@ -12797,25 +13317,6 @@
       "source": "Microsiervos",
       "language": "es",
       "image": "https://img.microsiervos.com/images2026/ESCAPADELogo.webp",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "cirurgias",
-        "gordura",
-        "lipoaspiração",
-        "Obesidade"
-      ],
-      "title": "Lipoaspiração pode compor tratamento contra o lipedema, mostra pesquisa",
-      "url": "https://super.abril.com.br/saude/lipoaspiracao-pode-compor-tratamento-contra-o-lipedema-mostra-pesquisa/",
-      "description": "Ensaio clínico identificou redução da dor em 68% das pacientes operadas. Mas a cirurgia tem riscos e não representa cura da doença.",
-      "date": "2026-11-10T17:00:31+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_lipo-compor-tratamento-lipedema_site.jpg",
       "kind": "magazine"
     },
     {
@@ -13060,23 +13561,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Combustível",
-        "GASOLINA"
-      ],
-      "title": "Renováveis ganham espaço, mas combustíveis fósseis ainda concentram 70% dos subsídios",
-      "url": "https://super.abril.com.br/ciencia/renovaveis-ganham-espaco-mas-fontes-fosseis-ainda-concentram-70-dos-subsidios/",
-      "description": "Brasil ainda destina maior parte do incentivo a energias poluentes, mostra levantamento.",
-      "date": "2026-11-10T10:00:23+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2017/08/poluic3a7c3a3o-aumenta-em-30-quando-carros-flex-preferem-gasolina.png",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Katherine Kornei",
       "categories": [
         "Environment"
@@ -13103,25 +13587,6 @@
       "source": "Microsiervos",
       "language": "es",
       "image": "https://img.microsiervos.com/images2026/KirunaVistaSatelite.webp",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Sociedade",
-        "BONOBOS /CHIMPANZÉ/",
-        "chimpanzé",
-        "FENÔMENO CLIMÁTICO",
-        "INUNDAÇÃO"
-      ],
-      "title": "Santuário entrega comida a chimpanzé por drone nas enchentes na Flórida",
-      "url": "https://super.abril.com.br/sociedade/santuario-entrega-comida-a-chimpanze-por-drone-nas-enchentes-na-florida/",
-      "description": "Kaleb, de 38 anos, precisou receber bananas e cobertores por meio de drones.",
-      "date": "2026-11-10T09:00:36+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_santuario-chimpanze-comida-drone_site.jpg",
       "kind": "magazine"
     },
     {
@@ -13307,42 +13772,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "Marte",
-        "Planetas",
-        "vulcão"
-      ],
-      "title": "Gás fora de época indica que os vulcões de Marte estão só adormecidos",
-      "url": "https://super.abril.com.br/ciencia/gas-fora-de-epoca-indica-que-os-vulcoes-de-marte-estao-so-adormecidos/",
-      "description": "Sonda da ESA flagrou cloreto de hidrogênio sobre fissuras do Monte Alba; calor do subsolo pode criar nichos favoráveis à vida microscópica",
-      "date": "2026-11-09T23:22:40+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_vulcoes-ativos-marte-chance-vida_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "Lua",
-        "missão",
-        "NASA"
-      ],
-      "title": "NASA anuncia contratos de até 10 bilhões e novo rover para construção de base lunar",
-      "url": "https://super.abril.com.br/ciencia/nasa-anuncia-contratos-de-ate-10-bilhoes-e-novo-rover-para-construcao-de-base-lunar/",
-      "description": "SpaceX e Blue Origin estão entre as empresas que vão disputar entregas de carga na Lua; o veículo, movido a energia nuclear, deve explorar o polo sul.",
-      "date": "2026-11-09T22:34:00+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_NASA-revela-veiculo-PROMISE-lancado-lua-2028_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "أحمد عبدالقادر",
       "categories": [
         "أخبار الإنترنت",
@@ -13400,25 +13829,6 @@
     },
     {
       "audio_url": "",
-      "author": "brunoalmeidavaiano",
-      "categories": [
-        "Mundo Estranho",
-        "atmosfera",
-        "banheiro",
-        "espelho",
-        "EVAPORAÇÃO"
-      ],
-      "title": "Por que o espelho do banheiro desembaça de baixo para cima?",
-      "url": "https://super.abril.com.br/mundo-estranho/por-que-o-espelho-do-banheiro-desembaca-de-baixo-para-cima/",
-      "description": "Para entender essa, você vai precisar relembrar os queridinhos das aulas de química: os mols.",
-      "date": "2026-11-09T21:00:56+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_espelho-banheiro-desembaca_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Redacción de Genbeta",
       "categories": [],
       "title": "Windows Update: Las computadoras obsoletas dejarán de recibir actualizaciones en junio de 2027",
@@ -13428,24 +13838,6 @@
       "source": "Genbeta",
       "language": "es",
       "image": "https://i.blogs.es/5dbd95/genbeta-3-pc-windows/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "brunoalmeidavaiano",
-      "categories": [
-        "Mundo Estranho",
-        "Animais de estimação - gatos",
-        "caixa",
-        "gato"
-      ],
-      "title": "Por que os gatos gostam de entrar em caixas?",
-      "url": "https://super.abril.com.br/mundo-estranho/por-que-os-gatos-gostam-de-entrar-em-caixas/",
-      "description": "Um refúgio simples que esconde motivações complexas.",
-      "date": "2026-11-09T19:00:07+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_gatos-gostam-entrar-caixas_site.jpg",
       "kind": "magazine"
     },
     {
@@ -14779,41 +15171,6 @@
     },
     {
       "audio_url": "",
-      "author": "Valdir Antonelli",
-      "categories": [
-        "Segurança e Privacidade",
-        "ataques cibernéticos",
-        "cibersegurança",
-        "Inteligência Artificial",
-        "Japão"
-      ],
-      "title": "Japão vai usar IA para identificar falhas em redes e combater hackers",
-      "url": "https://olhardigital.com.br/2026/11/06/seguranca/japao-vai-usar-ia-para-identificar-falhas-em-redes-e-combater-hackers/",
-      "description": "Entenda como o Japão utilizará inteligência artificial e equipes de resgate cibernético para proteger empresas e órgãos públicos\nO post Japão vai usar IA para identificar falhas em redes e combater hackers apareceu primeiro em Olhar Digital.",
-      "date": "2026-11-06T17:48:02+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia_ciberseguranca-1024x576.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Eduardo Nuvens",
-      "categories": [
-        "Guia de Compras",
-        "produtos"
-      ],
-      "title": "Hora de jogar com qualidade: selecionamos headsets gamer em promoção na Amazon",
-      "url": "https://olhardigital.com.br/2026/11/06/reviews/hora-de-jogar-com-qualidade-selecionamos-headsets-gamer-em-promocao-na-amazon/",
-      "description": "Se você ainda usa aquele fone de ouvido comum para jogar, talvez esteja na hora de dar um upgrade. Separamos três opções de headsets gamer em oferta na Amazon para quem quer melhorar a experiência sonora sem abrir mão do custo-benefício. Confira! Headset Gamer Redragon Zeus Lite Preto P3 H510-LT O Redragon Zeus Lite é ",
-      "date": "2026-11-06T17:38:30+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://m.media-amazon.com/images/I/41j1S82Wg8L._SL500_.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Camille Coirault",
       "categories": [
         "Espace",
@@ -14832,92 +15189,6 @@
     },
     {
       "audio_url": "",
-      "author": "Nathalí \"Yuna\" Almeida",
-      "categories": [
-        "Games e Consoles",
-        "e-sport",
-        "e-sports",
-        "esports",
-        "League of Legends"
-      ],
-      "title": "VALORANT ou League of Legends: qual cenário competitivo está crescendo mais?",
-      "url": "https://olhardigital.com.br/2026/11/06/games-e-consoles/valorant-ou-lol-qual-cenario-de-esports-esta-crescendo-mais/",
-      "description": "Enquanto League of Legends mantém a liderança global de audiência, novas qualificatórias da Riot Games ampliam as oportunidades para equipes de VALORANT chegarem ao circuito profissional\nO post VALORANT ou League of Legends: qual cenário competitivo está crescendo mais? apareceu primeiro em Olhar Digital.",
-      "date": "2026-11-06T17:29:06+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Via-IG-valesportsbr.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Eduardo Nuvens",
-      "categories": [
-        "Guia de Compras",
-        "produtos"
-      ],
-      "title": "Fones Bluetooth com boa bateria e qualidade de som em promoção na Amazon",
-      "url": "https://olhardigital.com.br/2026/11/06/reviews/fones-bluetooth-com-boa-bateria-e-qualidade-de-som-em-promocao-na-amazon-5/",
-      "description": "Seja para treinar, trabalhar ou simplesmente curtir música sem fio, um bom fone Bluetooth faz toda a diferença no dia a dia. Separamos três opções em promoção na Amazon que valem muito a atenção — com autonomia estendida, cancelamento de ruído e conectividade moderna. Confira: PHILIPS TAT1109BK — Fone TWS com até 24 ho",
-      "date": "2026-11-06T17:18:30+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://m.media-amazon.com/images/I/31eeSqQHCvL._SL500_.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Rachele Victoria",
-      "categories": [
-        "Games e Consoles",
-        "black friday",
-        "Games",
-        "logitech",
-        "Periféricos"
-      ],
-      "title": "Black Friday 2026: Logitech anuncia ofertas em mouses, teclados e acessórios gamers",
-      "url": "https://olhardigital.com.br/2026/11/06/games-e-consoles/black-friday-2026-logitech-anuncia-ofertas-em-produtos-gamers/",
-      "description": "Seleção inclui headsets, volantes, webcams e periféricos para PC; descontos serão oferecidos por varejistas como Amazon, KaBuM! e Mercado Livre\nO post Black Friday 2026: Logitech anuncia ofertas em mouses, teclados e acessórios gamers apareceu primeiro em Olhar Digital.",
-      "date": "2026-11-06T17:12:49+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/unnamed-2-961x1024.png",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Eduardo Nuvens",
-      "categories": [
-        "Guia de Compras",
-        "produtos"
-      ],
-      "title": "Sua memória RAM está travando tudo? Veja opções DDR5 em promoção na Amazon",
-      "url": "https://olhardigital.com.br/2026/11/06/reviews/sua-memoria-ram-esta-travando-tudo-veja-opcoes-ddr5-em-promocao-na-amazon/",
-      "description": "Se o seu computador anda lento ou você está montando uma nova máquina, investir em uma boa memória RAM faz toda a diferença no desempenho do sistema. Separamos três opções da linha Corsair Vengeance em DDR5 que estão com boas condições na Amazon — todas com suporte a AMD EXPO e Intel XMP, ideais para […]\nO post Sua mem",
-      "date": "2026-11-06T16:58:30+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://m.media-amazon.com/images/I/31Ch7pThgzL._SL500_.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Eduardo Nuvens",
-      "categories": [
-        "Guia de Compras",
-        "produtos"
-      ],
-      "title": "Hora de turbinar o armazenamento do seu PC com SSDs em promoção",
-      "url": "https://olhardigital.com.br/2026/11/06/reviews/hora-de-turbinar-o-armazenamento-do-seu-pc-com-ssds-em-promocao-3/",
-      "description": "Se o seu computador ou notebook ainda roda com um HD lento — ou se o SSD atual já está quase cheio —, esta é uma boa oportunidade para dar um upgrade. Reunimos três opções de SSDs NVMe Gen4 em oferta na Amazon, com velocidades que fazem diferença no dia a dia e formatos compatíveis […]\nO post Hora de turbinar o armazen",
-      "date": "2026-11-06T16:38:30+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://m.media-amazon.com/images/I/316eR402YoL._SL500_.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Camille Coirault",
       "categories": [
         "Espace",
@@ -14932,41 +15203,6 @@
       "source": "Journal du Geek – Espace",
       "language": "fr",
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Mini-lune-1280x853.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Valdir Antonelli",
-      "categories": [
-        "Inteligência Artificial",
-        "Pro",
-        "data centers",
-        "donald trump",
-        "Superinteligência artificial"
-      ],
-      "title": "Trump promete apoiar estados que investirem em inteligência artificial",
-      "url": "https://olhardigital.com.br/2026/11/06/inteligencia-artificial/trump-promete-apoiar-estados-que-investirem-em-inteligencia-artificial/",
-      "description": "Vitória democrata amplia debate sobre data centers, enquanto investidores avaliam riscos para projetos de IA e fabricantes de chips\nO post Trump promete apoiar estados que investirem em inteligência artificial apareceu primeiro em Olhar Digital.",
-      "date": "2026-11-06T16:23:09+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2023/12/OpenAI-superinteligencia-artificial-1024x585.png",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Eduardo Nuvens",
-      "categories": [
-        "Guia de Compras",
-        "produtos"
-      ],
-      "title": "Upgrade no setup: mouses gamer sem fio em promoção na Amazon",
-      "url": "https://olhardigital.com.br/2026/11/06/reviews/upgrade-no-setup-mouses-gamer-sem-fio-em-promocao-na-amazon-30/",
-      "description": "Seja para elevar a performance nas partidas ou simplesmente ter mais liberdade de movimento na mesa, um bom mouse gamer faz toda a diferença. Separamos três opções sem fio que estão em oferta na Amazon agora — de modelos ultraleves com sensor de alto desempenho a alternativas mais acessíveis para quem está montando o p",
-      "date": "2026-11-06T16:18:30+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://m.media-amazon.com/images/I/31zy93Vq31L._SL500_.jpg",
       "kind": "magazine"
     },
     {
@@ -14995,22 +15231,6 @@
       "source": "Science News",
       "language": "en",
       "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_CG_oldestfossil_mainsocial.jpg?w=800",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Eduardo Nuvens",
-      "categories": [
-        "Guia de Compras",
-        "produtos"
-      ],
-      "title": "Quer jogar com mais fluidez? Confira uma seleção de monitores gamer em promoção na Amazon",
-      "url": "https://olhardigital.com.br/2026/11/06/reviews/quer-jogar-com-mais-fluidez-confira-uma-selecao-de-monitores-gamer-em-promocao-na-amazon-27/",
-      "description": "Quem leva os jogos a sério sabe que um bom monitor faz toda a diferença na experiência — e agora é uma boa hora para renovar o setup. Reunimos três opções de monitores gamer em oferta na Amazon, com painéis IPS, alta taxa de atualização e compatibilidade com as principais tecnologias de sincronização. Dá uma […]\nO post",
-      "date": "2026-11-06T15:58:30+00:00",
-      "source": "Olhar Digital",
-      "language": "pt",
-      "image": "https://m.media-amazon.com/images/I/41ZWIBBrAZL._SL500_.jpg",
       "kind": "magazine"
     },
     {
@@ -15115,59 +15335,6 @@
     },
     {
       "audio_url": "",
-      "author": "Pedro Simões",
-      "categories": [
-        "Apple",
-        "Inteligência Artificial",
-        "IA"
-      ],
-      "title": "Nem a Apple aguenta a conta da IA: cortes de orçamento atingem em cheio",
-      "url": "https://pplware.sapo.pt/apple/nem-a-apple-aguenta-a-conta-da-ia-cortes-de-orcamento-atingem-em-cheio/",
-      "description": "O entusiasmo com ferramentas de IA parecia não ter limites na Apple, mas a realidade dos custos bateu à porta. Em outubro, a administração puxou o travão de mão e cortou o teto diário autorizado para várias equipas de engenharia de 300 dólares para 200 dólares. Quem passa os dias a escrever código, a testar […]",
-      "date": "2026-11-06T11:30:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Pedro Simões",
-      "categories": [
-        "Motores/Energia",
-        "Jaecoo",
-        "Jaecoo 8"
-      ],
-      "title": "Jaecoo 8 chega a Portugal com 428 cv e 1000 km de autonomia",
-      "url": "https://pplware.sapo.pt/motores/jaecoo-8-chega-a-portugal-com-428-cv-e-1000-km-de-autonomia/",
-      "description": "A ofensiva das marcas chinesas no mercado nacional ganhou um novo protagonista de peso com a chegada oficial do JAECOO 8 SHS-P a Portugal. Trata-se de um SUV do segmento D, pensado para quem precisa de espaço real e de versatilidade familiar sem cair em faturas absurdas. Chega através de uma versão única bem recheada [",
-      "date": "2026-11-06T11:00:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Sofia Neto",
-      "categories": [
-        "Motores/Energia",
-        "europa",
-        "Indústria Automóvel",
-        "Renault",
-        "União Europeia"
-      ],
-      "title": "“Indústria zombie”: porque a Renault está preocupada com o futuro dos carros europeus",
-      "url": "https://pplware.sapo.pt/motores/industria-zombie-porque-a-renault-esta-preocupada-com-o-futuro-dos-carros-europeus/",
-      "description": "O diretor-executivo da Renault atribuiu o fraco desempenho em bolsa das fabricantes europeias à expectativa de que a União Europeia (UE) não proteja o setor. Além disso, defendeu que as fabricantes chinesas sejam obrigadas a produzir na Europa os automóveis que vendem no mercado europeu. As ações das fabricantes de aut",
-      "date": "2026-11-06T10:25:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Sciences et Avenir avec AFP",
       "categories": [
         "Intelligence artificielle"
@@ -15179,99 +15346,6 @@
       "source": "Sciences et Avenir",
       "language": "fr",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/06/cover-r4x3w1200-6aeda9ae8d760-afp-20261104-d6ft9nz-v2-midres-776589022.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Mário Sousa",
-      "categories": [
-        "PUB",
-        "Software",
-        "chaves digitais",
-        "Copilot",
-        "menu de contexto"
-      ],
-      "title": "O menu do botão direito do Windows 11 já se pode arrumar",
-      "url": "https://pplware.sapo.pt/software/menu-botao-direito-windows-11-vip-scdkey/",
-      "description": "O menu do botão direito do Windows 11 passou a ser configurável e a tecla Copilot já se remapeia. As novidades só chegam a quem tem o sistema em dia.",
-      "date": "2026-11-06T10:00:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Pedro Simões",
-      "categories": [
-        "Android",
-        "ciclistas",
-        "garmin",
-        "Waze"
-      ],
-      "title": "Fim dos acidentes? A Garmin e o Waze preparam algo que ninguém esperava",
-      "url": "https://pplware.sapo.pt/smartphones-tablets/android/fim-dos-acidentes-a-garmin-e-o-waze-preparam-algo-que-ninguem-esperava/",
-      "description": "Uma novidade que passou despercebida na mais recente atualização da app Garmin Connect promete mudar radicalmente o dia a dia de quem pedala e de quem conduz. A versão 5.31 para Android esconde linhas de código bem claras sobre uma parceria direta com o Waze. Trata-se de uma ponte entre o relógio no pulso do […]",
-      "date": "2026-11-06T09:30:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Pedro Simões",
-      "categories": [
-        "Jogos",
-        "Windows",
-        "ram",
-        "Windows 11"
-      ],
-      "title": "Correr o Windows 11 com apenas 128 MB de RAM: teste desafia regras da Microsoft",
-      "url": "https://pplware.sapo.pt/microsoft/windows/correr-o-windows-11-com-apenas-128-mb-de-ram-teste-desafia-regras-da-microsoft/",
-      "description": "Os requisitos oficiais para instalar o Windows 11 continuam a ser um dos temas mais polémicos no universo dos sistemas operativos, sobretudo pela imposição de hardware recente e pela barreira dos 4 GB de RAM. Este patamar elevado deixa de fora milhões de PCs perfeitamente funcionais. A decisão tem alimentado críticas c",
-      "date": "2026-11-06T09:00:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Sofia Neto",
-      "categories": [
-        "Motores/Energia",
-        "BYD",
-        "carro eletrico",
-        "Yangwang",
-        "Yangwang U9X"
-      ],
-      "title": "BYD volta a fazer história: Yangwang U9X é o primeiro carro de produção acima dos 500 km/h",
-      "url": "https://pplware.sapo.pt/motores/byd-volta-a-fazer-historia-yangwang-u9x-e-o-primeiro-carro-de-producao-acima-dos-500-km-h/",
-      "description": "A Yangwang, marca de topo da BYD, atingiu 503,17 km/h com o U9 Xtreme (U9X) numa estrada de Abu Dhabi, superando os 496,22 km/h que ela própria tinha registado em setembro de 2025 e tornando-se o primeiro automóvel de produção a ultrapassar os 500 km/h. Depois de ter estabelecido o recorde de velocidade máxima para […]",
-      "date": "2026-11-06T08:30:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Sofia Neto",
-      "categories": [
-        "High Tech",
-        "bola",
-        "Futebol",
-        "LaLiga",
-        "sensor"
-      ],
-      "title": "Como a LaLiga decidiu acabar com as dúvidas do VAR",
-      "url": "https://pplware.sapo.pt/high-tech/como-a-laliga-decidiu-acabar-com-as-duvidas-do-var/",
-      "description": "Este ano, a LaLiga está a usar, em todos os encontros, uma bola com sensores capaz de identificar o instante exato de cada contacto, fornecendo dados adicionais ao árbitro assistente de vídeo (em inglês, VAR) e à equipa de arbitragem. A tecnologia tem vindo a ganhar espaço no futebol na tentativa de tornar a arbitragem",
-      "date": "2026-11-06T08:00:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
       "kind": "magazine"
     },
     {
@@ -15292,25 +15366,6 @@
       "kind": "magazine"
     },
     {
-      "audio_url": "",
-      "author": "Pedro Simões",
-      "categories": [
-        "Android",
-        "Android 17",
-        "HyperOS",
-        "HyperOS 4",
-        "Xiaomi"
-      ],
-      "title": "HyperOS 4 e Android 17: Xiaomi revela datas e lista de modelos suportados",
-      "url": "https://pplware.sapo.pt/smartphones-tablets/android/hyperos-4-e-android-17-xiaomi-revela-datas-e-lista-de-modelos-suportados/",
-      "description": "A Xiaomi fechou finalmente o plano de distribuição do HyperOS 4 assente no Android 17. A marca definiu um calendário rigoroso dividido em três fases entre o início de novembro e o final de dezembro, abrangendo mais de 80 equipamentos das linhas Xiaomi, Redmi e POCO. Para quem tem um telemóvel recente no bolso, a […]",
-      "date": "2026-11-06T07:00:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
       "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plk8hr.mp3",
       "author": "",
       "categories": [],
@@ -15325,41 +15380,6 @@
     },
     {
       "audio_url": "",
-      "author": "Vítor M.",
-      "categories": [
-        "Apple",
-        "iPhone Duo",
-        "Samdunh"
-      ],
-      "title": "iPhone Duo já ultrapassou 260 mil dobragens e continuam a querer acabar com ele!",
-      "url": "https://pplware.sapo.pt/apple/iphone-duo-teste-resistencia-260-mil-dobragens/",
-      "description": "A resistência dos smartphones dobráveis continua a ser uma das principais preocupações dos consumidores. Para perceber até onde pode chegar o novo iPhone Duo, decidiram submetê-lo a um teste extremo que já ultrapassou as 260 mil dobragens. iPhone Duo está a ser dobrado 24 horas por dia A equipa da CNET desenvolveu uma ",
-      "date": "2026-11-05T22:30:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Pplware",
-      "categories": [
-        "Inteligência Artificial",
-        "Jogos",
-        "inteligência artificial",
-        "Videojogos"
-      ],
-      "title": "A IA está a recriar videojogos clássicos para novas plataformas",
-      "url": "https://pplware.sapo.pt/inteligencia-artificial/a-ia-esta-a-recriar-videojogos-classicos-para-novas-plataformas/",
-      "description": "Os videojogos clássicos estão a chegar a dispositivos para os quais nunca foram concebidos. Com a ajuda da Inteligência Artificial (IA), programadores e entusiastas estão a acelerar a adaptação de títulos antigos para computadores, telemóveis e navegadores. Mas como funciona este processo e será que a IA consegue dar u",
-      "date": "2026-11-05T21:30:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Nora Bradford",
       "categories": [
         "Animals"
@@ -15371,22 +15391,6 @@
       "source": "Science News",
       "language": "en",
       "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110526_nb_octopus-squeeze_main.jpg?w=800",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Pplware",
-      "categories": [
-        "Internet",
-        "desenvolvimento Web"
-      ],
-      "title": "Backend: o que acontece nos bastidores de uma aplicação web?",
-      "url": "https://pplware.sapo.pt/internet/backend-o-que-acontece-nos-bastidores-de-uma-aplicacao-web/",
-      "description": "Quando inicia sessão num site, faz uma compra numa loja online ou consulta os seus dados numa aplicação, há muito mais a acontecer do que aquilo que aparece no ecrã. Esta é a função do backend, uma das partes fundamentais do desenvolvimento web. Mas como funciona e que tecnologias são utilizadas? O que é o […]",
-      "date": "2026-11-05T20:30:00+00:00",
-      "source": "Pplware",
-      "language": "pt",
-      "image": "",
       "kind": "magazine"
     },
     {
@@ -16790,7 +16794,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-13T08:48:27.549895+00:00",
+      "updated_at": "2026-11-13T16:47:12.992512+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16934,28 +16938,28 @@
       "kind": "magazine",
       "ok": true,
       "count": 44,
-      "updated_at": "2026-11-12T13:10:09.785515+00:00",
-      "success_at": "2026-11-12T13:10:09.785515+00:00",
-      "last_slot": "2026-11-12:magazine"
+      "updated_at": "2026-11-13T16:47:12.992512+00:00",
+      "success_at": "2026-11-13T16:47:12.992512+00:00",
+      "last_slot": "2026-11-13:magazine"
     },
     {
       "source": "Pplware",
       "kind": "magazine",
       "ok": true,
       "count": 12,
-      "updated_at": "2026-11-06T11:36:41.829827+00:00",
-      "success_at": "2026-11-06T11:36:41.829827+00:00",
-      "last_slot": "2026-11-06:magazine"
+      "updated_at": "2026-11-13T16:47:12.992512+00:00",
+      "success_at": "2026-11-13T16:47:12.992512+00:00",
+      "last_slot": "2026-11-13:magazine"
     },
     {
       "source": "Olhar Digital",
       "kind": "magazine",
       "ok": true,
       "count": 10,
-      "updated_at": "2026-11-06T18:24:36.831365+00:00",
-      "success_at": "2026-11-06T18:24:36.831365+00:00",
-      "last_slot": "2026-11-06:magazine"
+      "updated_at": "2026-11-13T16:47:12.992512+00:00",
+      "success_at": "2026-11-13T16:47:12.992512+00:00",
+      "last_slot": "2026-11-13:magazine"
     }
   ],
-  "refreshed_sources": 56
+  "refreshed_sources": 3
 }
