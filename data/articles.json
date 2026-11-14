@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-11-14T09:19:42.306560+00:00",
+  "updated_at": "2026-11-14T15:53:09.175889+00:00",
   "press_updated_at": "2026-11-14T09:19:42.306560+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Mundo Estranho",
+        "Redação Digital",
+        "site mundo estranho"
+      ],
+      "title": "Fiordes: o que são e como se formam essas paisagens",
+      "url": "https://super.abril.com.br/mundo-estranho/fiordes-o-que-sao-e-como-se-formam-essas-paisagens/",
+      "description": "Essas impressionantes formações geológicas surgiram nas eras glaciais.",
+      "date": "2026-11-14T15:00:36+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_o-que-sao-fiordes_site.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "",
@@ -5773,6 +5790,25 @@
     },
     {
       "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Ciência",
+        "Alzheimer",
+        "cérebro",
+        "Estudos e pesquisas",
+        "medicina"
+      ],
+      "title": "Pesquisa brasileira premiada analisa possíveis causas para a progressão do Alzheimer",
+      "url": "https://super.abril.com.br/ciencia/pesquisa-brasileira-premiada-analisa-possiveis-causas-para-a-progressao-do-alzheimer/",
+      "description": "Tese vencedora do Grande Prêmio Capes mostra como células imunológicas do cérebro podem ter papel no desenvolvimento da doença.",
+      "date": "2026-11-13T21:55:47+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_pesquisa-Alzheimer-rendeu-cientista-premio-melhor-tese_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "FRANCE 24",
       "categories": [
         "Sports"
@@ -6173,6 +6209,24 @@
       "language": "ar",
       "image": "https://s.france24.com/media/display/93e07b0e-dfa7-11f1-9384-3f371022a770/w:1024/p:16x9/AR-20261113-212122-212453-CS.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Saúde",
+        "Nutrição",
+        "Obesidade",
+        "OMS /ORGANIZAÇÃO MUNDIAL DA SAÚDE/"
+      ],
+      "title": "Você conhece o “novo IMC”? Entenda o que pode mudar no diagnóstico da obesidade",
+      "url": "https://super.abril.com.br/saude/voce-conhece-o-novo-imc-entenda-o-que-pode-mudar-no-diagnostico-da-obesidade/",
+      "description": "Pesquisadores propõem que, além do índice, é preciso considerar a circunferência abdominal e exames sobre a função dos órgãos.",
+      "date": "2026-11-13T21:15:43+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_nova-definicao-obesidade_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -6829,6 +6883,25 @@
     },
     {
       "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "anabolizantes",
+        "espermatozoide",
+        "Fertilidade",
+        "hormônios"
+      ],
+      "title": "Testículos podem diminuir de tamanho? Veja 5 possíveis causas",
+      "url": "https://super.abril.com.br/saude/testiculos-podem-diminuir-de-tamanho-veja-5-possiveis-causas/",
+      "description": "Uso de testosterona, varicocele, infecções e alterações hormonais podem reduzir o volume testicular; saiba quando o quadro pode ser revertido.",
+      "date": "2026-11-13T19:00:37+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_testiculos-podem-dimiuir-tamanho_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Carolyn Gramling",
       "categories": [
         "Oceans"
@@ -7465,6 +7538,25 @@
       "language": "fr",
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/noirlab2627a.jpg?resize=1200,675&key=9a9720a5",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Mundo Estranho",
+        "Animais de estimação - cachorros",
+        "cachorros",
+        "cães",
+        "Comportamento"
+      ],
+      "title": "Por que alguns cachorros não gostam de olhar nos olhos? É um sinal de respeito ou de submissão?",
+      "url": "https://super.abril.com.br/mundo-estranho/por-que-os-cachorros-nao-gostam-de-olhar-nos-olhos/",
+      "description": "É mais complexo do que isso. Entenda como esses animais interpretam o contato visual dos tutores e por que nem sempre querem retribuir.",
+      "date": "2026-11-13T17:02:44+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2016/03/cachorro.png",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -13224,25 +13316,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "ansiedade",
-        "CARDIOLOGIA",
-        "cérebro",
-        "coração"
-      ],
-      "title": "O estresse pode fazer você desmaiar? Entenda o que é síncope vasovagal",
-      "url": "https://super.abril.com.br/saude/o-estresse-pode-fazer-voce-desmaiar-entenda-o-que-e-sincope-vasovagal/",
-      "description": "Medo, dor e tensão podem desencadear reflexo que reduz a pressão arterial e, em alguns casos, os batimentos cardíacos; entenda os sinais de alerta e como agir.",
-      "date": "2026-11-11T17:28:07+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_sincope-vasovagal_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "acasado",
       "categories": [
         "Compras"
@@ -13437,43 +13510,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Sociedade",
-        "cauda",
-        "cavalo",
-        "ÉGUA",
-        "LIVRO DOS RECORDES"
-      ],
-      "title": "Égua com cauda de 4 metros quebra recorde do Guinness",
-      "url": "https://super.abril.com.br/sociedade/egua-com-cauda-de-4-metros-quebra-recorde-do-guinness/",
-      "description": "Shampoo, condicionador e tranças fazem parte da rotina de cuidados de Jenny, que tem exatos 4,12 m de ornamento capilar em seu rabo",
-      "date": "2026-11-11T10:00:01+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_egua-rabo-4-metros-recorde-guiness_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "doenças",
-        "síndrome",
-        "terapia genética"
-      ],
-      "title": "Terapia com células CAR-T devolve movimentos a pacientes com a doença de Céline Dion",
-      "url": "https://super.abril.com.br/ciencia/terapia-com-celulas-car-t-devolve-movimentos-a-pacientes-com-a-doenca-de-celine-dion/",
-      "description": "Em um estudo com 26 pacientes da síndrome da pessoa rígida, uma única dose de glóbulos brancos reprogramados melhorou a caminhada de 81% dos participantes.",
-      "date": "2026-11-11T09:00:23+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_esperanca-sindrome-pessoa-rigida-celine-dion_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "أحمد عبدالقادر",
       "categories": [
         "الأخبار التقنية",
@@ -13597,44 +13633,6 @@
       "language": "en",
       "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pmcskn.jpg",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "deuses egípcios",
-        "egito antigo",
-        "Gatos",
-        "múmias"
-      ],
-      "title": "Como era a vida dos gatos que os egípcios sacrificavam aos deuses",
-      "url": "https://super.abril.com.br/ciencia/como-era-a-vida-dos-gatos-que-os-egipcios-sacrificavam-aos-deuses/",
-      "description": "Análise de 131 crânios revela que, apesar de sua importância na religião egípcia, muitos felinos destinados a oferendas viviam em condições precárias.",
-      "date": "2026-11-10T23:00:37+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_como-era-vida-gatos-sacrificados-egito_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Ciência",
-        "animais",
-        "arqueologia",
-        "AVES",
-        "Pré-história"
-      ],
-      "title": "Osso esquecido por 17 anos revela ave pré-histórica gigante na caverna dos “hobbits”",
-      "url": "https://super.abril.com.br/ciencia/osso-esquecido-por-17-anos-revela-ave-pre-historica-gigante-na-caverna-dos-hobbits/",
-      "description": "O fóssil pertence a um parente das galinhas que pesava quase 4 kg e foi encontrado junto aos ossos do hominídeo Homo floresiensis, que tinha só 1 m de altura.",
-      "date": "2026-11-10T22:00:14+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_nova-especie-ave-terrestre-CAPA_site.jpg",
-      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -16727,7 +16725,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-14T09:19:42.306560+00:00",
+      "updated_at": "2026-11-14T15:53:09.175889+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16870,10 +16868,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 44,
-      "updated_at": "2026-11-13T16:47:12.992512+00:00",
-      "success_at": "2026-11-13T16:47:12.992512+00:00",
-      "last_slot": "2026-11-13:magazine"
+      "count": 43,
+      "updated_at": "2026-11-14T15:53:09.175889+00:00",
+      "success_at": "2026-11-14T15:53:09.175889+00:00",
+      "last_slot": "2026-11-14:magazine"
     },
     {
       "source": "Pplware",
@@ -16894,5 +16892,5 @@
       "last_slot": "2026-11-13:magazine"
     }
   ],
-  "refreshed_sources": 48
+  "refreshed_sources": 1
 }
