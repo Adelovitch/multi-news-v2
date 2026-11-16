@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-11-15T14:20:58.641990+00:00",
-  "press_updated_at": "2026-11-15T14:20:58.641990+00:00",
+  "updated_at": "2026-11-16T03:01:37.945795+00:00",
+  "press_updated_at": "2026-11-16T03:01:37.945795+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Opinions"
+      ],
+      "title": "ASEAN, China fall short of agreeing on South China Sea code",
+      "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+      "description": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
+      "date": "2026-11-16T02:46:35+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Houthis advance in Yemen as government forces move to defend Aden",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+      "description": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+      "date": "2026-11-16T02:22:29+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+      "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+      "description": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
+      "date": "2026-11-16T01:52:12+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Pope urges end to Amazon deforestation",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
+      "description": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
+      "date": "2026-11-16T01:44:11+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+      "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+      "description": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
+      "date": "2026-11-16T00:51:23+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+      "url": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
+      "description": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
+      "date": "2026-11-16T00:45:48+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Czechs rally against gov’t threat to media independence",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+      "description": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+      "date": "2026-11-16T00:26:32+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+      "url": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
+      "description": "Workers' rights, environmental concerns and local businesses remain at the centre of the debate.",
+      "date": "2026-11-16T00:04:28+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+      "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+      "description": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.",
+      "date": "2026-11-16T00:01:45+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+      "description": "The USS Theodore Roosevelt has arrived in the Middle East, while Iran warned it would not simply wait for an attack.",
+      "date": "2026-11-16T00:00:00+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Brawl erupts in Brazil’s Women’s League final",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss",
+      "description": "A fist fight erupted between opposing players during the final of Brazil's under-20 Women’s League.",
+      "date": "2026-11-15T23:46:37+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Sport"
+      ],
+      "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+      "url": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+      "description": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
+      "date": "2026-11-15T22:40:01+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+      "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+      "description": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
+      "date": "2026-11-15T22:06:38+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+      "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
+      "description": "Scott Bessent gives Nvidia's board 10 days to show the company's compliance with US export controls.",
+      "date": "2026-11-15T21:47:47+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+      "description": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+      "date": "2026-11-15T21:19:08+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+      "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+      "description": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+      "date": "2026-11-15T20:54:13+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+      "description": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+      "date": "2026-11-15T20:50:15+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "TV Shows"
+      ],
+      "title": "Who can force Israel to implement Gaza ceasefire deal?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "description": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+      "date": "2026-11-15T20:37:43+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Estonia to close border crossings with Russia after alleged arson attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+      "description": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+      "date": "2026-11-15T20:31:18+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Jordan sentences three men to death over deadly church attack in Karak",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+      "description": "Jordan sentences three men to death over deadly church attack in Karak",
+      "date": "2026-11-15T20:12:38+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "Redazione FqMagazine",
@@ -5600,21 +5900,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-      "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-      "description": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
-      "date": "2026-11-15T06:11:00+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "RFI",
       "categories": [
         "Amériques"
@@ -5927,21 +6212,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "News"
-      ],
-      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "description": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-      "date": "2026-11-15T05:05:02+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Pendant que vous dormiez"
       ],
       "title": "SpaceX, manifestations en France et concours Eurovision d’Asie : les informations de la nuit",
@@ -6053,21 +6323,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-      "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-      "description": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
-      "date": "2026-11-15T04:44:57+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Gloria Rodríguez-Pina",
       "categories": [
         "Guerra de Rusia en Ucrania",
@@ -6116,21 +6371,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/7d538436-cf13-4906-a09c-686c5f8bab0c/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Video shows moment of Brooklyn building collapse from inside",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-      "description": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
-      "date": "2026-11-15T04:31:55+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -6205,21 +6445,6 @@
       "date": "2026-11-15T04:30:01+00:00",
       "source": "El País",
       "language": "es",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Zimbabwe’s HIV gains face a test among young people",
-      "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
-      "description": "New prevention tools offer hope, but reaching young people remains a challenge.",
-      "date": "2026-11-15T04:13:00+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
       "image": "",
       "kind": "presse"
     },
@@ -6432,21 +6657,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Monkey attacks woman inside residential complex in India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
-      "description": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
-      "date": "2026-11-15T03:39:39+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Géraud Bosman-Delzons",
       "categories": [
         "Environnement"
@@ -6476,21 +6686,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-      "description": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
-      "date": "2026-11-15T03:30:29+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
       "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
@@ -6513,21 +6708,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/d2a9e03a-1767-4696-9fe7-2253c8842d45/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-      "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-      "description": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
-      "date": "2026-11-15T02:59:06+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -6561,21 +6741,6 @@
       "source": "The Guardian",
       "language": "en",
       "image": "https://i.guim.co.uk/img/media/d047c76f69b28583bdf6ab81399ed4967ef41dda/836_107_1722_1378/master/1722.jpg?width=140&quality=85&auto=format&fit=max&s=5f594cb51867df53603d74544e8a5ab9",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-      "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-      "description": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-      "date": "2026-11-15T01:54:55+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -6614,96 +6779,6 @@
       "language": "ar",
       "image": "",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Netanyahu sends plea to Eisenkot for unity government",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-      "description": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
-      "date": "2026-11-15T01:33:11+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Thailand’s elderly kept in cages",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
-      "description": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
-      "date": "2026-11-15T01:32:08+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "SpaceX’s Starship nails a smooth return with historic catch",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-      "description": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
-      "date": "2026-11-15T01:22:01+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Israeli air strike kills senior Hamas commander in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-      "description": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
-      "date": "2026-11-15T01:00:42+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Hundreds of men march in Switzerland to protest violence against women",
-      "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-      "description": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
-      "date": "2026-11-15T00:27:14+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "description": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
-      "date": "2026-11-15T00:14:22+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -6830,36 +6905,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "description": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
-      "date": "2026-11-15T00:00:08+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Portugal immortalises Ronaldo with a new number 7",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
-      "description": "Portugal’s national team has lined up in Cristiano Ronaldo's number 7 in its first match since he retired from the side.",
-      "date": "2026-11-14T23:55:18+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "CARLOS SEGOVIA",
       "categories": [
         "Artículos Carlos Segovia"
@@ -6887,21 +6932,6 @@
       "source": "El Mundo",
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/14/17946625612198.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "description": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
-      "date": "2026-11-14T23:34:37+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -6941,21 +6971,6 @@
       "source": "BBC World",
       "language": "en",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-      "description": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
-      "date": "2026-11-14T23:01:30+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -7004,21 +7019,6 @@
       "source": "El Mundo",
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/14/17946849493199.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Explosion near Syria’s capital kills father and child",
-      "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-      "description": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
-      "date": "2026-11-14T22:43:12+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -16374,9 +16374,9 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-11-15T06:46:17.958757+00:00",
-      "success_at": "2026-11-15T06:46:17.958757+00:00",
-      "last_slot": "2026-11-15:8"
+      "updated_at": "2026-11-16T03:01:37.945795+00:00",
+      "success_at": "2026-11-16T03:01:37.945795+00:00",
+      "last_slot": "2026-11-16:6"
     },
     {
       "source": "France 24 English",
@@ -16919,5 +16919,5 @@
       "last_slot": "2026-11-13:magazine"
     }
   ],
-  "refreshed_sources": 47
+  "refreshed_sources": 1
 }
