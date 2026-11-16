@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-16T10:57:41.382765+00:00",
+  "updated_at": "2026-11-16T20:55:39.506577+00:00",
   "press_updated_at": "2026-11-16T10:57:41.382765+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Bela Lobato",
+      "categories": [
+        "Sociedade",
+        "propaganda",
+        "publicidade",
+        "Redes Sociais"
+      ],
+      "title": "Quem aguenta tanta propaganda?",
+      "url": "https://super.abril.com.br/sociedade/quem-aguenta-tanta-propaganda/",
+      "description": "Por que o mercado da publicidade digital não para de crescer, mesmo que boa parte dos anúncios seja ineficaz?",
+      "date": "2026-11-16T19:00:31+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Essencial_1.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bela Lobato",
+      "categories": [
+        "Mundo Estranho",
+        "eletricidade",
+        "Filmes",
+        "violência"
+      ],
+      "title": "Mergulhar um secador de cabelo na água realmente pode matar?",
+      "url": "https://super.abril.com.br/mundo-estranho/secador-de-cabelo-na-agua/",
+      "description": "A explicação científica por trás do clichê melodramático dos filmes",
+      "date": "2026-11-16T17:28:19+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_da-matar-alguem-secador-banheira_site.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "",
@@ -1408,6 +1444,25 @@
     },
     {
       "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Ciência",
+        "cobras",
+        "PÍTON",
+        "serpente",
+        "SUCURI"
+      ],
+      "title": "Titanoboa: a cobra de 13 metros que viveu onde hoje é a América do Sul",
+      "url": "https://super.abril.com.br/ciencia/titanoboa-a-cobra-de-13-metros-que-viveu-onde-hoje-e-a-america-do-sul/",
+      "description": "Ela tinha o dobro do tamanho das maiores serpentes atuais e era uma predadora letal nas águas da Colômbia.",
+      "date": "2026-11-16T10:00:15+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Titanoboa-cobra-13-metros-viveu-Colombia_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Florian Bayard",
       "categories": [
         "Cybersécurité",
@@ -2769,6 +2824,25 @@
       "language": "pt",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/14173155/dsc00196.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Vaiano",
+      "categories": [
+        "Ciência",
+        "Astrofísica",
+        "Astronomia",
+        "matéria escura",
+        "Mistérios do universo"
+      ],
+      "title": "O Universo poderia ter 26,7 bilhões de anos (e nenhuma matéria ou energia escuras)",
+      "url": "https://super.abril.com.br/ciencia/o-universo-poderia-ter-267-bilhoes-de-anos-e-nenhuma-materia-ou-energia-escuras/",
+      "description": "Uma teoria canadense recupera duas ideias antigas  – a “luz cansada” e as constantes que não são constantes – para tirar uma pedra do sapato dos astrofísicos.",
+      "date": "2026-11-16T09:00:44+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_universo-com-26-bilhoes-de-anos_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7250,6 +7324,24 @@
     },
     {
       "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Cultura",
+        "Boxe",
+        "Cinema",
+        "Hollywood"
+      ],
+      "title": "A difícil saga de Sylvester Stallone para filmar “Rocky”, que completa 50 anos em 2026",
+      "url": "https://super.abril.com.br/cultura/a-dificil-saga-de-sylvester-stallone-para-filmar-rocky-que-completa-50-anos-em-2026/",
+      "description": "Filme \"Eu Sou Rocky\", que narra os bastidores do clássico de 1976, estreia nesta quinta (19). Conheça a história por trás dos ringues (e câmeras).",
+      "date": "2026-11-15T23:00:40+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Playlist_Abre.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
@@ -7520,6 +7612,25 @@
     },
     {
       "audio_url": "",
+      "author": "Bruno Vaiano",
+      "categories": [
+        "Ciência",
+        "espaço",
+        "Exploração espacial",
+        "Japão",
+        "Marte"
+      ],
+      "title": "Missão espacial japonesa MMX pretende coletar amostras da lua marciana Phobos",
+      "url": "https://super.abril.com.br/ciencia/missao-espacial-japonesa-mmx-pretende-coletar-amostras-da-lua-marciana-phobos/",
+      "description": "Lançada em outubro, a sonda MMX deve pousar em Phobos em 2030 e trazer à Terra amostras que podem revelar como Marte ganhou suas duas pequenas luas.",
+      "date": "2026-11-15T21:00:42+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_missao-amostras-de-lua-em-marte_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "ذئب في ثياب حمل\".. ولاية ألمانية توقف حملة ضد \"التغلغل الإسلاموي\"",
@@ -7718,6 +7829,25 @@
       "source": "Genbeta",
       "language": "es",
       "image": "https://i.blogs.es/9c28c0/minero-80-anos/1024_2000.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "algas",
+        "marinho",
+        "reprodução",
+        "trends"
+      ],
+      "title": "Essas algas marinhas se reproduzem sozinhas quando não encontram parceiros próximos",
+      "url": "https://super.abril.com.br/ciencia/essas-algas-marinhas-se-reproduzem-sozinhas-quando-nao-encontram-parceiros-proximos/",
+      "description": "Em laboratório, 92% das kelps isoladas passaram a se reproduzir assexuadamente; na natureza, o fenômeno ainda não foi observado.",
+      "date": "2026-11-15T19:00:26+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_algas-marinhas-reproduzem-sozinhas_site.jpg",
       "kind": "magazine"
     },
     {
@@ -8184,6 +8314,23 @@
       "language": "es",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79b1/live/4b3c3040-327a-11f0-9b62-af0dc41482a6.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Mundo Estranho",
+        "Redação Digital",
+        "site mundo estranho"
+      ],
+      "title": "Qual a diferença entre bilhar, sinuca e snooker?",
+      "url": "https://super.abril.com.br/mundo-estranho/qual-a-diferenca-entre-bilhar-sinuca-e-snooker/",
+      "description": "Conheça a história, as regras e as particularidades de cada modalidade desses jogos de mesa.",
+      "date": "2026-11-15T15:00:19+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2022/02/sinuca_amp_08.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -12367,25 +12514,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Sociedade",
-        "Estados Unidos",
-        "História",
-        "leilão",
-        "Martin Luther King"
-      ],
-      "title": "O mistério por trás do manuscrito do discurso “Eu Tenho um Sonho”, de Martin Luther King",
-      "url": "https://super.abril.com.br/sociedade/o-misterio-por-tras-do-manuscrito-do-discurso-eu-tenho-um-sonho-de-martin-luther-king-perdido-por-decadas/",
-      "description": "Perdidas por seis décadas, as anotações daquele dia foram redescobertas – e agora, vão a leilão.",
-      "date": "2026-11-12T22:15:21+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_versao-final-eu-tenho-um-sonho-CAPA_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Andrew Paul",
       "categories": [
         "Environment",
@@ -12429,25 +12557,6 @@
       "source": "تقنية بلا حدود",
       "language": "ar",
       "image": "https://www.notebookcheck.net/fileadmin/_processed_/5/4/csm_Vivo-X500-Pro-Max-screen_85301a73d6.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "Games",
-        "jogos",
-        "site mundo estranho",
-        "Videogames"
-      ],
-      "title": "133 estudos mostram: gamers são mais inteligentes que os outros",
-      "url": "https://super.abril.com.br/mundo-estranho/133-estudos-mostram-gamers-sao-mais-inteligentes-que-os-outros/",
-      "description": "Meta-análises concluíram que eles se saem melhor em testes de \"habilidades cognitivas\"; entenda.",
-      "date": "2026-11-12T21:00:15+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_gamers-mais-inteligentes-que-outros_site.jpg",
       "kind": "magazine"
     },
     {
@@ -12645,24 +12754,6 @@
       "source": "Xataka",
       "language": "es",
       "image": "https://i.blogs.es/012cdf/sebastian-coman-travel-r4re271njuo-unsplash/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Tecnologia",
-        "Gadgets",
-        "Inteligência artificial",
-        "Medo"
-      ],
-      "title": "Tech: os 4 produtos mais interessantes de novembro de 2026",
-      "url": "https://super.abril.com.br/tecnologia/tech-os-4-produtos-mais-interessantes-de-novembro-de-2026/",
-      "description": "O chip da Nvidia para notebooks de IA, o robô que faz massagem sozinho, os fones afinados no Brasil – e a máquina que tira sangue sem mostrar a agulha.",
-      "date": "2026-11-12T19:00:55+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Tech_Laptop_Dell_XPS_16.jpg",
       "kind": "magazine"
     },
     {
@@ -12967,24 +13058,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Tecnologia",
-        "China",
-        "chip",
-        "PROCESSADOR"
-      ],
-      "title": "A nova arma da China",
-      "url": "https://super.abril.com.br/tecnologia/a-nova-arma-da-china/",
-      "description": "O país encontrou uma solução criativa para driblar restrições geopolíticas: uma tecnologia que permite construir CPUs de dois andares.",
-      "date": "2026-11-12T17:00:43+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Tech_Huawei_Mate_XT2.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Sultan Alqahtani",
       "categories": [
         "تقنيات متفرقة"
@@ -13274,23 +13347,6 @@
       "source": "Geopop",
       "language": "it",
       "image": "https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2026/11/email-allarme-bomba-300x225.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Como se luta sumô? Entenda as regras e a história dessa da luta milenar japonesa",
-      "url": "https://super.abril.com.br/mundo-estranho/como-se-luta-sumo-entenda-as-regras-e-a-historia-dessa-da-luta-milenar-japonesa/",
-      "description": "Já pensou em se tornar um lutador profissional de sumô?",
-      "date": "2026-11-12T15:16:35+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_lutadores-sumo_site.jpg",
       "kind": "magazine"
     },
     {
@@ -13726,25 +13782,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "ADUBO",
-        "AGRICULTURA",
-        "Lixo",
-        "Meio Ambiente"
-      ],
-      "title": "Pesquisa brasileira transforma chorume em fertilizante seguro para a agricultura",
-      "url": "https://super.abril.com.br/ciencia/pesquisa-brasileira-transforma-chorume-em-fertilizante-seguro-para-a-agricultura/",
-      "description": "Técnica criada na Unicamp recupera minerais de resíduos urbanos e oferece alternativa sustentável para reduzir a dependência de insumos agrícolas importados.",
-      "date": "2026-11-12T12:00:59+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/chorume-alface-experimento-unicamp.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Sultan Alqahtani",
       "categories": [
         "تقنيات متفرقة"
@@ -13992,25 +14029,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "Antártica",
-        "antartida",
-        "CAMADA DE OZÔNIO",
-        "emissão"
-      ],
-      "title": "Entenda por que o buraco na camada de ozônio aumentou em 2026",
-      "url": "https://super.abril.com.br/ciencia/entenda-por-que-o-buraco-na-camada-de-ozonio-aumentou-em-2026/",
-      "description": "Vórtice polar excepcionalmente forte deixou o fenômeno sobre a Antártida no maior tamanho em dez anos – mas a recuperação segue nos trilhos, segundo NASA e NOAA",
-      "date": "2026-11-12T09:00:41+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2018/11/ozonio.png",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "la rédaction, Futura",
       "categories": [
         "Astronomie",
@@ -14212,24 +14230,6 @@
       "source": "Microsiervos",
       "language": "es",
       "image": "https://img.microsiervos.com/images2026/tiny-barcelona.webp",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Como é feita a gelatina?",
-      "url": "https://super.abril.com.br/mundo-estranho/como-e-feita-a-gelatina/",
-      "description": "Ela é extraída do colágeno presente no couro bovino. Veja as etapas de produção.",
-      "date": "2026-11-11T23:00:17+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2016/12/gelatina.jpg",
       "kind": "magazine"
     },
     {
@@ -16796,7 +16796,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-16T10:57:41.382765+00:00",
+      "updated_at": "2026-11-16T20:55:39.506577+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16939,10 +16939,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 43,
-      "updated_at": "2026-11-15T14:20:58.641990+00:00",
-      "success_at": "2026-11-15T14:20:58.641990+00:00",
-      "last_slot": "2026-11-15:magazine"
+      "count": 44,
+      "updated_at": "2026-11-16T20:55:39.506577+00:00",
+      "success_at": "2026-11-16T20:55:39.506577+00:00",
+      "last_slot": "2026-11-16:magazine"
     },
     {
       "source": "Pplware",
@@ -16963,5 +16963,5 @@
       "last_slot": "2026-11-13:magazine"
     }
   ],
-  "refreshed_sources": 49
+  "refreshed_sources": 1
 }
