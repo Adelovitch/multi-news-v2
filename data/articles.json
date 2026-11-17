@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-11-16T20:55:39.506577+00:00",
-  "press_updated_at": "2026-11-16T10:57:41.382765+00:00",
+  "updated_at": "2026-11-17T03:41:09.743269+00:00",
+  "press_updated_at": "2026-11-17T03:41:09.743269+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+      "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+      "description": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+      "date": "2026-11-17T03:12:54+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+      "description": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+      "date": "2026-11-17T02:52:56+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+      "description": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+      "date": "2026-11-17T01:38:13+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+      "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+      "description": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+      "date": "2026-11-17T01:19:56+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+      "description": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+      "date": "2026-11-17T01:12:28+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+      "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+      "description": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+      "date": "2026-11-17T00:45:11+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "UK seeks closer ties with EU after Brexit fail",
+      "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+      "description": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+      "date": "2026-11-17T00:30:21+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+      "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+      "description": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+      "date": "2026-11-17T00:21:19+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "description": "Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US 'forever war' in Iran.",
+      "date": "2026-11-16T23:57:49+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+      "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+      "description": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+      "date": "2026-11-16T23:44:32+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Trump departs for ASEAN on summit with Xi and Putin",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+      "description": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+      "date": "2026-11-16T23:42:03+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "EU agrees to resurrect cooperation deal with Syria",
+      "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+      "description": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+      "date": "2026-11-16T23:00:36+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+      "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+      "description": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+      "date": "2026-11-16T22:40:07+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Sport"
+      ],
+      "title": "Germany thrash Netherlands to book quarterfinal spot",
+      "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+      "description": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
+      "date": "2026-11-16T22:04:31+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+      "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+      "description": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
+      "date": "2026-11-16T21:35:51+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+      "description": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
+      "date": "2026-11-16T21:16:02+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+      "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+      "description": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
+      "date": "2026-11-16T21:06:19+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Manchester United’s Endless Loop",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
+      "description": "Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring",
+      "date": "2026-11-16T21:00:22+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
+      "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+      "description": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.",
+      "date": "2026-11-16T20:42:18+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "London Palestine Film Festival returns for 27th year",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+      "description": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
+      "date": "2026-11-16T20:36:25+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "Bela Lobato",
@@ -760,21 +1060,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "Features"
-      ],
-      "title": "Lebanon’s second airport could provide economic and political benefits",
-      "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-      "description": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
-      "date": "2026-11-16T10:28:22+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Marseille"
       ],
       "title": "« Je n’ai pas envie de te tuer, Monsieur Kessaci » : les derniers mots d’Amine Oualane au procès du triple narchomicide près de Marseille",
@@ -1140,21 +1425,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-      "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-      "description": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
-      "date": "2026-11-16T10:14:27+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Stéphane Geneste",
       "categories": [
         "Aujourd'hui l'économie"
@@ -1166,21 +1436,6 @@
       "source": "RFI",
       "language": "fr",
       "image": "https://s.rfi.fr/media/display/8591839a-9347-11ee-887d-005056bfb2b6/w:1024/p:16x9/GettyImages-1165711948%20%281%29.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Jordan bans Telegram over national security concerns",
-      "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
-      "description": "The measure comes amid a security crackdown after last month's deadly attack on a Greek Orthodox church.",
-      "date": "2026-11-16T10:12:28+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -1320,21 +1575,6 @@
       "source": "Ouest-France",
       "language": "fr",
       "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYzEwOWE0ZTc3YTE0N2RlZDMwYmRjOGYyODIxNzAxZTg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8aafdcc0f52c0a49a01c7380b02fd2897cd27ba90ddf69504b262f38928a6a56",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News Analysis"
-      ],
-      "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-      "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
-      "description": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
-      "date": "2026-11-16T10:03:11+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -1606,21 +1846,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
-      "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
-      "description": "UN's health agency says growing resistance to antibiotics and other medicines threatens 'future of modern medicine'.",
-      "date": "2026-11-16T09:57:37+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "TV5MONDE Info",
       "categories": [],
       "title": "Robots tueurs : le chef de l'ONU appelle à agir contre ces armes \"impitoyables\"",
@@ -1734,21 +1959,6 @@
       "source": "Numerama",
       "language": "fr",
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/portrait-cinematographique-dun-homme-pensif-2.png?resize=1200,675&key=2618b313",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Sadiq Khan: Global North must take responsibility for climate change",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
-      "description": "At COP31, Sadiq Khan urges wealthy nations to support the Global South, which bears the brunt of climate change.",
-      "date": "2026-11-16T09:52:11+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -2141,21 +2351,6 @@
       "source": "Tagesschau",
       "language": "de",
       "image": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1920",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
-      "description": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
-      "date": "2026-11-16T09:31:36+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -3046,21 +3241,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
-      "description": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.",
-      "date": "2026-11-16T08:54:58+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Mariana Furtado",
       "categories": [
         "Sociedade",
@@ -3140,21 +3320,6 @@
       "source": "Numerama",
       "language": "fr",
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/ship-starship.jpg?resize=1200,675&key=0586930c",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
-      "description": "In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.",
-      "date": "2026-11-16T08:49:51+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -3240,21 +3405,6 @@
       "source": "Observador",
       "language": "pt",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
-      "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
-      "description": "Leader of alliance representing Palestinian citizens of Israel says election is 'rightful achievement' for Joint List.",
-      "date": "2026-11-16T08:45:07+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -3587,21 +3737,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
-      "description": "Around 2,000 migrants have crossed into Spain’s Canary Islands from Senegal in two days.",
-      "date": "2026-11-16T08:23:19+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "20 Minutes avec AFP",
       "categories": [
         "Justice",
@@ -3636,21 +3771,6 @@
       "source": "Observador",
       "language": "pt",
       "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/13004433/770-podcast-momentos-de-gloria-sem-rita.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Russia out of IIHF World Junior Ice Hockey as Canada refuses entry",
-      "url": "https://www.aljazeera.com/sports/2026/11/16/russia-out-of-iihf-world-junior-ice-hockey-as-canada-refuses-entry?traffic_source=rss",
-      "description": "Norway back in the tournament after being bumped to make room for Russia after a Court of Arbitration for Sport ruling.",
-      "date": "2026-11-16T08:20:17+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -3732,21 +3852,6 @@
       "source": "El País",
       "language": "es",
       "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261116/1238242_095316_video_1800.mp4",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Ecuador’s president denies existence of US military base",
-      "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
-      "description": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
-      "date": "2026-11-16T08:14:48+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -4144,21 +4249,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Why is China resisting a nuclear treaty with the US and Russia?",
-      "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
-      "description": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
-      "date": "2026-11-16T07:54:09+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Frauke Gans",
       "categories": [
         "Tierwelt",
@@ -4370,21 +4460,6 @@
       "source": "The Guardian",
       "language": "en",
       "image": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=ac37a8f6dd0b557e724874bc86532ce8",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "At least 11 killed in blaze on Thailand’s Phuket island",
-      "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
-      "description": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
-      "date": "2026-11-16T07:42:48+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -4648,21 +4723,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
-      "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
-      "description": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
-      "date": "2026-11-16T07:13:00+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Canaries : près de 2 200 migrants arrivés par bateau en deux jours",
       "url": "https://fr.euronews.com/video/2026/11/16/canaries-pres-de-2-200-migrants-arrives-par-bateau-en-deux-jours",
@@ -4710,21 +4770,6 @@
       "source": "Clubic",
       "language": "fr",
       "image": "https://pic.clubic.com/v1/images/2475295/raw",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "The Red Sea cannot be secured without restoring the Yemeni state",
-      "url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
-      "description": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
-      "date": "2026-11-16T07:06:23+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -4940,21 +4985,6 @@
       "date": "2026-11-16T06:57:43+00:00",
       "source": "Libération",
       "language": "fr",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "How Russia is preparing Iran for the next escalation",
-      "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
-      "description": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
-      "date": "2026-11-16T06:57:31+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
       "image": "",
       "kind": "presse"
     },
@@ -5579,21 +5609,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "News Analysis"
-      ],
-      "title": "US and rivals spar over next UN boss as race lurches towards deadline",
-      "url": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss",
-      "description": "Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
-      "date": "2026-11-16T05:57:54+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Jemen: Regierungstruppen wollen Aden vor Huthi schützen",
       "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html",
@@ -5756,21 +5771,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/ba7f0c9a-209a-4986-a44b-5278ce011eaf/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
-      "url": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
-      "description": "Martine Moise is one of ​33 registered candidates running in Haiti's first presidential election in a decade.",
-      "date": "2026-11-16T05:38:52+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -16418,9 +16418,9 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-11-16T10:57:41.382765+00:00",
-      "success_at": "2026-11-16T10:57:41.382765+00:00",
-      "last_slot": "2026-11-16:8"
+      "updated_at": "2026-11-17T03:41:09.743269+00:00",
+      "success_at": "2026-11-17T03:41:09.743269+00:00",
+      "last_slot": "2026-11-17:6"
     },
     {
       "source": "France 24 English",
