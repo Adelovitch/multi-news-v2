@@ -1,7 +1,204 @@
 {
-  "updated_at": "2026-11-18T11:28:34.271300+00:00",
+  "updated_at": "2026-11-18T19:31:35.553357+00:00",
   "press_updated_at": "2026-11-18T11:28:34.271300+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "REDMI Note 18",
+        "REDMI Turbo 6",
+        "Xiaomi",
+        "Xiaomi 18"
+      ],
+      "title": "شاومي تجهز هواتف Xiaomi 18 وREDMI Note 18 وTurbo 6 للإطلاق مطلع 2027",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%ac%d9%87%d8%b2-%d9%87%d9%88%d8%a7%d8%aa%d9%81-xiaomi-18-%d9%88redmi-note-18-%d9%88turbo-6-%d9%84%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b7%d9%84%d8%b9-2/",
+      "description": "تتحضر شركة شاومي لإطلاق مجموعة من الهواتف الجديدة مع دخول العام القمري الجديد في مطلع 2027، وتشمل القائمة الإصدار القياسي من Xiaomi 18 إلى جانب سلسلة…\nالتدوينة شاومي تجهز هواتف Xiaomi 18 وREDMI Note 18 وTurbo 6 للإطلاق مطلع 2027 ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T17:18:03+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/xiaomi-2027.webp",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "Galaxy S26",
+        "One UI 9.5",
+        "سامسونج"
+      ],
+      "title": "مزايا أمنية وصحية جديدة في تحديث One UI 9.5 لسلسلة Galaxy S26",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d9%88%d8%b5%d8%ad%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%84%d8%b3%d9%84/",
+      "description": "طرحت سامسونج رسميًا تحديث One UI 9.5 لمستخدمي سلسلة Galaxy S26، حاملاً مجموعة واسعة من المزايا الجديدة والتحسينات التي تركز على تجربة المستخدم والخصوصية والتخصيص، مع…\nالتدوينة مزايا أمنية وصحية جديدة في تحديث One UI 9.5 لسلسلة Galaxy S26 ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T16:08:40+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/galaxy-s26-series.webp",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "One UI 9.5",
+        "سامسونج"
+      ],
+      "title": "سامسونج تعزز ميزة Now Brief ببطاقات التذكير الذكية في تحديث One UI 9.5",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b9%d8%b2%d8%b2-%d9%85%d9%8a%d8%b2%d8%a9-now-brief-%d8%a8%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b0%d9%83%d9%8a%d8%b1-%d8%a7/",
+      "description": "تواصل سامسونج تطوير ميزة Now Brief في هواتفها الرائدة، إذ تستعد لإضافة بطاقة تذكير جديدة باسم “Recall” ضمن واجهة One UI 9.5، من المتوقع أن تجعل…\nالتدوينة سامسونج تعزز ميزة Now Brief ببطاقات التذكير الذكية في تحديث One UI 9.5 ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T15:53:04+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/now-brief.webp",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "One UI 9.5",
+        "سامسونج"
+      ],
+      "title": "سامسونج تطلق ميزة قفل التطبيقات رسميًا مع One UI 9.5",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d9%8a%d8%b2%d8%a9-%d9%82%d9%81%d9%84-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b/",
+      "description": "بعد سنوات من مطالبات المستخدمين، أعلنت سامسونج رسميًا عن إضافة ميزة قفل التطبيقات في واجهة One UI 9.5، ما يتيح لمستخدمي هواتف Galaxy حماية أي تطبيق…\nالتدوينة سامسونج تطلق ميزة قفل التطبيقات رسميًا مع One UI 9.5 ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T15:46:02+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/app-lock-one-ui-95.webp",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "One UI 9.5",
+        "سامسونج"
+      ],
+      "title": "تحديث One UI 9.5 يمكّن المستخدمين من تحميل نغمات Galaxy الكلاسيكية بضغطة واحدة",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%8a%d9%85%d9%83%d9%91%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d9%85%d9%86-%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%86%d8%ba%d9%85/",
+      "description": "يجلب تحديث One UI 9.5 من سامسونج مفاجأة لعشاق هواتف Galaxy، حيث أصبح الآن بالإمكان تحميل جميع نغمات Over the Horizon الشهيرة من مختلف الإصدارات، وذلك…\nالتدوينة تحديث One UI 9.5 يمكّن المستخدمين من تحميل نغمات Galaxy الكلاسيكية بضغطة واحدة ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T15:40:50+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/samsung-ringtone.webp",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "One UI 9.5",
+        "Quick Share",
+        "سامسونج"
+      ],
+      "title": "نقل الملفات باللمس: تحديث One UI 9.5 يسهل المشاركة بين هواتف Galaxy",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d9%86%d9%82%d9%84-%d8%a7%d9%84%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d9%84%d9%85%d8%b3-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%8a%d8%b3%d9%87%d9%84-%d8%a7%d9%84%d9%85%d8%b4%d8%a7/",
+      "description": "أتاحت سامسونج في الإصدار التجريبي من One UI 9.5 لهواتف Galaxy S26 ميزة “Tap to Share” ضمن خدمة Quick Share، ما يتيح للمستخدمين مشاركة الملفات بسرعة…\nالتدوينة نقل الملفات باللمس: تحديث One UI 9.5 يسهل المشاركة بين هواتف Galaxy ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T15:37:04+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/quick-share.webp",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "One UI 9.5",
+        "سامسونج"
+      ],
+      "title": "تحديث One UI 9.5 يبسط المصادقة البيومترية بين بصمة الإصبع والوجه",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-9-5-%d9%8a%d8%a8%d8%b3%d8%b7-%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%af%d9%82%d8%a9-%d8%a7%d9%84%d8%a8%d9%8a%d9%88%d9%85%d8%aa%d8%b1%d9%8a%d8%a9-%d8%a8%d9%8a%d9%86/",
+      "description": "أصبح تحديث One UI 9.5 متوفرًا تجريبيًا في بعض الأسواق، جالبًا معه العديد من الميزات الجديدة وتحسينات في التطبيقات وتجربة الاستخدام، وتغييرات في جانب الخصوصية وسهولة…\nالتدوينة تحديث One UI 9.5 يبسط المصادقة البيومترية بين بصمة الإصبع والوجه ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T15:32:28+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/one-ui-95.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Sociedade",
+        "bebida",
+        "Bebidas alcóolicas",
+        "Brasil",
+        "Gastronomia"
+      ],
+      "title": "A hora e a vez do vinho brasileiro",
+      "url": "https://super.abril.com.br/sociedade/a-hora-e-a-vez-do-vinho-brasileiro/",
+      "description": "Nunca houve tanta gente consumindo a bebida por  aqui. Entenda a história desse mercado no País e como as vinícolas nacionais tentam conquistar espaço.",
+      "date": "2026-11-18T15:15:16+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Vinhos_Brasileiros.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "One UI 9.5",
+        "سامسونج"
+      ],
+      "title": "سامسونج تسهل التحكم اليدوي في الكاميرا مع تحديث One UI 9.5",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d9%87%d9%84-%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%85-%d8%a7%d9%84%d9%8a%d8%af%d9%88%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1/",
+      "description": "أطلقت سامسونج في واجهتها الجديدة One UI 9.5 تصميمًا محدثًا لتطبيق الكاميرا، يهدف إلى جعل تجربة التصوير أبسط وأكثر تخصيصًا لكل من المستخدم العادي وعشاق التصوير…\nالتدوينة سامسونج تسهل التحكم اليدوي في الكاميرا مع تحديث One UI 9.5 ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T14:26:58+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/samsung-camera-app.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Cultura",
+        "Sociedade",
+        "Tecnologia",
+        "Games",
+        "GTA"
+      ],
+      "title": "A saga de GTA VI",
+      "url": "https://super.abril.com.br/cultura/a-saga-de-gta-vi/",
+      "description": "A origem na fábrica de relógios. Os ratinhos que só andam para a frente. Dois projetos envolvendo a Nintendo. A controvérsia forjada (e genial). Mergulhe no lado menos conhecido de \"Grand Theft Auto\" e saiba como ele se transformou no maior game de todos os tempos.",
+      "date": "2026-11-18T14:21:01+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_GTA_VI.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "برامج",
+        "android",
+        "Galaxy Z Flip 8",
+        "Galaxy Z Fold 8",
+        "سامسونج"
+      ],
+      "title": "سامسونج تطلق تحديث أمني ثاني لهواتف Galaxy Z Fold 8 وFlip 8 في نوفمبر",
+      "url": "https://www.tech-wd.com/wd/2026/11/18/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d9%84%d9%82-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a3%d9%85%d9%86%d9%8a-%d8%ab%d8%a7%d9%86%d9%8a-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-galaxy-z-fold/",
+      "description": "بدأت سامسونج في طرح تحديث برمجي ثاني خلال شهر نوفمبر لهواتف Galaxy Z Fold 8 وسلسلة Galaxy Z Flip 8 في كوريا الجنوبية. ويأتي هذا التحديث…\nالتدوينة سامسونج تطلق تحديث أمني ثاني لهواتف Galaxy Z Fold 8 وFlip 8 في نوفمبر ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-18T14:14:03+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/galaxy-z-fold-8-1.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/28959_gk-audio-apple-news-en/2026_11_18_Top_Stories___Wednesday_13_00_UTC_986156-128KB-podcast-28959-986156.mp3",
       "author": "",
@@ -3252,6 +3449,23 @@
     },
     {
       "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Mundo Estranho",
+        "Redação Digital",
+        "site mundo estranho"
+      ],
+      "title": "Triângulo das Bermudas: por que tantos aviões e navios desaparecem? Veja explicações científicas",
+      "url": "https://super.abril.com.br/mundo-estranho/triangulo-das-bermudas-por-que-tantos-avioes-e-navios-desaparecem-veja-explicacoes-cientificas/",
+      "description": "Região próxima ao Caribe ganhou fama de amaldiçoada em lendas urbanas; entenda.",
+      "date": "2026-11-18T10:00:44+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_desaparecem-avioes-e-navios-no-Triangulo-das-Bermudas_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Espagne, un modèle progressiste contrarié : Mémoires du franquisme, un pays fracturé",
@@ -4573,6 +4787,25 @@
       "language": "de",
       "image": "https://images.tagesschau.de/image/ccf08676-eb8a-47e8-bc10-6a50ce91d1f4/AAABoe3BpEw/AAABnSSvrFg/16x9-big/wohnungsbau-342.jpg?width=1920",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "Envelhecimento",
+        "Ética",
+        "Longevidade",
+        "VELHICE"
+      ],
+      "title": "Se o envelhecimento é natural, não deveríamos deixar que siga seu curso em vez de tentar freá-lo?",
+      "url": "https://super.abril.com.br/saude/se-o-envelhecimento-e-natural-nao-deveriamos-deixar-que-siga-seu-curso-em-vez-de-tentar-frea-lo/",
+      "description": "Dois filósofos desmontam mitos que nos fazem aceitar o envelhecimento do corpo como destino – e explicam por que freá-lo não significa desvalorizar os idosos.",
+      "date": "2026-11-18T09:00:05+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2025/11/0611-idosos-layout_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7581,6 +7814,25 @@
     },
     {
       "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "Astrofísica",
+        "Astronomia",
+        "Estrelas",
+        "VIA LÁCTEA"
+      ],
+      "title": "Quanto pesa a Via Láctea? Mais de 1 trilhão de vezes a massa do Sol",
+      "url": "https://super.abril.com.br/ciencia/quanto-pesa-a-via-lactea-mais-de-1-trilhao-de-vezes-a-massa-do-sol/",
+      "description": "Pesquisadores estimaram a massa da galáxia com precisão inédita com a ajuda do DESI, instrumento científico criado para estudar a matéria escura.",
+      "date": "2026-11-17T23:00:27+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_quanto-pesa-a-via-lactea_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "روبيو ينفي وجود تهديد وشيك لواشنطن بقنبلة إيرانية قذرة",
@@ -7632,6 +7884,25 @@
       "language": "es",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e06/live/ac35afb0-e2ba-11f1-b083-69f1e69220f8.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Ciência",
+        "árvore",
+        "lago",
+        "mudanças climáticas",
+        "pesquisa"
+      ],
+      "title": "O maior lago de água doce do mundo quase morreu, mas está se recuperando",
+      "url": "https://super.abril.com.br/ciencia/o-maior-lago-de-agua-doce-do-mundo-quase-morreu-mas-esta-se-recuperando/",
+      "description": "Estudo de anéis de árvores revela que o fluxo de água do Lago Baikal aumentou cerca de 80% na última década, revertendo uma tendência de secas.",
+      "date": "2026-11-17T22:13:20+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_maior-lago-agua-doce-mundo-quase-morreu_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7873,6 +8144,25 @@
     },
     {
       "audio_url": "",
+      "author": "Bruno Vaiano",
+      "categories": [
+        "Ciência",
+        "asteroide",
+        "Astronomia",
+        "COMETA",
+        "Sistema solar"
+      ],
+      "title": "Cometa, sonda soviética ou só uma pedra? O mistério do asteroide 1998 KY26",
+      "url": "https://super.abril.com.br/ciencia/cometa-sonda-sovietica-ou-so-uma-pedra-o-misterio-do-asteroide-1998-ky26/",
+      "description": "O pedregulho de 11 metros se move de um jeito que a gravidade, sozinha, não explica. Estudos recentes apontam um culpado simples: a luz do Sol.",
+      "date": "2026-11-17T21:00:05+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Scientists-Stumped-by-Strange-Object-in-Space_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Andrew Paul",
       "categories": [
         "Technology",
@@ -7904,6 +8194,62 @@
     },
     {
       "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "huawei",
+        "Huawei OSTA",
+        "Huawei OSTA O1 Pro",
+        "إلكترونيات"
+      ],
+      "title": "تسريب المواصفات الكاملة لهاتف Huawei OSTA O1 Pro قبل الإطلاق الرسمي",
+      "url": "https://www.tech-wd.com/wd/2026/11/17/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9-%d9%84%d9%87%d8%a7%d8%aa%d9%81-huawei-osta-o1-pro-%d9%82%d8%a8%d9%84/",
+      "description": "أعلنت هواوي فتح باب الحجز المسبق لهاتف OSTA O1 Pro داخل الصين، كأول هاتف من علامتها الفرعية OSTA بعد انفصال Honor في 2020، فيما كشفت تسريبات…\nالتدوينة تسريب المواصفات الكاملة لهاتف Huawei OSTA O1 Pro قبل الإطلاق الرسمي ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-17T20:48:00+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/OSTA-O1-Pro-specs.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "huawei",
+        "Huawei Mate 90 Pro Max",
+        "إلكترونيات"
+      ],
+      "title": "تسريبات: إطلاق Huawei Mate 90 Pro Max Fan Edition في فبراير المقبل",
+      "url": "https://www.tech-wd.com/wd/2026/11/17/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-huawei-mate-90-pro-max-fan-edition-%d9%81%d9%8a-%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84/",
+      "description": "ظهرت تسريبات تشير إلى أن هاتف Huawei Mate 90 Pro Max Fan Edition قد يتم الكشف عنه في فبراير 2027، في موعد أقرب من جيل العام…\nالتدوينة تسريبات: إطلاق Huawei Mate 90 Pro Max Fan Edition في فبراير المقبل ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-17T20:42:26+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/Huawei-Mate-90-Pro-Max.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "huawei",
+        "Huawei Mate X8",
+        "إلكترونيات",
+        "جوال"
+      ],
+      "title": "مواصفات Huawei Mate X8 الكاملة تظهر قبل الإعلان الرسمي في 24 نوفمبر",
+      "url": "https://www.tech-wd.com/wd/2026/11/17/%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-huawei-mate-x8-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9-%d8%aa%d8%b8%d9%87%d8%b1-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d8%a7%d9%84/",
+      "description": "ظهرت المواصفات الكاملة لهاتف Huawei Mate X8 القابل للطي قبل أيام من كشفه الرسمي المقرر في 24 نوفمبر. ويأتي هذا الجيل كامتداد لسلسلة Mate X التي…\nالتدوينة مواصفات Huawei Mate X8 الكاملة تظهر قبل الإعلان الرسمي في 24 نوفمبر ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-17T20:36:29+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/huawei-mate-x8-1.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -7927,6 +8273,25 @@
       "language": "es",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9a8/live/c9c0c870-e2a2-11f1-8226-87dfa5049e9a.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "huawei",
+        "Huawei Watch Air",
+        "إلكترونيات",
+        "ساعات ذكية"
+      ],
+      "title": "تسريب: Huawei Watch Air قد تصبح أنحف ساعة ذكية في السوق بسماكة 6.9 مم فقط",
+      "url": "https://www.tech-wd.com/wd/2026/11/17/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-huawei-watch-air-%d9%82%d8%af-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a3%d9%86%d8%ad%d9%81-%d8%b3%d8%a7%d8%b9%d8%a9-%d8%b0%d9%83%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%88/",
+      "description": "كشفت تسريبات جديدة أن هواوي تستعد لإطلاق ساعة Huawei Watch Air بسمك قياسي يبلغ 6.9 ملم فقط، ما قد يجعلها الأنحف بين الساعات الذكية التجارية، متجاوزة…\nالتدوينة تسريب: Huawei Watch Air قد تصبح أنحف ساعة ذكية في السوق بسماكة 6.9 مم فقط ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-17T20:27:55+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/Huawei-Watch-Air-1.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -8029,6 +8394,43 @@
     },
     {
       "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "Xiaomi",
+        "Xiaomi 18 Pro",
+        "Xiaomi 18 Pro Max",
+        "إلكترونيات"
+      ],
+      "title": "شاومي تطرح Xiaomi 18 Pro و18 Pro Max عالميًا بكاميرات 200 ميجابكسل وأسعار تبدأ من 1399 يورو",
+      "url": "https://www.tech-wd.com/wd/2026/11/17/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b7%d8%b1%d8%ad-xiaomi-18-pro-%d9%8818-pro-max-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7%d8%aa-200-%d9%85%d9%8a/",
+      "description": "أعلنت شاومي عن الإطلاق العالمي لهواتف Xiaomi 18 Pro وXiaomi 18 Pro Max في 17 نوفمبر 2026، بعد الاكتفاء سابقًا بطرح الجيل السابق في الصين فقط.…\nالتدوينة شاومي تطرح Xiaomi 18 Pro و18 Pro Max عالميًا بكاميرات 200 ميجابكسل وأسعار تبدأ من 1399 يورو ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-17T19:43:49+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/Xiaomi-18-Pro.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Sociedade",
+        "DEMOGRAFIA",
+        "homem",
+        "mulher"
+      ],
+      "title": "No Catar, há 2,5 homens para cada mulher. Veja onde a população é mais desigual",
+      "url": "https://super.abril.com.br/sociedade/no-catar-ha-25-homens-para-cada-mulher-veja-onde-a-populacao-e-mais-desigual/",
+      "description": "A maioria da população global é masculina: existem 101 homens para cada 100 mulheres. Mas não é assim em todo lugar.",
+      "date": "2026-11-17T19:30:15+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Ultima_pagina.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "L'Instant poésie de Rebeka Warrior : Les waka de Ki no Tomonori, avoir les \"manches mouillées\"",
@@ -8069,6 +8471,24 @@
       "language": "fr",
       "image": "https://www.01net.com/app/uploads/2026/11/EA-FC-27-1344x896.jpeg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "فريق التحرير",
+      "categories": [
+        "الأخبار",
+        "Xiaomi",
+        "Xiaomi Watch S5",
+        "إلكترونيات"
+      ],
+      "title": "شاومي تطرح ساعة Watch S5 41mm عالميًا بتصميم معدني ودعم HyperOS 4",
+      "url": "https://www.tech-wd.com/wd/2026/11/17/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%b3%d8%a7%d8%b9%d8%a9-watch-s5-41mm-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%85%d8%b9%d8%af%d9%86/",
+      "description": "أعلنت شاومي عن طرح ساعة Xiaomi Watch S5 41mm للأسواق العالمية، ضمن الجيل الجديد من أجهزتها القابلة للارتداء. تأتي الساعة بتصميم صغير الحجم وهيكل من الفولاذ…\nالتدوينة شاومي تطرح ساعة Watch S5 41mm عالميًا بتصميم معدني ودعم HyperOS 4 ظهرت أولاً على عالم التقنية.",
+      "date": "2026-11-17T19:27:39+00:00",
+      "source": "عالم التقنية",
+      "language": "ar",
+      "image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/11/Xiaomi-Watch-S5-01.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -8308,6 +8728,25 @@
       "language": "es",
       "image": "",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Eduardo Brasil",
+      "categories": [
+        "Ciência",
+        "Amazônia",
+        "Ambiente",
+        "BIODIVERSIDADE",
+        "Clima"
+      ],
+      "title": "Petróleo na Foz do Amazonas: o que está em jogo com a nova aposta da Petrobras",
+      "url": "https://super.abril.com.br/ciencia/petroleo-na-foz-do-amazonas-o-que-esta-em-jogo-com-a-nova-aposta-da-petrobras/",
+      "description": "A exploração pode beneficiar cidades próximas. Mas também traz riscos para a biodiversidade e dúvidas quanto a continuar investindo em combustíveis fósseis em plena crise climática.",
+      "date": "2026-11-17T18:11:11+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Foz_do_Amazonas.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -8965,6 +9404,25 @@
       "source": "Genbeta",
       "language": "es",
       "image": "https://i.blogs.es/5135a6/parte-de-baja-medica/1024_2000.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "caminhar",
+        "coração",
+        "EXERCÍCIO FÍSICO",
+        "Longevidade"
+      ],
+      "title": "Caminhar mais rápido ou dar mais passos: o que é melhor para a saúde?",
+      "url": "https://super.abril.com.br/saude/caminhar-mais-rapido-ou-dar-mais-passos-o-que-e-melhor-para-a-saude/",
+      "description": "Pesquisa sugere que aumentar o ritmo pode reduzir o risco de morte mesmo entre pessoas que caminham pouco diariamente.",
+      "date": "2026-11-17T14:00:32+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2021/11/caminhada_site.jpg",
       "kind": "magazine"
     },
     {
@@ -11338,25 +11796,6 @@
       "kind": "magazine"
     },
     {
-      "audio_url": "",
-      "author": "Bruno Vaiano",
-      "categories": [
-        "Ciência",
-        "espaço",
-        "Exploração espacial",
-        "Japão",
-        "Marte"
-      ],
-      "title": "Missão espacial japonesa MMX pretende coletar amostras da lua marciana Phobos",
-      "url": "https://super.abril.com.br/ciencia/missao-espacial-japonesa-mmx-pretende-coletar-amostras-da-lua-marciana-phobos/",
-      "description": "Lançada em outubro, a sonda MMX deve pousar em Phobos em 2030 e trazer à Terra amostras que podem revelar como Marte ganhou suas duas pequenas luas.",
-      "date": "2026-11-15T21:00:42+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_missao-amostras-de-lua-em-marte_site.jpg",
-      "kind": "magazine"
-    },
-    {
       "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmv7s7.mp3",
       "author": "",
       "categories": [],
@@ -11371,25 +11810,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "algas",
-        "marinho",
-        "reprodução",
-        "trends"
-      ],
-      "title": "Essas algas marinhas se reproduzem sozinhas quando não encontram parceiros próximos",
-      "url": "https://super.abril.com.br/ciencia/essas-algas-marinhas-se-reproduzem-sozinhas-quando-nao-encontram-parceiros-proximos/",
-      "description": "Em laboratório, 92% das kelps isoladas passaram a se reproduzir assexuadamente; na natureza, o fenômeno ainda não foi observado.",
-      "date": "2026-11-15T19:00:26+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_algas-marinhas-reproduzem-sozinhas_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "wicho@microsiervos.com (Wicho)",
       "categories": [
         "Espacio"
@@ -11401,41 +11821,6 @@
       "source": "Microsiervos",
       "language": "es",
       "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Qual a diferença entre bilhar, sinuca e snooker?",
-      "url": "https://super.abril.com.br/mundo-estranho/qual-a-diferenca-entre-bilhar-sinuca-e-snooker/",
-      "description": "Conheça a história, as regras e as particularidades de cada modalidade desses jogos de mesa.",
-      "date": "2026-11-15T15:00:19+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2022/02/sinuca_amp_08.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Ciência",
-        "espanha",
-        "História",
-        "Pré-história"
-      ],
-      "title": "Centenas de gravuras rupestres com milhares de anos são encontradas em caverna turística na Espanha",
-      "url": "https://super.abril.com.br/ciencia/centenas-de-gravuras-rupestres-com-milhares-de-anos-sao-encontradas-em-caverna-turistica-na-espanha/",
-      "description": "Uma vasta coleção de arte  paleolítica, com figuras como cavalos e ursos, estava \"escondida\" dos olhos do público e foi revelada em um novo estudo.",
-      "date": "2026-11-15T11:00:29+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_gravuras-rupestres-idade-da-pedra-CAPA_site.jpg",
       "kind": "magazine"
     },
     {
@@ -11520,61 +11905,6 @@
       "source": "Microsiervos",
       "language": "es",
       "image": "https://img.microsiervos.com/images2026/SpaceXBooster22Despanzurrado.webp",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Dinossauros",
-        "evolução",
-        "física",
-        "fóssil"
-      ],
-      "title": "Como os dinossauros gigantes sustentavam toneladas de peso sem quebrar os ossos?",
-      "url": "https://super.abril.com.br/ciencia/como-os-dinossauros-gigantes-sustentavam-toneladas-de-peso-sem-quebrar-os-ossos/",
-      "description": "Ao longo da evolução, linhagens de saurópodes (dinossauros gigantes e pescoçudos) usaram estratégias biomecânicas distintas para a sustentação do peso.",
-      "date": "2026-11-14T21:00:36+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Como-dinossauros-sustentavam-toneladas-sem-quebrar-ossos_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "farmacologia",
-        "florestas",
-        "Medicamentos",
-        "Plantas medicinais"
-      ],
-      "title": "Como uma planta brasileira “que faz suar” virou remédio",
-      "url": "https://super.abril.com.br/ciencia/como-uma-planta-brasileira-que-faz-suar-virou-remedio/",
-      "description": "História da planta Jaborandi destaca a importância da sustentabilidade na pesquisa e uso de fitoterápicos; entenda.",
-      "date": "2026-11-14T17:00:10+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_planta-brasileira-faz-suar_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Fiordes: o que são e como se formam essas paisagens",
-      "url": "https://super.abril.com.br/mundo-estranho/fiordes-o-que-sao-e-como-se-formam-essas-paisagens/",
-      "description": "Essas impressionantes formações geológicas surgiram nas eras glaciais.",
-      "date": "2026-11-14T15:00:36+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_o-que-sao-fiordes_site.jpg",
       "kind": "magazine"
     },
     {
@@ -11822,25 +12152,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Ciência",
-        "Alzheimer",
-        "cérebro",
-        "Estudos e pesquisas",
-        "medicina"
-      ],
-      "title": "Pesquisa brasileira premiada analisa possíveis causas para a progressão do Alzheimer",
-      "url": "https://super.abril.com.br/ciencia/pesquisa-brasileira-premiada-analisa-possiveis-causas-para-a-progressao-do-alzheimer/",
-      "description": "Tese vencedora do Grande Prêmio Capes mostra como células imunológicas do cérebro podem ter papel no desenvolvimento da doença.",
-      "date": "2026-11-13T21:55:47+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_pesquisa-Alzheimer-rendeu-cientista-premio-melhor-tese_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Two Centuries After This Bronze Leg Emerged From a Scottish Bog, Archaeologists Believe It May Have Belonged to a Towering Statue of a Roman Emperor on Horseback",
@@ -11850,24 +12161,6 @@
       "source": "Smithsonian Magazine",
       "language": "en",
       "image": "https://th-thumbnailer.cdn-si-edu.com/a8bM9m_HeavTWkKJZx_rjx2PP9E=/420x240/filters:focal(2701x1801:2702x1802)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bc/81/bc8175f9-ab3c-445f-bcf8-f1950d18ced1/dr_fraser_hunter_with_the_bronze_milsington_leg_photo__duncan_mcglynn_2_1.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Saúde",
-        "Nutrição",
-        "Obesidade",
-        "OMS /ORGANIZAÇÃO MUNDIAL DA SAÚDE/"
-      ],
-      "title": "Você conhece o “novo IMC”? Entenda o que pode mudar no diagnóstico da obesidade",
-      "url": "https://super.abril.com.br/saude/voce-conhece-o-novo-imc-entenda-o-que-pode-mudar-no-diagnostico-da-obesidade/",
-      "description": "Pesquisadores propõem que, além do índice, é preciso considerar a circunferência abdominal e exames sobre a função dos órgãos.",
-      "date": "2026-11-13T21:15:43+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_nova-definicao-obesidade_site.jpg",
       "kind": "magazine"
     },
     {
@@ -11887,25 +12180,6 @@
       "source": "Journal du Geek – Espace",
       "language": "fr",
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/Voyager-1-NASA-1280x853.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "anabolizantes",
-        "espermatozoide",
-        "Fertilidade",
-        "hormônios"
-      ],
-      "title": "Testículos podem diminuir de tamanho? Veja 5 possíveis causas",
-      "url": "https://super.abril.com.br/saude/testiculos-podem-diminuir-de-tamanho-veja-5-possiveis-causas/",
-      "description": "Uso de testosterona, varicocele, infecções e alterações hormonais podem reduzir o volume testicular; saiba quando o quadro pode ser revertido.",
-      "date": "2026-11-13T19:00:37+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_testiculos-podem-dimiuir-tamanho_site.jpg",
       "kind": "magazine"
     },
     {
@@ -15373,132 +15647,6 @@
     },
     {
       "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei Mate 90",
-        "إلكترونيات"
-      ],
-      "title": "Huawei Mate 90 Fan Edition سيحتوي على تقنية تبريد متقدمة مستوحاة من الحواسيب",
-      "url": "https://www.tech-wd.com/wd/2026/11/08/huawei-mate-90-fan-edition-%d8%b3%d9%8a%d8%ad%d8%aa%d9%88%d9%8a-%d8%b9%d9%84%d9%89-%d8%aa%d9%82%d9%86%d9%8a%d8%a9-%d8%aa%d8%a8%d8%b1%d9%8a%d8%af-%d9%85%d8%aa%d9%82%d8%af%d9%85%d8%a9-%d9%85%d8%b3%d8%aa/",
-      "description": "تعمل هواوي على تطوير هاتفها الجديد Mate 90 Fan Edition بنقلة نوعية في حلول تبريد الهواتف الذكية، وفقًا لأحدث التسريبات التي تشير إلى إدماج تقنيات تبديد حرارة متقدمة مستوحاة من أنظمة الحواسيب المكتبية. وبحسب معلومات من مصادر صناعية، تجهز هواوي للهاتف بنية تبريد تعتمد على مروحة كهرضغطية وألواح زعنفية رأسية، وهو ما يمثل ت",
-      "date": "2026-11-08T19:16:49+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei Nova 18",
-        "إلكترونيات"
-      ],
-      "title": "كاميرا سيلفي مربعة قادمة لهواتف Nova 18 وفقاً لتسريبات جديدة",
-      "url": "https://www.tech-wd.com/wd/2026/11/08/%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d8%b3%d9%8a%d9%84%d9%81%d9%8a-%d9%85%d8%b1%d8%a8%d8%b9%d8%a9-%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-nova-18-%d9%88%d9%81%d9%82%d8%a7/",
-      "description": "مع اقتراب إطلاق سلسلة Huawei Nova 17، بدأت التسريبات تتحدث عن الجيل التالي Nova 18، الذي يتوقع أن يأتي بتغييرات لافتة في الكاميرا الأمامية، حيث تشير المعلومات إلى اعتماد تصميم مربع جديد للكاميرا السيلفي. وبحسب التسريبات، تنوي هواوي تزويد سلسلة Nova 18 العام المقبل بكاميرا أمامية ذات تصميم مربع، مشابه لما قدمته Apple لأ",
-      "date": "2026-11-08T18:27:11+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei Nova 17",
-        "Huawei Nova 17 Pro",
-        "Huawei Nova 17 Ultra"
-      ],
-      "title": "تسريب مواصفات كاميرات Huawei Nova 17 وNova 17 Pro وUltra",
-      "url": "https://www.tech-wd.com/wd/2026/11/08/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7%d8%aa-huawei-nova-17-%d9%88nova-17-pro-%d9%88ultra/",
-      "description": "ظهرت تسريبات مفصلة حول سلسلة Huawei Nova 17 المنتظرة، والتي ستضم ثلاثة طرازات أساسية هي النسخة العادية وPro وUltra، مع تغييرات ملحوظة في مواصفات الكاميرات والمعالجات. وبحسب ما كشفه مسرّب صيني عبر منصة Weibo، ستأتي نسخة Nova 17 الأساسية بنظام كاميرا ثلاثي بدقة 50 ميجابكسل، مع عدسة فائقة العرض جديدة لأول مرة بدقة 50 ميجا",
-      "date": "2026-11-08T18:22:44+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "إلكترونيات",
-        "الصين"
-      ],
-      "title": "أجهزة هواوي اللوحية تحصد 34% من السوق الصيني بنمو سنوي كبير",
-      "url": "https://www.tech-wd.com/wd/2026/11/08/%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%a7%d9%84%d9%84%d9%88%d8%ad%d9%8a%d8%a9-%d8%aa%d8%ad%d8%b5%d8%af-34-%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%b5/",
-      "description": "أظهر تقرير جديد من شركة GfK المتخصصة في أبحاث السوق أن هواوي واصلت تعزيز ريادتها في سوق الأجهزة اللوحية الصيني خلال الربع الثالث من عام 2026، بعدما ارتفعت حصتها في السوق بنسبة 34.2% على أساس سنوي. بذلك تصدرت هواوي مبيعات الأجهزة اللوحية بأكثر من ثلث الحصة السوقية في الصين خلال الفترة بين أكتوبر 2025 ونهاية …\nالتدوينة أ",
-      "date": "2026-11-08T18:18:46+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Honor",
-        "Honor Power 3",
-        "إلكترونيات"
-      ],
-      "title": "Honor Power 3 يتبنى وحدتي فلاش خلفي لتحسين التصوير الفوتوغرافي",
-      "url": "https://www.tech-wd.com/wd/2026/11/08/honor-power-3-%d9%8a%d8%aa%d8%a8%d9%86%d9%89-%d9%88%d8%ad%d8%af%d8%aa%d9%8a-%d9%81%d9%84%d8%a7%d8%b4-%d8%ae%d9%84%d9%81%d9%8a-%d9%84%d8%aa%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d8%aa%d8%b5%d9%88%d9%8a/",
-      "description": "تستعد Honor لإطلاق هاتفها الجديد Honor Power 3 خلال الفترة المقبلة وسط تسريبات تشير إلى ميزة لافتة في جانب التصوير، حيث سيأتي الهاتف وللمرة الأولى مع وحدتي فلاش LED مدمجتين في إطار الكاميرا الخلفية، ويقال إن حجم الفلاش سيكون أكبر من حجم حساسات الكاميرا نفسها. وذكرت التسريبات أن تصميم Honor Power 3 سيشبه إلى حد …\nالتدوي",
-      "date": "2026-11-08T18:12:21+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "المراجعات",
-        "Honor",
-        "Honor Magic 9 Pro Max",
-        "إلكترونيات"
-      ],
-      "title": "Honor Magic 9 Pro Max ينافس كاميرات السينما بهاتف ذكي بقدرات ARRI",
-      "url": "https://www.tech-wd.com/wd/2026/11/08/honor-magic-9-pro-max-%d9%8a%d9%86%d8%a7%d9%81%d8%b3-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d8%a8%d9%87%d8%a7%d8%aa%d9%81-%d8%b0%d9%83%d9%8a-%d8%a8/",
-      "description": "طرحت Honor جيلها الجديد من الهواتف الرائدة Magic 9 Pro Max، مع تركيز ملحوظ على إمكانيات الفيديو الاحترافي، ليقدم تجربة تصوير قريبة من معدات السينما المتخصصة. الهاتف يأتي مبنياً على شراكة مع شركة ARRI العالمية، المعروفة بتقنياتها المستخدمة في إنتاج أفلام هوليوود، ليقدم مزايا مثل تثبيت الفيديو الفائق ونماذج الألوان السين",
-      "date": "2026-11-08T15:10:24+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Honor",
-        "Honor 700"
-      ],
-      "title": "Honor 700 يعتمد شاشة خلفية ذكية بتصميم مستوحى من هواتف Xiaomi",
-      "url": "https://www.tech-wd.com/wd/2026/11/08/honor-700-%d9%8a%d8%b9%d8%aa%d9%85%d8%af-%d8%b4%d8%a7%d8%b4%d8%a9-%d8%ae%d9%84%d9%81%d9%8a%d8%a9-%d8%b0%d9%83%d9%8a%d8%a9-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%85%d8%b3%d8%aa%d9%88%d8%ad%d9%89/",
-      "description": "أعلنت Honor عن تغييرات لافتة في التصميم مع سلسلة Honor 700 المقبلة التي ستتضمن للمرة الأولى شاشة خلفية مدمجة في جميع الطرازات، في خطوة تبدو مستوحاة من تجربة Xiaomi 17 Pro Max. وحسب المعلومات التي توافرت، ستتخلى Honor عن تصميم وحدة الكاميرات الأفقية الذي ميز أجهزتها الرقمية في الجيلين السابقين، لصالح كاميرات مرتبة عمودي",
-      "date": "2026-11-08T15:00:21+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Tilman Wolff",
       "categories": [
         "Quarks Doku",
@@ -15511,152 +15659,6 @@
       "date": "2026-11-08T09:31:32+00:00",
       "source": "Quarks",
       "language": "de",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Honor",
-        "Honor 700 Pro",
-        "إلكترونيات"
-      ],
-      "title": "Honor 700 Pro يأتي بميزات رصد معدل ضربات القلب والأكسجين في الدم",
-      "url": "https://www.tech-wd.com/wd/2026/11/07/honor-700-pro-%d9%8a%d8%a3%d8%aa%d9%8a-%d8%a8%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%b1%d8%b5%d8%af-%d9%85%d8%b9%d8%af%d9%84-%d8%b6%d8%b1%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%84%d8%a8-%d9%88%d8%a7%d9%84/",
-      "description": "كشف تسريب جديد أن هاتف Honor 700 Pro سيدعم وظائف صحية متقدمة، تشمل مراقبة معدل ضربات القلب وقياس نسبة الأكسجين في الدم (SpO2). وبحسب التسريبات، سيعتمد كل من الإصدار القياسي Honor 700 و700 Pro من السلسلة على حساسات مدمجة لقياس مؤشرات القلب والتنفس، مثل عدد النبضات في الدقيقة وكفاءة ضخ الدم. ويرجّح استخدام مستشعرات PPG …",
-      "date": "2026-11-07T12:38:40+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei OSTA",
-        "Huawei Watch Air",
-        "إلكترونيات"
-      ],
-      "title": "هواوي تجهز لإطلاق ساعة Watch Air فائقة النحافة وهواتف OSTA الأسبوع المقبل",
-      "url": "https://www.tech-wd.com/wd/2026/11/07/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%ac%d9%87%d8%b2-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3%d8%a7%d8%b9%d8%a9-watch-air-%d9%81%d8%a7%d8%a6%d9%82%d8%a9-%d8%a7%d9%84%d9%86%d8%ad%d8%a7%d9%81/",
-      "description": "ذكرت مصادر مطّلعة أن هواوي تخطط للكشف عن ساعتها الذكية الجديدة Watch Air خلال الأسبوع القادم، إلى جانب هواتف سلسلة OSTA المرتقبة. ستتميز الساعة الجديدة بتصميم فائق النحافة وتغيرات جذرية في الشكل مقارنةً مع الإصدارات السابقة من ساعات هواوي. تفاصيل ومزايا متوقعة: ستنتمي Huawei Watch Air لفئة الساعات المتوسطة وستركز أساسً",
-      "date": "2026-11-07T12:34:58+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "إلكترونيات",
-        "سامسونج"
-      ],
-      "title": "سامسونج تطرح Galaxy Buds On وSmartTag 3",
-      "url": "https://www.tech-wd.com/wd/2026/11/07/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b7%d8%b1%d8%ad-galaxy-buds-on-%d9%88smarttag-3/",
-      "description": "بدأت سامسونج بيع سماعات Galaxy Buds On ومتتبع Galaxy SmartTag 3 في الولايات المتحدة اعتباراً من 6 نوفمبر، بسعر 229.99 دولار للسماعات و29.99 دولار للمتتبع، بحسب SamMobile. وتطرح الشركة حزمة من أربع قطع من Galaxy SmartTag 3 بسعر 99.99 دولار، ويتوفر المنتجان عبر موقع Samsung.com ومتاجر Samsung Experience ومتاجر التجزئة ال",
-      "date": "2026-11-07T12:23:39+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "Honor",
-        "Honor 700",
-        "Honor 700 Pro",
-        "Honor 700S"
-      ],
-      "title": "Honor تكشف رسميا عن سلسلة Honor 700 بشاشة خلفية صغيرة وتفتح الحجز",
-      "url": "https://www.tech-wd.com/wd/2026/11/07/honor-%d8%aa%d9%83%d8%b4%d9%81-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b9%d9%86-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-honor-700-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-%d8%ae%d9%84%d9%81%d9%8a%d8%a9-%d8%b5%d8%ba%d9%8a/",
-      "description": "أعلنت Honor رسميا عن سلسلة Honor 700 التي تضم ثلاثة طرازات هي Honor 700 وHonor 700 Pro وHonor 700S، وتتميز بشاشة صغيرة مدمجة في الخلف، وفتحت الحجز المسبق لها. ولم تكشف الشركة حتى الآن موعد إطلاق السلسلة ولا مواصفاتها الرئيسية، لكنها أدرجت الطرازات الثلاثة في متجر Honor الرسمي مع تفاصيل الدفعة المقدمة والمزايا الحصرية، ",
-      "date": "2026-11-07T12:21:55+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "الأخبار",
-        "huawei",
-        "Huawei Watch Fit 4",
-        "إلكترونيات"
-      ],
-      "title": "Huawei Watch Fit 4 تصل بلون وردي جديد مع دعم NFC في الأسواق العالمية",
-      "url": "https://www.tech-wd.com/wd/2026/11/07/huawei-watch-fit-4-%d8%aa%d8%b5%d9%84-%d8%a8%d9%84%d9%88%d9%86-%d9%88%d8%b1%d8%af%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d8%b9-%d8%af%d8%b9%d9%85-nfc-%d9%81%d9%8a-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%a7/",
-      "description": "أطلقت Huawei لونا ورديا جديدا لساعتها الرياضية Huawei Watch Fit 4 في الأسواق العالمية، بنسخة NFC تتيح الدفع اللاسلكي، وأدرجته على موقعها الرسمي للشراء المباشر. وكانت الساعة تتوفر بأربعة ألوان للنسخة الأساسية هي الأسود والأبيض والبنفسجي والرمادي، فيما يأتي طراز Pro بالألوان الأسود والأزرق والأخضر. وتحمل النسخة الوردية ا",
-      "date": "2026-11-07T12:21:21+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "برامج",
-        "android",
-        "Galaxy Tab S10 Lite",
-        "One UI 9",
-        "سامسونج"
-      ],
-      "title": "Samsung تطلق One UI 9.0 لجهاز Galaxy Tab S10 Lite بكوريا الجنوبية",
-      "url": "https://www.tech-wd.com/wd/2026/11/07/samsung-%d8%aa%d8%b7%d9%84%d9%82-one-ui-9-0-%d9%84%d8%ac%d9%87%d8%a7%d8%b2-galaxy-tab-s10-lite-%d8%a8%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d8%a9/",
-      "description": "بدأت Samsung طرح تحديث One UI 9.0 المبني على Android 17 لجهاز Galaxy Tab S10 Lite، لتصبح جميع أجهزة عائلة Galaxy Tab S10 قد حصلت على النسخة الجديدة، بحسب SamMobile. وكانت الشركة قد أصدرت التحديث في 5 نوفمبر لأجهزة Galaxy Tab S10+ وGalaxy Tab S10 Ultra وGalaxy Tab S10 FE وGalaxy Tab S10 FE+، ويأتي …\nالتدوينة Samsung تطل",
-      "date": "2026-11-07T12:20:57+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "برامج",
-        "One UI 9",
-        "سامسونج"
-      ],
-      "title": "One UI 9 يسبب مشكلات اتصال بشبكات Wi-Fi والبيانات في هواتف Galaxy",
-      "url": "https://www.tech-wd.com/wd/2026/11/07/one-ui-9-%d9%8a%d8%b3%d8%a8%d8%a8-%d9%85%d8%b4%d9%83%d9%84%d8%a7%d8%aa-%d8%a7%d8%aa%d8%b5%d8%a7%d9%84-%d8%a8%d8%b4%d8%a8%d9%83%d8%a7%d8%aa-wi-fi-%d9%88%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa/",
-      "description": "يشتكي مستخدمون لهواتف Galaxy من مشكلات اتصال بشبكات Wi-Fi والبيانات المحمولة بعد تثبيت تحديث One UI 9، وفق ما نقلته Android Headlines. وذكر أحد المستخدمين أن هاتفه Galaxy S24 يتصل بشبكة Wi-Fi ثم ينقطع عنها بعد مدة ويعرض رسالة “Connection failed”، ولا تحل إعادة التشغيل المشكلة، إذ يتصل الهاتف مجددا ثم ينقطع. وقال مستخدم",
-      "date": "2026-11-07T12:20:24+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
-      "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "فريق التحرير",
-      "categories": [
-        "برامج",
-        "Galaxy S25",
-        "Galaxy S25 FE",
-        "Galaxy S25 Plus",
-        "Galaxy S25 Ultra"
-      ],
-      "title": "Samsung تطرح تحديثاً لتحسين الاستقرار لهواتف Galaxy S25 بدون تصحيح نوفمبر",
-      "url": "https://www.tech-wd.com/wd/2026/11/07/samsung-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d9%8b-%d9%84%d8%aa%d8%ad%d8%b3%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1-%d9%84%d9%87%d9%88%d8%a7%d8%aa/",
-      "description": "بدأت Samsung طرح تحديث جديد عالميا لهواتف Galaxy S25 وGalaxy S25+ وGalaxy S25 Ultra وGalaxy S25 FE يركز على تحسين الاستقرار والموثوقية، ولا يتضمن تصحيح الأمان لشهر نوفمبر 2026، بحسب Android Headlines. ويتراوح حجم التحديث بين 400 و800MB بحسب الطراز والمنطقة، ولم يذكر سجل التغييرات أي ميزات جديدة، إذ يقتصر الهدف على تحسي",
-      "date": "2026-11-07T12:17:21+00:00",
-      "source": "عالم التقنية",
-      "language": "ar",
       "image": "",
       "kind": "magazine"
     },
@@ -16668,11 +16670,11 @@
     {
       "source": "عالم التقنية",
       "kind": "magazine",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-18T11:28:34.271300+00:00",
-      "success_at": "2026-11-10T09:58:59.636952+00:00",
-      "last_slot": "2026-11-10:magazine"
+      "ok": true,
+      "count": 15,
+      "updated_at": "2026-11-18T19:31:35.553357+00:00",
+      "success_at": "2026-11-18T19:31:35.553357+00:00",
+      "last_slot": "2026-11-18:magazine"
     },
     {
       "source": "البوابة العربية للأخبار التقنية",
@@ -16778,7 +16780,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-18T11:28:34.271300+00:00",
+      "updated_at": "2026-11-18T19:31:35.553357+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16921,10 +16923,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 44,
-      "updated_at": "2026-11-17T12:31:49.126104+00:00",
-      "success_at": "2026-11-17T12:31:49.126104+00:00",
-      "last_slot": "2026-11-17:magazine"
+      "count": 45,
+      "updated_at": "2026-11-18T19:31:35.553357+00:00",
+      "success_at": "2026-11-18T19:31:35.553357+00:00",
+      "last_slot": "2026-11-18:magazine"
     },
     {
       "source": "Pplware",
@@ -16945,5 +16947,5 @@
       "last_slot": "2026-11-13:magazine"
     }
   ],
-  "refreshed_sources": 46
+  "refreshed_sources": 2
 }
