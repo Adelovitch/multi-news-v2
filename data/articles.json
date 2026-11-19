@@ -1,7 +1,64 @@
 {
-  "updated_at": "2026-11-19T09:26:00.974323+00:00",
+  "updated_at": "2026-11-19T18:36:26.082304+00:00",
   "press_updated_at": "2026-11-19T09:26:00.974323+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Ciência",
+        "Comportamento",
+        "comunicação",
+        "emoções",
+        "mentira"
+      ],
+      "title": "Linguagem corporal: o que ela realmente diz?",
+      "url": "https://super.abril.com.br/ciencia/linguagem-corporal-o-que-ela-realmente-diz/",
+      "description": "Dá para saber como uma pessoa se sente (ou se está mentindo) só pelos seus gestos e microexpressões faciais? Veja mitos e verdades da comunicação não verbal.",
+      "date": "2026-11-19T15:00:49+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Linguagem_corporal.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Opinião",
+        "Inteligência artificial",
+        "Jornalismo",
+        "opinião",
+        "Oráculo"
+      ],
+      "title": "Se a IA responde tudo, para que serve a Superinteressante?",
+      "url": "https://super.abril.com.br/opiniao/se-a-ia-responde-tudo-para-que-serve-a-superinteressante/",
+      "description": "O nosso trabalho vai além de fornecer informação. Queremos despertar a sua curiosidade, e jogar luz a temas que talvez não estivessem no radar da sua conversa com o robô.",
+      "date": "2026-11-19T13:00:36+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Carta.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "Alimentação saudável",
+        "COLESTEROL",
+        "coração",
+        "DOENÇA CARDÍACA"
+      ],
+      "title": "Fruta inteira ou suco: qual protege mais a saúde cardiovascular?",
+      "url": "https://super.abril.com.br/saude/fruta-inteira-ou-suco-qual-protege-mais-a-saude-cardiovascular/",
+      "description": "Estudo associa o baixo consumo de frutas in natura a maior frequência de hipertensão e colesterol alto; saiba o que pode explicar esse efeito.",
+      "date": "2026-11-19T11:00:49+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2024/12/0612-frutas-layout_site.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "Redazione Cronaca",
@@ -6803,6 +6860,25 @@
     },
     {
       "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "INPE /INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS/",
+        "raio",
+        "raios",
+        "Tempestade"
+      ],
+      "title": "É mesmo perigoso tomar banho durante um temporal com raios?",
+      "url": "https://super.abril.com.br/ciencia/e-mesmo-perigoso-tomar-banho-durante-um-temporal-com-raios/",
+      "description": "O Instituto Nacional de Pesquisas Espaciais (INPE) aconselha evitar quaisquer atividades que envolvam eletricidade ou encanamento durante tempestades.",
+      "date": "2026-11-18T23:00:15+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_e-mesmo-perigoso-banho-durante-temporal-raios_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "Pablo Herraiz",
       "categories": [
         "Madrid",
@@ -6931,6 +7007,25 @@
       "language": "es",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/19/17950783344813.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Sociedade",
+        "financeiro",
+        "GTA",
+        "JOGO ELETRÔNICO",
+        "trends"
+      ],
+      "title": "O atestado do GTA: há mesmo uma queda na atividade econômica por causa do lançamento?",
+      "url": "https://super.abril.com.br/sociedade/o-atestado-do-gta-ha-mesmo-uma-queda-na-atividade-economica-por-causa-do-lancamento/",
+      "description": "Segundo estimativas, cerca de 1,5 milhão de trabalhadores estadunidenses devem faltar ao trabalho por causa da estreia do jogo.",
+      "date": "2026-11-18T22:00:37+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_atestado-GTA-qual-queda-atividade-economica-por-lancamento_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7150,6 +7245,25 @@
       "language": "de",
       "image": "https://images.tagesschau.de/image/7e17a424-7280-4eda-8fc5-c5623d7149df/AAABleaWtkk/AAABnSSvrFg/16x9-big/israel-soldaten-112.jpg?width=1920",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Vaiano",
+      "categories": [
+        "Ciência",
+        "Água",
+        "Exploração espacial",
+        "gelo",
+        "Marte"
+      ],
+      "title": "Glaciares ocultos em crateras de Marte terminam em paredões de até 200 metros",
+      "url": "https://super.abril.com.br/ciencia/marte-tem-glaciares-ocultos-em-crateras-que-terminam-em-paredoes-de-200-metros/",
+      "description": "Esses depósitos de água são cruciais para entender a história geológica do Planeta Vermelho. E, no futuro, podem servir para abastecer astronautas.",
+      "date": "2026-11-18T21:00:08+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Cientistas-encontram-29-geleiras-em-Marte_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -11268,25 +11382,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bela Lobato",
-      "categories": [
-        "Tecnologia",
-        "ENCICLOPÉDIA",
-        "Inteligência artificial",
-        "Internet",
-        "Redes Sociais"
-      ],
-      "title": "25 anos da Wikipédia: o que podemos aprender com o site (muito além dos verbetes)",
-      "url": "https://super.abril.com.br/tecnologia/25-anos-da-wikipedia-o-que-podemos-aprender-com-o-site-muito-alem-dos-verbetes/",
-      "description": "Um dos sites mais visitados do mundo, a Wikipédia revolucionou como acumulamos e organizamos conhecimento. Entenda como o modelo colaborativo e sem fins lucrativos sobrevive entre plataformas e IA.",
-      "date": "2026-11-16T21:00:09+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Wikipedia.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "هل تحمي المشروبات الساخنة من نزلات البرد؟",
@@ -11315,24 +11410,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bela Lobato",
-      "categories": [
-        "Sociedade",
-        "propaganda",
-        "publicidade",
-        "Redes Sociais"
-      ],
-      "title": "Quem aguenta tanta propaganda?",
-      "url": "https://super.abril.com.br/sociedade/quem-aguenta-tanta-propaganda/",
-      "description": "Por que o mercado da publicidade digital não para de crescer, mesmo que boa parte dos anúncios seja ineficaz?",
-      "date": "2026-11-16T19:00:31+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Essencial_1.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Emily Conover",
       "categories": [
         "Tech"
@@ -11344,24 +11421,6 @@
       "source": "Science News",
       "language": "en",
       "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/1226_ai-quantum_main.jpg?w=800",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bela Lobato",
-      "categories": [
-        "Mundo Estranho",
-        "eletricidade",
-        "Filmes",
-        "violência"
-      ],
-      "title": "Mergulhar um secador de cabelo na água realmente pode matar?",
-      "url": "https://super.abril.com.br/mundo-estranho/secador-de-cabelo-na-agua/",
-      "description": "A explicação científica por trás do clichê melodramático dos filmes",
-      "date": "2026-11-16T17:28:19+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_da-matar-alguem-secador-banheira_site.jpg",
       "kind": "magazine"
     },
     {
@@ -11700,25 +11759,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "cobras",
-        "PÍTON",
-        "serpente",
-        "SUCURI"
-      ],
-      "title": "Titanoboa: a cobra de 13 metros que viveu onde hoje é a América do Sul",
-      "url": "https://super.abril.com.br/ciencia/titanoboa-a-cobra-de-13-metros-que-viveu-onde-hoje-e-a-america-do-sul/",
-      "description": "Ela tinha o dobro do tamanho das maiores serpentes atuais e era uma predadora letal nas águas da Colômbia.",
-      "date": "2026-11-16T10:00:15+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Titanoboa-cobra-13-metros-viveu-Colombia_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Lars Fischer",
       "categories": [
         "Basalt",
@@ -11734,25 +11774,6 @@
       "source": "Spektrum der Wissenschaft",
       "language": "de",
       "image": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_245608070__1_.jpeg.8425154.jpeg?f=1280x720",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Vaiano",
-      "categories": [
-        "Ciência",
-        "Astrofísica",
-        "Astronomia",
-        "matéria escura",
-        "Mistérios do universo"
-      ],
-      "title": "O Universo poderia ter 26,7 bilhões de anos (e nenhuma matéria ou energia escuras)",
-      "url": "https://super.abril.com.br/ciencia/o-universo-poderia-ter-267-bilhoes-de-anos-e-nenhuma-materia-ou-energia-escuras/",
-      "description": "Uma teoria canadense recupera duas ideias antigas  – a “luz cansada” e as constantes que não são constantes – para tirar uma pedra do sapato dos astrofísicos.",
-      "date": "2026-11-16T09:00:44+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_universo-com-26-bilhoes-de-anos_site.jpg",
       "kind": "magazine"
     },
     {
@@ -11974,24 +11995,6 @@
       "source": "ScienceDaily",
       "language": "en",
       "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Cultura",
-        "Boxe",
-        "Cinema",
-        "Hollywood"
-      ],
-      "title": "A difícil saga de Sylvester Stallone para filmar “Rocky”, que completa 50 anos em 2026",
-      "url": "https://super.abril.com.br/cultura/a-dificil-saga-de-sylvester-stallone-para-filmar-rocky-que-completa-50-anos-em-2026/",
-      "description": "Filme \"Eu Sou Rocky\", que narra os bastidores do clássico de 1976, estreia nesta quinta (19). Conheça a história por trás dos ringues (e câmeras).",
-      "date": "2026-11-15T23:00:40+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Playlist_Abre.jpg",
       "kind": "magazine"
     },
     {
@@ -16638,7 +16641,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-19T09:26:00.974323+00:00",
+      "updated_at": "2026-11-19T18:36:26.082304+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16781,10 +16784,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 45,
-      "updated_at": "2026-11-18T19:31:35.553357+00:00",
-      "success_at": "2026-11-18T19:31:35.553357+00:00",
-      "last_slot": "2026-11-18:magazine"
+      "count": 44,
+      "updated_at": "2026-11-19T18:36:26.082304+00:00",
+      "success_at": "2026-11-19T18:36:26.082304+00:00",
+      "last_slot": "2026-11-19:magazine"
     },
     {
       "source": "Pplware",
@@ -16805,5 +16808,5 @@
       "last_slot": "2026-11-13:magazine"
     }
   ],
-  "refreshed_sources": 45
+  "refreshed_sources": 1
 }
