@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-11-20T17:11:38.254707+00:00",
-  "press_updated_at": "2026-11-20T08:23:01.312581+00:00",
+  "updated_at": "2026-11-21T04:01:42.151959+00:00",
+  "press_updated_at": "2026-11-21T04:01:42.151959+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News Analysis"
+      ],
+      "title": "Three French police officers sentenced over racist assault on Black man",
+      "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
+      "description": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
+      "date": "2026-11-21T03:01:24+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+      "description": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+      "date": "2026-11-21T02:49:16+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Opinions"
+      ],
+      "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+      "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+      "description": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
+      "date": "2026-11-21T01:49:07+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+      "description": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "date": "2026-11-21T01:44:09+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Can Africa’s new credit rating agency change how the continent is assessed?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+      "description": "The new African agency aims to bring greater transparency to credit ratings.",
+      "date": "2026-11-21T01:36:10+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+      "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+      "description": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+      "date": "2026-11-21T01:12:48+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Sport"
+      ],
+      "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+      "description": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
+      "date": "2026-11-21T00:55:01+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+      "description": "Saudi-led coalition says it intercepted three missiles as IRGC claims it downed a US MQ-9 drone over Strait of Hormuz.",
+      "date": "2026-11-21T00:00:06+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+      "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+      "description": "Police say two children among dead as search continues for more victims.",
+      "date": "2026-11-20T23:36:36+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+      "description": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+      "date": "2026-11-20T23:20:50+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+      "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+      "description": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
+      "date": "2026-11-20T23:06:41+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+      "description": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+      "date": "2026-11-20T22:15:07+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Iraq PM targets militia stronghold in bid to assert state control",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+      "description": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
+      "date": "2026-11-20T21:28:25+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+      "description": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+      "date": "2026-11-20T21:10:53+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+      "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+      "description": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+      "date": "2026-11-20T21:05:07+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+      "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+      "description": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+      "date": "2026-11-20T20:59:04+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Can the UK and EU turn the page on Brexit?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
+      "description": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
+      "date": "2026-11-20T20:51:19+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Gaza’s displaced children celebrate World Children’s Day",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+      "description": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+      "date": "2026-11-20T20:45:09+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Sudan’s war leaves disabled children missing out on education",
+      "url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+      "description": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
+      "date": "2026-11-20T20:45:08+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+      "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+      "description": "Tallinn's decision to shut road border crossings comes after an attack on a drone manufacturer.",
+      "date": "2026-11-20T20:30:46+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "Vítor M.",
@@ -1145,21 +1445,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "US robbery suspects charged over alleged $22M train heist spree",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
-      "description": "US robbery suspects charged over alleged $22M train heist spree",
-      "date": "2026-11-20T07:56:30+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "XV de France. « Le rugby se joue à 14, plus un pilier droit » : pourquoi la mêlée bleue est en souffrance",
       "url": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/xv-de-france-le-rugby-se-joue-a-14-plus-un-pilier-droit-pourquoi-la-melee-bleue-est-en-souffrance-8948f426-e3ff-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
@@ -1168,21 +1453,6 @@
       "source": "Ouest-France",
       "language": "fr",
       "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMGQ2ZTViZmUwZGY1YTBhZGEzZGFmNTYyZGYzMDM3OGM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=6d97462b009ef4ab846bd5cb1bb28f5122dad843226244a963bd9ad477b47f0e",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-      "url": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
-      "description": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
-      "date": "2026-11-20T07:56:03+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -1597,21 +1867,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Lionel Messi of Inter Miami tops Major League Soccer salaries",
-      "url": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss",
-      "description": "Argentinian football legend Messi, who joined Miami in 2023, signed a contract extension through 2028 last year.",
-      "date": "2026-11-20T07:37:55+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Afp",
       "categories": [
         "Estados Unidos",
@@ -1917,21 +2172,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "The Gambia stood up for the Rohingya, now the world must act",
-      "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
-      "description": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
-      "date": "2026-11-20T07:20:53+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "FRANCE 24",
       "categories": [
         "Europe"
@@ -2156,21 +2396,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "EU and Britain to agree steps towards relations reset",
-      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
-      "description": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
-      "date": "2026-11-20T07:12:43+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Alex Corlazzoli",
       "categories": [
         "Politica",
@@ -2346,21 +2571,6 @@
       "source": "Le Figaro",
       "language": "fr",
       "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/0a72c0e5548349f99e801d4eb1a75105f37481eae49c69c4f894c85abe4453d8.JPG",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
-      "url": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins?traffic_source=rss",
-      "description": "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.",
-      "date": "2026-11-20T07:04:27+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -3501,21 +3711,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "‘We don’t want our future decided by the military’: Young Germans protest",
-      "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
-      "description": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
-      "date": "2026-11-20T06:20:26+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Entrée en bourse d’Anthropic : faut-il encore craindre une bulle de l’IA ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/entree-en-bourse-d-anthropic-faut-il-encore-craindre-une-bulle-de-l-ia-4752470",
@@ -3537,21 +3732,6 @@
       "source": "Clubic",
       "language": "fr",
       "image": "https://pic.clubic.com/v1/images/2477695/raw",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
-      "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
-      "description": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
-      "date": "2026-11-20T06:15:06+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -3705,21 +3885,6 @@
       "language": "fr",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/wide1920/b/8/6/b86f8bfe7b_50263596_terre-fusion.jpg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
-      "description": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
-      "date": "2026-11-20T06:03:03+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -4202,21 +4367,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Trump bows to pressure, replaces US cyber security director",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
-      "description": "President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.",
-      "date": "2026-11-20T05:48:35+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
       "url": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
@@ -4299,21 +4449,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/c2d93d81-9a52-48c5-9cc5-db998f117a0b/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-      "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
-      "description": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
-      "date": "2026-11-20T05:36:21+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -4793,21 +4928,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-      "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-      "description": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
-      "date": "2026-11-20T05:01:40+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Alessandra Lanza",
       "categories": [
         "Ingegneria",
@@ -4877,21 +4997,6 @@
       "source": "The Guardian",
       "language": "en",
       "image": "https://i.guim.co.uk/img/media/5338cbc67f70b23a5fdf94db237441d2c238cdfb/47_0_7240_5792/master/7240.jpg?width=140&quality=85&auto=format&fit=max&s=5339a8bfc4db8da2971c7b3206e451da",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
-      "url": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
-      "description": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
-      "date": "2026-11-20T05:00:16+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5095,21 +5200,6 @@
       "date": "2026-11-20T04:45:00+00:00",
       "source": "El País",
       "language": "es",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
-      "description": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
-      "date": "2026-11-20T04:44:53+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
       "image": "",
       "kind": "presse"
     },
@@ -5571,21 +5661,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss",
-      "description": "Advocates raised concerns about the Tim Horton’s app and consumer privacy and data-sharing.",
-      "date": "2026-11-20T04:05:17+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Frank Schräer",
       "categories": [],
       "title": "Niederländische Datenschutzbehörde warnt vor Nutzung KI-gestützter Smart Glasses",
@@ -5653,36 +5728,6 @@
       "source": "France 24",
       "language": "fr",
       "image": "https://s.france24.com/media/display/bf531e5a-e492-11f1-8763-6b451f569414/w:1024/p:16x9/AP26320828805068.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Thousands protest Colombia’s tax plans amid row over US military role",
-      "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
-      "description": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
-      "date": "2026-11-20T03:26:23+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
-      "url": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
-      "description": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
-      "date": "2026-11-20T03:24:49+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5759,36 +5804,6 @@
       "source": "The Guardian",
       "language": "en",
       "image": "https://i.guim.co.uk/img/media/54a728ed2e975155848c4f3d8c0cb7d40a67f7c8/363_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=648414a471444d167dded33dcc654c66",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
-      "description": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
-      "date": "2026-11-20T02:54:22+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Hippo Fiona dies days after swallowing visitor’s hat",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
-      "description": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
-      "date": "2026-11-20T02:51:44+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5874,21 +5889,6 @@
       "source": "The Guardian",
       "language": "en",
       "image": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=badb0991f687de78267f9b4ae0eb9338",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
-      "description": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
-      "date": "2026-11-20T02:25:33+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -16440,9 +16440,9 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-11-20T08:23:01.312581+00:00",
-      "success_at": "2026-11-20T08:23:01.312581+00:00",
-      "last_slot": "2026-11-20:8"
+      "updated_at": "2026-11-21T04:01:42.151959+00:00",
+      "success_at": "2026-11-21T04:01:42.151959+00:00",
+      "last_slot": "2026-11-21:7"
     },
     {
       "source": "France 24 English",
@@ -16985,5 +16985,5 @@
       "last_slot": "2026-11-20:magazine"
     }
   ],
-  "refreshed_sources": 3
+  "refreshed_sources": 1
 }
