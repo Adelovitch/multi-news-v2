@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-11-23T09:12:16.363617+00:00",
+  "updated_at": "2026-11-23T21:31:10.904501+00:00",
   "press_updated_at": "2026-11-23T09:12:16.363617+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "ERUPÇÃO VULCÂNICA",
+        "oceano",
+        "OCEANOGRAFIA",
+        "profundidade"
+      ],
+      "title": "Missão encontra vestígios de erupção explosiva a 6 mil metros de profundidade",
+      "url": "https://super.abril.com.br/ciencia/missao-encontra-vestigios-de-erupcao-explosiva-a-6-mil-metros-de-profundidade/",
+      "description": "Fluxo piroclástico nas paredes da Depressão Challenger é o registro mais profundo já documentado por pesquisadores.",
+      "date": "2026-11-23T21:00:30+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Erupcao-vulcanica-detectada-parte-profunda-oceano_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Cultura",
+        "Games",
+        "GTA"
+      ],
+      "title": "“GTA VI” surpreende pelo ritmo e pelo tom – e alcança um novo patamar de imersão",
+      "url": "https://super.abril.com.br/coluna/bruno-garattoni/gta-vi-surpreende-pelo-ritmo-e-pelo-tom-e-alcanca-um-novo-patamar-de-imersao/",
+      "description": "Propositalmente lento, jogo é tão realista que acaba fazendo você querer se comportar de modo realista, evitando riscos - o que torna os momentos de caos ainda mais intensos; leia análise",
+      "date": "2026-11-23T19:00:36+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/Jason_and_Lucia_03.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Ciência",
+        "Bactérias",
+        "COMPUTAÇÃO"
+      ],
+      "title": "Cientistas criam biocomputador feito de bactérias",
+      "url": "https://super.abril.com.br/ciencia/cientistas-criam-biocomputador-feito-de-bacterias/",
+      "description": "Micróbios atuam como se fossem transistores – e conseguem fazer operações simples.",
+      "date": "2026-11-23T17:00:34+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Novas_Biocomputador.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Tecnologia",
+        "ChatGPT",
+        "Inteligência artificial"
+      ],
+      "title": "ChatGPT aprende a dirigir carro",
+      "url": "https://super.abril.com.br/tecnologia/chatgpt-aprende-a-dirigir-carro/",
+      "description": "Ele é um robô de linguagem, totalmente diferente das IAs usadas nos carros autônomos. Mas, em uma experiência feita nos EUA, conseguiu conduzir sozinho um Toyota Corolla.",
+      "date": "2026-11-23T14:00:53+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Novas_ChatGPT.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Saúde",
+        "Tecnologia",
+        "Inteligência artificial",
+        "Medicamentos"
+      ],
+      "title": "Como os computadores ajudam a descobrir novos medicamentos – e até onde conseguem chegar",
+      "url": "https://super.abril.com.br/saude/como-os-computadores-ajudam-a-descobrir-novos-medicamentos-e-ate-onde-conseguem-chegar/",
+      "description": "A inteligência artificial acelera a busca por novos remédios, mas não substitui os testes de laboratório.",
+      "date": "2026-11-23T12:00:08+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2021/09/Pfizer-testa-remedio-que-impede-a-replicacao-do-coronavirus.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "EL PAÍS",
@@ -152,6 +240,25 @@
       "language": "fr",
       "image": "https://www.01net.com/app/uploads/2026/11/GTA-6-Vice-City-Postcard-landscape-1344x896.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Mundo Estranho",
+        "calendário",
+        "NASCIMENTO",
+        "Saúde",
+        "Sociedade"
+      ],
+      "title": "O mês do ano em que você nasce permite prever as doenças que você vai pegar?",
+      "url": "https://super.abril.com.br/mundo-estranho/o-mes-do-ano-em-que-voce-nasce-permite-prever-as-doencas-que-voce-vai-pegar/",
+      "description": "A ciência diz que... mais ou menos",
+      "date": "2026-11-23T09:02:34+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2020/02/si_30_de_fevereiro.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -6325,6 +6432,25 @@
     },
     {
       "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "História",
+        "arqueologia",
+        "Egito",
+        "egito antigo",
+        "faraó"
+      ],
+      "title": "Os trabalhadores do Faraó que fizeram uma greve há mais de 3.000 anos",
+      "url": "https://super.abril.com.br/historia/os-trabalhadores-do-farao-que-fizeram-uma-greve-ha-mais-de-3-000-anos/",
+      "description": "Trabalhadores do Antigo Egito podiam se organizar coletivamente, interromper suas atividades e exigir das autoridades o cumprimento de suas obrigações.",
+      "date": "2026-11-22T21:09:55+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/trabalhadores-egito-antigo-transporte-estatua.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "FRANCE 24",
       "categories": [
         "Afrique"
@@ -6621,6 +6747,25 @@
       "language": "fr",
       "image": "https://s.france24.com/media/display/40786402-e6a7-11f1-b87b-e56ab3dc0809/w:1024/p:16x9/aca18fa6c2ac7061d5c90f818bdb6fe077ce46ff.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Saúde",
+        "cirurgias",
+        "EMAGRECIMENTO",
+        "GLP-1",
+        "Medicamentos"
+      ],
+      "title": "Canetas “emagrecedoras” podem complementar tratamento após bariátrica?",
+      "url": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-complementar-tratamento-apos-bariatrica/",
+      "description": "Quando indicados, medicamentos como semaglutida e tirzepatida podem ser aliados de pessoas que recuperaram parte do peso perdido.",
+      "date": "2026-11-22T19:00:54+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/04/3004-canetas-emagrecedoras-layout_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7577,6 +7722,23 @@
       "language": "fr",
       "image": "https://img.20mn.fr/-E_xqVccTJOL7jWxDoK9CCk/1200x768_l-attaquant-de-l-inter-miami-cf-lionel-messi-10-reagit-apres-avoir-recu-un-carton-jaune-lors-d-un-match-de-mls-contre-columbus-crew-au-nu-stadium-de-miami-en-floride-le-21-novembre-2026-photo-de-d-a-varela-sipa-etats-unis-75282591-dv-2611220338",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Mundo Estranho",
+        "Redação Digital",
+        "site mundo estranho"
+      ],
+      "title": "Qual é a origem da expressão “rock and roll”?",
+      "url": "https://super.abril.com.br/mundo-estranho/qual-e-a-origem-da-expressao-rock-and-roll/",
+      "description": "Termo que batizou a revolução musical dos anos 1950 nasceu como gíria do blues antes de ganhar o mundo nas ondas do rádio.",
+      "date": "2026-11-22T15:00:28+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2018/07/rock.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -11476,25 +11638,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "Câncer",
-        "DIAGNÓSTICO",
-        "Envelhecimento",
-        "EXAME MÉDICO"
-      ],
-      "title": "PSA alto nem sempre significa câncer de próstata: entenda o que pode alterar o exame",
-      "url": "https://super.abril.com.br/saude/psa-alto-nem-sempre-significa-cancer-de-prostata-entenda-o-que-pode-alterar-o-exame/",
-      "description": "Alterações no marcador podem estar relacionadas a condições benignas, idade e hábitos antes da coleta.",
-      "date": "2026-11-19T22:00:04+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_PSA-alto-significa-cancer-de-prostata_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Popular Science Team",
       "categories": [
         "Environment",
@@ -11543,25 +11686,6 @@
       "source": "Popular Science",
       "language": "en",
       "image": "https://www.popsci.com/wp-content/uploads/2026/11/bald-man-comb.png?quality=85",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Cultura",
-        "Flórida",
-        "Games",
-        "GTA",
-        "miami"
-      ],
-      "title": "Leonida e Vice City: as inspirações do mundo real para os cenários do GTA 6",
-      "url": "https://super.abril.com.br/cultura/leonida-e-vice-city-as-inspiracoes-do-mundo-real-para-os-cenarios-do-gta-6/",
-      "description": "Com o lançamento do jogo mais aguardado da década, o estado da Flórida e a cidade de Miami ganham novos contornos.",
-      "date": "2026-11-19T21:00:55+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_inspiracoes-mundo-real-para-cenarios-gta-vi_site.jpg",
       "kind": "magazine"
     },
     {
@@ -11736,24 +11860,6 @@
       "source": "Popular Science",
       "language": "en",
       "image": "https://www.popsci.com/wp-content/uploads/2026/11/War-of-1812-Pension.png?quality=85",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "Diabetes",
-        "Saúde - Colesterol e Diabetes",
-        "visão"
-      ],
-      "title": "Estudo de pesquisadores brasileiros identifica molécula com potencial de prevenir a perda de visão associada ao diabetes",
-      "url": "https://super.abril.com.br/saude/estudo-de-pesquisadores-brasileiros-identifica-molecula-com-potencial-de-prevenir-a-perda-de-visao-associada-ao-diabetes/",
-      "description": "Testes em “minirretinas” desenvolvidas em laboratório mostram que o peptídeo impediu a morte de neurônios expostos a níveis elevados de glicose e inflamação.",
-      "date": "2026-11-19T19:00:52+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_molecula-potencial-prevenir-perda-visao-diabetes_site.jpg",
       "kind": "magazine"
     },
     {
@@ -12412,25 +12518,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Comportamento",
-        "comunicação",
-        "emoções",
-        "mentira"
-      ],
-      "title": "Linguagem corporal: o que ela realmente diz?",
-      "url": "https://super.abril.com.br/ciencia/linguagem-corporal-o-que-ela-realmente-diz/",
-      "description": "Dá para saber como uma pessoa se sente (ou se está mentindo) só pelos seus gestos e microexpressões faciais? Veja mitos e verdades da comunicação não verbal.",
-      "date": "2026-11-19T15:00:49+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Linguagem_corporal.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Mallory Delicourt, Journaliste",
       "categories": [
         "Guides photos et vidéos",
@@ -12571,25 +12658,6 @@
       "source": "Journal du Geek – Espace",
       "language": "fr",
       "image": "https://www.journaldugeek.com/app/uploads/2026/11/projet-west-ford-aiguilles-cuivre-orbite-terre-1280x853.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Opinião",
-        "Inteligência artificial",
-        "Jornalismo",
-        "opinião",
-        "Oráculo"
-      ],
-      "title": "Se a IA responde tudo, para que serve a Superinteressante?",
-      "url": "https://super.abril.com.br/opiniao/se-a-ia-responde-tudo-para-que-serve-a-superinteressante/",
-      "description": "O nosso trabalho vai além de fornecer informação. Queremos despertar a sua curiosidade, e jogar luz a temas que talvez não estivessem no radar da sua conversa com o robô.",
-      "date": "2026-11-19T13:00:36+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Carta.jpg",
       "kind": "magazine"
     },
     {
@@ -12818,25 +12886,6 @@
       "source": "Muy Interesante",
       "language": "es",
       "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "Alimentação saudável",
-        "COLESTEROL",
-        "coração",
-        "DOENÇA CARDÍACA"
-      ],
-      "title": "Fruta inteira ou suco: qual protege mais a saúde cardiovascular?",
-      "url": "https://super.abril.com.br/saude/fruta-inteira-ou-suco-qual-protege-mais-a-saude-cardiovascular/",
-      "description": "Estudo associa o baixo consumo de frutas in natura a maior frequência de hipertensão e colesterol alto; saiba o que pode explicar esse efeito.",
-      "date": "2026-11-19T11:00:49+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2024/12/0612-frutas-layout_site.jpg",
       "kind": "magazine"
     },
     {
@@ -13242,44 +13291,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "INPE /INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS/",
-        "raio",
-        "raios",
-        "Tempestade"
-      ],
-      "title": "É mesmo perigoso tomar banho durante um temporal com raios?",
-      "url": "https://super.abril.com.br/ciencia/e-mesmo-perigoso-tomar-banho-durante-um-temporal-com-raios/",
-      "description": "O Instituto Nacional de Pesquisas Espaciais (INPE) aconselha evitar quaisquer atividades que envolvam eletricidade ou encanamento durante tempestades.",
-      "date": "2026-11-18T23:00:15+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_e-mesmo-perigoso-banho-durante-temporal-raios_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Sociedade",
-        "financeiro",
-        "GTA",
-        "JOGO ELETRÔNICO",
-        "trends"
-      ],
-      "title": "O atestado do GTA: há mesmo uma queda na atividade econômica por causa do lançamento?",
-      "url": "https://super.abril.com.br/sociedade/o-atestado-do-gta-ha-mesmo-uma-queda-na-atividade-economica-por-causa-do-lancamento/",
-      "description": "Segundo estimativas, cerca de 1,5 milhão de trabalhadores estadunidenses devem faltar ao trabalho por causa da estreia do jogo.",
-      "date": "2026-11-18T22:00:37+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_atestado-GTA-qual-queda-atividade-economica-por-lancamento_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "acasado",
       "categories": [
         "Compras"
@@ -13291,25 +13302,6 @@
       "source": "Muy Interesante",
       "language": "es",
       "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Vaiano",
-      "categories": [
-        "Ciência",
-        "Água",
-        "Exploração espacial",
-        "gelo",
-        "Marte"
-      ],
-      "title": "Glaciares ocultos em crateras de Marte terminam em paredões de até 200 metros",
-      "url": "https://super.abril.com.br/ciencia/marte-tem-glaciares-ocultos-em-crateras-que-terminam-em-paredoes-de-200-metros/",
-      "description": "Esses depósitos de água são cruciais para entender a história geológica do Planeta Vermelho. E, no futuro, podem servir para abastecer astronautas.",
-      "date": "2026-11-18T21:00:08+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Cientistas-encontram-29-geleiras-em-Marte_site.jpg",
       "kind": "magazine"
     },
     {
@@ -16702,7 +16694,7 @@
       "kind": "magazine",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-23T09:12:16.363617+00:00",
+      "updated_at": "2026-11-23T21:31:10.904501+00:00",
       "success_at": "2026-11-13T08:48:27.549895+00:00",
       "last_slot": "2026-11-13:magazine"
     },
@@ -16783,7 +16775,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-23T09:12:16.363617+00:00",
+      "updated_at": "2026-11-23T21:31:10.904501+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16927,9 +16919,9 @@
       "kind": "magazine",
       "ok": true,
       "count": 43,
-      "updated_at": "2026-11-22T14:51:18.966325+00:00",
-      "success_at": "2026-11-22T14:51:18.966325+00:00",
-      "last_slot": "2026-11-22:magazine"
+      "updated_at": "2026-11-23T21:31:10.904501+00:00",
+      "success_at": "2026-11-23T21:31:10.904501+00:00",
+      "last_slot": "2026-11-23:magazine"
     },
     {
       "source": "Pplware",
@@ -16950,5 +16942,5 @@
       "last_slot": "2026-11-20:magazine"
     }
   ],
-  "refreshed_sources": 46
+  "refreshed_sources": 1
 }
