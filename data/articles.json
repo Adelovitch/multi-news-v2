@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-11-25T09:17:56.528566+00:00",
+  "updated_at": "2026-11-25T19:25:29.636747+00:00",
   "press_updated_at": "2026-11-25T09:17:56.528566+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Maria Clara Rossini",
+      "categories": [
+        "História",
+        "Brasil",
+        "direito",
+        "leis"
+      ],
+      "title": "Qual é a lei mais antiga ainda vigente no Brasil?",
+      "url": "https://super.abril.com.br/coluna/oraculo/qual-e-a-lei-mais-antiga-ainda-vigente-no-brasil/",
+      "description": "Não há uma resposta definitiva, porque uma lei pode deixar de valer mesmo sem que outra a revogue expressamente. Mas nós encontramos algumas candidatas.",
+      "date": "2026-11-25T17:12:14+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Oraculo_Lei_mais_antiga_do_Brasil.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Ciência",
+        "AGRICULTURA",
+        "frutas",
+        "Genética",
+        "História"
+      ],
+      "title": "Já aconteceu alguma extinção de fruta ou legume?",
+      "url": "https://super.abril.com.br/coluna/oraculo/ja-aconteceu-alguma-extincao-de-fruta-ou-legume/",
+      "description": "Entenda por que é raro frutas e vegetais sumirem, e conheça casos históricos de plantas domesticadas que acabaram extintas.",
+      "date": "2026-11-25T14:11:30+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Oraculo_Extincao_de_fruta.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Sociedade",
+        "dados",
+        "Internet",
+        "Tecnologia"
+      ],
+      "title": "De Flamengo a Naruto: confira as senhas mais usadas no Brasil e no mundo",
+      "url": "https://super.abril.com.br/sociedade/de-flamengo-a-naruto-confira-as-senhas-mais-usadas-no-brasil-e-no-mundo/",
+      "description": "Confira pesquisa com as senhas mais usadas de 2026, que incluem \"1234\", \"gatinho123\" e até referências da cultura pop, como \"narutofoda2\".",
+      "date": "2026-11-25T10:00:09+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Senhas-vazadas-NordVPN_site.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "Redazione Giustizia",
@@ -241,6 +296,25 @@
       "source": "Applesfera",
       "language": "es",
       "image": "https://i.blogs.es/85a4ee/iphone18e/1024_2000.jpeg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bela Lobato",
+      "categories": [
+        "Sociedade",
+        "Amazônia",
+        "ANTROPOLOGIA",
+        "Brasil",
+        "indígenas"
+      ],
+      "title": "Povos indígenas isolados não vivem em um mundo a parte – e um caso de contato recente no Amazonas ajuda a entender por quê.",
+      "url": "https://super.abril.com.br/sociedade/povos-indigenas-isolados-nao-vivem-em-um-mundo-a-parte-e-um-caso-de-contato-recente-no-amazonas-ajuda-a-entender-por-que/",
+      "description": "Gravações de um homem que apareceu numa comunidade do Amazonas mostram palavras de várias línguas – e desmontam a ideia de povos congelados no tempo.",
+      "date": "2026-11-25T09:00:22+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2025/04/1904-povos-indigenas-layout_site.jpg",
       "kind": "magazine"
     },
     {
@@ -6169,6 +6243,25 @@
     },
     {
       "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Ciência",
+        "bioma",
+        "Brasil",
+        "florestas",
+        "MANGUEZAL"
+      ],
+      "title": "Os guardiões do manguezal: como alunos e cientistas se uniram para preservar o litoral do Paraná",
+      "url": "https://super.abril.com.br/ciencia/os-guardioes-do-manguezal-como-alunos-cientistas-e-caranguejos-se-uniram-para-preservar-o-litoral-do-parana/",
+      "description": "Projetos juntam escolas, universidades e comunidades tradicionais. O objetivo é restaurar ecossistema com alta capacidade de estocar carbono.",
+      "date": "2026-11-24T23:05:02+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_guardioes-do-manguezal-CAPA-opc2_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
@@ -6311,6 +6404,22 @@
     },
     {
       "audio_url": "",
+      "author": "davi.daniel",
+      "categories": [
+        "Tecnologia",
+        "Abril Branded Content"
+      ],
+      "title": "Já Volto: Volvo redefine, mais uma vez, o que é dirigir com segurança",
+      "url": "https://super.abril.com.br/tecnologia/ja-volto-volvo-redefine-mais-uma-vez-o-que-e-dirigir-com-seguranca/",
+      "description": "O compromisso com segurança definiu a história da marca sueca, que se tornou referência mundial no segmento",
+      "date": "2026-11-24T22:19:50+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/VOLVO_site-01.png",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "من الجزائر إلى تونس.. لماذا تحوّل اصطحاب الأطفال لصلاة الفجر إلى موضوع جدل؟",
@@ -6383,6 +6492,24 @@
       "language": "en",
       "image": "https://s.france24.com/media/display/b8d0bf98-e851-11f1-bdea-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-223115-224308-CS.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Saúde",
+        "cirurgias",
+        "hipopótamo",
+        "zoológico"
+      ],
+      "title": "Fiona, a hipopótamo mais famosa do mundo, morre após engolir um gorro. Por que a cirurgia não era uma opção?",
+      "url": "https://super.abril.com.br/saude/fiona-a-hipopotamo-mais-famosa-do-mundo-morre-apos-engolir-um-gorro-por-que-a-cirurgia-nao-era-uma-opcao/",
+      "description": "Abrir o abdômen de um animal com mais de uma tonelada é tão difícil quanto parece. Entenda.",
+      "date": "2026-11-24T22:00:46+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Fiona-hipopotamo-mais-famosa-morre-apos-engolir-gorro_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -6762,6 +6889,25 @@
       "language": "es",
       "image": "",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bela Lobato",
+      "categories": [
+        "Cultura",
+        "Astrologia",
+        "Astronomia",
+        "fases da lua",
+        "Povos indígenas"
+      ],
+      "title": "Hoje tem superlua: veja como a lua cheia de novembro é chamada e celebrada em outras culturas",
+      "url": "https://super.abril.com.br/cultura/hoje-tem-superlua-veja-como-a-lua-cheia-de-novembro-e-chamada-e-celebrada-em-outras-culturas/",
+      "description": "A \"Lua Cheia do Castor\" é um dos apelidos do fenômeno que marca comemorações tradicionais em vários países. Conheça e saiba como observar.",
+      "date": "2026-11-24T21:00:31+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Lua-cheia-proxima-desde-janeiro-aparece-terca-CAPA_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7305,6 +7451,25 @@
       "language": "ar",
       "image": "https://s.france24.com/media/display/925949d8-e80c-11f1-bcdb-1991d4929b54/w:1024/p:16x9/AP26111582225185.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Cultura",
+        "Cinema",
+        "Documentário",
+        "Playlist",
+        "Séries"
+      ],
+      "title": "Pérolas do streaming: 4 dicas do que ver na Netflix, Mubi e Prime Video em novembro",
+      "url": "https://super.abril.com.br/cultura/perolas-do-streaming-4-dicas-do-que-ver-na-netflix-mubi-e-prime-video-em-novembro/",
+      "description": "Um filme sobre Anthony Bourdain, outro sobre Rudy Ray Moore. Uma trilogia sobre o golpe no Chile e um canal de receitas históricas no TikTok.",
+      "date": "2026-11-24T19:00:25+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Playlist_Perolas.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7871,6 +8036,25 @@
       "language": "fr",
       "image": "https://www.01net.com/app/uploads/2025/06/chrome-attaque-faille-1344x896.jpg",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Rafael Battaglia",
+      "categories": [
+        "Cultura",
+        "Amazon",
+        "jogo",
+        "Literatura",
+        "livros"
+      ],
+      "title": "Playlist: 3 livros para ler e 2 games para jogar em novembro de 2026",
+      "url": "https://super.abril.com.br/cultura/playlist-3-livros-para-ler-e-2-games-para-jogar-em-novembro-de-2026/",
+      "description": "Uma releitura dos clássicos gregos e duas obras sobre tecnologia e o mundo moderno. Um jogo com desenhos feitos à mão e outro do universo de Silent Hill.",
+      "date": "2026-11-24T17:00:03+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Playlist.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -11130,24 +11314,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Saúde",
-        "Tecnologia",
-        "Inteligência artificial",
-        "Medicamentos"
-      ],
-      "title": "Como os computadores ajudam a descobrir novos medicamentos – e até onde conseguem chegar",
-      "url": "https://super.abril.com.br/saude/como-os-computadores-ajudam-a-descobrir-novos-medicamentos-e-ate-onde-conseguem-chegar/",
-      "description": "A inteligência artificial acelera a busca por novos remédios, mas não substitui os testes de laboratório.",
-      "date": "2026-11-23T12:00:08+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2021/09/Pfizer-testa-remedio-que-impede-a-replicacao-do-coronavirus.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "New gum disease treatment kills bad bacteria while sparing the good",
@@ -11293,25 +11459,6 @@
       "source": "Applesfera",
       "language": "es",
       "image": "https://i.blogs.es/60518f/ia-apple/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Mundo Estranho",
-        "calendário",
-        "NASCIMENTO",
-        "Saúde",
-        "Sociedade"
-      ],
-      "title": "O mês do ano em que você nasce permite prever as doenças que você vai pegar?",
-      "url": "https://super.abril.com.br/mundo-estranho/o-mes-do-ano-em-que-voce-nasce-permite-prever-as-doencas-que-voce-vai-pegar/",
-      "description": "A ciência diz que... mais ou menos",
-      "date": "2026-11-23T09:02:34+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2020/02/si_30_de_fevereiro.jpg",
       "kind": "magazine"
     },
     {
@@ -11639,25 +11786,6 @@
       "kind": "magazine"
     },
     {
-      "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "História",
-        "arqueologia",
-        "Egito",
-        "egito antigo",
-        "faraó"
-      ],
-      "title": "Os trabalhadores do Faraó que fizeram uma greve há mais de 3.000 anos",
-      "url": "https://super.abril.com.br/historia/os-trabalhadores-do-farao-que-fizeram-uma-greve-ha-mais-de-3-000-anos/",
-      "description": "Trabalhadores do Antigo Egito podiam se organizar coletivamente, interromper suas atividades e exigir das autoridades o cumprimento de suas obrigações.",
-      "date": "2026-11-22T21:09:55+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/trabalhadores-egito-antigo-transporte-estatua.jpg",
-      "kind": "magazine"
-    },
-    {
       "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3",
       "author": "",
       "categories": [],
@@ -11672,25 +11800,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Saúde",
-        "cirurgias",
-        "EMAGRECIMENTO",
-        "GLP-1",
-        "Medicamentos"
-      ],
-      "title": "Canetas “emagrecedoras” podem complementar tratamento após bariátrica?",
-      "url": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-complementar-tratamento-apos-bariatrica/",
-      "description": "Quando indicados, medicamentos como semaglutida e tirzepatida podem ser aliados de pessoas que recuperaram parte do peso perdido.",
-      "date": "2026-11-22T19:00:54+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/04/3004-canetas-emagrecedoras-layout_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "هل تنسى مواعيدك رغم منبهات الهاتف؟ الحل في تقويمك الورقي",
@@ -11701,42 +11810,6 @@
       "language": "ar",
       "image": "",
       "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Qual é a origem da expressão “rock and roll”?",
-      "url": "https://super.abril.com.br/mundo-estranho/qual-e-a-origem-da-expressao-rock-and-roll/",
-      "description": "Termo que batizou a revolução musical dos anos 1950 nasceu como gíria do blues antes de ganhar o mundo nas ondas do rádio.",
-      "date": "2026-11-22T15:00:28+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2018/07/rock.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Rafael Battaglia",
-      "categories": [
-        "Saúde",
-        "Genética",
-        "Netflix",
-        "Racismo",
-        "Séries"
-      ],
-      "title": "Doença falciforme: como uma série da Netflix pode esclarecer muito além da doença",
-      "url": "https://super.abril.com.br/saude/doenca-falciforme-como-uma-serie-da-netflix-pode-esclarecer-muito-alem-da-doenca/",
-      "description": "“Supacell” vai além de super-heróis tradicionais: personagens lidam com dificuldades cotidianas, como família, dinheiro, violência e relacionamentos.",
-      "date": "2026-11-22T11:00:07+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/supacell-netflix-doenca-falciforme.jpg",
-      "kind": "magazine"
     },
     {
       "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp9hr7.mp3",
@@ -11753,58 +11826,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "O que marca a passagem da pré-história para a história?",
-      "url": "https://super.abril.com.br/mundo-estranho/o-que-marca-a-passagem-da-pre-historia-para-a-historia/",
-      "description": "Não é um ano exato, mas sim uma invenção.",
-      "date": "2026-11-21T23:00:42+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/04/2304-Homens-das-cavernas-layout_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Sociedade",
-        "animais",
-        "cachorro",
-        "LIVRO DOS RECORDES",
-        "trends"
-      ],
-      "title": "Pequena chihuahua de apenas 9 centímetros de altura é o menor cachorro vivo do mundo",
-      "url": "https://super.abril.com.br/sociedade/pequena-chihuahua-de-apenas-9-centimetros-de-altura-e-o-menor-cachorro-vivo-do-mundo/",
-      "description": "Menor que um copo, Pearl tem uma rotina de luxo e ostenta título no Guinness World Records.",
-      "date": "2026-11-21T21:00:35+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_chihuahua-21-cm-menor-cachorro-mundo-_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Vaiano",
-      "categories": [
-        "Ciência",
-        "Redação Digital"
-      ],
-      "title": "Serra Pelada: a história do maior garimpo a céu aberto do mundo",
-      "url": "https://super.abril.com.br/ciencia/serra-pelada-a-historia-do-maior-garimpo-a-ceu-aberto-do-mundo/",
-      "description": "Corrida do ouro no Pará reuniu mais de 100 mil garimpeiros entre 1980 e 1992, sob intervenção militar, e produziu 56 toneladas do metal precioso.",
-      "date": "2026-11-21T17:00:20+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2018/07/serra_pelada2.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Antoine Meunier",
       "categories": [
         "Technologie"
@@ -11816,23 +11837,6 @@
       "source": "La Chronique Spatiale",
       "language": "fr",
       "image": "https://lachroniquespatiale.com/wp-content/uploads/2026/11/Star1.heic",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Vaiano",
-      "categories": [
-        "Mundo Estranho",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Peste, sujeira e mau cheiro: como era a higiene no Palácio de Versalhes",
-      "url": "https://super.abril.com.br/mundo-estranho/peste-sujeira-e-mau-cheiro-como-era-a-higiene-no-palacio-de-versalhes/",
-      "description": "Banhos anuais e dejetos nos corredores eram parte da rotina insalubre de reis e nobres no Palácio de Versalhes e na Europa no século 17.",
-      "date": "2026-11-21T15:00:39+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/Vue_aerienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_073.jpg",
       "kind": "magazine"
     },
     {
@@ -16831,7 +16835,7 @@
       "kind": "magazine",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-25T09:17:56.528566+00:00",
+      "updated_at": "2026-11-25T19:25:29.636747+00:00",
       "success_at": "2026-11-13T08:48:27.549895+00:00",
       "last_slot": "2026-11-13:magazine"
     },
@@ -16912,7 +16916,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-25T09:17:56.528566+00:00",
+      "updated_at": "2026-11-25T19:25:29.636747+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -17055,10 +17059,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 44,
-      "updated_at": "2026-11-24T16:15:42.334617+00:00",
-      "success_at": "2026-11-24T16:15:42.334617+00:00",
-      "last_slot": "2026-11-24:magazine"
+      "count": 45,
+      "updated_at": "2026-11-25T19:25:29.636747+00:00",
+      "success_at": "2026-11-25T19:25:29.636747+00:00",
+      "last_slot": "2026-11-25:magazine"
     },
     {
       "source": "Pplware",
@@ -17079,5 +17083,5 @@
       "last_slot": "2026-11-20:magazine"
     }
   ],
-  "refreshed_sources": 44
+  "refreshed_sources": 1
 }
