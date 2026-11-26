@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-11-26T11:25:34.993981+00:00",
+  "updated_at": "2026-11-26T20:29:02.145809+00:00",
   "press_updated_at": "2026-11-26T11:25:34.993981+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "História",
+        "Literatura",
+        "Literatura estrangeira"
+      ],
+      "title": "Por que, apesar de não ser uma obra de humor, o livro “A Divina Comédia” tem esse nome?",
+      "url": "https://super.abril.com.br/coluna/oraculo/por-que-apesar-de-nao-ser-uma-obra-de-humor-o-livro-a-divina-comedia-tem-esse-nome/",
+      "description": "A resposta tem a ver com Aristóteles.",
+      "date": "2026-11-26T17:00:55+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Oraculo_Divina_comedia.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Vaiano",
+      "categories": [
+        "Ciência",
+        "Inteligência artificial",
+        "Matemática",
+        "PROGRAMAÇÃO"
+      ],
+      "title": "Por que os matemáticos ainda não conseguem ler a prova de Riemann feita por IA?",
+      "url": "https://super.abril.com.br/ciencia/por-que-os-matematicos-ainda-nao-conseguem-ler-a-prova-de-riemann-feita-por-ia/",
+      "description": "Um programa garante que a demonstração, com 17,4 milhões de linhas de código, está correta. Mas os especialistas não sabem dizer como, exatamente, ela funciona.",
+      "date": "2026-11-26T17:00:19+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_matematicos-humanos-nao-conseguem-entender-prova-hipotese-de-Riemann-feita-por-IA_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Carbinatto",
+      "categories": [
+        "Sociedade",
+        "Grécia",
+        "Leite e derivados"
+      ],
+      "title": "O que tem de grego no iogurte grego?",
+      "url": "https://super.abril.com.br/coluna/oraculo/o-que-tem-de-grego-no-iogurte-grego/",
+      "description": "Na Grécia, a receita é chamada de \"straggisto\", que significa apenas “coado”.",
+      "date": "2026-11-26T15:00:32+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Oraculo_Iogurte_grego.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
+      "author": "Bruno Garattoni",
+      "categories": [
+        "Cultura",
+        "Games",
+        "Nintendo"
+      ],
+      "title": "“Pikmin 4” ganha versão com mais conteúdo para o Nintendo Switch 2",
+      "url": "https://super.abril.com.br/coluna/bruno-garattoni/pikmin-4-ganha-versao-com-mais-conteudo-para-o-nintendo-switch-2/",
+      "description": "Jogo de estratégia roda em resolução 4K, pode ser compartilhado localmente ou pela internet, traz comandos de voz e novo modo com 72 desafios; leia análise",
+      "date": "2026-11-26T14:00:44+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2023/07/SI_453_Playlist_pikmin_site-1.jpg",
+      "kind": "magazine"
+    },
     {
       "audio_url": "",
       "author": "José María Jiménez Gálvez ,José Marcos García",
@@ -2820,6 +2889,25 @@
     },
     {
       "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Ciência",
+        "Austrália",
+        "BIODIVERSIDADE",
+        "Biologia",
+        "CORAL"
+      ],
+      "title": "Doze espécies de corais voltaram a existir para a ciência após décadas",
+      "url": "https://super.abril.com.br/ciencia/12-especies-de-corais-voltaram-a-existir-para-a-ciencia-apos-decadas/",
+      "description": "Pesquisadores compararam exemplares de museu com corais coletados nos locais originais e revalidaram a existência de espécies que haviam sido descartadas.",
+      "date": "2026-11-26T10:00:00+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Cientistas-ressuscitaram-12-especies-extintas-Grande-Barreira-Corais_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "New UK-EU treaty has 10-year termination clause",
@@ -4091,6 +4179,25 @@
       "language": "en",
       "image": "",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "asteroide",
+        "espaço",
+        "missão",
+        "NASA"
+      ],
+      "title": "Por onde anda o primeiro asteroide desviado pela Nasa, 4 anos depois",
+      "url": "https://super.abril.com.br/ciencia/por-onde-anda-o-primeiro-asteroide-desviado-pela-nasa-4-anos-depois/",
+      "description": "Imagens da sonda europeia Hera revelam cratera e centenas de detritos em Dimorphos, atingido em 2022.",
+      "date": "2026-11-26T09:00:03+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_onde-anda-asteroide-que-Nasa-desviou-4-anos-depois_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -7381,6 +7488,24 @@
     },
     {
       "audio_url": "",
+      "author": "Ana Clara Caielli Barreiro",
+      "categories": [
+        "Ciência",
+        "anfíbio",
+        "LIVRO DOS RECORDES",
+        "sapo"
+      ],
+      "title": "Existe uma rã brasileira menor que uma ervilha: conheça o menor anfíbio do mundo",
+      "url": "https://super.abril.com.br/ciencia/existe-uma-ra-brasileira-menor-que-uma-ervilha-conheca-o-menor-anfibio-do-mundo/",
+      "description": "Endêmico da Bahia, o sapinho-pulga mede a partir de 6,5 milímetros e conquistou o título no Livro dos Recordes.",
+      "date": "2026-11-25T23:00:09+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_sapo-brasileiro-menor-que-uma-ervilha-CAPA_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "FRANCE 24",
       "categories": [
         "Sport"
@@ -7512,6 +7637,25 @@
     },
     {
       "audio_url": "",
+      "author": "Amanda Nascimento",
+      "categories": [
+        "Ciência",
+        "China",
+        "missão",
+        "Paquistão",
+        "Viagem ao espaço"
+      ],
+      "title": "O primeiro estrangeiro em uma estação espacial da China: quem é o piloto?",
+      "url": "https://super.abril.com.br/ciencia/o-primeiro-estrangeiro-em-uma-estacao-espacial-da-china-quem-e-o-piloto/",
+      "description": "Viagem de Muhammad Zeeshan Ali é resultado de acordo firmado entre os dois países em 2025.",
+      "date": "2026-11-25T22:00:02+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_primeiro-estrangeiro-estacao-espacial-China-e-piloto-paquistanes_site.jpg",
+      "kind": "magazine"
+    },
+    {
+      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "North Korea expels Swiss diplomat in sanctions row",
@@ -7637,6 +7781,25 @@
       "language": "es",
       "image": "",
       "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "Bela Lobato",
+      "categories": [
+        "Sociedade",
+        "Combustível",
+        "DIPLOMACIA",
+        "mudanças climáticas",
+        "Poluição"
+      ],
+      "title": "Por que a COP31 terminou sem acordo? Culpa (em parte) da regra do consenso",
+      "url": "https://super.abril.com.br/sociedade/por-que-a-cop31-terminou-sem-acordo-culpa-em-parte-da-regra-do-consenso/",
+      "description": "A conferência do clima de 2026 acabou sem seu principal documento político. Entenda como funciona a regra das decisões – e por que é tão difícil propor outra",
+      "date": "2026-11-25T21:00:23+00:00",
+      "source": "Superinteressante",
+      "language": "pt",
+      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Por-que-a-COP31-fracassou_site.jpg",
+      "kind": "magazine"
     },
     {
       "audio_url": "",
@@ -10399,25 +10562,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bela Lobato",
-      "categories": [
-        "Sociedade",
-        "Amazônia",
-        "ANTROPOLOGIA",
-        "arqueologia",
-        "Brasil"
-      ],
-      "title": "“Arqueologia do presente”: como a Funai estuda povos indígenas isolados sem nunca encontrá-los",
-      "url": "https://super.abril.com.br/sociedade/arqueologia-do-presente-como-a-funai-estuda-povos-indigenas-isolados-sem-nunca-encontra-los/",
-      "description": "Unindo conhecimentos tradicionais e científicos, os especialistas conseguem ler pistas na floresta e monitorar a vida dos povos isolados sem fazer contato.",
-      "date": "2026-11-24T12:00:50+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2025/04/SI_474_Povos_Isolados_4.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [
         "China",
@@ -10726,24 +10870,6 @@
       "source": "ScienceDaily",
       "language": "en",
       "image": "",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Mundo Estranho",
-        "Saúde",
-        "Redação Digital",
-        "site mundo estranho"
-      ],
-      "title": "Coma alcoólico: o que acontece no corpo e os riscos da intoxicação extrema",
-      "url": "https://super.abril.com.br/saude/coma-alcoolico-o-que-acontece-no-corpo-e-os-riscos-da-intoxicacao-extrema/",
-      "description": "Entenda como ocorre o coma alcoólico, os efeitos da intoxicação no organismo, os principais sintomas e o que fazer para prestar socorro de forma adequada.",
-      "date": "2026-11-24T10:00:50+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2023/08/0814_alcool_layout_site.jpg",
       "kind": "magazine"
     },
     {
@@ -11283,24 +11409,6 @@
     },
     {
       "audio_url": "",
-      "author": "Bruno Carbinatto",
-      "categories": [
-        "Ciência",
-        "Inteligência artificial",
-        "Matemática",
-        "números"
-      ],
-      "title": "Matemático da Anthropic prova Hipótese de Riemann, maior problema da matemática, usando o Claude",
-      "url": "https://super.abril.com.br/ciencia/matematico-da-anthropic-prova-hipotese-de-riemann-maior-problema-da-matematica-usando-o-claude/",
-      "description": "Se a solução passar pelo aval da comunidade científica, será provavelmente o maior feito da matemática na história recente – e uma demonstração de como as IAs estão revolucionando a área.",
-      "date": "2026-11-24T02:50:43+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2021/01/SI_423_Oraculo_numeros_primos.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "",
       "categories": [],
       "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
@@ -11340,41 +11448,6 @@
     },
     {
       "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Ciência",
-        "barata",
-        "BOTÂNICA"
-      ],
-      "title": "Baratas polinizadoras? Pesquisa brasileira identifica comportamento inusitado de insetos na Amazônia após o anoitecer",
-      "url": "https://super.abril.com.br/ciencia/baratas-polinizadoras-pesquisa-brasileira-identifica-comportamento-inusitado-de-insetos-na-amazonia-apos-o-anoitecer/",
-      "description": "Pesquisa brasileira identifica baratas como polinizadoras de uma espécie de planta amazônica pouco estudada. Entenda.",
-      "date": "2026-11-23T23:00:29+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Cientistas-descobrem-baratas-fazem-algo-util-Amazonia-anoitecer-CAPA_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Ana Clara Caielli Barreiro",
-      "categories": [
-        "Saúde",
-        "açúcar",
-        "Estudos e pesquisas",
-        "infância"
-      ],
-      "title": "Restrição de açúcar nos primeiros anos de vida está associada a envelhecimento biológico mais lento, diz pesquisa",
-      "url": "https://super.abril.com.br/saude/restricao-de-acucar-nos-primeiros-anos-de-vida-esta-associada-a-envelhecimento-biologico-mais-lento-diz-pesquisa/",
-      "description": "Pesquisa com 54 mil pessoas associa restrição de açúcar na infância a menor envelhecimento biológico e menos casos de catarata e doença renal na meia-idade.",
-      "date": "2026-11-23T22:00:15+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Pessoas-expostas-racionamento-acucar-inicio-vida-aparentam-mais-jovens-aos-50-anos_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Emily Conover",
       "categories": [
         "Math"
@@ -11390,25 +11463,6 @@
     },
     {
       "audio_url": "",
-      "author": "Amanda Nascimento",
-      "categories": [
-        "Ciência",
-        "ERUPÇÃO VULCÂNICA",
-        "oceano",
-        "OCEANOGRAFIA",
-        "profundidade"
-      ],
-      "title": "Missão encontra vestígios de erupção explosiva a 6 mil metros de profundidade",
-      "url": "https://super.abril.com.br/ciencia/missao-encontra-vestigios-de-erupcao-explosiva-a-6-mil-metros-de-profundidade/",
-      "description": "Fluxo piroclástico nas paredes da Depressão Challenger é o registro mais profundo já documentado por pesquisadores.",
-      "date": "2026-11-23T21:00:30+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Erupcao-vulcanica-detectada-parte-profunda-oceano_site.jpg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
       "author": "Redacción de Genbeta",
       "categories": [],
       "title": "Los expertos en psicología coinciden: las personas amables que prefieren la soledad antes que la vida social no son distantes, sino que pueden necesitar menos estimulación social",
@@ -11418,23 +11472,6 @@
       "source": "Genbeta",
       "language": "es",
       "image": "https://i.blogs.es/e56808/mujer-sonriendo/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Cultura",
-        "Games",
-        "GTA"
-      ],
-      "title": "“GTA VI” surpreende pelo ritmo e pelo tom – e alcança um novo patamar de imersão",
-      "url": "https://super.abril.com.br/coluna/bruno-garattoni/gta-vi-surpreende-pelo-ritmo-e-pelo-tom-e-alcanca-um-novo-patamar-de-imersao/",
-      "description": "Propositalmente lento, jogo é tão realista que acaba fazendo você querer se comportar de modo realista, evitando riscos - o que torna os momentos de caos ainda mais intensos; leia análise",
-      "date": "2026-11-23T19:00:36+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/Jason_and_Lucia_03.jpg",
       "kind": "magazine"
     },
     {
@@ -11506,23 +11543,6 @@
       "source": "Genbeta",
       "language": "es",
       "image": "https://i.blogs.es/67671e/guillermo-ferla-oze6u2m1oyu-unsplash/1024_2000.jpeg",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Ciência",
-        "Bactérias",
-        "COMPUTAÇÃO"
-      ],
-      "title": "Cientistas criam biocomputador feito de bactérias",
-      "url": "https://super.abril.com.br/ciencia/cientistas-criam-biocomputador-feito-de-bacterias/",
-      "description": "Micróbios atuam como se fossem transistores – e conseguem fazer operações simples.",
-      "date": "2026-11-23T17:00:34+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Novas_Biocomputador.jpg",
       "kind": "magazine"
     },
     {
@@ -11657,23 +11677,6 @@
       "source": "Quanta Magazine",
       "language": "en",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DNA-Repair-cr-Ada-Zejun-Shen-Default.webp",
-      "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "Bruno Garattoni",
-      "categories": [
-        "Tecnologia",
-        "ChatGPT",
-        "Inteligência artificial"
-      ],
-      "title": "ChatGPT aprende a dirigir carro",
-      "url": "https://super.abril.com.br/tecnologia/chatgpt-aprende-a-dirigir-carro/",
-      "description": "Ele é um robô de linguagem, totalmente diferente das IAs usadas nos carros autônomos. Mas, em uma experiência feita nos EUA, conseguiu conduzir sozinho um Toyota Corolla.",
-      "date": "2026-11-23T14:00:53+00:00",
-      "source": "Superinteressante",
-      "language": "pt",
-      "image": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Novas_ChatGPT.jpg",
       "kind": "magazine"
     },
     {
@@ -16767,7 +16770,7 @@
       "kind": "magazine",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-26T11:25:34.993981+00:00",
+      "updated_at": "2026-11-26T20:29:02.145809+00:00",
       "success_at": "2026-11-13T08:48:27.549895+00:00",
       "last_slot": "2026-11-13:magazine"
     },
@@ -16848,7 +16851,7 @@
       "kind": "presse",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "updated_at": "2026-11-26T11:25:34.993981+00:00",
+      "updated_at": "2026-11-26T20:29:02.145809+00:00",
       "success_at": null,
       "last_slot": null
     },
@@ -16991,10 +16994,10 @@
       "source": "Superinteressante",
       "kind": "magazine",
       "ok": true,
-      "count": 45,
-      "updated_at": "2026-11-25T19:25:29.636747+00:00",
-      "success_at": "2026-11-25T19:25:29.636747+00:00",
-      "last_slot": "2026-11-25:magazine"
+      "count": 47,
+      "updated_at": "2026-11-26T20:29:02.145809+00:00",
+      "success_at": "2026-11-26T20:29:02.145809+00:00",
+      "last_slot": "2026-11-26:magazine"
     },
     {
       "source": "Pplware",
@@ -17015,5 +17018,5 @@
       "last_slot": "2026-11-20:magazine"
     }
   ],
-  "refreshed_sources": 43
+  "refreshed_sources": 1
 }
