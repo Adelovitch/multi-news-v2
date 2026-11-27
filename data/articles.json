@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-11-26T20:29:02.145809+00:00",
-  "press_updated_at": "2026-11-26T11:25:34.993981+00:00",
+  "updated_at": "2026-11-27T03:10:48.916684+00:00",
+  "press_updated_at": "2026-11-27T03:10:48.916684+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Spain and Morocco under-17 stars target World Cup 2030",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+      "description": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
+      "date": "2026-11-27T02:58:48+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+      "description": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+      "date": "2026-11-27T02:14:25+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+      "description": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
+      "date": "2026-11-27T01:44:02+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
+      "description": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
+      "date": "2026-11-27T01:36:23+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+      "description": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "date": "2026-11-27T01:07:44+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Inside Ukraine’s power crisis amid its war with Russia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+      "description": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+      "date": "2026-11-27T00:46:19+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "America’s Thanksgiving holiday seen through different eyes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+      "description": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
+      "date": "2026-11-27T00:41:28+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Argentina bars Central Bank from printing money to fund government spending",
+      "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+      "description": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+      "date": "2026-11-27T00:11:16+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "description": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+      "date": "2026-11-27T00:00:00+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Sport"
+      ],
+      "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+      "url": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+      "description": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
+      "date": "2026-11-26T23:37:17+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+      "description": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+      "date": "2026-11-26T23:07:36+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News Analysis"
+      ],
+      "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+      "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+      "description": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
+      "date": "2026-11-26T22:51:55+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+      "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+      "description": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+      "date": "2026-11-26T22:06:54+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+      "description": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+      "date": "2026-11-26T21:08:44+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Bangladesh garment workers clash with police over low wages",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+      "description": "Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.",
+      "date": "2026-11-26T21:04:39+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+      "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+      "description": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
+      "date": "2026-11-26T20:34:34+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
+      "description": "An estimated 400,000 people attended politician Anant Singh’s daughter’s lavish wedding in Bihar, India’s poorest state.",
+      "date": "2026-11-26T20:32:43+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Mexico seeks US talks about suspected SpaceX debris",
+      "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
+      "description": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
+      "date": "2026-11-26T20:31:50+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Musk pledges two SpaceX shares for every US child",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
+      "description": "US children would receive one share from SpaceX and one from him personally, Musk said.",
+      "date": "2026-11-26T20:19:22+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Peru burns more than 10 tonnes of seized drugs",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+      "description": "Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026",
+      "date": "2026-11-26T19:44:05+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "Bruno Carbinatto",
@@ -554,21 +854,6 @@
       "source": "Le Figaro",
       "language": "fr",
       "image": "https://i.f1g.fr/media/cms/3000x2003_crop/2026/11/26/870a4b3ff37bb0087c4d5d498e7e4d5fb572ec140b7095c91514f85f294f5a1e.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News Analysis"
-      ],
-      "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
-      "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
-      "description": "New US policy threatens further tariff hikes on China, India, Vietnam if trade negotiations fall through.",
-      "date": "2026-11-26T11:07:30+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -1885,21 +2170,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Thanksgiving dinner costs rise, putting pressure on US households",
-      "url": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
-      "description": "Turkeys see a 26-percent price rise, forcing families to reconsider hosting and opt for potluck-style celebrations.",
-      "date": "2026-11-26T10:30:00+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "publico@publico.pt",
       "categories": [
         "Ministério dos Negócios Estrangeiros"
@@ -1910,21 +2180,6 @@
       "date": "2026-11-26T10:29:24+00:00",
       "source": "Público",
       "language": "pt",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Palestine coach says team represents suffering but also offers hope",
-      "url": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
-      "description": "Despite navigating personal hardships, Ihab Abu Jazar calls it a 'badge of honour' to coach the Palestine football team.",
-      "date": "2026-11-26T10:28:51+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
       "image": "",
       "kind": "presse"
     },
@@ -2196,21 +2451,6 @@
       "source": "Mediapart",
       "language": "fr",
       "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/26/261126-img-flyer-concert-neo-nazi.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
-      "url": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
-      "description": "Kenya's High Court orders halt to ⁠further works at quarantine facility until details of deal with US are disclosed.",
-      "date": "2026-11-26T10:20:05+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -2743,21 +2983,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
-      "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
-      "description": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
-      "date": "2026-11-26T10:02:09+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "publico@publico.pt",
       "categories": [
         "Megafone"
@@ -3012,21 +3237,6 @@
       "source": "Tagesschau",
       "language": "de",
       "image": "https://images.tagesschau.de/image/92855586-195c-44ac-9b56-dcd3e49b66fb/AAABohbPWTI/AAABnSSvrFg/16x9-big/kiew-584.jpg?width=1920",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Ex-Cricket Australia boss James Sutherland defends ‘Sandpapergate’ probe",
-      "url": "https://www.aljazeera.com/sports/2026/11/26/sandpapergate-cricket-australia-ceo-sutherland-david-warner-ball-tampering-2018?traffic_source=rss",
-      "description": "Meanwhile, David Warner denies a broadcaster's claim that he used superglue and grit to tamper with the ball.",
-      "date": "2026-11-26T09:52:36+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -3307,21 +3517,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
-      "url": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
-      "description": "Pakistan's first astronaut recited Iqbal on board China's space station, echoing two earlier encounters in orbit.",
-      "date": "2026-11-26T09:40:59+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Daniel Gómez-Fontecha",
       "categories": [
         "Murcia",
@@ -3535,21 +3730,6 @@
       "language": "es",
       "image": "https://i.blogs.es/12938b/ios-28/1024_2000.jpeg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Explosion rocks Bangkok oil depot",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
-      "description": "A Large explosion at an oil depot in Bangkok sent flames and smoke into the sky.",
-      "date": "2026-11-26T09:30:24+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -4167,21 +4347,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Israeli attacks on Gaza kill senior education official, seven other people",
-      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
-      "description": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
-      "date": "2026-11-26T09:00:06+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Amanda Nascimento",
       "categories": [
         "Ciência",
@@ -4300,21 +4465,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Why has North Korea expelled a Swiss diplomat from Pyongyang?",
-      "url": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
-      "description": "At the centre of the diplomatic dispute lies the Songdowon International Children’s Camp.",
-      "date": "2026-11-26T08:54:49+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Libération ., AFP .",
       "categories": [],
       "title": "Irak : Romain Garnier et sept autres Français condamnés à perpétuité pour leur affiliation à l’Etat islamique",
@@ -4396,21 +4546,6 @@
       "source": "RTP Notícias",
       "language": "pt",
       "image": "https://cdn-images.rtp.pt/icm/noticias/images/94/94423f98419beb73718e6f861f445a91?w=350&q=50&rect=0,0,1499,822&auto=format",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
-      "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
-      "description": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes.",
-      "date": "2026-11-26T08:49:20+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -4645,21 +4780,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Thanksgiving and National Day of Mourning: What is the history?",
-      "url": "https://www.aljazeera.com/news/2026/11/26/thanksgiving-and-national-day-of-mourning-what-is-the-history?traffic_source=rss",
-      "description": "Indigenous activists challenge Thanksgiving narratives and highlight ongoing struggles for sovereignty and recognition.",
-      "date": "2026-11-26T08:33:51+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Florian Bayard",
       "categories": [
         "Cybersécurité",
@@ -4784,21 +4904,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
-      "description": "US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.",
-      "date": "2026-11-26T08:29:53+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Bons Plans 01net",
       "categories": [
         "Bons Plans"
@@ -4857,21 +4962,6 @@
       "source": "France 24 English",
       "language": "en",
       "image": "https://s.france24.com/media/display/bb241806-e975-11f1-910a-1991d4929b54/w:1024/p:16x9/AP26330310262383.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
-      "description": "At least 13 miners died and others remain missing after heavy rain flooded an illegal gold mine in West Java, Indonesia.",
-      "date": "2026-11-26T08:23:51+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5266,36 +5356,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Photos: Rallies around the world denounce violence against women",
-      "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
-      "description": "About 47,000 women and girls were intentionally killed by an intimate partner or family member last year, UN data shows.",
-      "date": "2026-11-26T07:43:14+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
-      "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
-      "description": "Authorities struggle to contain country's worst Ebola outbreak, as fighting in east displaces health workers, civilians.",
-      "date": "2026-11-26T07:41:30+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Paul-Émile Cassoret",
       "categories": [
         "Auto",
@@ -5308,21 +5368,6 @@
       "source": "01net",
       "language": "fr",
       "image": "https://www.01net.com/app/uploads/2026/11/BYD-Ti7-1344x793.jpeg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
-      "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
-      "description": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
-      "date": "2026-11-26T07:38:00+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5511,21 +5556,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "French navy intercepts suspected drug-smuggling semi-submersible",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
-      "description": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
-      "date": "2026-11-26T07:15:39+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Repas de Noël : la politique va-t-elle s'inviter ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/repas-de-noel-la-politique-va-t-elle-s-inviter-2348149",
@@ -5700,21 +5730,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Features"
-      ],
-      "title": "War and drought threaten livelihoods of Sudan’s farmers",
-      "url": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
-      "description": "Attacks on electricity infrastructure and drought are threatening Sudan's harvests and leaving millions without water.",
-      "date": "2026-11-26T06:56:34+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "FRANCE 24",
       "categories": [
         "Europe"
@@ -5759,21 +5774,6 @@
       "language": "fr",
       "image": "https://www.radiofrance.fr/pikapi/images/42639bbf-1e55-4886-bcbd-4909134aef8f/720x405?webp=false",
       "kind": "radio"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "The world must choose between nuclear abolition and nuclear catastrophe",
-      "url": "https://www.aljazeera.com/opinions/2026/11/26/the-world-must-choose-between-nuclear-abolition-and-nuclear-catastrophe?traffic_source=rss",
-      "description": "The upcoming UN nuclear ban treaty conference offers an opportunity to challenge the dogma of nuclear deterrence.",
-      "date": "2026-11-26T06:53:05+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -16473,9 +16473,9 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-11-26T11:25:34.993981+00:00",
-      "success_at": "2026-11-26T11:25:34.993981+00:00",
-      "last_slot": "2026-11-26:8"
+      "updated_at": "2026-11-27T03:10:48.916684+00:00",
+      "success_at": "2026-11-27T03:10:48.916684+00:00",
+      "last_slot": "2026-11-27:6"
     },
     {
       "source": "France 24 English",
