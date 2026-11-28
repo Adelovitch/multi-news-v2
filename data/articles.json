@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-11-27T12:42:30.923909+00:00",
-  "press_updated_at": "2026-11-27T12:42:30.923909+00:00",
+  "updated_at": "2026-11-28T03:34:41.590296+00:00",
+  "press_updated_at": "2026-11-28T03:34:41.590296+00:00",
   "articles": [
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+      "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+      "description": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
+      "date": "2026-11-28T03:00:00+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Bulgarians demand action by French after Marseille match violence",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+      "description": "Bulgarians protested at the French embassy after violence at a Europa League match hospitalised six Levski Sofia fans.",
+      "date": "2026-11-28T02:30:27+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+      "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+      "description": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+      "date": "2026-11-28T02:08:11+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Taiwan votes in local elections to choose mayors, other leaders",
+      "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+      "description": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+      "date": "2026-11-28T02:05:27+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+      "description": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+      "date": "2026-11-28T01:55:03+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+      "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+      "description": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+      "date": "2026-11-28T01:00:00+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
+      "description": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.",
+      "date": "2026-11-28T00:12:20+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+      "description": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+      "date": "2026-11-28T00:00:00+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+      "description": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
+      "date": "2026-11-27T23:57:03+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "US disables ship attempting to breach Iran blockade",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+      "description": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
+      "date": "2026-11-27T23:55:16+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+      "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+      "description": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
+      "date": "2026-11-27T23:09:04+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+      "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+      "description": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+      "date": "2026-11-27T22:33:17+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+      "description": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+      "date": "2026-11-27T22:22:02+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+      "description": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+      "date": "2026-11-27T21:59:11+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News Analysis"
+      ],
+      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+      "description": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
+      "date": "2026-11-27T21:11:27+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Venezuela to repeal law that bans opposition figures from office",
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+      "description": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
+      "date": "2026-11-27T20:44:03+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+      "description": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
+      "date": "2026-11-27T20:40:51+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "News"
+      ],
+      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+      "description": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
+      "date": "2026-11-27T20:39:57+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+      "description": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+      "date": "2026-11-27T20:18:45+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
+    {
+      "audio_url": "",
+      "author": "",
+      "categories": [
+        "Show Types"
+      ],
+      "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+      "description": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’.",
+      "date": "2026-11-27T20:10:30+00:00",
+      "source": "Al Jazeera English",
+      "language": "en",
+      "image": "",
+      "kind": "presse"
+    },
     {
       "audio_url": "",
       "author": "Redazione Cronaca",
@@ -808,21 +1108,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "European football violence causes concern with far-right claim in UEFA game",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
-      "description": "Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.",
-      "date": "2026-11-27T12:12:56+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Miatta Mbriwa",
       "categories": [
         "US news",
@@ -1101,21 +1386,6 @@
       "source": "Le Figaro",
       "language": "fr",
       "image": "https://i.f1g.fr/media/cms/3000x2089_crop/2026/11/27/83902aaececc79fe9c897011dbb41168a657972818ca5f25c92479b277456f64.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-      "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
-      "description": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
-      "date": "2026-11-27T12:00:22+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -1453,21 +1723,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "News"
-      ],
-      "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-      "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
-      "description": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
-      "date": "2026-11-27T11:51:26+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Présidentielle"
       ],
       "title": "«La ruine du continent européen» : pour Nicolas Dupont-Aignan, l’aide française à l’Ukraine «alimente le conflit»",
@@ -1766,21 +2021,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-      "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
-      "description": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
-      "date": "2026-11-27T11:44:46+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
       "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
@@ -2071,21 +2311,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Features"
-      ],
-      "title": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
-      "url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
-      "description": "Redevelopment reshapes the city, but some worry as residents are displaced and cultural heritage appears at risk.",
-      "date": "2026-11-27T11:35:34+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "FRANCE24",
       "categories": [],
       "title": "Incidents et blessés à Marseille lors d'OM-Levski Sofia : ce que l'on sait",
@@ -2236,21 +2461,6 @@
       "source": "Tagesschau",
       "language": "de",
       "image": "https://images.tagesschau.de/image/b806e379-3906-4a33-a915-9aca771c45d3/AAABohvzawE/AAABnSSvrFg/16x9-big/autos-unfall-schnee-100.jpg?width=1920",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Opinions"
-      ],
-      "title": "What Spain’s election means for Morocco",
-      "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
-      "description": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
-      "date": "2026-11-27T11:33:17+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -2877,21 +3087,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-      "description": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
-      "date": "2026-11-27T11:15:03+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "publico@publico.pt",
       "categories": [
         "Diplomacia"
@@ -2951,36 +3146,6 @@
       "language": "de",
       "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/0/3/0/aufmacher-1795726963789-fef10f5644c4994c.png",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
-      "description": "Paris Fury had claimed mental health diagnosis for Tyson following his 2015 victory over Ukraine's Wladimir Klitschko.",
-      "date": "2026-11-27T11:12:58+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Show Types"
-      ],
-      "title": "Pakistan’s viral cricket catch star hopes to launch career",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-pakistan-viral-cricket-catch?traffic_source=rss",
-      "description": "The motorbike passenger who went viral for his stunning cricket catch in Pakistan says he hopes to play for his country.",
-      "date": "2026-11-27T11:12:54+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -3601,21 +3766,6 @@
     {
       "audio_url": "",
       "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "US shoppers get ready for Black Friday and Cyber Monday",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
-      "description": "Cyber Monday and Black Friday compete for shoppers, but discounts on electronics may peak after the weekend frenzy.",
-      "date": "2026-11-27T10:59:27+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
       "categories": [],
       "title": "Oppo aurait trois smartphones à écran large dans les cartons pour 2027",
       "url": "https://www.clubic.com/actualite-641437-oppo-aurait-trois-smartphones-a-ecran-large-dans-les-cartons-pour-2027.html",
@@ -3708,21 +3858,6 @@
       "source": "Le Figaro",
       "language": "fr",
       "image": "https://i.f1g.fr/media/cms/orig/2026/11/27/7a79c400e05a6ec9d5f467f494b31f3faeebc6e6028baf12906f6c9ff08890cd.JPG",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Why Benjamin Netanyahu’s corruption trial could be unravelling",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
-      "description": "Could Netanyahu escape his most serious corruption charges? Al Jazeera's Lina-Serene explains.",
-      "date": "2026-11-27T10:54:16+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -3962,21 +4097,6 @@
       "language": "de",
       "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/0/1/4/aufmacher-1795724456358-66e7529eae3f5937.png",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "Man United vs Brentford: Premier League – Pochettino, predictions, lineups",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
-      "description": "Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino's first home game in charge.",
-      "date": "2026-11-27T10:48:54+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -4412,21 +4532,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
-      "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
-      "description": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
-      "date": "2026-11-27T10:31:20+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "Cristina Vázquez Navarro",
       "categories": [
         "Comunidad Valenciana",
@@ -4782,21 +4887,6 @@
       "audio_url": "",
       "author": "",
       "categories": [
-        "News"
-      ],
-      "title": "Why does Elon Musk want to put a million satellite data centres in space?",
-      "url": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss",
-      "description": "The US FCC authorised the plan on Wednesday, calling it a first in the history of the country.",
-      "date": "2026-11-27T10:20:17+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
         "Sporting"
       ],
       "title": "FC Porto de vento em popa à entrada do clássico com Sporting",
@@ -4918,21 +5008,6 @@
       "source": "France 24",
       "language": "fr",
       "image": "https://s.france24.com/media/display/defb5750-e9b4-11f1-8375-f9cf020caef6/w:1024/p:16x9/Reporters-FR-EN-261126-v2.jpg",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Features"
-      ],
-      "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
-      "description": "Hospital admissions for respiratory ailments have soared as the winter smog sets in.",
-      "date": "2026-11-27T10:15:44+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
       "kind": "presse"
     },
     {
@@ -5641,21 +5716,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-      "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
-      "description": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
-      "date": "2026-11-27T09:43:01+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "FRANCE24",
       "categories": [],
       "title": "المناظرة الأخيرة قبل الحسم.. السكن والهجرة يشعلان السباق الانتخابي في إسبانيا",
@@ -6270,21 +6330,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "South Korea sends rescued fishermen back to North",
-      "url": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
-      "description": "Pyongyang has not commented on a seventh fisherman who chose to remain in the South.",
-      "date": "2026-11-27T09:02:20+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "christianperez",
       "categories": [
         "Historia",
@@ -6498,21 +6543,6 @@
     },
     {
       "audio_url": "",
-      "author": "",
-      "categories": [
-        "Sport"
-      ],
-      "title": "India upbeat about first Olympic Games after ‘very good’ 2036 presentation",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
-      "description": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
-      "date": "2026-11-27T08:57:37+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
       "author": "سلمى بونجرة",
       "categories": [
         "في فلك الممنوع"
@@ -6616,36 +6646,6 @@
       "language": "fr",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/wide1920/5/3/4/534bb43054_50263992_pack-nintendo-switch-2-zelda.jpg",
       "kind": "magazine"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "News"
-      ],
-      "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
-      "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
-      "description": "Authorities said the UN special rapporteur was blocked from entering the country due to 'national security' risks.",
-      "date": "2026-11-27T08:39:50+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
-    },
-    {
-      "audio_url": "",
-      "author": "",
-      "categories": [
-        "Features"
-      ],
-      "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
-      "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
-      "description": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
-      "date": "2026-11-27T08:37:52+00:00",
-      "source": "Al Jazeera English",
-      "language": "en",
-      "image": "",
-      "kind": "presse"
     },
     {
       "audio_url": "",
@@ -16455,9 +16455,9 @@
       "kind": "presse",
       "ok": true,
       "count": 25,
-      "updated_at": "2026-11-27T12:42:30.923909+00:00",
-      "success_at": "2026-11-27T12:42:30.923909+00:00",
-      "last_slot": "2026-11-27:8"
+      "updated_at": "2026-11-28T03:34:41.590296+00:00",
+      "success_at": "2026-11-28T03:34:41.590296+00:00",
+      "last_slot": "2026-11-28:6"
     },
     {
       "source": "France 24 English",
@@ -17000,5 +17000,5 @@
       "last_slot": "2026-11-27:magazine"
     }
   ],
-  "refreshed_sources": 56
+  "refreshed_sources": 1
 }
